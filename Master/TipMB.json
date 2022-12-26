@@ -1,0 +1,58 @@
+[
+    {
+        "Id": 1,
+        "IsIgnore": null,
+        "Memo": "キャラのレベルを上げる",
+        "MessageKey": "[TipDescription1]",
+        "ViewTransitionType": 0,
+        "OpenCommandType": 0
+    },
+    {
+        "Id": 2,
+        "IsIgnore": null,
+        "Memo": "キャラのレアリティを上げる",
+        "MessageKey": "[TipDescription2]",
+        "ViewTransitionType": 1,
+        "OpenCommandType": 29
+    },
+    {
+        "Id": 3,
+        "IsIgnore": null,
+        "Memo": "パーティ編成を見直す",
+        "MessageKey": "[TipDescription3]",
+        "ViewTransitionType": 2,
+        "OpenCommandType": 0
+    },
+    {
+        "Id": 4,
+        "IsIgnore": null,
+        "Memo": "強力な武具を装備する",
+        "MessageKey": "[TipDescription4]",
+        "ViewTransitionType": 0,
+        "OpenCommandType": 0
+    },
+    {
+        "Id": 5,
+        "IsIgnore": null,
+        "Memo": "高レベルなスフィアを装着する",
+        "MessageKey": "[TipDescription5]",
+        "ViewTransitionType": 0,
+        "OpenCommandType": 20
+    },
+    {
+        "Id": 6,
+        "IsIgnore": null,
+        "Memo": "高速バトルで報酬を獲得する",
+        "MessageKey": "[TipDescription6]",
+        "ViewTransitionType": 3,
+        "OpenCommandType": 0
+    },
+    {
+        "Id": 7,
+        "IsIgnore": null,
+        "Memo": "ミッションで報酬を獲得する",
+        "MessageKey": "[TipDescription7]",
+        "ViewTransitionType": 4,
+        "OpenCommandType": 3
+    }
+]

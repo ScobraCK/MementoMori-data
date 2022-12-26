@@ -1,0 +1,197 @@
+[
+    {
+        "Id": 1,
+        "IsIgnore": null,
+        "Memo": "日本",
+        "TimeServerId": 1,
+        "IsDmm": false,
+        "Terms": {
+            "Name": "[TermsButton]",
+            "Url": "https://mememori-game.com/rule"
+        },
+        "PrivacyPolicy": {
+            "Name": "[TermsPrivacyPolicyButton]",
+            "Url": "https://mememori-game.com/privacy"
+        },
+        "Subscription": {
+            "Name": "[ShopSubscriptionContractLabel]",
+            "Url": "https://mememori-game.com/subscription"
+        },
+        "TermsButtonInfos": [
+            {
+                "Name": "[LegalPolicyLabel1]",
+                "Url": "https://mememori-game.com/business/#laws"
+            },
+            {
+                "Name": "[LegalPolicyLabel2]",
+                "Url": "https://mememori-game.com/business"
+            },
+            {
+                "Name": "[LegalPolicyLabel4]",
+                "Url": "https://mememori-game.com/copyright"
+            }
+        ]
+    },
+    {
+        "Id": 2,
+        "IsIgnore": null,
+        "Memo": "韓国時間サーバー",
+        "TimeServerId": 2,
+        "IsDmm": false,
+        "Terms": {
+            "Name": "[TermsButton]",
+            "Url": "https://mememori-game.com/kr/rule"
+        },
+        "PrivacyPolicy": {
+            "Name": "[TermsPrivacyPolicyButton]",
+            "Url": "https://mememori-game.com/kr/privacy"
+        },
+        "Subscription": {
+            "Name": "[ShopSubscriptionContractLabel]",
+            "Url": "https://mememori-game.com/kr/subscription"
+        },
+        "TermsButtonInfos": [
+            {
+                "Name": "[LegalPolicyLabel3]",
+                "Url": "https://mememori-game.com/kr/ecommercelaw"
+            },
+            {
+                "Name": "[LegalPolicyLabel4]",
+                "Url": "https://mememori-game.com/copyright"
+            }
+        ]
+    },
+    {
+        "Id": 3,
+        "IsIgnore": null,
+        "Memo": "アジア時間サーバー",
+        "TimeServerId": 3,
+        "IsDmm": false,
+        "Terms": {
+            "Name": "[TermsButton]",
+            "Url": "https://mememori-game.com/tw/rule"
+        },
+        "PrivacyPolicy": {
+            "Name": "[TermsPrivacyPolicyButton]",
+            "Url": "https://mememori-game.com/tw/privacy"
+        },
+        "Subscription": {
+            "Name": "[ShopSubscriptionContractLabel]",
+            "Url": "https://mememori-game.com/tw/subscription"
+        },
+        "TermsButtonInfos": [
+            {
+                "Name": "[LegalPolicyLabel4]",
+                "Url": "https://mememori-game.com/copyright"
+            }
+        ]
+    },
+    {
+        "Id": 4,
+        "IsIgnore": null,
+        "Memo": "アメリカ時間サーバー",
+        "TimeServerId": 4,
+        "IsDmm": false,
+        "Terms": {
+            "Name": "[TermsButton]",
+            "Url": "https://mememori-game.com/en/rule"
+        },
+        "PrivacyPolicy": {
+            "Name": "[TermsPrivacyPolicyButton]",
+            "Url": "https://mememori-game.com/en/privacy"
+        },
+        "Subscription": {
+            "Name": "[ShopSubscriptionContractLabel]",
+            "Url": "https://mememori-game.com/en/subscription"
+        },
+        "TermsButtonInfos": [
+            {
+                "Name": "[LegalPolicyLabel4]",
+                "Url": "https://mememori-game.com/copyright"
+            }
+        ]
+    },
+    {
+        "Id": 5,
+        "IsIgnore": null,
+        "Memo": "ヨーロッパ時間サーバー",
+        "TimeServerId": 5,
+        "IsDmm": false,
+        "Terms": {
+            "Name": "[TermsButton]",
+            "Url": "https://mememori-game.com/en/rule"
+        },
+        "PrivacyPolicy": {
+            "Name": "[TermsPrivacyPolicyButton]",
+            "Url": "https://mememori-game.com/en/privacy"
+        },
+        "Subscription": {
+            "Name": "[ShopSubscriptionContractLabel]",
+            "Url": "https://mememori-game.com/en/subscription"
+        },
+        "TermsButtonInfos": [
+            {
+                "Name": "[LegalPolicyLabel4]",
+                "Url": "https://mememori-game.com/copyright"
+            }
+        ]
+    },
+    {
+        "Id": 6,
+        "IsIgnore": null,
+        "Memo": "グローバル時間サーバー",
+        "TimeServerId": 6,
+        "IsDmm": false,
+        "Terms": {
+            "Name": "[TermsButton]",
+            "Url": "https://mememori-game.com/en/rule"
+        },
+        "PrivacyPolicy": {
+            "Name": "[TermsPrivacyPolicyButton]",
+            "Url": "https://mememori-game.com/en/privacy"
+        },
+        "Subscription": {
+            "Name": "[ShopSubscriptionContractLabel]",
+            "Url": "https://mememori-game.com/en/subscription"
+        },
+        "TermsButtonInfos": [
+            {
+                "Name": "[LegalPolicyLabel4]",
+                "Url": "https://mememori-game.com/copyright"
+            }
+        ]
+    },
+    {
+        "Id": 1000,
+        "IsIgnore": null,
+        "Memo": "DMM",
+        "TimeServerId": 1,
+        "IsDmm": true,
+        "Terms": {
+            "Name": "[TermsButton]",
+            "Url": "https://mememori-game.com/dmg/rule.html"
+        },
+        "PrivacyPolicy": {
+            "Name": "[TermsPrivacyPolicyButton]",
+            "Url": "https://mememori-game.com/dmg/privacy.html"
+        },
+        "Subscription": {
+            "Name": "[ShopSubscriptionContractLabel]",
+            "Url": "https://mememori-game.com/dmg/subscription.html"
+        },
+        "TermsButtonInfos": [
+            {
+                "Name": "[LegalPolicyLabel1]",
+                "Url": "https://mememori-game.com/dmg/business.html#laws"
+            },
+            {
+                "Name": "[LegalPolicyLabel2]",
+                "Url": "https://mememori-game.com/dmg/business.html"
+            },
+            {
+                "Name": "[LegalPolicyLabel4]",
+                "Url": "https://mememori-game.com/copyright"
+            }
+        ]
+    }
+]

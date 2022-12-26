@@ -1,0 +1,84 @@
+[
+    {
+        "Id": 1,
+        "IsIgnore": null,
+        "Memo": "2022_年末ログインボーナス",
+        "DailyRewardList": [
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 30,
+                    "ItemId": 27,
+                    "ItemType": 17
+                },
+                "Date": 1,
+                "RarityFlags": 0
+            },
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 5,
+                    "ItemId": 7,
+                    "ItemType": 10
+                },
+                "Date": 2,
+                "RarityFlags": 0
+            },
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 300,
+                    "ItemId": 1,
+                    "ItemType": 12
+                },
+                "Date": 3,
+                "RarityFlags": 0
+            },
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 30,
+                    "ItemId": 27,
+                    "ItemType": 17
+                },
+                "Date": 4,
+                "RarityFlags": 0
+            },
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 5,
+                    "ItemId": 12,
+                    "ItemType": 10
+                },
+                "Date": 5,
+                "RarityFlags": 0
+            },
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 30,
+                    "ItemId": 27,
+                    "ItemType": 17
+                },
+                "Date": 6,
+                "RarityFlags": 0
+            },
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 5,
+                    "ItemId": 17,
+                    "ItemType": 10
+                },
+                "Date": 7,
+                "RarityFlags": 0
+            }
+        ],
+        "EveryDayRewardItem": null,
+        "ExistEveryDayReward": false,
+        "ExistSpecialReward": true,
+        "SpecialRewardItem": {
+            "Date": 7,
+            "SpecialRewardItem": {
+                "ItemCount": 1000,
+                "ItemId": 1,
+                "ItemType": 1
+            },
+            "RarityFlags": 0
+        }
+    }
+]

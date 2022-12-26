@@ -1,0 +1,42 @@
+[
+    {
+        "Id": 1,
+        "IsIgnore": null,
+        "Memo": null,
+        "LocalNotificationType": 1,
+        "TitleKey": "[LocalPushNotificationTitleKey1]",
+        "MessageKey": "[LocalPushNotificationMessageKey1]",
+        "LocalNotificationSendType": 2,
+        "SendTime": ""
+    },
+    {
+        "Id": 2,
+        "IsIgnore": null,
+        "Memo": null,
+        "LocalNotificationType": 2,
+        "TitleKey": "[LocalPushNotificationTitleKey2]",
+        "MessageKey": "[LocalPushNotificationMessageKey2]",
+        "LocalNotificationSendType": 1,
+        "SendTime": "12:35:00"
+    },
+    {
+        "Id": 3,
+        "IsIgnore": null,
+        "Memo": null,
+        "LocalNotificationType": 2,
+        "TitleKey": "[LocalPushNotificationTitleKey3]",
+        "MessageKey": "[LocalPushNotificationMessageKey3]",
+        "LocalNotificationSendType": 1,
+        "SendTime": "19:35:00"
+    },
+    {
+        "Id": 4,
+        "IsIgnore": null,
+        "Memo": null,
+        "LocalNotificationType": 3,
+        "TitleKey": "[LocalPushNotificationTitleKey4]",
+        "MessageKey": "[LocalPushNotificationMessageKey4]",
+        "LocalNotificationSendType": 1,
+        "SendTime": "20:45:00"
+    }
+]

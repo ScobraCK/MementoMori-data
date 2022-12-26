@@ -1,0 +1,1037 @@
+[
+    {
+        "Id": 1,
+        "IsIgnore": null,
+        "Memo": "店舗",
+        "AutoUpdateTimes": [
+            900,
+            1200,
+            1500,
+            1800
+        ],
+        "AutoUpdateType": 4,
+        "ConsumeItemInfos": [
+            {
+                "ItemType": 1,
+                "ItemId": 1
+            },
+            {
+                "ItemType": 3,
+                "ItemId": 1
+            }
+        ],
+        "CustomTextLayout": {
+            "enUS": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#11443EFF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "jaJP": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#11443EFF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "koKR": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#11443EFF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "zhTW": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#11443EFF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            }
+        },
+        "DecorationColor": "#A5C7BAFF",
+        "DecorationId": 2,
+        "DecorationSpecialId": 0,
+        "IconId": 1,
+        "IsHide": false,
+        "IsHideNotOpen": false,
+        "IsManualUpdate": true,
+        "ManualUpdateCurrencyCount": 100,
+        "OpenCommandType": 0,
+        "SortOrder": 10,
+        "TabNameKey": "[TradeShopTabName1]",
+        "TradeShopItemCount": 6,
+        "TradeShopType": 3,
+        "EndTime": null,
+        "StartTime": null
+    },
+    {
+        "Id": 2,
+        "IsIgnore": null,
+        "Memo": "武具合成_通常",
+        "AutoUpdateTimes": [
+            0
+        ],
+        "AutoUpdateType": 1,
+        "ConsumeItemInfos": [
+            {
+                "ItemType": 13,
+                "ItemId": 2
+            }
+        ],
+        "CustomTextLayout": {
+            "enUS": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#292E5CFF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "jaJP": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#292E5CFF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "koKR": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#292E5CFF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "zhTW": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#292E5CFF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            }
+        },
+        "DecorationColor": "#6482C6FF",
+        "DecorationId": 3,
+        "DecorationSpecialId": 0,
+        "IconId": 2,
+        "IsHide": false,
+        "IsHideNotOpen": false,
+        "IsManualUpdate": true,
+        "ManualUpdateCurrencyCount": 20,
+        "OpenCommandType": 21,
+        "SortOrder": 13,
+        "TabNameKey": "[TradeShopTabName2]",
+        "TradeShopItemCount": 5,
+        "TradeShopType": 1,
+        "EndTime": null,
+        "StartTime": null
+    },
+    {
+        "Id": 3,
+        "IsIgnore": null,
+        "Memo": "武具合成_聖装",
+        "AutoUpdateTimes": [
+            0
+        ],
+        "AutoUpdateType": 0,
+        "ConsumeItemInfos": [
+            {
+                "ItemType": 13,
+                "ItemId": 2
+            },
+            {
+                "ItemType": 13,
+                "ItemId": 3
+            }
+        ],
+        "CustomTextLayout": {
+            "enUS": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#573219FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "jaJP": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#573219FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "koKR": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#573219FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "zhTW": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#573219FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            }
+        },
+        "DecorationColor": "#F1A969FF",
+        "DecorationId": 3,
+        "DecorationSpecialId": 0,
+        "IconId": 3,
+        "IsHide": false,
+        "IsHideNotOpen": false,
+        "IsManualUpdate": false,
+        "ManualUpdateCurrencyCount": 0,
+        "OpenCommandType": 22,
+        "SortOrder": 14,
+        "TabNameKey": "[TradeShopTabName3]",
+        "TradeShopItemCount": 0,
+        "TradeShopType": 2,
+        "EndTime": null,
+        "StartTime": null
+    },
+    {
+        "Id": 4,
+        "IsIgnore": null,
+        "Memo": "GvGショップ",
+        "AutoUpdateTimes": [
+            0
+        ],
+        "AutoUpdateType": 1,
+        "ConsumeItemInfos": [
+            {
+                "ItemType": 13,
+                "ItemId": 12
+            }
+        ],
+        "CustomTextLayout": {
+            "enUS": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#194923FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "jaJP": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#194923FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "koKR": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#194923FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "zhTW": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#194923FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            }
+        },
+        "DecorationColor": "#B2EBBBFF",
+        "DecorationId": 1,
+        "DecorationSpecialId": 0,
+        "IconId": 4,
+        "IsHide": false,
+        "IsHideNotOpen": false,
+        "IsManualUpdate": true,
+        "ManualUpdateCurrencyCount": 100,
+        "OpenCommandType": 23,
+        "SortOrder": 17,
+        "TabNameKey": "[TradeShopTabName4]",
+        "TradeShopItemCount": 0,
+        "TradeShopType": 0,
+        "EndTime": null,
+        "StartTime": null
+    },
+    {
+        "Id": 5,
+        "IsIgnore": null,
+        "Memo": "キャラコインショップ",
+        "AutoUpdateTimes": [
+            0
+        ],
+        "AutoUpdateType": 3,
+        "ConsumeItemInfos": [
+            {
+                "ItemType": 13,
+                "ItemId": 14
+            }
+        ],
+        "CustomTextLayout": {
+            "enUS": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#3D3752FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "jaJP": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#3D3752FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "koKR": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#3D3752FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "zhTW": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#3D3752FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            }
+        },
+        "DecorationColor": "#A694C4FF",
+        "DecorationId": 1,
+        "DecorationSpecialId": 0,
+        "IconId": 5,
+        "IsHide": false,
+        "IsHideNotOpen": false,
+        "IsManualUpdate": true,
+        "ManualUpdateCurrencyCount": 1000,
+        "OpenCommandType": 24,
+        "SortOrder": 16,
+        "TabNameKey": "[TradeShopTabName5]",
+        "TradeShopItemCount": 0,
+        "TradeShopType": 0,
+        "EndTime": null,
+        "StartTime": null
+    },
+    {
+        "Id": 6,
+        "IsIgnore": null,
+        "Memo": "時空の洞窟ショップ",
+        "AutoUpdateTimes": [
+            0
+        ],
+        "AutoUpdateType": 3,
+        "ConsumeItemInfos": [
+            {
+                "ItemType": 13,
+                "ItemId": 13
+            }
+        ],
+        "CustomTextLayout": {
+            "enUS": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#4C305CFF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "jaJP": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#4C305CFF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "koKR": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#4C305CFF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "zhTW": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#4C305CFF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            }
+        },
+        "DecorationColor": "#C28ACEFF",
+        "DecorationId": 1,
+        "DecorationSpecialId": 0,
+        "IconId": 6,
+        "IsHide": false,
+        "IsHideNotOpen": false,
+        "IsManualUpdate": true,
+        "ManualUpdateCurrencyCount": 1000,
+        "OpenCommandType": 25,
+        "SortOrder": 18,
+        "TabNameKey": "[TradeShopTabName6]",
+        "TradeShopItemCount": 0,
+        "TradeShopType": 0,
+        "EndTime": null,
+        "StartTime": null
+    },
+    {
+        "Id": 7,
+        "IsIgnore": null,
+        "Memo": "バトルリーグショップ",
+        "AutoUpdateTimes": [
+            0
+        ],
+        "AutoUpdateType": 1,
+        "ConsumeItemInfos": [
+            {
+                "ItemType": 13,
+                "ItemId": 10
+            }
+        ],
+        "CustomTextLayout": {
+            "enUS": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#214B8AFF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "jaJP": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#214B8AFF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "koKR": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#214B8AFF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "zhTW": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#214B8AFF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            }
+        },
+        "DecorationColor": "#94C9E2FF",
+        "DecorationId": 1,
+        "DecorationSpecialId": 0,
+        "IconId": 7,
+        "IsHide": false,
+        "IsHideNotOpen": false,
+        "IsManualUpdate": true,
+        "ManualUpdateCurrencyCount": 100,
+        "OpenCommandType": 26,
+        "SortOrder": 19,
+        "TabNameKey": "[TradeShopTabName7]",
+        "TradeShopItemCount": 0,
+        "TradeShopType": 0,
+        "EndTime": null,
+        "StartTime": null
+    },
+    {
+        "Id": 8,
+        "IsIgnore": null,
+        "Memo": "レジェンドリーグショップ",
+        "AutoUpdateTimes": [
+            0
+        ],
+        "AutoUpdateType": 1,
+        "ConsumeItemInfos": [
+            {
+                "ItemType": 13,
+                "ItemId": 11
+            }
+        ],
+        "CustomTextLayout": {
+            "enUS": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#723A42FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "jaJP": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#723A42FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "koKR": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#723A42FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "zhTW": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#723A42FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            }
+        },
+        "DecorationColor": "#F66455FF",
+        "DecorationId": 1,
+        "DecorationSpecialId": 0,
+        "IconId": 8,
+        "IsHide": false,
+        "IsHideNotOpen": true,
+        "IsManualUpdate": true,
+        "ManualUpdateCurrencyCount": 100,
+        "OpenCommandType": 27,
+        "SortOrder": 20,
+        "TabNameKey": "[TradeShopTabName8]",
+        "TradeShopItemCount": 0,
+        "TradeShopType": 0,
+        "EndTime": null,
+        "StartTime": null
+    },
+    {
+        "Id": 9,
+        "IsIgnore": null,
+        "Memo": "スフィアショップ",
+        "AutoUpdateTimes": [
+            0
+        ],
+        "AutoUpdateType": 0,
+        "ConsumeItemInfos": [
+            {
+                "ItemType": 13,
+                "ItemId": 4
+            },
+            {
+                "ItemType": 3,
+                "ItemId": 1
+            }
+        ],
+        "CustomTextLayout": {
+            "enUS": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#573219FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "jaJP": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#573219FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "koKR": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#573219FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "zhTW": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#573219FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            }
+        },
+        "DecorationColor": "#F5B1E9FF",
+        "DecorationId": 2,
+        "DecorationSpecialId": 0,
+        "IconId": 9,
+        "IsHide": false,
+        "IsHideNotOpen": false,
+        "IsManualUpdate": false,
+        "ManualUpdateCurrencyCount": 0,
+        "OpenCommandType": 49,
+        "SortOrder": 15,
+        "TabNameKey": "[TradeShopTabName9]",
+        "TradeShopItemCount": 0,
+        "TradeShopType": 4,
+        "EndTime": null,
+        "StartTime": null
+    },
+    {
+        "Id": 10,
+        "IsIgnore": null,
+        "Memo": "魔女の秘奥ショップ",
+        "AutoUpdateTimes": [
+            0
+        ],
+        "AutoUpdateType": 0,
+        "ConsumeItemInfos": [
+            {
+                "ItemType": 13,
+                "ItemId": 1
+            }
+        ],
+        "CustomTextLayout": {
+            "enUS": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#4C345EFF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "jaJP": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#4C345EFF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "koKR": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#4C345EFF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "zhTW": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#4C345EFF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            }
+        },
+        "DecorationColor": "#8898FDFF",
+        "DecorationId": 3,
+        "DecorationSpecialId": 0,
+        "IconId": 10,
+        "IsHide": false,
+        "IsHideNotOpen": true,
+        "IsManualUpdate": false,
+        "ManualUpdateCurrencyCount": 0,
+        "OpenCommandType": 47,
+        "SortOrder": 21,
+        "TabNameKey": "[TradeShopTabName10]",
+        "TradeShopItemCount": 0,
+        "TradeShopType": 2,
+        "EndTime": null,
+        "StartTime": null
+    },
+    {
+        "Id": 11,
+        "IsIgnore": null,
+        "Memo": "聖天使の神託ショップ",
+        "AutoUpdateTimes": [
+            0
+        ],
+        "AutoUpdateType": 1,
+        "ConsumeItemInfos": [
+            {
+                "ItemType": 13,
+                "ItemId": 6
+            },
+            {
+                "ItemType": 13,
+                "ItemId": 7
+            },
+            {
+                "ItemType": 13,
+                "ItemId": 8
+            },
+            {
+                "ItemType": 13,
+                "ItemId": 9
+            }
+        ],
+        "CustomTextLayout": {
+            "enUS": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#633734FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "jaJP": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#633734FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "koKR": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#633734FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "zhTW": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#633734FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            }
+        },
+        "DecorationColor": "#F58276FF",
+        "DecorationId": 2,
+        "DecorationSpecialId": 0,
+        "IconId": 11,
+        "IsHide": false,
+        "IsHideNotOpen": true,
+        "IsManualUpdate": true,
+        "ManualUpdateCurrencyCount": 100,
+        "OpenCommandType": 48,
+        "SortOrder": 22,
+        "TabNameKey": "[TradeShopTabName11]",
+        "TradeShopItemCount": 0,
+        "TradeShopType": 0,
+        "EndTime": null,
+        "StartTime": null
+    },
+    {
+        "Id": 12,
+        "IsIgnore": null,
+        "Memo": "紅の金剛石ショップ",
+        "AutoUpdateTimes": [
+            0
+        ],
+        "AutoUpdateType": 1,
+        "ConsumeItemInfos": [
+            {
+                "ItemType": 13,
+                "ItemId": 5
+            }
+        ],
+        "CustomTextLayout": {
+            "enUS": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#612C34FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "jaJP": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#612C34FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "koKR": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#612C34FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "zhTW": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#612C34FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            }
+        },
+        "DecorationColor": "#ED8B9BFF",
+        "DecorationId": 3,
+        "DecorationSpecialId": 0,
+        "IconId": 12,
+        "IsHide": false,
+        "IsHideNotOpen": false,
+        "IsManualUpdate": false,
+        "ManualUpdateCurrencyCount": 0,
+        "OpenCommandType": 0,
+        "SortOrder": 23,
+        "TabNameKey": "[TradeShopTabName12]",
+        "TradeShopItemCount": 0,
+        "TradeShopType": 0,
+        "EndTime": null,
+        "StartTime": null
+    },
+    {
+        "Id": 13,
+        "IsIgnore": null,
+        "Memo": "限定特典",
+        "AutoUpdateTimes": [
+            0
+        ],
+        "AutoUpdateType": 1,
+        "ConsumeItemInfos": [
+            {
+                "ItemType": 1,
+                "ItemId": 1
+            }
+        ],
+        "CustomTextLayout": {
+            "enUS": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#8C4023FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "jaJP": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#8C4023FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "koKR": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#8C4023FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "zhTW": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#8C4023FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            }
+        },
+        "DecorationColor": "#F7B18BFF",
+        "DecorationId": 2,
+        "DecorationSpecialId": 0,
+        "IconId": 13,
+        "IsHide": false,
+        "IsHideNotOpen": false,
+        "IsManualUpdate": false,
+        "ManualUpdateCurrencyCount": 0,
+        "OpenCommandType": 28,
+        "SortOrder": 12,
+        "TabNameKey": "[TradeShopTabName13]",
+        "TradeShopItemCount": 0,
+        "TradeShopType": 0,
+        "EndTime": null,
+        "StartTime": null
+    },
+    {
+        "Id": 14,
+        "IsIgnore": null,
+        "Memo": "クリスマスショップ2022",
+        "AutoUpdateTimes": [
+            0
+        ],
+        "AutoUpdateType": 0,
+        "ConsumeItemInfos": [
+            {
+                "ItemType": 50,
+                "ItemId": 1
+            }
+        ],
+        "CustomTextLayout": {
+            "enUS": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#ba3d3dFF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "jaJP": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#ba3d3dFF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "koKR": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#ba3d3dFF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "zhTW": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#ba3d3dFF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            }
+        },
+        "DecorationColor": "#9bd1a3FF",
+        "DecorationId": 4,
+        "DecorationSpecialId": 1,
+        "IconId": 15,
+        "IsHide": false,
+        "IsHideNotOpen": false,
+        "IsManualUpdate": false,
+        "ManualUpdateCurrencyCount": 0,
+        "OpenCommandType": 50,
+        "SortOrder": 24,
+        "TabNameKey": "[TradeShopTabName14]",
+        "TradeShopItemCount": 0,
+        "TradeShopType": 2,
+        "EndTime": "2022-12-12 03:59:59",
+        "StartTime": "2000-01-01 00:00:00"
+    }
+]

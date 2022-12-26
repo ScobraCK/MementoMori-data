@@ -1,0 +1,202 @@
+[
+    {
+        "Id": 1,
+        "IsIgnore": null,
+        "Memo": null,
+        "DungeonCoinBonusPercent": 0,
+        "GuildCoinBonusPercent": 0,
+        "IsActiveWeeklyBonus": false,
+        "ItemIconInfo": null,
+        "StateBonusNameTextKey": null,
+        "StateBonusNumberTextKey": null,
+        "TotalActivityMedalRewardBonusList": null
+    },
+    {
+        "Id": 2,
+        "IsIgnore": null,
+        "Memo": null,
+        "DungeonCoinBonusPercent": 0,
+        "GuildCoinBonusPercent": 0,
+        "IsActiveWeeklyBonus": false,
+        "ItemIconInfo": null,
+        "StateBonusNameTextKey": null,
+        "StateBonusNumberTextKey": null,
+        "TotalActivityMedalRewardBonusList": null
+    },
+    {
+        "Id": 3,
+        "IsIgnore": null,
+        "Memo": null,
+        "DungeonCoinBonusPercent": 0,
+        "GuildCoinBonusPercent": 0,
+        "IsActiveWeeklyBonus": false,
+        "ItemIconInfo": null,
+        "StateBonusNameTextKey": null,
+        "StateBonusNumberTextKey": null,
+        "TotalActivityMedalRewardBonusList": null
+    },
+    {
+        "Id": 4,
+        "IsIgnore": null,
+        "Memo": null,
+        "DungeonCoinBonusPercent": 0,
+        "GuildCoinBonusPercent": 0,
+        "IsActiveWeeklyBonus": true,
+        "ItemIconInfo": null,
+        "StateBonusNameTextKey": "[StateBonusName1]",
+        "StateBonusNumberTextKey": null,
+        "TotalActivityMedalRewardBonusList": null
+    },
+    {
+        "Id": 5,
+        "IsIgnore": null,
+        "Memo": null,
+        "DungeonCoinBonusPercent": 0,
+        "GuildCoinBonusPercent": 0,
+        "IsActiveWeeklyBonus": true,
+        "ItemIconInfo": null,
+        "StateBonusNameTextKey": null,
+        "StateBonusNumberTextKey": null,
+        "TotalActivityMedalRewardBonusList": null
+    },
+    {
+        "Id": 6,
+        "IsIgnore": null,
+        "Memo": null,
+        "DungeonCoinBonusPercent": 15,
+        "GuildCoinBonusPercent": 0,
+        "IsActiveWeeklyBonus": true,
+        "ItemIconInfo": {
+            "ItemId": 13,
+            "ItemType": 13
+        },
+        "StateBonusNameTextKey": "[StateBonusName2]",
+        "StateBonusNumberTextKey": "[StateBonusNumber1]",
+        "TotalActivityMedalRewardBonusList": null
+    },
+    {
+        "Id": 7,
+        "IsIgnore": null,
+        "Memo": null,
+        "DungeonCoinBonusPercent": 15,
+        "GuildCoinBonusPercent": 15,
+        "IsActiveWeeklyBonus": true,
+        "ItemIconInfo": {
+            "ItemId": 12,
+            "ItemType": 13
+        },
+        "StateBonusNameTextKey": "[StateBonusName3]",
+        "StateBonusNumberTextKey": "[StateBonusNumber2]",
+        "TotalActivityMedalRewardBonusList": null
+    },
+    {
+        "Id": 8,
+        "IsIgnore": null,
+        "Memo": null,
+        "DungeonCoinBonusPercent": 15,
+        "GuildCoinBonusPercent": 15,
+        "IsActiveWeeklyBonus": true,
+        "ItemIconInfo": {
+            "ItemId": 7,
+            "ItemType": 10
+        },
+        "StateBonusNameTextKey": "[StateBonusName4]",
+        "StateBonusNumberTextKey": null,
+        "TotalActivityMedalRewardBonusList": [
+            {
+                "BonusRewardList": [
+                    {
+                        "Item": {
+                            "ItemCount": 1,
+                            "ItemId": 7,
+                            "ItemType": 10
+                        },
+                        "RarityFlags": 0
+                    }
+                ],
+                "TotalActivityMedalRewardId": 3
+            }
+        ]
+    },
+    {
+        "Id": 9,
+        "IsIgnore": null,
+        "Memo": null,
+        "DungeonCoinBonusPercent": 15,
+        "GuildCoinBonusPercent": 15,
+        "IsActiveWeeklyBonus": true,
+        "ItemIconInfo": {
+            "ItemId": 12,
+            "ItemType": 10
+        },
+        "StateBonusNameTextKey": "[StateBonusName5]",
+        "StateBonusNumberTextKey": null,
+        "TotalActivityMedalRewardBonusList": [
+            {
+                "BonusRewardList": [
+                    {
+                        "Item": {
+                            "ItemCount": 1,
+                            "ItemId": 7,
+                            "ItemType": 10
+                        },
+                        "RarityFlags": 0
+                    }
+                ],
+                "TotalActivityMedalRewardId": 3
+            },
+            {
+                "BonusRewardList": [
+                    {
+                        "Item": {
+                            "ItemCount": 1,
+                            "ItemId": 12,
+                            "ItemType": 10
+                        },
+                        "RarityFlags": 0
+                    }
+                ],
+                "TotalActivityMedalRewardId": 5
+            }
+        ]
+    },
+    {
+        "Id": 10,
+        "IsIgnore": null,
+        "Memo": null,
+        "DungeonCoinBonusPercent": 15,
+        "GuildCoinBonusPercent": 15,
+        "IsActiveWeeklyBonus": true,
+        "ItemIconInfo": null,
+        "StateBonusNameTextKey": null,
+        "StateBonusNumberTextKey": null,
+        "TotalActivityMedalRewardBonusList": [
+            {
+                "BonusRewardList": [
+                    {
+                        "Item": {
+                            "ItemCount": 1,
+                            "ItemId": 7,
+                            "ItemType": 10
+                        },
+                        "RarityFlags": 0
+                    }
+                ],
+                "TotalActivityMedalRewardId": 3
+            },
+            {
+                "BonusRewardList": [
+                    {
+                        "Item": {
+                            "ItemCount": 1,
+                            "ItemId": 12,
+                            "ItemType": 10
+                        },
+                        "RarityFlags": 0
+                    }
+                ],
+                "TotalActivityMedalRewardId": 5
+            }
+        ]
+    }
+]

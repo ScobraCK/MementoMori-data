@@ -1,0 +1,910 @@
+[
+    {
+        "Id": 100,
+        "IsIgnore": null,
+        "Memo": "マイページ - プレイヤー情報DLG",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine100]",
+                "MainText": "[HelpMainText100]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 200,
+        "IsIgnore": null,
+        "Memo": "マイページ - プレゼントボックスDLG",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine200]",
+                "MainText": "[HelpMainText200]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 300,
+        "IsIgnore": null,
+        "Memo": "マイページ - ランキングDLG",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine300]",
+                "MainText": "[HelpMainText300]"
+            },
+            {
+                "HeadLine": "[HelpHeadLine301]",
+                "MainText": "[HelpMainText301]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 400,
+        "IsIgnore": null,
+        "Memo": "マイページ - プレイヤーランキングDLG",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine300]",
+                "MainText": "[HelpMainText300]"
+            },
+            {
+                "HeadLine": "[HelpHeadLine301]",
+                "MainText": "[HelpMainText301]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 500,
+        "IsIgnore": null,
+        "Memo": "マイページ - ギルドランキングDLG",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine300]",
+                "MainText": "[HelpMainText300]"
+            },
+            {
+                "HeadLine": "[HelpHeadLine301]",
+                "MainText": "[HelpMainText301]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 600,
+        "IsIgnore": null,
+        "Memo": "マイページ - VIP特典DLG",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine600]",
+                "MainText": "[HelpMainText600]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 700,
+        "IsIgnore": null,
+        "Memo": "マイページ - ミッションDLG",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine700]",
+                "MainText": "[HelpMainText700]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 800,
+        "IsIgnore": null,
+        "Memo": "マイページ - ログインボーナスDLG",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine800]",
+                "MainText": "[HelpMainText800]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 900,
+        "IsIgnore": null,
+        "Memo": "マイページ - お気に入りDLG",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine900]",
+                "MainText": "[HelpMainText900]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 21
+    },
+    {
+        "Id": 1000,
+        "IsIgnore": null,
+        "Memo": "プレミアギフト画面 - プラチナボーナスDLG",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine1000]",
+                "MainText": "[HelpMainText1000]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 1100,
+        "IsIgnore": null,
+        "Memo": "プレミアギフト画面 - 月間ブーストDLG(購入前)",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine1100]",
+                "MainText": "[HelpMainText1100]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 1200,
+        "IsIgnore": null,
+        "Memo": "プレミアギフト画面 - 月間ブーストDLG(購入後)",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine1100]",
+                "MainText": "[HelpMainText1100]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 1300,
+        "IsIgnore": null,
+        "Memo": "プレミアギフト画面 - 魔女の贈り物DLG",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine1300]",
+                "MainText": "[HelpMainText1300]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 1400,
+        "IsIgnore": null,
+        "Memo": "プレミアギフト画面 - 盟約特権DLG",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine1400]",
+                "MainText": "[HelpMainText1400]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 1410,
+        "IsIgnore": null,
+        "Memo": "プレミアギフト画面 - 盟約特権DLG（DMM専用）",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine1410]",
+                "MainText": "[HelpMainText1410]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 1500,
+        "IsIgnore": null,
+        "Memo": "ショップ画面",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine1500]",
+                "MainText": "[HelpMainText1500]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 1600,
+        "IsIgnore": null,
+        "Memo": "フレンド画面",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine1600]",
+                "MainText": "[HelpMainText1600]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 1800,
+        "IsIgnore": null,
+        "Memo": "キャラ画面 - 所持キャラタブ",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": null,
+                "MainText": null
+            }
+        ],
+        "HelpTitle": null,
+        "IsDisplayed": false,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 1810,
+        "IsIgnore": null,
+        "Memo": "キャラ画面 - 進化タブ",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine1810]",
+                "MainText": "[HelpMainText1810]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 13
+    },
+    {
+        "Id": 1820,
+        "IsIgnore": null,
+        "Memo": "キャラ画面 - レベルリンクタブ(パーティレベル解放前）",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine1820]",
+                "MainText": "[HelpMainText1820]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 6
+    },
+    {
+        "Id": 1830,
+        "IsIgnore": null,
+        "Memo": "キャラ画面 - レベルリンクタブ(パーティレベル解放前）",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine1830]",
+                "MainText": "[HelpMainText1830]"
+            },
+            {
+                "HeadLine": "[HelpHeadLine1831]",
+                "MainText": "[HelpMainText1831]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 17
+    },
+    {
+        "Id": 1900,
+        "IsIgnore": null,
+        "Memo": "キャラ画面 - 所持キャラタブ - アルカナDLG",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine1900]",
+                "MainText": "[HelpMainText1900]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 20
+    },
+    {
+        "Id": 2000,
+        "IsIgnore": null,
+        "Memo": "キャラ画面 - 進化タブ - 心片回帰DLG",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine2000]",
+                "MainText": "[HelpMainText2000]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 2100,
+        "IsIgnore": null,
+        "Memo": "キャラ画面 - 進化タブ - リリースDLG",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine2100]",
+                "MainText": "[HelpMainText2100]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 2200,
+        "IsIgnore": null,
+        "Memo": "キャラ育成画面",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine2200]",
+                "MainText": "[HelpMainText2200]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 2300,
+        "IsIgnore": null,
+        "Memo": "キャラ育成画面 - 武具DLG - 装備タブ",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine2300]",
+                "MainText": "[HelpMainText2300]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 2310,
+        "IsIgnore": null,
+        "Memo": "キャラ育成画面 - 武具DLG - 強化タブ",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine2310]",
+                "MainText": "[HelpMainText2310]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 10
+    },
+    {
+        "Id": 2320,
+        "IsIgnore": null,
+        "Memo": "キャラ育成画面 - 武具DLG - 研磨タブ",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine2320]",
+                "MainText": "[HelpMainText2320]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 23
+    },
+    {
+        "Id": 2330,
+        "IsIgnore": null,
+        "Memo": "キャラ育成画面 - 武具DLG - 神装強化タブ",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine2330]",
+                "MainText": "[HelpMainText2330]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 22
+    },
+    {
+        "Id": 2340,
+        "IsIgnore": null,
+        "Memo": "キャラ育成画面 - 武具DLG - 進化タブ",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine2340]",
+                "MainText": "[HelpMainText2340]"
+            },
+            {
+                "HeadLine": "[HelpHeadLine2341]",
+                "MainText": "[HelpMainText2341]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 2350,
+        "IsIgnore": null,
+        "Memo": "キャラ育成画面 - 武具DLG - スフィアタブ",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine2350]",
+                "MainText": "[HelpMainText2350]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 11
+    },
+    {
+        "Id": 2400,
+        "IsIgnore": null,
+        "Memo": "キャラ育成画面 - 武具DLG - 装備タブ - 武具継承DLG",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine2400]",
+                "MainText": "[HelpMainText2400]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 2410,
+        "IsIgnore": null,
+        "Memo": "キャラ育成画面 - 武具DLG - 装備タブ - 装備変更DLG",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": null,
+                "MainText": null
+            }
+        ],
+        "HelpTitle": null,
+        "IsDisplayed": false,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 2500,
+        "IsIgnore": null,
+        "Memo": "キャラ育成画面 - 武具DLG - スフィアタブ - スフィア装着DLG",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine2350]",
+                "MainText": "[HelpMainText2350]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 11
+    },
+    {
+        "Id": 2600,
+        "IsIgnore": null,
+        "Memo": "キャラ育成画面 - 武具DLG - スフィアタブ - スフィア合成DLG",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine2600]",
+                "MainText": "[HelpMainText2600]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 12
+    },
+    {
+        "Id": 2700,
+        "IsIgnore": null,
+        "Memo": "キャラ育成画面 - ステータス詳細DLG",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine2700]",
+                "MainText": "[HelpMainText2700]"
+            },
+            {
+                "HeadLine": "[HelpHeadLine2701]",
+                "MainText": "[HelpMainText2701]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 2800,
+        "IsIgnore": null,
+        "Memo": "キャラ育成画面 - リセットDLG",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine2800]",
+                "MainText": "[HelpMainText2800]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 2900,
+        "IsIgnore": null,
+        "Memo": "アイテムボックス画面 - 武具タブ - 精練DLG",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine2900]",
+                "MainText": "[HelpMainText2900]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 9
+    },
+    {
+        "Id": 3000,
+        "IsIgnore": null,
+        "Memo": "アイテムボックス画面 - 武具タブ - 一括精練DLG",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine2900]",
+                "MainText": "[HelpMainText2900]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 9
+    },
+    {
+        "Id": 3100,
+        "IsIgnore": null,
+        "Memo": "アイテムボックス画面 - スフィアタブ - 一括合成DLG",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine2600]",
+                "MainText": "[HelpMainText2600]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 12
+    },
+    {
+        "Id": 3200,
+        "IsIgnore": null,
+        "Memo": "オートバトル画面",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": null,
+                "MainText": null
+            }
+        ],
+        "HelpTitle": null,
+        "IsDisplayed": false,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 3300,
+        "IsIgnore": null,
+        "Memo": "放置バトル画面 - クエストDLG",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": null,
+                "MainText": null
+            }
+        ],
+        "HelpTitle": null,
+        "IsDisplayed": false,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 3400,
+        "IsIgnore": null,
+        "Memo": "放置バトル画面 - 高速バトルDLG",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine3400]",
+                "MainText": "[HelpMainText3400]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 3500,
+        "IsIgnore": null,
+        "Memo": "放置バトル画面 - 統計情報DLG",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine3500]",
+                "MainText": "[HelpMainText3500]"
+            },
+            {
+                "HeadLine": "[HelpHeadLine3501]",
+                "MainText": "[HelpMainText3501]"
+            },
+            {
+                "HeadLine": "[HelpHeadLine3502]",
+                "MainText": "[HelpMainText3502]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 3600,
+        "IsIgnore": null,
+        "Memo": "試練画面",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": null,
+                "MainText": null
+            }
+        ],
+        "HelpTitle": null,
+        "IsDisplayed": false,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 3700,
+        "IsIgnore": null,
+        "Memo": "試練画面 - バトルリーグ画面",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine3700]",
+                "MainText": "[HelpMainText3700]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 7
+    },
+    {
+        "Id": 3800,
+        "IsIgnore": null,
+        "Memo": "試練画面 - レジェンドリーグ画面",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine3800]",
+                "MainText": "[HelpMainText3800]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 8
+    },
+    {
+        "Id": 3900,
+        "IsIgnore": null,
+        "Memo": "試練画面 - 時空の洞窟画面（ハードモード解放前）",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine3900]",
+                "MainText": "[HelpMainText3900]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 1
+    },
+    {
+        "Id": 4000,
+        "IsIgnore": null,
+        "Memo": "試練画面 - 時空の洞窟画面（ハードモード解放後）",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine4000]",
+                "MainText": "[HelpMainText4000]"
+            },
+            {
+                "HeadLine": "[HelpHeadLine4001]",
+                "MainText": "[HelpMainText4001]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 24
+    },
+    {
+        "Id": 4100,
+        "IsIgnore": null,
+        "Memo": "試練画面 - 祈りの泉画面",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine4100]",
+                "MainText": "[HelpMainText4100]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 4
+    },
+    {
+        "Id": 4200,
+        "IsIgnore": null,
+        "Memo": "試練画面 - 幻影の神殿画面",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine4200]",
+                "MainText": "[HelpMainText4200]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 5
+    },
+    {
+        "Id": 4300,
+        "IsIgnore": null,
+        "Memo": "試練画面 - 無窮の塔画面(塔選択)",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": null,
+                "MainText": null
+            }
+        ],
+        "HelpTitle": null,
+        "IsDisplayed": false,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 4400,
+        "IsIgnore": null,
+        "Memo": "試練画面 - 無窮の塔画面(塔選択) - 無窮の塔画面(階層選択)",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine4400]",
+                "MainText": "[HelpMainText4400]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 2
+    },
+    {
+        "Id": 4500,
+        "IsIgnore": null,
+        "Memo": "試練画面 - 無窮の塔画面(塔選択) - 属性の塔画面(階層選択)",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine4500]",
+                "MainText": "[HelpMainText4500]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 19
+    },
+    {
+        "Id": 4600,
+        "IsIgnore": null,
+        "Memo": "ガチャ画面 - セレクトリストDLG",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine4600]",
+                "MainText": "[HelpMainText4600]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 4700,
+        "IsIgnore": null,
+        "Memo": "ガチャ画面 - 属性ガチャ解放DLG",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine4700]",
+                "MainText": "[HelpMainText4700]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 4800,
+        "IsIgnore": null,
+        "Memo": "ギルド未加入者画面",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine4800]",
+                "MainText": "[HelpMainText4800]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 3
+    },
+    {
+        "Id": 4900,
+        "IsIgnore": null,
+        "Memo": "ギルド情報画面",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine4800]",
+                "MainText": "[HelpMainText4800]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 3
+    },
+    {
+        "Id": 4901,
+        "IsIgnore": null,
+        "Memo": "ギルド情報画面",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine4901]",
+                "MainText": "[HelpMainText4901]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 5000,
+        "IsIgnore": null,
+        "Memo": "ギルドレイド画面",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine5000]",
+                "MainText": "[HelpMainText5000]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 16
+    },
+    {
+        "Id": 5100,
+        "IsIgnore": null,
+        "Memo": "ギルドバトル画面",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine5100]",
+                "MainText": "[HelpMainText5100]"
+            },
+            {
+                "HeadLine": "[HelpHeadLine5101]",
+                "MainText": "[HelpMainText5101]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 14
+    },
+    {
+        "Id": 5200,
+        "IsIgnore": null,
+        "Memo": "グランドバトル画面",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine5200]",
+                "MainText": "[HelpMainText5200]"
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 15
+    }
+]
