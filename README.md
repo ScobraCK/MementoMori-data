@@ -1,5 +1,5 @@
 # MementoMori-data
 
-Data dump for Memento Mori game.
+Data dump for Memento Mori game. 
 
-Carrying on arohisa's legacy
+Trying to carry on arohisa's legacy
