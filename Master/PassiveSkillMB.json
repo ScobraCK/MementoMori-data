@@ -582,7 +582,7 @@
     {
         "Id": 9003,
         "IsIgnore": null,
-        "Memo": "ソーニャSR",
+        "Memo": "ソーニャSR: /Lv1　大きな声で乾杯を叫び、元気が出るドリンクを飲み干す。自身の最大HPと命中率が20％増加する（解除不可）。　/Lv2 さらに自身の攻撃力が20％増加する。　/Lv3 最大HPと攻撃力の増加量がそれぞれ30％になる。命中率の増加量が50％になる。",
         "NameKey": "[PassiveSkillName9003]",
         "PassiveSkillInfos": [
             {
@@ -635,7 +635,7 @@
     {
         "Id": 9004,
         "IsIgnore": null,
-        "Memo": "ソーニャSR",
+        "Memo": "ソーニャSR: /Lv1　ヴァイキングの勝鬨を上げて、バトル開始時味方全体の攻撃力を2％増加させる。自身以外の味方の生存数1体につき増加量が2％大きくなる。　/Lv2 さらに味方全体の最大HPを2％増加させる。自身以外の味方の生存数1体につき増加量が2％大きくなる。　/Lv3 攻撃力の増加量が3％、最大HPの増加量が3％になる。",
         "NameKey": "[PassiveSkillName9004]",
         "PassiveSkillInfos": [
             {
@@ -650,6 +650,12 @@
                         "SkillCoolTime": 0,
                         "SkillMaxCoolTime": 0,
                         "SubSetSkillId": 9004001
+                    },
+                    {
+                        "PassiveTrigger": 6,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 9004002
                     }
                 ]
             },
@@ -665,6 +671,12 @@
                         "SkillCoolTime": 0,
                         "SkillMaxCoolTime": 0,
                         "SubSetSkillId": 9004201
+                    },
+                    {
+                        "PassiveTrigger": 6,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 9004202
                     }
                 ]
             },
@@ -680,6 +692,12 @@
                         "SkillCoolTime": 0,
                         "SkillMaxCoolTime": 0,
                         "SubSetSkillId": 9004301
+                    },
+                    {
+                        "PassiveTrigger": 6,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 9004302
                     }
                 ]
             }

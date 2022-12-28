@@ -1872,6 +1872,48 @@
         "StartTime": null
     },
     {
+        "Id": 91,
+        "IsIgnore": null,
+        "Memo": "運命の小袋",
+        "ChestKeyItemId": 0,
+        "DescriptionKey": "[TreasureChestDescription91]",
+        "DisplayNameKey": "[TreasureChestDisplayName91]",
+        "IconId": 111,
+        "ItemRarityFlags": 64,
+        "MaxItemCount": 0,
+        "MinOpenCount": 1,
+        "NameKey": "[TreasureChestName91]",
+        "SecondaryFrameNum": 0,
+        "SecondaryFrameType": 0,
+        "TreasureChestItemIdList": [
+            94
+        ],
+        "TreasureChestLotteryType": 3,
+        "EndTime": null,
+        "StartTime": null
+    },
+    {
+        "Id": 92,
+        "IsIgnore": null,
+        "Memo": "秘密のチケットケース",
+        "ChestKeyItemId": 0,
+        "DescriptionKey": "[TreasureChestDescription92]",
+        "DisplayNameKey": "[TreasureChestDisplayName92]",
+        "IconId": 110,
+        "ItemRarityFlags": 128,
+        "MaxItemCount": 0,
+        "MinOpenCount": 1,
+        "NameKey": "[TreasureChestName92]",
+        "SecondaryFrameNum": 0,
+        "SecondaryFrameType": 0,
+        "TreasureChestItemIdList": [
+            95
+        ],
+        "TreasureChestLotteryType": 3,
+        "EndTime": null,
+        "StartTime": null
+    },
+    {
         "Id": 999,
         "IsIgnore": null,
         "Memo": "運命ガチャ毎回報酬（潜在宝珠50＋精錬水50）、本番データ（削除禁止）",
