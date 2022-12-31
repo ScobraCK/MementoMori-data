@@ -4,7 +4,7 @@ import os
 class MasterData():
     '''
     Class to help read the Master data
-    Place in same file as Master
+    Place in same file as Master (for now, TODO read from github or something)
     '''
     def __init__(self) -> None:
         self.textdata = self.get_textdata()
@@ -37,20 +37,41 @@ class MasterData():
             Korean - koKR
             Taiwanese - zhTW
         '''
+
         obj = filter(lambda x:x["StringKey"]==text_key, self.textdata)
         try:
             return next(obj)[language]
         except StopIteration:
-            print('Name key not found')
+            return None
 
-    def search_id(self, id: str, data: str):
+    def search_id(self, id: int, data: dict):
         obj = filter(lambda x:x["Id"]==id, data)
         try:
             return next(obj)
         except StopIteration:
-            return None    
+            return None   
 
-    def search_item(self, id: str, type: str):
+    def search_chars(self, *, \
+        id: int=None, type: int=None, rarity: int=None, job: int=None):
+        '''
+        Returns a iterator of characters matching search conditions
+        '''
+        if 'CharacterMB' not in self.data:
+            self.add_data('CharacterMB')
+        if id:  # unique
+            char = filter(lambda x:x["Id"]==id, self.data['CharacterMB'])
+            return char
+
+        if type:
+            char = filter(lambda x:x["ElementType"]==type, self.data['CharacterMB'])
+        if rarity:
+            char = filter(lambda x:x["RarityFlags"]==rarity, char)
+        if job:
+            char = filter(lambda x:x["JobFlags"]==job, char)
+        return char
+
+
+    def search_item(self, id: int, type: str):
         if 'ItemMB' not in self.data:
             self.add_data('ItemMB')
         obj = filter(lambda x:x["ItemId"]==id and x['ItemType']==type,\
@@ -60,7 +81,7 @@ class MasterData():
         except StopIteration:
             return None
 
-    def find_item(self, id: str, type: str) -> dict:
+    def find_item(self, id: int, type: str) -> dict:
         if type == 14:
             if 'SphereMB' not in self.data:
                 self.add_data('SphereMB')
@@ -91,6 +112,12 @@ class MasterData():
         item_name = self.search_string_key(item['NameKey'])
 
         if reward['ItemType'] == 14:  # runes
-            item_name.join(f' Lv.{item["Lv"]}')
+            lv = str(item["Lv"])
+            item_name = item_name + ' Lv.' + lv
         
         print(f'{item_name} | {reward["ItemCount"]}')
+
+    def print_mission(self, mission: dict):
+        print(self.search_string_key(mission['NameKey']))
+        for item in mission['RewardList']:
+            self.print_reward(item['Item'])
