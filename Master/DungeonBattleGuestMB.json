@@ -382,15 +382,24 @@
         "IsIgnore": null,
         "Memo": null,
         "CharacterId": 9,
-        "IsPickup": true,
-        "EndTimeFixJST": "2100-01-01 00:00:00",
-        "StartTimeFixJST": "2020-01-01 00:00:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 44,
         "IsIgnore": null,
         "Memo": null,
         "CharacterId": 19,
+        "IsPickup": true,
+        "EndTimeFixJST": "2100-01-01 00:00:00",
+        "StartTimeFixJST": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 45,
+        "IsIgnore": null,
+        "Memo": null,
+        "CharacterId": 43,
         "IsPickup": true,
         "EndTimeFixJST": "2100-01-01 00:00:00",
         "StartTimeFixJST": "2020-01-01 00:00:00"
