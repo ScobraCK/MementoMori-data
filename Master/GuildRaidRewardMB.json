@@ -123,6 +123,16 @@
                 "DamageBarCount": 23,
                 "HolySteelCount": 800,
                 "GoldRewardCount": 1150000
+            },
+            {
+                "DamageBarCount": 24,
+                "HolySteelCount": 850,
+                "GoldRewardCount": 1160000
+            },
+            {
+                "DamageBarCount": 25,
+                "HolySteelCount": 900,
+                "GoldRewardCount": 1170000
             }
         ],
         "GuildExpPerChallenge": 50,
@@ -320,6 +330,22 @@
                     "AdditiveCoefficient": 998947,
                     "DivisionCoefficient": 2375000
                 }
+            },
+            {
+                "DamageBarCount": 24,
+                "HolySteelCount": 340,
+                "RewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 998947,
+                    "DivisionCoefficient": 2375000
+                }
+            },
+            {
+                "DamageBarCount": 25,
+                "HolySteelCount": 360,
+                "RewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 998947,
+                    "DivisionCoefficient": 2375000
+                }
             }
         ],
         "QuestClearEquipmentLvList": [
@@ -489,6 +515,16 @@
                 "DamageBarCount": 23,
                 "HolySteelCount": 800,
                 "GoldRewardCount": 1150000
+            },
+            {
+                "DamageBarCount": 24,
+                "HolySteelCount": 850,
+                "GoldRewardCount": 1160000
+            },
+            {
+                "DamageBarCount": 25,
+                "HolySteelCount": 900,
+                "GoldRewardCount": 1170000
             }
         ],
         "GuildExpPerChallenge": 50,
@@ -499,16 +535,16 @@
                 "DamageBarCount": 0,
                 "HolySteelCount": 5,
                 "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 2500,
-                    "DivisionCoefficient": 1
+                    "AdditiveCoefficient": 998947,
+                    "DivisionCoefficient": 2375000
                 }
             },
             {
                 "DamageBarCount": 1,
                 "HolySteelCount": 10,
                 "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 2500,
-                    "DivisionCoefficient": 4
+                    "AdditiveCoefficient": 998947,
+                    "DivisionCoefficient": 2375000
                 }
             },
             {
@@ -682,6 +718,22 @@
             {
                 "DamageBarCount": 23,
                 "HolySteelCount": 320,
+                "RewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 998947,
+                    "DivisionCoefficient": 2375000
+                }
+            },
+            {
+                "DamageBarCount": 24,
+                "HolySteelCount": 340,
+                "RewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 998947,
+                    "DivisionCoefficient": 2375000
+                }
+            },
+            {
+                "DamageBarCount": 25,
+                "HolySteelCount": 360,
                 "RewardGoldCoefficientInfo": {
                     "AdditiveCoefficient": 998947,
                     "DivisionCoefficient": 2375000

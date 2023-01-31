@@ -6494,6 +6494,155 @@
         "RootActiveSkillId": 50002
     },
     {
+        "Id": 51001,
+        "IsIgnore": null,
+        "Memo": "ソフィアSR: /Lv1 「弱点を突きましょう」戦況を冷静に見極め、1ターンの間自身の攻撃力を15％増加させ、HP割合が最も低い敵に4回攻撃力×450％の物理攻撃を行う。/Lv2 物理攻撃の回数が5回になる。/Lv3 攻撃力の増加量が30％になる。",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription510011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    51001003,
+                    51001001,
+                    51001002,
+                    51001002,
+                    51001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription510012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    51001003,
+                    51001201,
+                    51001202,
+                    51001202,
+                    51001202,
+                    51001202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription510013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    51001303,
+                    51001201,
+                    51001202,
+                    51001202,
+                    51001202,
+                    51001202
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName51001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 51001
+    },
+    {
+        "Id": 51002,
+        "IsIgnore": null,
+        "Memo": "ソフィアSR: /Lv1 教え子を傷つける不逞の輩は先生が許しません。鍛え抜いた剣技で、ランダムな敵に6回攻撃力×360％の物理攻撃を行う。/Lv2 さらに攻撃後、自身のHP割合が60％未満の場合、味方全体のHPをこのスキルの総与ダメージ×20％回復する。/Lv3 物理攻撃の回数が7回になる。/Lv4 HP回復量がこのスキルの総与ダメージ×35％になる。/ex3 教育的指導！を強化する。物理攻撃の回数が8回になる。",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription510021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    51002001,
+                    51002002,
+                    51002002,
+                    51002002,
+                    51002002,
+                    51002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription510022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    51002001,
+                    51002002,
+                    51002002,
+                    51002002,
+                    51002002,
+                    51002002,
+                    51002203
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription510023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    51002001,
+                    51002002,
+                    51002002,
+                    51002002,
+                    51002002,
+                    51002002,
+                    51002002,
+                    51002203
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription510024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    51002001,
+                    51002002,
+                    51002002,
+                    51002002,
+                    51002002,
+                    51002002,
+                    51002002,
+                    51002403
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription510025]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    51002001,
+                    51002002,
+                    51002002,
+                    51002002,
+                    51002002,
+                    51002002,
+                    51002002,
+                    51002002,
+                    51002403
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName51002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 51002
+    },
+    {
         "Id": 550109001,
         "IsIgnore": null,
         "Memo": "ギルドレイド通常ソーニャSR：ソーニャSR:旋風の如き素早い急襲。HPが最も低い敵に攻撃力×800％の物理攻撃を行う。弱った敵にも容赦しないヴァイキングの本能により、敵のHP割合が40％以下の場合、この攻撃は必ずクリティカルヒットする。／さらに自身の腕力×400％の直接攻撃を行う。／追加攻撃のダメージが腕力×600%になる。／さらにこのスキルで敵を戦闘不能にした場合、このスキルを再発動する。",
@@ -6634,6 +6783,96 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 5,
         "RootActiveSkillId": 30002
+    },
+    {
+        "Id": 550251002,
+        "IsIgnore": null,
+        "Memo": "ギルドレイドソフィアSR",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription510021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    51002001,
+                    51002002,
+                    51002002,
+                    51002002,
+                    51002002,
+                    51002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription510022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    51002001,
+                    51002002,
+                    51002002,
+                    51002002,
+                    51002002,
+                    51002002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription510023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    51002001,
+                    51002002,
+                    51002002,
+                    51002002,
+                    51002002,
+                    51002002,
+                    51002002
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription510024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    51002001,
+                    51002002,
+                    51002002,
+                    51002002,
+                    51002002,
+                    51002002,
+                    51002002
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription510025]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    51002001,
+                    51002002,
+                    51002002,
+                    51002002,
+                    51002002,
+                    51002002,
+                    51002002,
+                    51002002
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName51002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 51002
     },
     {
         "Id": 550347001,

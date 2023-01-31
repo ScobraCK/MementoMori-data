@@ -26,7 +26,7 @@
             "Defense": 200000,
             "DefensePenetration": 500,
             "Hit": 100000000,
-            "HP": 50000000000,
+            "HP": 250000000000,
             "HpDrain": 0,
             "MagicCriticalDamageRelax": 0,
             "MagicDamageRelax": 500000,
@@ -130,6 +130,14 @@
             {
                 "DamageBarCount": 23,
                 "DamageBarMaxValue": 125000000000
+            },
+            {
+                "DamageBarCount": 24,
+                "DamageBarMaxValue": 250000000000
+            },
+            {
+                "DamageBarCount": 25,
+                "DamageBarMaxValue": 750000000000
             }
         ],
         "GuildRaidBossType": 0,
@@ -227,6 +235,14 @@
             {
                 "DamageBarCount": 23,
                 "DamageBarMaxValue": 25000000000
+            },
+            {
+                "DamageBarCount": 24,
+                "DamageBarMaxValue": 50000000000
+            },
+            {
+                "DamageBarCount": 25,
+                "DamageBarMaxValue": 150000000000
             }
         ],
         "NormalSkillId": 101,
@@ -241,10 +257,10 @@
     {
         "Id": 2,
         "IsIgnore": null,
-        "Memo": "ギルドレイド解放ルーク",
+        "Memo": "イベント版_解放ソフィア（旧：ギルドレイド解放ルーク）",
         "ActiveSkillIds": [
-            550230001,
-            550230002
+            51001,
+            550251002
         ],
         "BaseParameter": {
             "Energy": 14567,
@@ -253,29 +269,29 @@
             "Muscle": 40000
         },
         "BattleParameter": {
-            "AttackPower": 20841,
+            "AttackPower": 13485,
             "Avoidance": 7283,
             "Critical": 7283,
             "CriticalDamageEnhance": 1500,
             "CriticalResist": 8555,
-            "DamageEnhance": 8000,
+            "DamageEnhance": 4000,
             "DamageReflect": 500,
-            "DebuffHit": 7274,
+            "DebuffHit": 727458,
             "DebuffResist": 500000,
             "Defense": 300000,
-            "DefensePenetration": 5000,
+            "DefensePenetration": 2500,
             "Hit": 100000000,
-            "HP": 50000000000,
+            "HP": 250000000000,
             "HpDrain": 0,
             "MagicCriticalDamageRelax": 0,
             "MagicDamageRelax": 600000,
             "PhysicalCriticalDamageRelax": 0,
             "PhysicalDamageRelax": 600000,
-            "Speed": 2600
+            "Speed": 2935
         },
         "BattlePower": 2657353,
         "CharacterRarityFlags": 16,
-        "ElementType": 3,
+        "ElementType": 2,
         "EnemyRank": 240,
         "GuildDamageBar": [
             {
@@ -369,11 +385,19 @@
             {
                 "DamageBarCount": 23,
                 "DamageBarMaxValue": 125000000000
+            },
+            {
+                "DamageBarCount": 24,
+                "DamageBarMaxValue": 250000000000
+            },
+            {
+                "DamageBarCount": 25,
+                "DamageBarMaxValue": 750000000000
             }
         ],
         "GuildRaidBossType": 1,
         "JobFlags": 1,
-        "NameKey": "[CharacterName30]",
+        "NameKey": "[CharacterName51]",
         "NormalDamageBar": [
             {
                 "DamageBarCount": 1,
@@ -466,16 +490,24 @@
             {
                 "DamageBarCount": 23,
                 "DamageBarMaxValue": 25000000000
+            },
+            {
+                "DamageBarCount": 24,
+                "DamageBarMaxValue": 50000000000
+            },
+            {
+                "DamageBarCount": 25,
+                "DamageBarMaxValue": 150000000000
             }
         ],
         "NormalSkillId": 101,
         "PassiveSkillIds": [
-            30003,
+            51003,
             550230006,
             550230007
         ],
-        "ReleasableGuildFame": 10000,
-        "UnitIconId": 30,
+        "ReleasableGuildFame": 3000,
+        "UnitIconId": 51,
         "UnitIconType": 0
     }
 ]

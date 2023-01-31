@@ -2520,5 +2520,57 @@
         "RequireFragmentCount": 60,
         "EndTimeFixJST": "2100-12-31 23:59:59",
         "StartTimeFixJST": "2100-12-31 15:30:00"
+    },
+    {
+        "Id": 51,
+        "IsIgnore": null,
+        "Memo": "ソフィア",
+        "ActiveSkillIds": [
+            51001,
+            51002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 84,
+            "Health": 69,
+            "Intelligence": 88,
+            "Muscle": 99
+        },
+        "BaseParameterGrossCoefficient": 338,
+        "ElementType": 2,
+        "InitialBattleParameter": {
+            "AttackPower": 4,
+            "Avoidance": 0,
+            "Critical": -3,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 2,
+            "DamageReflect": 0,
+            "DebuffHit": 0,
+            "DebuffResist": 0,
+            "Defense": 10,
+            "DefensePenetration": 0,
+            "Hit": 0,
+            "HP": 0,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": 0,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 0,
+            "Speed": 2935
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 1,
+        "Name2Key": null,
+        "NameKey": "[CharacterName51]",
+        "NormalSkillId": 101,
+        "PassiveSkillIds": [
+            51003,
+            51004,
+            51005
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2023-01-31 15:00:00"
     }
 ]

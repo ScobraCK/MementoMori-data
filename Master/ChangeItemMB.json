@@ -3726,5 +3726,21 @@
         "ItemId": 1,
         "ItemType": 50,
         "NeedCount": 1
+    },
+    {
+        "Id": 234,
+        "IsIgnore": null,
+        "Memo": "ソフィアガチャチケット",
+        "ChangeItems": [
+            {
+                "ItemCount": 1,
+                "ItemId": 2,
+                "ItemType": 16
+            }
+        ],
+        "ChangeItemType": 0,
+        "ItemId": 510,
+        "ItemType": 16,
+        "NeedCount": 1
     }
 ]
