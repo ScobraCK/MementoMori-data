@@ -257,10 +257,10 @@
     {
         "Id": 2,
         "IsIgnore": null,
-        "Memo": "イベント版_解放ソフィア（旧：ギルドレイド解放ルーク）",
+        "Memo": "ギルドレイド解放ルーク",
         "ActiveSkillIds": [
-            51001,
-            550251002
+            550230001,
+            550230002
         ],
         "BaseParameter": {
             "Energy": 14567,
@@ -269,29 +269,29 @@
             "Muscle": 40000
         },
         "BattleParameter": {
-            "AttackPower": 13485,
+            "AttackPower": 20841,
             "Avoidance": 7283,
             "Critical": 7283,
             "CriticalDamageEnhance": 1500,
             "CriticalResist": 8555,
-            "DamageEnhance": 4000,
+            "DamageEnhance": 8000,
             "DamageReflect": 500,
-            "DebuffHit": 727458,
+            "DebuffHit": 7274,
             "DebuffResist": 500000,
             "Defense": 300000,
-            "DefensePenetration": 2500,
+            "DefensePenetration": 5000,
             "Hit": 100000000,
-            "HP": 250000000000,
+            "HP": 50000000000,
             "HpDrain": 0,
             "MagicCriticalDamageRelax": 0,
             "MagicDamageRelax": 600000,
             "PhysicalCriticalDamageRelax": 0,
             "PhysicalDamageRelax": 600000,
-            "Speed": 2935
+            "Speed": 2600
         },
         "BattlePower": 2657353,
         "CharacterRarityFlags": 16,
-        "ElementType": 2,
+        "ElementType": 3,
         "EnemyRank": 240,
         "GuildDamageBar": [
             {
@@ -397,7 +397,7 @@
         ],
         "GuildRaidBossType": 1,
         "JobFlags": 1,
-        "NameKey": "[CharacterName51]",
+        "NameKey": "[CharacterName30]",
         "NormalDamageBar": [
             {
                 "DamageBarCount": 1,
@@ -502,12 +502,12 @@
         ],
         "NormalSkillId": 101,
         "PassiveSkillIds": [
-            51003,
+            30003,
             550230006,
             550230007
         ],
-        "ReleasableGuildFame": 3000,
-        "UnitIconId": 51,
+        "ReleasableGuildFame": 10000,
+        "UnitIconId": 30,
         "UnitIconType": 0
     }
 ]
