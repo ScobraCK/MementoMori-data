@@ -2381,7 +2381,7 @@
         ],
         "BaseParameterCoefficient": {
             "Energy": 79,
-            "Health": 70,
+            "Health": 73,
             "Intelligence": 99,
             "Muscle": 90
         },
@@ -2415,12 +2415,13 @@
         "NormalSkillId": 102,
         "PassiveSkillIds": [
             48003,
-            48004
+            48004,
+            48005
         ],
         "RarityFlags": 8,
         "RequireFragmentCount": 60,
         "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 15:30:00"
+        "StartTimeFixJST": "2023-02-15 15:00:00"
     },
     {
         "Id": 49,

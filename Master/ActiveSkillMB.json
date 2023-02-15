@@ -6114,7 +6114,7 @@
     {
         "Id": 48001,
         "IsIgnore": null,
-        "Memo": "【錆鉄の魔女】\\nＡ．Ａ．SR: ",
+        "Memo": "【錆鉄の魔女】\\nＡ．Ａ．SR: /Lv1　無造作に振るわれた剣翼から錆があふれ出し、ランダムな敵に3回攻撃力×520％の魔法攻撃を行う。　/Lv2 魔法攻撃のダメージが攻撃力×710％になる。　/Lv3 魔法攻撃の回数が4回になる。",
         "ActiveSkillInfos": [
             {
                 "OrderNumber": 1,
@@ -6152,19 +6152,6 @@
                     48001202,
                     48001202
                 ]
-            },
-            {
-                "OrderNumber": 4,
-                "DescriptionKey": "[ActiveSkillDescription480014]",
-                "CharacterLevel": 161,
-                "EquipmentRarityFlags": 128,
-                "BlessingItemId": 0,
-                "SubSetSkillIds": [
-                    48001401,
-                    48001402,
-                    48001402,
-                    48001402
-                ]
             }
         ],
         "NameKey": "[ActiveSkillName48001]",
@@ -6175,7 +6162,7 @@
     {
         "Id": 48002,
         "IsIgnore": null,
-        "Memo": "【錆鉄の魔女】\\nＡ．Ａ．SR:",
+        "Memo": "【錆鉄の魔女】\\nＡ．Ａ．SR: /Lv1　造られた体に秘めるのは絶大な魔力。解放するだけで錆が周囲を埋め尽くし、こびり付き、奪い尽くす。ランダムな敵4体に自身の魔力×200％の直接攻撃を行い、自身のHPをこのスキルの総与ダメージ×15％回復する。　/Lv2 　直接攻撃のダメージが自身の魔力×300％になる。/Lv3 　HP回復量がこのスキルの総与ダメージ×20％になる。/Lv4 　直接攻撃のダメージが自身の魔力×420％になる。/専用3 リミッター解除を強化する。直接攻撃のダメージが自身の魔力×450％になる。",
         "ActiveSkillInfos": [
             {
                 "OrderNumber": 1,
@@ -6241,7 +6228,7 @@
     {
         "Id": 48101,
         "IsIgnore": null,
-        "Memo": "【錆鉄の魔女】\\nＡ．Ａ．SR: ",
+        "Memo": "【錆鉄の魔女】\\nＡ．Ａ．SR: /Lv1　数えきれないほどの屍を積み上げて、その「最高傑作」は造られた。自身の通常攻撃を強化する。敵1体に魔力×150％の直接攻撃",
         "ActiveSkillInfos": [
             {
                 "OrderNumber": 1,
@@ -6262,7 +6249,7 @@
     {
         "Id": 48102,
         "IsIgnore": null,
-        "Memo": "【錆鉄の魔女】\\nＡ．Ａ．SR",
+        "Memo": "【錆鉄の魔女】\\nＡ．Ａ．SR: /Lv2　直接攻撃のダメージが攻撃力×180％になる。",
         "ActiveSkillInfos": [
             {
                 "OrderNumber": 1,
@@ -6283,7 +6270,7 @@
     {
         "Id": 48103,
         "IsIgnore": null,
-        "Memo": "【錆鉄の魔女】\\nＡ．Ａ．SR:",
+        "Memo": "【錆鉄の魔女】\\nＡ．Ａ．SR: /Lv3　直接攻撃のダメージが攻撃力×220％になる。",
         "ActiveSkillInfos": [
             {
                 "OrderNumber": 1,
@@ -6300,27 +6287,6 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 0,
         "RootActiveSkillId": 48103
-    },
-    {
-        "Id": 48104,
-        "IsIgnore": null,
-        "Memo": "【錆鉄の魔女】\\nＡ．Ａ．SR:",
-        "ActiveSkillInfos": [
-            {
-                "OrderNumber": 1,
-                "DescriptionKey": "[ActiveSkillDescription481041]",
-                "CharacterLevel": 1,
-                "EquipmentRarityFlags": 0,
-                "BlessingItemId": 0,
-                "SubSetSkillIds": [
-                    48104001
-                ]
-            }
-        ],
-        "NameKey": "[ActiveSkillName48104]",
-        "SkillInitCoolTime": 0,
-        "SkillMaxCoolTime": 0,
-        "RootActiveSkillId": 48104
     },
     {
         "Id": 49001,
@@ -7062,6 +7028,217 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 5,
         "RootActiveSkillId": 47002
+    },
+    {
+        "Id": 550348001,
+        "IsIgnore": null,
+        "Memo": "【錆鉄の魔女】\\nＡ．Ａ．SR: /Lv1　無造作に振るわれた剣翼から錆があふれ出し、ランダムな敵に3回攻撃力×520％の魔法攻撃を行い、35%の確率で『バフ無効』を1ターン付与する。　/Lv2 魔法攻撃のダメージが攻撃力×650％になる。　/Lv3 魔法攻撃の回数が4回になる。　/専用1 錆鉄の剣閃を強化する。さらに対象の魔力が自身よりも低い場合、魔法攻撃のダメージが1.5倍になる。",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription480011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550348001001,
+                    550348001002,
+                    550348001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription480012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550348001201,
+                    550348001202,
+                    550348001202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription480013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550348001201,
+                    550348001202,
+                    550348001202,
+                    550348001202
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription480014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550348001401,
+                    550348001402,
+                    550348001402,
+                    550348001402
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName48001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 48001
+    },
+    {
+        "Id": 550348002,
+        "IsIgnore": null,
+        "Memo": "【錆鉄の魔女】\\nＡ．Ａ．SR: /Lv1　造られた体に秘めるのは絶大な魔力。解放するだけで錆が周囲を埋め尽くし、こびり付き、奪い尽くす。ランダムな敵4体に自身の攻撃力×110％の直接攻撃を行い、自身のHPをこのスキルの総与ダメージ×15％回復する。　/Lv2 直接攻撃のダメージが自身の攻撃力×120％になる。　/Lv3 HPの回復量がこのスキルの総与ダメージ×20％になる。　/Lv4 さらに対象が弱体効果を付帯している場合、直接攻撃のダメージが1.5倍になる。　/専用3 リミッター解除を強化する。直接攻撃のダメージが自身の攻撃力×150％になる。",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription480021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550348002001,
+                    550348002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription480022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550348002201,
+                    550348002002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription480023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550348002201,
+                    550348002302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription480024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550348002401,
+                    550348002302
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription480025]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550348002501,
+                    550348002302
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName48002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 48002
+    },
+    {
+        "Id": 550348101,
+        "IsIgnore": null,
+        "Memo": "【錆鉄の魔女】\\nＡ．Ａ．SR: /Lv1　数えきれないほどの屍を積み上げて、その「最高傑作」は造られた。自身の通常攻撃を強化する。通常攻撃時ランダムな敵3体に攻撃力×150％の直接攻撃を行う。",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription481011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550348101001
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName48101]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 0,
+        "RootActiveSkillId": 48101
+    },
+    {
+        "Id": 550348102,
+        "IsIgnore": null,
+        "Memo": "【錆鉄の魔女】\\nＡ．Ａ．SR: /Lv2　直接攻撃のダメージが攻撃力×180％になる。",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription481021]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550348102001
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName48102]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 0,
+        "RootActiveSkillId": 48102
+    },
+    {
+        "Id": 550348103,
+        "IsIgnore": null,
+        "Memo": "【錆鉄の魔女】\\nＡ．Ａ．SR: /Lv3　直接攻撃のダメージが攻撃力×240％になる。",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription481031]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550348103001
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName48103]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 0,
+        "RootActiveSkillId": 48103
+    },
+    {
+        "Id": 550348104,
+        "IsIgnore": null,
+        "Memo": "【錆鉄の魔女】\\nＡ．Ａ．SR: /専用2　最高傑作を強化する。さらに通常攻撃時、クリティカルヒットした場合、1ターンの間対象の防御力を20％減少させる。",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription481041]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550348104001
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName48104]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 0,
+        "RootActiveSkillId": 48104
     },
     {
         "Id": 980000001,

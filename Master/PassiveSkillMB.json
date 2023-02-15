@@ -4120,7 +4120,7 @@
     {
         "Id": 48003,
         "IsIgnore": null,
-        "Memo": "【錆鉄の魔女】\\nＡ．Ａ．SR",
+        "Memo": "【錆鉄の魔女】\\nＡ．Ａ．SR: /Lv1　数えきれないほどの屍を積み上げて、その「最高傑作」は造られた。自身の通常攻撃を強化する。通常攻撃時ランダムな敵1体に自身の魔力×150％の直接攻撃を行う。　/Lv2 　直接攻撃のダメージが自身の魔力×180％になる。/Lv3　直接攻撃のダメージが自身の魔力×220％になる。",
         "NameKey": "[PassiveSkillName48003]",
         "PassiveSkillInfos": [
             {
@@ -4133,7 +4133,7 @@
                     {
                         "PassiveTrigger": 1,
                         "SkillCoolTime": 0,
-                        "SkillMaxCoolTime": 9999,
+                        "SkillMaxCoolTime": 10,
                         "SubSetSkillId": 48003001
                     }
                 ]
@@ -4148,7 +4148,7 @@
                     {
                         "PassiveTrigger": 1,
                         "SkillCoolTime": 0,
-                        "SkillMaxCoolTime": 9999,
+                        "SkillMaxCoolTime": 10,
                         "SubSetSkillId": 48003201
                     }
                 ]
@@ -4163,23 +4163,8 @@
                     {
                         "PassiveTrigger": 1,
                         "SkillCoolTime": 0,
-                        "SkillMaxCoolTime": 9999,
+                        "SkillMaxCoolTime": 10,
                         "SubSetSkillId": 48003301
-                    }
-                ]
-            },
-            {
-                "OrderNumber": 4,
-                "DescriptionKey": "[PassiveSkillDescription480034]",
-                "CharacterLevel": 181,
-                "EquipmentRarityFlags": 256,
-                "BlessingItemId": 0,
-                "PassiveSubSetSkillInfos": [
-                    {
-                        "PassiveTrigger": 1,
-                        "SkillCoolTime": 0,
-                        "SkillMaxCoolTime": 9999,
-                        "SubSetSkillId": 48003401
                     }
                 ]
             }
@@ -4188,7 +4173,7 @@
     {
         "Id": 48004,
         "IsIgnore": null,
-        "Memo": "【錆鉄の魔女】\\nＡ．Ａ．SR",
+        "Memo": "【錆鉄の魔女】\\nＡ．Ａ．SR: /Lv1　内に眠る守護天使が宿主を守る。自身が攻撃を受けたとき、ダメージを25％遮断する。このスキルは1ターン目のターン終了時まで発動する。（ 遮断された後のダメージ量に対して、他のダメージ軽減（『被ダメージ減少』等）が計算される）　/Lv2 　このスキルが2ターン目のターン終了時まで発動するようになる。/Lv3 ダメージを55％遮断する。/専用1 愛の天使を強化する。ダメージを85％遮断する。",
         "NameKey": "[PassiveSkillName48004]",
         "PassiveSkillInfos": [
             {
@@ -4199,9 +4184,9 @@
                 "BlessingItemId": 0,
                 "PassiveSubSetSkillInfos": [
                     {
-                        "PassiveTrigger": 1,
+                        "PassiveTrigger": 42,
                         "SkillCoolTime": 0,
-                        "SkillMaxCoolTime": 5,
+                        "SkillMaxCoolTime": 0,
                         "SubSetSkillId": 48004001
                     }
                 ]
@@ -4214,9 +4199,9 @@
                 "BlessingItemId": 0,
                 "PassiveSubSetSkillInfos": [
                     {
-                        "PassiveTrigger": 1,
+                        "PassiveTrigger": 42,
                         "SkillCoolTime": 0,
-                        "SkillMaxCoolTime": 5,
+                        "SkillMaxCoolTime": 0,
                         "SubSetSkillId": 48004201
                     }
                 ]
@@ -4229,10 +4214,25 @@
                 "BlessingItemId": 0,
                 "PassiveSubSetSkillInfos": [
                     {
-                        "PassiveTrigger": 1,
+                        "PassiveTrigger": 42,
                         "SkillCoolTime": 0,
-                        "SkillMaxCoolTime": 5,
+                        "SkillMaxCoolTime": 0,
                         "SubSetSkillId": 48004301
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "*",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 42,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 48004401
                     }
                 ]
             }
@@ -4241,9 +4241,25 @@
     {
         "Id": 48005,
         "IsIgnore": null,
-        "Memo": "【錆鉄の魔女】Ａ．Ａ．SR",
-        "NameKey": "[PassiveSkillName48005]",
-        "PassiveSkillInfos": null
+        "Memo": "【錆鉄の魔女】\\nＡ．Ａ専属2 自身の命中率が40％増加する（解除不可）。",
+        "NameKey": "*",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[PassiveSkillDescription480050]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 256,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "SubSetSkillId": 48005001
+                    }
+                ]
+            }
+        ]
     },
     {
         "Id": 49003,
@@ -7579,6 +7595,127 @@
                         "SkillCoolTime": 0,
                         "SkillMaxCoolTime": 0,
                         "SubSetSkillId": 550347004302
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 550348003,
+        "IsIgnore": null,
+        "Memo": "【錆鉄の魔女】\\nＡ．Ａ．SR: /Lv1　数えきれないほどの屍を積み上げて、その「最高傑作」は造られた。自身の通常攻撃を強化する。通常攻撃時ランダムな敵3体に攻撃力×150％の直接攻撃を行う。　/Lv2 直接攻撃のダメージが攻撃力×180％になる。　/Lv3 直接攻撃のダメージが攻撃力×240％になる。　/専用2 最高傑作を強化する。さらに通常攻撃時、クリティカルヒットした場合、1ターンの間対象の防御力を20％減少させる。",
+        "NameKey": "[PassiveSkillName48003]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[PassiveSkillDescription480031]",
+                "CharacterLevel": 41,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "SubSetSkillId": 550348003001
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[PassiveSkillDescription480032]",
+                "CharacterLevel": 121,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "SubSetSkillId": 550348003201
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[PassiveSkillDescription480033]",
+                "CharacterLevel": 201,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "SubSetSkillId": 550348003301
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[PassiveSkillDescription480034]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 256,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "SubSetSkillId": 550348003401
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 550348004,
+        "IsIgnore": null,
+        "Memo": "【錆鉄の魔女】\\nＡ．Ａ．SR: /Lv1　内に眠る守護天使が宿主を守る。自身のHP割合が25％未満になった場合、自身に1ターンの間『ダメージ無効』を付与する。このスキルは5ターンに1回発動する。　/Lv2 さらに自身が『ダメージ無効』を付帯している間自身の攻撃力が75％増加する。　/Lv3 『ダメージ無効』のターン数が2ターンになる。",
+        "NameKey": "[PassiveSkillName48004]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[PassiveSkillDescription480041]",
+                "CharacterLevel": 61,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 5,
+                        "SubSetSkillId": 550348004001
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[PassiveSkillDescription480042]",
+                "CharacterLevel": 141,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 5,
+                        "SubSetSkillId": 550348004201
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[PassiveSkillDescription480043]",
+                "CharacterLevel": 221,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 5,
+                        "SubSetSkillId": 550348004301
                     }
                 ]
             }
