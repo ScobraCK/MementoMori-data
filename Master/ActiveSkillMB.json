@@ -7228,6 +7228,135 @@
         "RootActiveSkillId": 48104
     },
     {
+        "Id": 550349001,
+        "IsIgnore": null,
+        "Memo": "【骸晶の魔女】\\nオフィーリアSR: /Lv1　骸晶の力を宿した刃で、ランダムな敵5体に攻撃力×560％の物理攻撃を行う。その眩い輝きは対する者たちを惑わし、刃へと惹き付ける。さらに自身のHP割合が60％以上の場合、自身に3ターンの間『挑発』を付与する。　/Lv2 自身のHP割合が60％以上の場合、さらに3ターンの間自身の被ダメージが40％減少するようになる。　/Lv3 自身のHP割合が60％以上の場合、さらに3ターンの間自身のカウンタが100％増加するようになる。　/専用1 目を奪うは眩き刃を強化する。さらに3ターンの間自身の弱体効果耐性が50％増加する。　/専用3 目を奪うは眩き刃を強化する。弱体効果耐性の増加量が100％になる。",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription5503490011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550349001001,
+                    550349001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription5503490012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550349001001,
+                    550349001202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription5503490013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550349001001,
+                    550349001302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription5503490014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550349001001,
+                    550349001402
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription5503490015]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550349001001,
+                    550349001502
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName49001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 5,
+        "RootActiveSkillId": 49001
+    },
+    {
+        "Id": 550349002,
+        "IsIgnore": null,
+        "Memo": "【骸晶の魔女】\\nオフィーリアSR: /Lv1　刃から放たれる衝撃波により、ランダムな敵1体に攻撃力×680％の物理攻撃を行う。骸晶は相手の力を飲み込み、刃の切れ味を増していく。2ターンの間対象の攻撃力を60％吸収し自身に加える。　/Lv2 物理攻撃のダメージが攻撃力×1145%になる。　/Lv3 『攻撃力吸収』のターン数が3ターンになる。　/Lv4 さらに自身のHPをこのスキルの総与ダメージ×40％回復する。　/専用2 クリスタルタイドを強化する。『攻撃力吸収』のターン数が4ターンになる。",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription5503490021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550349002001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription5503490022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550349002201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription5503490023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550349002301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription5503490024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550349002301,
+                    550349002402
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription5503490025]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 256,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550349002501,
+                    550349002402
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName49002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 49002
+    },
+    {
         "Id": 980000001,
         "IsIgnore": null,
         "Memo": "敵1名に物理攻撃300%",
