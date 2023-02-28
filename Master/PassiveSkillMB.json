@@ -4264,7 +4264,7 @@
     {
         "Id": 49003,
         "IsIgnore": null,
-        "Memo": "【骸晶の魔女】\\nオフィーリアSR",
+        "Memo": "【骸晶の魔女】\\nオフィーリアSR: その目に宿るのは、今度こそ愛する人を守るという固い決意。ターン開始時自身のHP割合が60％以上の場合、自身に2ターンの間『挑発』を付与し、自身の回避率を50％減少させる。対象がランダムである敵の攻撃を引き付ける。このスキルは4ターンに1回発動する。\nさらにこのスキルが自身の被ダメージを30％減少させる。\nさらにこのスキルが自身のカウンタを50％増加させる。",
         "NameKey": "[PassiveSkillName49003]",
         "PassiveSkillInfos": [
             {
@@ -4277,7 +4277,7 @@
                     {
                         "PassiveTrigger": 1,
                         "SkillCoolTime": 0,
-                        "SkillMaxCoolTime": 9999,
+                        "SkillMaxCoolTime": 4,
                         "SubSetSkillId": 49003001
                     }
                 ]
@@ -4292,14 +4292,8 @@
                     {
                         "PassiveTrigger": 1,
                         "SkillCoolTime": 0,
-                        "SkillMaxCoolTime": 9999,
+                        "SkillMaxCoolTime": 4,
                         "SubSetSkillId": 49003201
-                    },
-                    {
-                        "PassiveTrigger": 8,
-                        "SkillCoolTime": 0,
-                        "SkillMaxCoolTime": 0,
-                        "SubSetSkillId": 49003202
                     }
                 ]
             },
@@ -4313,14 +4307,8 @@
                     {
                         "PassiveTrigger": 1,
                         "SkillCoolTime": 0,
-                        "SkillMaxCoolTime": 9999,
+                        "SkillMaxCoolTime": 4,
                         "SubSetSkillId": 49003301
-                    },
-                    {
-                        "PassiveTrigger": 8,
-                        "SkillCoolTime": 0,
-                        "SkillMaxCoolTime": 0,
-                        "SubSetSkillId": 49003302
                     }
                 ]
             }
@@ -4329,7 +4317,7 @@
     {
         "Id": 49004,
         "IsIgnore": null,
-        "Memo": "【骸晶の魔女】\\nオフィーリアSR",
+        "Memo": "【骸晶の魔女】\\nオフィーリアSR: 近衛騎士としての栄誉は、王の盾となることにあり。自身の最大HPとクリティカル耐性がそれぞれ20％増加する（解除不可）。\n最大HPの増加量が40％、クリティカル耐性の増加量が40％になる。\nさらに自身が致命的なダメージを受けたとき、HP1で耐え、1ターンの間味方全体の物理防御力を40％増加させる。",
         "NameKey": "[PassiveSkillName49004]",
         "PassiveSkillInfos": [
             {
@@ -4342,7 +4330,7 @@
                     {
                         "PassiveTrigger": 1,
                         "SkillCoolTime": 0,
-                        "SkillMaxCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
                         "SubSetSkillId": 49004001
                     }
                 ]
@@ -4357,7 +4345,7 @@
                     {
                         "PassiveTrigger": 1,
                         "SkillCoolTime": 0,
-                        "SkillMaxCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
                         "SubSetSkillId": 49004201
                     }
                 ]
@@ -4372,8 +4360,43 @@
                     {
                         "PassiveTrigger": 1,
                         "SkillCoolTime": 0,
-                        "SkillMaxCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "SubSetSkillId": 49004201
+                    },
+                    {
+                        "PassiveTrigger": 42,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
                         "SubSetSkillId": 49004301
+                    },
+                    {
+                        "PassiveTrigger": 5,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "SubSetSkillId": 49004302
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 49005,
+        "IsIgnore": null,
+        "Memo": "【骸晶の魔女】\\nオフィーリアSR: 自身が物理攻撃を受けたとき、自身のHPを受けたダメージ×35％回復する（この攻撃で自身が戦闘不能になった場合、このスキルは発動しない）。",
+        "NameKey": "*",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "*",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 8,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 49005001
                     }
                 ]
             }

@@ -728,7 +728,13 @@
     {
         "Id": 121005,
         "IsIgnore": null,
-        "Memo": "時空の洞窟のマップ情報がありません",
+        "Memo": null,
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 121006,
+        "IsIgnore": null,
+        "Memo": null,
         "ErrorMessageType": 2
     },
     {
@@ -932,7 +938,25 @@
     {
         "Id": 122069,
         "IsIgnore": null,
-        "Memo": "移動できないマスです",
+        "Memo": null,
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 122070,
+        "IsIgnore": null,
+        "Memo": null,
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 122071,
+        "IsIgnore": null,
+        "Memo": null,
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 122072,
+        "IsIgnore": null,
+        "Memo": null,
         "ErrorMessageType": 2
     },
     {
@@ -1034,7 +1058,7 @@
     {
         "Id": 132013,
         "IsIgnore": null,
-        "Memo": "バトルログの有効期限が切れています",
+        "Memo": null,
         "ErrorMessageType": 3
     },
     {
@@ -1719,6 +1743,12 @@
         "Id": 200209,
         "IsIgnore": null,
         "Memo": "使用期限が過ぎています",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 200210,
+        "IsIgnore": null,
+        "Memo": null,
         "ErrorMessageType": 2
     },
     {
@@ -2965,6 +2995,12 @@
     },
     {
         "Id": 352008,
+        "IsIgnore": null,
+        "Memo": null,
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 352009,
         "IsIgnore": null,
         "Memo": null,
         "ErrorMessageType": 2

@@ -1033,5 +1033,77 @@
         "TradeShopType": 2,
         "EndTime": "2022-12-12 03:59:59",
         "StartTime": "2000-01-01 00:00:00"
+    },
+    {
+        "Id": 15,
+        "IsIgnore": null,
+        "Memo": "洞窟探索ショップ",
+        "AutoUpdateTimes": [
+            0
+        ],
+        "AutoUpdateType": 0,
+        "ConsumeItemInfos": [
+            {
+                "ItemType": 50,
+                "ItemId": 2
+            }
+        ],
+        "CustomTextLayout": {
+            "enUS": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#a44061FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "jaJP": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#a44061FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "koKR": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 1.0,
+                "BannerOutlineColor": "#a44061FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "zhTW": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#a44061FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            }
+        },
+        "DecorationColor": "#c18ed7FF",
+        "DecorationId": 4,
+        "DecorationSpecialId": 1,
+        "IconId": 17,
+        "IsHide": false,
+        "IsHideNotOpen": false,
+        "IsManualUpdate": false,
+        "ManualUpdateCurrencyCount": 0,
+        "OpenCommandType": 50,
+        "SortOrder": 1,
+        "TabNameKey": "[TradeShopTabName14]",
+        "TradeShopItemCount": 0,
+        "TradeShopType": 2,
+        "EndTime": "2023-03-13 03:59:59",
+        "StartTime": "2023-02-28 15:00:00"
     }
 ]

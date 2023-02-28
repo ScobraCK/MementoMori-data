@@ -901,13 +901,13 @@
     {
         "Id": 43,
         "IsIgnore": null,
-        "Memo": "クルクスの星守(フォルティナ,フローレンス,モーザ)",
+        "Memo": "アルテミスの誓約(オフィーリア,アムレート,フローレンス)",
         "BaseParameterChangeInfos": null,
         "BattleParameterChangeInfos": [
             {
-                "BattleParameterType": 14,
-                "ChangeParameterType": 1,
-                "Value": 10.0
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 200.0
             }
         ],
         "CharacterRarityBonus": 0,
@@ -918,18 +918,18 @@
     {
         "Id": 44,
         "IsIgnore": null,
-        "Memo": "クルクスの星守(フォルティナ,フローレンス,モーザ)",
+        "Memo": "アルテミスの誓約(オフィーリア,アムレート,フローレンス)",
         "BaseParameterChangeInfos": null,
         "BattleParameterChangeInfos": [
             {
-                "BattleParameterType": 14,
-                "ChangeParameterType": 1,
-                "Value": 100.0
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 500.0
             },
             {
-                "BattleParameterType": 17,
-                "ChangeParameterType": 1,
-                "Value": 1000.0
+                "BattleParameterType": 5,
+                "ChangeParameterType": 3,
+                "Value": 70.0
             }
         ],
         "CharacterRarityBonus": 0,
@@ -940,18 +940,18 @@
     {
         "Id": 45,
         "IsIgnore": null,
-        "Memo": "クルクスの星守(フォルティナ,フローレンス,モーザ)",
+        "Memo": "アルテミスの誓約(オフィーリア,アムレート,フローレンス)",
         "BaseParameterChangeInfos": null,
         "BattleParameterChangeInfos": [
             {
-                "BattleParameterType": 14,
-                "ChangeParameterType": 1,
-                "Value": 100.0
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 500.0
             },
             {
-                "BattleParameterType": 17,
-                "ChangeParameterType": 1,
-                "Value": 1000.0
+                "BattleParameterType": 5,
+                "ChangeParameterType": 3,
+                "Value": 70.0
             }
         ],
         "CharacterRarityBonus": 0,
@@ -962,18 +962,18 @@
     {
         "Id": 46,
         "IsIgnore": null,
-        "Memo": "クルクスの星守(フォルティナ,フローレンス,モーザ)",
+        "Memo": "アルテミスの誓約(オフィーリア,アムレート,フローレンス)",
         "BaseParameterChangeInfos": null,
         "BattleParameterChangeInfos": [
             {
-                "BattleParameterType": 14,
-                "ChangeParameterType": 1,
-                "Value": 100.0
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 500.0
             },
             {
-                "BattleParameterType": 17,
-                "ChangeParameterType": 1,
-                "Value": 1000.0
+                "BattleParameterType": 5,
+                "ChangeParameterType": 3,
+                "Value": 70.0
             }
         ],
         "CharacterRarityBonus": 1,
@@ -984,18 +984,18 @@
     {
         "Id": 47,
         "IsIgnore": null,
-        "Memo": "クルクスの星守(フォルティナ,フローレンス,モーザ)",
+        "Memo": "アルテミスの誓約(オフィーリア,アムレート,フローレンス)",
         "BaseParameterChangeInfos": null,
         "BattleParameterChangeInfos": [
             {
-                "BattleParameterType": 14,
-                "ChangeParameterType": 1,
-                "Value": 125.0
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 550.0
             },
             {
-                "BattleParameterType": 17,
-                "ChangeParameterType": 1,
-                "Value": 1100.0
+                "BattleParameterType": 5,
+                "ChangeParameterType": 3,
+                "Value": 75.0
             }
         ],
         "CharacterRarityBonus": 1,
@@ -1006,668 +1006,23 @@
     {
         "Id": 48,
         "IsIgnore": null,
-        "Memo": "クルクスの星守(フォルティナ,フローレンス,モーザ)",
+        "Memo": "アルテミスの誓約(オフィーリア,アムレート,フローレンス)",
         "BaseParameterChangeInfos": null,
         "BattleParameterChangeInfos": [
             {
-                "BattleParameterType": 14,
-                "ChangeParameterType": 1,
-                "Value": 150.0
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 600.0
             },
             {
-                "BattleParameterType": 17,
-                "ChangeParameterType": 1,
-                "Value": 1200.0
+                "BattleParameterType": 5,
+                "ChangeParameterType": 3,
+                "Value": 80.0
             }
         ],
         "CharacterRarityBonus": 1,
         "CharacterRarityFlags": 65536,
         "CollectionId": 8,
-        "CollectionLevel": 6
-    },
-    {
-        "Id": 49,
-        "IsIgnore": null,
-        "Memo": "ペガススの言霊(フォルティナ,ベル,サブリナ)",
-        "BaseParameterChangeInfos": [
-            {
-                "BaseParameterType": 2,
-                "ChangeParameterType": 1,
-                "Value": 300.0
-            }
-        ],
-        "BattleParameterChangeInfos": null,
-        "CharacterRarityBonus": 0,
-        "CharacterRarityFlags": 8,
-        "CollectionId": 9,
-        "CollectionLevel": 1
-    },
-    {
-        "Id": 50,
-        "IsIgnore": null,
-        "Memo": "ペガススの言霊(フォルティナ,ベル,サブリナ)",
-        "BaseParameterChangeInfos": [
-            {
-                "BaseParameterType": 2,
-                "ChangeParameterType": 1,
-                "Value": 3000.0
-            }
-        ],
-        "BattleParameterChangeInfos": [
-            {
-                "BattleParameterType": 5,
-                "ChangeParameterType": 2,
-                "Value": 100.0
-            }
-        ],
-        "CharacterRarityBonus": 0,
-        "CharacterRarityFlags": 128,
-        "CollectionId": 9,
-        "CollectionLevel": 2
-    },
-    {
-        "Id": 51,
-        "IsIgnore": null,
-        "Memo": "ペガススの言霊(フォルティナ,ベル,サブリナ)",
-        "BaseParameterChangeInfos": [
-            {
-                "BaseParameterType": 2,
-                "ChangeParameterType": 1,
-                "Value": 3000.0
-            }
-        ],
-        "BattleParameterChangeInfos": [
-            {
-                "BattleParameterType": 5,
-                "ChangeParameterType": 2,
-                "Value": 100.0
-            }
-        ],
-        "CharacterRarityBonus": 0,
-        "CharacterRarityFlags": 512,
-        "CollectionId": 9,
-        "CollectionLevel": 3
-    },
-    {
-        "Id": 52,
-        "IsIgnore": null,
-        "Memo": "ペガススの言霊(フォルティナ,ベル,サブリナ)",
-        "BaseParameterChangeInfos": [
-            {
-                "BaseParameterType": 2,
-                "ChangeParameterType": 1,
-                "Value": 3000.0
-            }
-        ],
-        "BattleParameterChangeInfos": [
-            {
-                "BattleParameterType": 5,
-                "ChangeParameterType": 2,
-                "Value": 100.0
-            }
-        ],
-        "CharacterRarityBonus": 1,
-        "CharacterRarityFlags": 16384,
-        "CollectionId": 9,
-        "CollectionLevel": 4
-    },
-    {
-        "Id": 53,
-        "IsIgnore": null,
-        "Memo": "ペガススの言霊(フォルティナ,ベル,サブリナ)",
-        "BaseParameterChangeInfos": [
-            {
-                "BaseParameterType": 2,
-                "ChangeParameterType": 1,
-                "Value": 4000.0
-            }
-        ],
-        "BattleParameterChangeInfos": [
-            {
-                "BattleParameterType": 5,
-                "ChangeParameterType": 2,
-                "Value": 150.0
-            }
-        ],
-        "CharacterRarityBonus": 1,
-        "CharacterRarityFlags": 32768,
-        "CollectionId": 9,
-        "CollectionLevel": 5
-    },
-    {
-        "Id": 54,
-        "IsIgnore": null,
-        "Memo": "ペガススの言霊(フォルティナ,ベル,サブリナ)",
-        "BaseParameterChangeInfos": [
-            {
-                "BaseParameterType": 2,
-                "ChangeParameterType": 1,
-                "Value": 5000.0
-            }
-        ],
-        "BattleParameterChangeInfos": [
-            {
-                "BattleParameterType": 5,
-                "ChangeParameterType": 2,
-                "Value": 200.0
-            }
-        ],
-        "CharacterRarityBonus": 1,
-        "CharacterRarityFlags": 65536,
-        "CollectionId": 9,
-        "CollectionLevel": 6
-    },
-    {
-        "Id": 55,
-        "IsIgnore": null,
-        "Memo": "カシオペアの鼓動(ベル,ヴァルリーデ,アモール,リーン)",
-        "BaseParameterChangeInfos": null,
-        "BattleParameterChangeInfos": [
-            {
-                "BattleParameterType": 18,
-                "ChangeParameterType": 1,
-                "Value": 500.0
-            }
-        ],
-        "CharacterRarityBonus": 0,
-        "CharacterRarityFlags": 8,
-        "CollectionId": 10,
-        "CollectionLevel": 1
-    },
-    {
-        "Id": 56,
-        "IsIgnore": null,
-        "Memo": "カシオペアの鼓動(ベル,ヴァルリーデ,アモール,リーン)",
-        "BaseParameterChangeInfos": [
-            {
-                "BaseParameterType": 4,
-                "ChangeParameterType": 1,
-                "Value": 3000.0
-            }
-        ],
-        "BattleParameterChangeInfos": [
-            {
-                "BattleParameterType": 18,
-                "ChangeParameterType": 1,
-                "Value": 1000.0
-            }
-        ],
-        "CharacterRarityBonus": 0,
-        "CharacterRarityFlags": 128,
-        "CollectionId": 10,
-        "CollectionLevel": 2
-    },
-    {
-        "Id": 57,
-        "IsIgnore": null,
-        "Memo": "カシオペアの鼓動(ベル,ヴァルリーデ,アモール,リーン)",
-        "BaseParameterChangeInfos": [
-            {
-                "BaseParameterType": 4,
-                "ChangeParameterType": 1,
-                "Value": 3000.0
-            }
-        ],
-        "BattleParameterChangeInfos": [
-            {
-                "BattleParameterType": 18,
-                "ChangeParameterType": 1,
-                "Value": 1000.0
-            }
-        ],
-        "CharacterRarityBonus": 0,
-        "CharacterRarityFlags": 512,
-        "CollectionId": 10,
-        "CollectionLevel": 3
-    },
-    {
-        "Id": 58,
-        "IsIgnore": null,
-        "Memo": "カシオペアの鼓動(ベル,ヴァルリーデ,アモール,リーン)",
-        "BaseParameterChangeInfos": [
-            {
-                "BaseParameterType": 4,
-                "ChangeParameterType": 1,
-                "Value": 3000.0
-            }
-        ],
-        "BattleParameterChangeInfos": [
-            {
-                "BattleParameterType": 18,
-                "ChangeParameterType": 1,
-                "Value": 1000.0
-            }
-        ],
-        "CharacterRarityBonus": 1,
-        "CharacterRarityFlags": 16384,
-        "CollectionId": 10,
-        "CollectionLevel": 4
-    },
-    {
-        "Id": 59,
-        "IsIgnore": null,
-        "Memo": "カシオペアの鼓動(ベル,ヴァルリーデ,アモール,リーン)",
-        "BaseParameterChangeInfos": [
-            {
-                "BaseParameterType": 4,
-                "ChangeParameterType": 1,
-                "Value": 4000.0
-            }
-        ],
-        "BattleParameterChangeInfos": [
-            {
-                "BattleParameterType": 18,
-                "ChangeParameterType": 1,
-                "Value": 1100.0
-            }
-        ],
-        "CharacterRarityBonus": 1,
-        "CharacterRarityFlags": 32768,
-        "CollectionId": 10,
-        "CollectionLevel": 5
-    },
-    {
-        "Id": 60,
-        "IsIgnore": null,
-        "Memo": "カシオペアの鼓動(ベル,ヴァルリーデ,アモール,リーン)",
-        "BaseParameterChangeInfos": [
-            {
-                "BaseParameterType": 4,
-                "ChangeParameterType": 1,
-                "Value": 5000.0
-            }
-        ],
-        "BattleParameterChangeInfos": [
-            {
-                "BattleParameterType": 18,
-                "ChangeParameterType": 1,
-                "Value": 1200.0
-            }
-        ],
-        "CharacterRarityBonus": 1,
-        "CharacterRarityFlags": 65536,
-        "CollectionId": 10,
-        "CollectionLevel": 6
-    },
-    {
-        "Id": 61,
-        "IsIgnore": null,
-        "Memo": "カプリコルヌスの聖刃(ヴァルリーデ,ルーク,マーリン)",
-        "BaseParameterChangeInfos": null,
-        "BattleParameterChangeInfos": [
-            {
-                "BattleParameterType": 7,
-                "ChangeParameterType": 1,
-                "Value": 150.0
-            }
-        ],
-        "CharacterRarityBonus": 0,
-        "CharacterRarityFlags": 8,
-        "CollectionId": 11,
-        "CollectionLevel": 1
-    },
-    {
-        "Id": 62,
-        "IsIgnore": null,
-        "Memo": "カプリコルヌスの聖刃(ヴァルリーデ,ルーク,マーリン)",
-        "BaseParameterChangeInfos": null,
-        "BattleParameterChangeInfos": [
-            {
-                "BattleParameterType": 7,
-                "ChangeParameterType": 1,
-                "Value": 1500.0
-            },
-            {
-                "BattleParameterType": 12,
-                "ChangeParameterType": 1,
-                "Value": 100.0
-            }
-        ],
-        "CharacterRarityBonus": 0,
-        "CharacterRarityFlags": 128,
-        "CollectionId": 11,
-        "CollectionLevel": 2
-    },
-    {
-        "Id": 63,
-        "IsIgnore": null,
-        "Memo": "カプリコルヌスの聖刃(ヴァルリーデ,ルーク,マーリン)",
-        "BaseParameterChangeInfos": null,
-        "BattleParameterChangeInfos": [
-            {
-                "BattleParameterType": 7,
-                "ChangeParameterType": 1,
-                "Value": 1500.0
-            },
-            {
-                "BattleParameterType": 12,
-                "ChangeParameterType": 1,
-                "Value": 100.0
-            }
-        ],
-        "CharacterRarityBonus": 0,
-        "CharacterRarityFlags": 512,
-        "CollectionId": 11,
-        "CollectionLevel": 3
-    },
-    {
-        "Id": 64,
-        "IsIgnore": null,
-        "Memo": "カプリコルヌスの聖刃(ヴァルリーデ,ルーク,マーリン)",
-        "BaseParameterChangeInfos": null,
-        "BattleParameterChangeInfos": [
-            {
-                "BattleParameterType": 7,
-                "ChangeParameterType": 1,
-                "Value": 1500.0
-            },
-            {
-                "BattleParameterType": 12,
-                "ChangeParameterType": 1,
-                "Value": 100.0
-            }
-        ],
-        "CharacterRarityBonus": 1,
-        "CharacterRarityFlags": 16384,
-        "CollectionId": 11,
-        "CollectionLevel": 4
-    },
-    {
-        "Id": 65,
-        "IsIgnore": null,
-        "Memo": "カプリコルヌスの聖刃(ヴァルリーデ,ルーク,マーリン)",
-        "BaseParameterChangeInfos": null,
-        "BattleParameterChangeInfos": [
-            {
-                "BattleParameterType": 7,
-                "ChangeParameterType": 2,
-                "Value": 150.0
-            },
-            {
-                "BattleParameterType": 12,
-                "ChangeParameterType": 1,
-                "Value": 125.0
-            }
-        ],
-        "CharacterRarityBonus": 1,
-        "CharacterRarityFlags": 32768,
-        "CollectionId": 11,
-        "CollectionLevel": 5
-    },
-    {
-        "Id": 66,
-        "IsIgnore": null,
-        "Memo": "カプリコルヌスの聖刃(ヴァルリーデ,ルーク,マーリン)",
-        "BaseParameterChangeInfos": null,
-        "BattleParameterChangeInfos": [
-            {
-                "BattleParameterType": 7,
-                "ChangeParameterType": 2,
-                "Value": 200.0
-            },
-            {
-                "BattleParameterType": 12,
-                "ChangeParameterType": 1,
-                "Value": 150.0
-            }
-        ],
-        "CharacterRarityBonus": 1,
-        "CharacterRarityFlags": 65536,
-        "CollectionId": 11,
-        "CollectionLevel": 6
-    },
-    {
-        "Id": 67,
-        "IsIgnore": null,
-        "Memo": "ペルセウスの守護(ルーク,カロル,コルディ)",
-        "BaseParameterChangeInfos": null,
-        "BattleParameterChangeInfos": [
-            {
-                "BattleParameterType": 1,
-                "ChangeParameterType": 1,
-                "Value": 3000.0
-            }
-        ],
-        "CharacterRarityBonus": 0,
-        "CharacterRarityFlags": 8,
-        "CollectionId": 12,
-        "CollectionLevel": 1
-    },
-    {
-        "Id": 68,
-        "IsIgnore": null,
-        "Memo": "ペルセウスの守護(ルーク,カロル,コルディ)",
-        "BaseParameterChangeInfos": null,
-        "BattleParameterChangeInfos": [
-            {
-                "BattleParameterType": 1,
-                "ChangeParameterType": 1,
-                "Value": 25000.0
-            },
-            {
-                "BattleParameterType": 3,
-                "ChangeParameterType": 2,
-                "Value": 100.0
-            }
-        ],
-        "CharacterRarityBonus": 0,
-        "CharacterRarityFlags": 128,
-        "CollectionId": 12,
-        "CollectionLevel": 2
-    },
-    {
-        "Id": 69,
-        "IsIgnore": null,
-        "Memo": "ペルセウスの守護(ルーク,カロル,コルディ)",
-        "BaseParameterChangeInfos": null,
-        "BattleParameterChangeInfos": [
-            {
-                "BattleParameterType": 1,
-                "ChangeParameterType": 1,
-                "Value": 25000.0
-            },
-            {
-                "BattleParameterType": 3,
-                "ChangeParameterType": 2,
-                "Value": 100.0
-            }
-        ],
-        "CharacterRarityBonus": 0,
-        "CharacterRarityFlags": 512,
-        "CollectionId": 12,
-        "CollectionLevel": 3
-    },
-    {
-        "Id": 70,
-        "IsIgnore": null,
-        "Memo": "ペルセウスの守護(ルーク,カロル,コルディ)",
-        "BaseParameterChangeInfos": null,
-        "BattleParameterChangeInfos": [
-            {
-                "BattleParameterType": 1,
-                "ChangeParameterType": 1,
-                "Value": 25000.0
-            },
-            {
-                "BattleParameterType": 3,
-                "ChangeParameterType": 2,
-                "Value": 100.0
-            }
-        ],
-        "CharacterRarityBonus": 1,
-        "CharacterRarityFlags": 16384,
-        "CollectionId": 12,
-        "CollectionLevel": 4
-    },
-    {
-        "Id": 71,
-        "IsIgnore": null,
-        "Memo": "ペルセウスの守護(ルーク,カロル,コルディ)",
-        "BaseParameterChangeInfos": null,
-        "BattleParameterChangeInfos": [
-            {
-                "BattleParameterType": 1,
-                "ChangeParameterType": 1,
-                "Value": 30000.0
-            },
-            {
-                "BattleParameterType": 3,
-                "ChangeParameterType": 2,
-                "Value": 150.0
-            }
-        ],
-        "CharacterRarityBonus": 1,
-        "CharacterRarityFlags": 32768,
-        "CollectionId": 12,
-        "CollectionLevel": 5
-    },
-    {
-        "Id": 72,
-        "IsIgnore": null,
-        "Memo": "ペルセウスの守護(ルーク,カロル,コルディ)",
-        "BaseParameterChangeInfos": null,
-        "BattleParameterChangeInfos": [
-            {
-                "BattleParameterType": 1,
-                "ChangeParameterType": 1,
-                "Value": 35000.0
-            },
-            {
-                "BattleParameterType": 3,
-                "ChangeParameterType": 2,
-                "Value": 200.0
-            }
-        ],
-        "CharacterRarityBonus": 1,
-        "CharacterRarityFlags": 65536,
-        "CollectionId": 12,
-        "CollectionLevel": 6
-    },
-    {
-        "Id": 73,
-        "IsIgnore": null,
-        "Memo": "スコルピウスの反転(カロル,ソーニャ,ミミ,トロポン)",
-        "BaseParameterChangeInfos": null,
-        "BattleParameterChangeInfos": [
-            {
-                "BattleParameterType": 15,
-                "ChangeParameterType": 1,
-                "Value": 150.0
-            }
-        ],
-        "CharacterRarityBonus": 0,
-        "CharacterRarityFlags": 8,
-        "CollectionId": 13,
-        "CollectionLevel": 1
-    },
-    {
-        "Id": 74,
-        "IsIgnore": null,
-        "Memo": "スコルピウスの反転(カロル,ソーニャ,ミミ,トロポン)",
-        "BaseParameterChangeInfos": null,
-        "BattleParameterChangeInfos": [
-            {
-                "BattleParameterType": 15,
-                "ChangeParameterType": 1,
-                "Value": 1500.0
-            },
-            {
-                "BattleParameterType": 8,
-                "ChangeParameterType": 2,
-                "Value": 100.0
-            }
-        ],
-        "CharacterRarityBonus": 0,
-        "CharacterRarityFlags": 128,
-        "CollectionId": 13,
-        "CollectionLevel": 2
-    },
-    {
-        "Id": 75,
-        "IsIgnore": null,
-        "Memo": "スコルピウスの反転(カロル,ソーニャ,ミミ,トロポン)",
-        "BaseParameterChangeInfos": null,
-        "BattleParameterChangeInfos": [
-            {
-                "BattleParameterType": 15,
-                "ChangeParameterType": 1,
-                "Value": 1500.0
-            },
-            {
-                "BattleParameterType": 8,
-                "ChangeParameterType": 2,
-                "Value": 100.0
-            }
-        ],
-        "CharacterRarityBonus": 0,
-        "CharacterRarityFlags": 512,
-        "CollectionId": 13,
-        "CollectionLevel": 3
-    },
-    {
-        "Id": 76,
-        "IsIgnore": null,
-        "Memo": "スコルピウスの反転(カロル,ソーニャ,ミミ,トロポン)",
-        "BaseParameterChangeInfos": null,
-        "BattleParameterChangeInfos": [
-            {
-                "BattleParameterType": 15,
-                "ChangeParameterType": 1,
-                "Value": 1500.0
-            },
-            {
-                "BattleParameterType": 8,
-                "ChangeParameterType": 2,
-                "Value": 100.0
-            }
-        ],
-        "CharacterRarityBonus": 1,
-        "CharacterRarityFlags": 16384,
-        "CollectionId": 13,
-        "CollectionLevel": 4
-    },
-    {
-        "Id": 77,
-        "IsIgnore": null,
-        "Memo": "スコルピウスの反転(カロル,ソーニャ,ミミ,トロポン)",
-        "BaseParameterChangeInfos": null,
-        "BattleParameterChangeInfos": [
-            {
-                "BattleParameterType": 15,
-                "ChangeParameterType": 1,
-                "Value": 2000.0
-            },
-            {
-                "BattleParameterType": 8,
-                "ChangeParameterType": 2,
-                "Value": 150.0
-            }
-        ],
-        "CharacterRarityBonus": 1,
-        "CharacterRarityFlags": 32768,
-        "CollectionId": 13,
-        "CollectionLevel": 5
-    },
-    {
-        "Id": 78,
-        "IsIgnore": null,
-        "Memo": "スコルピウスの反転(カロル,ソーニャ,ミミ,トロポン)",
-        "BaseParameterChangeInfos": null,
-        "BattleParameterChangeInfos": [
-            {
-                "BattleParameterType": 15,
-                "ChangeParameterType": 1,
-                "Value": 2500.0
-            },
-            {
-                "BattleParameterType": 8,
-                "ChangeParameterType": 2,
-                "Value": 200.0
-            }
-        ],
-        "CharacterRarityBonus": 1,
-        "CharacterRarityFlags": 65536,
-        "CollectionId": 13,
         "CollectionLevel": 6
     }
 ]

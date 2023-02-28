@@ -3742,5 +3742,21 @@
         "ItemId": 510,
         "ItemType": 16,
         "NeedCount": 1
+    },
+    {
+        "Id": 235,
+        "IsIgnore": null,
+        "Memo": "骸晶の欠片",
+        "ChangeItems": [
+            {
+                "ItemCount": 10000,
+                "ItemId": 1,
+                "ItemType": 3
+            }
+        ],
+        "ChangeItemType": 0,
+        "ItemId": 2,
+        "ItemType": 50,
+        "NeedCount": 1
     }
 ]

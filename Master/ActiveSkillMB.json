@@ -6291,7 +6291,7 @@
     {
         "Id": 49001,
         "IsIgnore": null,
-        "Memo": "【骸晶の魔女】\\nオフィーリアSR:",
+        "Memo": "【骸晶の魔女】\\nオフィーリアSR: 骸晶の力を宿した刃で、ランダムな敵5体に攻撃力×300％の物理攻撃を行う。\nさらに自身のHPを自身の最大HP×20％回復する。\n物理攻撃のダメージが攻撃力×380％になる。\n目を奪うは眩き刃を強化する。さらに3ターンの間自身の弱体効果耐性が30％増加する。\n目を奪うは眩き刃を強化する。弱体効果耐性の増加量が50％になる。",
         "ActiveSkillInfos": [
             {
                 "OrderNumber": 1,
@@ -6300,8 +6300,7 @@
                 "EquipmentRarityFlags": 0,
                 "BlessingItemId": 0,
                 "SubSetSkillIds": [
-                    49001001,
-                    49001002
+                    49001001
                 ]
             },
             {
@@ -6322,18 +6321,18 @@
                 "EquipmentRarityFlags": 0,
                 "BlessingItemId": 0,
                 "SubSetSkillIds": [
-                    49001001,
-                    49001302
+                    49001301,
+                    49001202
                 ]
             },
             {
                 "OrderNumber": 4,
                 "DescriptionKey": "[ActiveSkillDescription490014]",
-                "CharacterLevel": 161,
-                "EquipmentRarityFlags": 128,
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 256,
                 "BlessingItemId": 0,
                 "SubSetSkillIds": [
-                    49001001,
+                    49001301,
                     49001402
                 ]
             },
@@ -6344,7 +6343,7 @@
                 "EquipmentRarityFlags": 512,
                 "BlessingItemId": 0,
                 "SubSetSkillIds": [
-                    49001001,
+                    49001301,
                     49001502
                 ]
             }
@@ -6357,7 +6356,7 @@
     {
         "Id": 49002,
         "IsIgnore": null,
-        "Memo": "【骸晶の魔女】\\nオフィーリアSR: ",
+        "Memo": "【骸晶の魔女】\\nオフィーリアSR: /刃から放たれる衝撃波により、ランダムな敵1体に攻撃力×560％の物理攻撃を行う。生み出された骸晶が相手の力を飲み込み、2ターンの間対象の攻撃力を25％減少させる。\n物理攻撃のダメージが攻撃力×760％になる。\n『攻撃力減少』のターン数が3ターンになる。\n攻撃力の減少量が40%になる。",
         "ActiveSkillInfos": [
             {
                 "OrderNumber": 1,
@@ -6396,19 +6395,7 @@
                 "EquipmentRarityFlags": 0,
                 "BlessingItemId": 0,
                 "SubSetSkillIds": [
-                    49002301,
-                    49002402
-                ]
-            },
-            {
-                "OrderNumber": 5,
-                "DescriptionKey": "[ActiveSkillDescription490025]",
-                "CharacterLevel": 181,
-                "EquipmentRarityFlags": 256,
-                "BlessingItemId": 0,
-                "SubSetSkillIds": [
-                    49002501,
-                    49002402
+                    49002401
                 ]
             }
         ],
