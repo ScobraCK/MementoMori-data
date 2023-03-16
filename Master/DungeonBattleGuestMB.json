@@ -425,10 +425,19 @@
     {
         "Id": 48,
         "IsIgnore": null,
-        "Memo": null,
+        "Memo": "オフィーリア",
         "CharacterId": 49,
-        "IsPickup": true,
+        "IsPickup": false,
         "EndTimeFixJST": "2100-01-01 00:00:00",
         "StartTimeFixJST": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 49,
+        "IsIgnore": null,
+        "Memo": "ウィーラ",
+        "CharacterId": 53,
+        "IsPickup": true,
+        "EndTimeFixJST": "2023-03-31 14:29:59",
+        "StartTimeFixJST": "2023-03-16 15:00:00"
     }
 ]

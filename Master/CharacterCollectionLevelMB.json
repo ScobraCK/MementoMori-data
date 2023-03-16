@@ -1024,5 +1024,132 @@
         "CharacterRarityFlags": 65536,
         "CollectionId": 8,
         "CollectionLevel": 6
+    },
+    {
+        "Id": 49,
+        "IsIgnore": null,
+        "Memo": "ピスケスの愛護(ウィーラ,ミミ,ニーナ)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 3,
+                "Value": 30.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 8,
+        "CollectionId": 9,
+        "CollectionLevel": 1
+    },
+    {
+        "Id": 50,
+        "IsIgnore": null,
+        "Memo": "ピスケスの愛護(ウィーラ,ミミ,ニーナ)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 3,
+                "Value": 70.0
+            },
+            {
+                "BattleParameterType": 11,
+                "ChangeParameterType": 1,
+                "Value": 1500.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 128,
+        "CollectionId": 9,
+        "CollectionLevel": 2
+    },
+    {
+        "Id": 51,
+        "IsIgnore": null,
+        "Memo": "ピスケスの愛護(ウィーラ,ミミ,ニーナ)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 3,
+                "Value": 70.0
+            },
+            {
+                "BattleParameterType": 11,
+                "ChangeParameterType": 1,
+                "Value": 1500.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 512,
+        "CollectionId": 9,
+        "CollectionLevel": 3
+    },
+    {
+        "Id": 52,
+        "IsIgnore": null,
+        "Memo": "ピスケスの愛護(ウィーラ,ミミ,ニーナ)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 3,
+                "Value": 70.0
+            },
+            {
+                "BattleParameterType": 11,
+                "ChangeParameterType": 1,
+                "Value": 1500.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 16384,
+        "CollectionId": 9,
+        "CollectionLevel": 4
+    },
+    {
+        "Id": 53,
+        "IsIgnore": null,
+        "Memo": "ピスケスの愛護(ウィーラ,ミミ,ニーナ)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 3,
+                "Value": 75.0
+            },
+            {
+                "BattleParameterType": 11,
+                "ChangeParameterType": 1,
+                "Value": 1600.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 32768,
+        "CollectionId": 9,
+        "CollectionLevel": 5
+    },
+    {
+        "Id": 54,
+        "IsIgnore": null,
+        "Memo": "ピスケスの愛護(ウィーラ,ミミ,ニーナ)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 3,
+                "Value": 80.0
+            },
+            {
+                "BattleParameterType": 11,
+                "ChangeParameterType": 1,
+                "Value": 1700.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 65536,
+        "CollectionId": 9,
+        "CollectionLevel": 6
     }
 ]

@@ -6596,6 +6596,144 @@
         "RootActiveSkillId": 51002
     },
     {
+        "Id": 53001,
+        "IsIgnore": null,
+        "Memo": "ウィーラSR:Lv1 水のおともだちを呼んで攻撃してもらう。ランダムな敵3体に攻撃力×430％の魔法攻撃を行う。水の乙女が触れた者の生気を奪い取り、60％の確率で1ターンの間対象の攻撃力を15％減少させる。対象の魔力が自身よりも低い場合、『攻撃力減少』のターン数が2ターンになる。/ Lv2\n 攻撃力の減少量が35％になる。/ Lv3 \n攻撃力を減少させる確率が100％になる。/ Ex1 ウンディーネを強化する。魔法攻撃の対象がランダムな敵4体になる。/Ex2 \nウンディーネを強化する。魔法攻撃のダメージが攻撃力×480％になる。",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription530011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    53001001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription530012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    53001201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription530013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    53001301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription530014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    53001401
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription530015]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 256,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    53001501
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName53001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 53001
+    },
+    {
+        "Id": 53002,
+        "IsIgnore": null,
+        "Memo": "ウィーラSR: Lv1 水の妖精にお願いして攻撃してもらう。ランダムな敵に3回攻撃力×310％の魔法攻撃を行う。まとわりついた水が相手の動きを遅くさせ、5ターンの間対象のスピードを15％減少させる（最大3回まで）。/ Lv2 \n魔法攻撃の回数が4回になり、『スピード減少』のスタック数が最大4回になる。/Lv3 \n『スピード減少』を付帯している敵を対象とする場合、魔法攻撃のダメージが1.5倍になる。/Lv4 \n魔法攻撃のダメージが攻撃力×380%になり、さらに自身のHPをこのスキルの総与ダメージ×30％回復する。/ Ex3 アンダインを強化する。魔法攻撃のダメージが攻撃力×420％になる。",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription530021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    53002001,
+                    53002002,
+                    53002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription530022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    53002201,
+                    53002202,
+                    53002202,
+                    53002202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription530023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    53002301,
+                    53002302,
+                    53002302,
+                    53002302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription530024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    53002401,
+                    53002402,
+                    53002402,
+                    53002402,
+                    53002403
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription530025]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    53002501,
+                    53002502,
+                    53002502,
+                    53002502,
+                    53002403
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName53002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 53002
+    },
+    {
         "Id": 550109001,
         "IsIgnore": null,
         "Memo": "ギルドレイド通常ソーニャSR：ソーニャSR:旋風の如き素早い急襲。HPが最も低い敵に攻撃力×800％の物理攻撃を行う。弱った敵にも容赦しないヴァイキングの本能により、敵のHP割合が40％以下の場合、この攻撃は必ずクリティカルヒットする。／さらに自身の腕力×400％の直接攻撃を行う。／追加攻撃のダメージが腕力×600%になる。／さらにこのスキルで敵を戦闘不能にした場合、このスキルを再発動する。",
