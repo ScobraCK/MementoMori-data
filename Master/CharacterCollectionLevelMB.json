@@ -1151,5 +1151,132 @@
         "CharacterRarityFlags": 65536,
         "CollectionId": 9,
         "CollectionLevel": 6
+    },
+    {
+        "Id": 55,
+        "IsIgnore": null,
+        "Memo": "ミモザの抱擁（フォルティナ,オリヴィエ）",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 3,
+                "Value": 5.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 8,
+        "CollectionId": 10,
+        "CollectionLevel": 1
+    },
+    {
+        "Id": 56,
+        "IsIgnore": null,
+        "Memo": "ミモザの抱擁（フォルティナ,オリヴィエ）",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 3,
+                "Value": 15.0
+            },
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 500.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 128,
+        "CollectionId": 10,
+        "CollectionLevel": 2
+    },
+    {
+        "Id": 57,
+        "IsIgnore": null,
+        "Memo": "ミモザの抱擁（フォルティナ,オリヴィエ）",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 3,
+                "Value": 15.0
+            },
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 500.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 512,
+        "CollectionId": 10,
+        "CollectionLevel": 3
+    },
+    {
+        "Id": 58,
+        "IsIgnore": null,
+        "Memo": "ミモザの抱擁（フォルティナ,オリヴィエ）",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 3,
+                "Value": 15.0
+            },
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 500.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 16384,
+        "CollectionId": 10,
+        "CollectionLevel": 4
+    },
+    {
+        "Id": 59,
+        "IsIgnore": null,
+        "Memo": "ミモザの抱擁（フォルティナ,オリヴィエ）",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 3,
+                "Value": 18.0
+            },
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 550.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 32768,
+        "CollectionId": 10,
+        "CollectionLevel": 5
+    },
+    {
+        "Id": 60,
+        "IsIgnore": null,
+        "Memo": "ミモザの抱擁（フォルティナ,オリヴィエ）",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 3,
+                "Value": 20.0
+            },
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 600.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 65536,
+        "CollectionId": 10,
+        "CollectionLevel": 6
     }
 ]
