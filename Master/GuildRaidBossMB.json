@@ -252,7 +252,13 @@
         ],
         "ReleasableGuildFame": 0,
         "UnitIconId": 9,
-        "UnitIconType": 0
+        "UnitIconType": 0,
+        "StartTime": "2020-01-01 00:00:00",
+        "EndTime": "2100-12-31 23:59:59",
+        "CharacterImageX": 0.03500000014901161,
+        "CharacterImageY": -0.05000000074505806,
+        "GuildRaidButtonX": -155.5,
+        "BannerText": null
     },
     {
         "Id": 2,
@@ -281,7 +287,7 @@
             "Defense": 300000,
             "DefensePenetration": 5000,
             "Hit": 100000000,
-            "HP": 50000000000,
+            "HP": 250000000000,
             "HpDrain": 0,
             "MagicCriticalDamageRelax": 0,
             "MagicDamageRelax": 600000,
@@ -508,6 +514,12 @@
         ],
         "ReleasableGuildFame": 10000,
         "UnitIconId": 30,
-        "UnitIconType": 0
+        "UnitIconType": 0,
+        "StartTime": "2020-01-01 00:00:00",
+        "EndTime": "2100-12-31 23:59:59",
+        "CharacterImageX": 0.023000000044703484,
+        "CharacterImageY": -0.07900000363588333,
+        "GuildRaidButtonX": -155.5,
+        "BannerText": null
     }
 ]
