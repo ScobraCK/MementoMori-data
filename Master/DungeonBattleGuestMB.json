@@ -436,8 +436,17 @@
         "IsIgnore": null,
         "Memo": "ウィーラ",
         "CharacterId": 53,
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
+    },
+    {
+        "Id": 50,
+        "IsIgnore": null,
+        "Memo": "レア",
+        "CharacterId": 55,
         "IsPickup": true,
-        "EndTimeFixJST": "2023-03-31 14:29:59",
-        "StartTimeFixJST": "2023-03-16 15:00:00"
+        "EndTimeFixJST": "2023-04-14 14:29:59",
+        "StartTimeFixJST": "2023-03-31 17:30:00"
     }
 ]

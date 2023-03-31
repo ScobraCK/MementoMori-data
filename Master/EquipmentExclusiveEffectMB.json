@@ -4706,5 +4706,138 @@
             }
         ],
         "CharacterId": 53
+    },
+    {
+        "Id": 217,
+        "IsIgnore": null,
+        "Memo": "レアSSR180",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 55
+    },
+    {
+        "Id": 218,
+        "IsIgnore": null,
+        "Memo": "レアSSR200",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1300.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 600.0
+            }
+        ],
+        "CharacterId": 55
+    },
+    {
+        "Id": 219,
+        "IsIgnore": null,
+        "Memo": "レアSSR220",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 650.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1400.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "CharacterId": 55
+    },
+    {
+        "Id": 220,
+        "IsIgnore": null,
+        "Memo": "レアSSR240",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "CharacterId": 55
+    },
+    {
+        "Id": 221,
+        "IsIgnore": null,
+        "Memo": "レアUR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 750.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1600.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 900.0
+            }
+        ],
+        "CharacterId": 55
+    },
+    {
+        "Id": 222,
+        "IsIgnore": null,
+        "Memo": "レアLR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 1000.0
+            }
+        ],
+        "CharacterId": 55
     }
 ]

@@ -1278,5 +1278,137 @@
         "CharacterRarityFlags": 65536,
         "CollectionId": 10,
         "CollectionLevel": 6
+    },
+    {
+        "Id": 61,
+        "IsIgnore": null,
+        "Memo": "サーペンスの愛執(レア,アモール,アイビー)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 2,
+                "ChangeParameterType": 3,
+                "Value": 15.0
+            }
+        ],
+        "BattleParameterChangeInfos": null,
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 8,
+        "CollectionId": 11,
+        "CollectionLevel": 1
+    },
+    {
+        "Id": 62,
+        "IsIgnore": null,
+        "Memo": "サーペンスの愛執(レア,アモール,アイビー)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 2,
+                "ChangeParameterType": 3,
+                "Value": 30.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 160.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 128,
+        "CollectionId": 11,
+        "CollectionLevel": 2
+    },
+    {
+        "Id": 63,
+        "IsIgnore": null,
+        "Memo": "サーペンスの愛執(レア,アモール,アイビー)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 2,
+                "ChangeParameterType": 3,
+                "Value": 30.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 160.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 512,
+        "CollectionId": 11,
+        "CollectionLevel": 3
+    },
+    {
+        "Id": 64,
+        "IsIgnore": null,
+        "Memo": "サーペンスの愛執(レア,アモール,アイビー)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 2,
+                "ChangeParameterType": 3,
+                "Value": 30.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 160.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 16384,
+        "CollectionId": 11,
+        "CollectionLevel": 4
+    },
+    {
+        "Id": 65,
+        "IsIgnore": null,
+        "Memo": "サーペンスの愛執(レア,アモール,アイビー)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 2,
+                "ChangeParameterType": 3,
+                "Value": 31.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 180.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 32768,
+        "CollectionId": 11,
+        "CollectionLevel": 5
+    },
+    {
+        "Id": 66,
+        "IsIgnore": null,
+        "Memo": "サーペンスの愛執(レア,アモール,アイビー)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 2,
+                "ChangeParameterType": 3,
+                "Value": 32.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 200.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 65536,
+        "CollectionId": 11,
+        "CollectionLevel": 6
     }
 ]

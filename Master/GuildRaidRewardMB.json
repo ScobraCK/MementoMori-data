@@ -3,138 +3,6 @@
         "Id": 1,
         "IsIgnore": null,
         "Memo": "通常ボス",
-        "GuildDamageBarRewardList": [
-            {
-                "DamageBarCount": 0,
-                "HolySteelCount": 25,
-                "GoldRewardCount": 25000
-            },
-            {
-                "DamageBarCount": 1,
-                "HolySteelCount": 50,
-                "GoldRewardCount": 50000
-            },
-            {
-                "DamageBarCount": 2,
-                "HolySteelCount": 75,
-                "GoldRewardCount": 100000
-            },
-            {
-                "DamageBarCount": 3,
-                "HolySteelCount": 100,
-                "GoldRewardCount": 150000
-            },
-            {
-                "DamageBarCount": 4,
-                "HolySteelCount": 125,
-                "GoldRewardCount": 200000
-            },
-            {
-                "DamageBarCount": 5,
-                "HolySteelCount": 150,
-                "GoldRewardCount": 250000
-            },
-            {
-                "DamageBarCount": 6,
-                "HolySteelCount": 175,
-                "GoldRewardCount": 300000
-            },
-            {
-                "DamageBarCount": 7,
-                "HolySteelCount": 200,
-                "GoldRewardCount": 350000
-            },
-            {
-                "DamageBarCount": 8,
-                "HolySteelCount": 225,
-                "GoldRewardCount": 400000
-            },
-            {
-                "DamageBarCount": 9,
-                "HolySteelCount": 250,
-                "GoldRewardCount": 450000
-            },
-            {
-                "DamageBarCount": 10,
-                "HolySteelCount": 275,
-                "GoldRewardCount": 500000
-            },
-            {
-                "DamageBarCount": 11,
-                "HolySteelCount": 300,
-                "GoldRewardCount": 550000
-            },
-            {
-                "DamageBarCount": 12,
-                "HolySteelCount": 325,
-                "GoldRewardCount": 600000
-            },
-            {
-                "DamageBarCount": 13,
-                "HolySteelCount": 350,
-                "GoldRewardCount": 650000
-            },
-            {
-                "DamageBarCount": 14,
-                "HolySteelCount": 375,
-                "GoldRewardCount": 700000
-            },
-            {
-                "DamageBarCount": 15,
-                "HolySteelCount": 400,
-                "GoldRewardCount": 750000
-            },
-            {
-                "DamageBarCount": 16,
-                "HolySteelCount": 450,
-                "GoldRewardCount": 800000
-            },
-            {
-                "DamageBarCount": 17,
-                "HolySteelCount": 500,
-                "GoldRewardCount": 850000
-            },
-            {
-                "DamageBarCount": 18,
-                "HolySteelCount": 550,
-                "GoldRewardCount": 900000
-            },
-            {
-                "DamageBarCount": 19,
-                "HolySteelCount": 600,
-                "GoldRewardCount": 950000
-            },
-            {
-                "DamageBarCount": 20,
-                "HolySteelCount": 650,
-                "GoldRewardCount": 1000000
-            },
-            {
-                "DamageBarCount": 21,
-                "HolySteelCount": 700,
-                "GoldRewardCount": 1050000
-            },
-            {
-                "DamageBarCount": 22,
-                "HolySteelCount": 750,
-                "GoldRewardCount": 1100000
-            },
-            {
-                "DamageBarCount": 23,
-                "HolySteelCount": 800,
-                "GoldRewardCount": 1150000
-            },
-            {
-                "DamageBarCount": 24,
-                "HolySteelCount": 850,
-                "GoldRewardCount": 1160000
-            },
-            {
-                "DamageBarCount": 25,
-                "HolySteelCount": 900,
-                "GoldRewardCount": 1170000
-            }
-        ],
         "GuildDamageBarRewards": [
             {
                 "DamageBarCount": 0,
@@ -530,216 +398,6 @@
         "GuildExpPerChallenge": 50,
         "GuildRaidBossId": 1,
         "LotteryRewardId": 1,
-        "NormalDamageBarRewardList": [
-            {
-                "DamageBarCount": 0,
-                "HolySteelCount": 5,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 2500,
-                    "DivisionCoefficient": 1
-                }
-            },
-            {
-                "DamageBarCount": 1,
-                "HolySteelCount": 10,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 2500,
-                    "DivisionCoefficient": 4
-                }
-            },
-            {
-                "DamageBarCount": 2,
-                "HolySteelCount": 20,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 2500,
-                    "DivisionCoefficient": 4
-                }
-            },
-            {
-                "DamageBarCount": 3,
-                "HolySteelCount": 30,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 2500,
-                    "DivisionCoefficient": 4
-                }
-            },
-            {
-                "DamageBarCount": 4,
-                "HolySteelCount": 40,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 2500,
-                    "DivisionCoefficient": 4
-                }
-            },
-            {
-                "DamageBarCount": 5,
-                "HolySteelCount": 50,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 2500,
-                    "DivisionCoefficient": 4
-                }
-            },
-            {
-                "DamageBarCount": 6,
-                "HolySteelCount": 60,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 12500,
-                    "DivisionCoefficient": 20
-                }
-            },
-            {
-                "DamageBarCount": 7,
-                "HolySteelCount": 70,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 12500,
-                    "DivisionCoefficient": 20
-                }
-            },
-            {
-                "DamageBarCount": 8,
-                "HolySteelCount": 80,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 12500,
-                    "DivisionCoefficient": 20
-                }
-            },
-            {
-                "DamageBarCount": 9,
-                "HolySteelCount": 90,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 12500,
-                    "DivisionCoefficient": 20
-                }
-            },
-            {
-                "DamageBarCount": 10,
-                "HolySteelCount": 100,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 46875,
-                    "DivisionCoefficient": 64
-                }
-            },
-            {
-                "DamageBarCount": 11,
-                "HolySteelCount": 110,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 46875,
-                    "DivisionCoefficient": 64
-                }
-            },
-            {
-                "DamageBarCount": 12,
-                "HolySteelCount": 120,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 117152,
-                    "DivisionCoefficient": 653
-                }
-            },
-            {
-                "DamageBarCount": 13,
-                "HolySteelCount": 130,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 117152,
-                    "DivisionCoefficient": 653
-                }
-            },
-            {
-                "DamageBarCount": 14,
-                "HolySteelCount": 140,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 117152,
-                    "DivisionCoefficient": 653
-                }
-            },
-            {
-                "DamageBarCount": 15,
-                "HolySteelCount": 160,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 117152,
-                    "DivisionCoefficient": 653
-                }
-            },
-            {
-                "DamageBarCount": 16,
-                "HolySteelCount": 180,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 117152,
-                    "DivisionCoefficient": 653
-                }
-            },
-            {
-                "DamageBarCount": 17,
-                "HolySteelCount": 200,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 444444,
-                    "DivisionCoefficient": 4500
-                }
-            },
-            {
-                "DamageBarCount": 18,
-                "HolySteelCount": 220,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 444444,
-                    "DivisionCoefficient": 4500
-                }
-            },
-            {
-                "DamageBarCount": 19,
-                "HolySteelCount": 240,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 444444,
-                    "DivisionCoefficient": 4500
-                }
-            },
-            {
-                "DamageBarCount": 20,
-                "HolySteelCount": 260,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 998947,
-                    "DivisionCoefficient": 2375000
-                }
-            },
-            {
-                "DamageBarCount": 21,
-                "HolySteelCount": 280,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 998947,
-                    "DivisionCoefficient": 2375000
-                }
-            },
-            {
-                "DamageBarCount": 22,
-                "HolySteelCount": 300,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 998947,
-                    "DivisionCoefficient": 2375000
-                }
-            },
-            {
-                "DamageBarCount": 23,
-                "HolySteelCount": 320,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 998947,
-                    "DivisionCoefficient": 2375000
-                }
-            },
-            {
-                "DamageBarCount": 24,
-                "HolySteelCount": 340,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 998947,
-                    "DivisionCoefficient": 2375000
-                }
-            },
-            {
-                "DamageBarCount": 25,
-                "HolySteelCount": 360,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 998947,
-                    "DivisionCoefficient": 2375000
-                }
-            }
-        ],
         "NormalDamageBarRewards": [
             {
                 "NormalRewardGoldCoefficientInfo": {
@@ -1285,138 +943,6 @@
         "Id": 2,
         "IsIgnore": null,
         "Memo": "解放ボス",
-        "GuildDamageBarRewardList": [
-            {
-                "DamageBarCount": 0,
-                "HolySteelCount": 25,
-                "GoldRewardCount": 25000
-            },
-            {
-                "DamageBarCount": 1,
-                "HolySteelCount": 50,
-                "GoldRewardCount": 50000
-            },
-            {
-                "DamageBarCount": 2,
-                "HolySteelCount": 75,
-                "GoldRewardCount": 100000
-            },
-            {
-                "DamageBarCount": 3,
-                "HolySteelCount": 100,
-                "GoldRewardCount": 150000
-            },
-            {
-                "DamageBarCount": 4,
-                "HolySteelCount": 125,
-                "GoldRewardCount": 200000
-            },
-            {
-                "DamageBarCount": 5,
-                "HolySteelCount": 150,
-                "GoldRewardCount": 250000
-            },
-            {
-                "DamageBarCount": 6,
-                "HolySteelCount": 175,
-                "GoldRewardCount": 300000
-            },
-            {
-                "DamageBarCount": 7,
-                "HolySteelCount": 200,
-                "GoldRewardCount": 350000
-            },
-            {
-                "DamageBarCount": 8,
-                "HolySteelCount": 225,
-                "GoldRewardCount": 400000
-            },
-            {
-                "DamageBarCount": 9,
-                "HolySteelCount": 250,
-                "GoldRewardCount": 450000
-            },
-            {
-                "DamageBarCount": 10,
-                "HolySteelCount": 275,
-                "GoldRewardCount": 500000
-            },
-            {
-                "DamageBarCount": 11,
-                "HolySteelCount": 300,
-                "GoldRewardCount": 550000
-            },
-            {
-                "DamageBarCount": 12,
-                "HolySteelCount": 325,
-                "GoldRewardCount": 600000
-            },
-            {
-                "DamageBarCount": 13,
-                "HolySteelCount": 350,
-                "GoldRewardCount": 650000
-            },
-            {
-                "DamageBarCount": 14,
-                "HolySteelCount": 375,
-                "GoldRewardCount": 700000
-            },
-            {
-                "DamageBarCount": 15,
-                "HolySteelCount": 400,
-                "GoldRewardCount": 750000
-            },
-            {
-                "DamageBarCount": 16,
-                "HolySteelCount": 450,
-                "GoldRewardCount": 800000
-            },
-            {
-                "DamageBarCount": 17,
-                "HolySteelCount": 500,
-                "GoldRewardCount": 850000
-            },
-            {
-                "DamageBarCount": 18,
-                "HolySteelCount": 550,
-                "GoldRewardCount": 900000
-            },
-            {
-                "DamageBarCount": 19,
-                "HolySteelCount": 600,
-                "GoldRewardCount": 950000
-            },
-            {
-                "DamageBarCount": 20,
-                "HolySteelCount": 650,
-                "GoldRewardCount": 1000000
-            },
-            {
-                "DamageBarCount": 21,
-                "HolySteelCount": 700,
-                "GoldRewardCount": 1050000
-            },
-            {
-                "DamageBarCount": 22,
-                "HolySteelCount": 750,
-                "GoldRewardCount": 1100000
-            },
-            {
-                "DamageBarCount": 23,
-                "HolySteelCount": 800,
-                "GoldRewardCount": 1150000
-            },
-            {
-                "DamageBarCount": 24,
-                "HolySteelCount": 850,
-                "GoldRewardCount": 1160000
-            },
-            {
-                "DamageBarCount": 25,
-                "HolySteelCount": 900,
-                "GoldRewardCount": 1170000
-            }
-        ],
         "GuildDamageBarRewards": [
             {
                 "DamageBarCount": 0,
@@ -1812,221 +1338,11 @@
         "GuildExpPerChallenge": 50,
         "GuildRaidBossId": 2,
         "LotteryRewardId": 2,
-        "NormalDamageBarRewardList": [
-            {
-                "DamageBarCount": 0,
-                "HolySteelCount": 5,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 998947,
-                    "DivisionCoefficient": 2375000
-                }
-            },
-            {
-                "DamageBarCount": 1,
-                "HolySteelCount": 10,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 998947,
-                    "DivisionCoefficient": 2375000
-                }
-            },
-            {
-                "DamageBarCount": 2,
-                "HolySteelCount": 20,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 2500,
-                    "DivisionCoefficient": 4
-                }
-            },
-            {
-                "DamageBarCount": 3,
-                "HolySteelCount": 30,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 2500,
-                    "DivisionCoefficient": 4
-                }
-            },
-            {
-                "DamageBarCount": 4,
-                "HolySteelCount": 40,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 2500,
-                    "DivisionCoefficient": 4
-                }
-            },
-            {
-                "DamageBarCount": 5,
-                "HolySteelCount": 50,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 2500,
-                    "DivisionCoefficient": 4
-                }
-            },
-            {
-                "DamageBarCount": 6,
-                "HolySteelCount": 60,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 12500,
-                    "DivisionCoefficient": 20
-                }
-            },
-            {
-                "DamageBarCount": 7,
-                "HolySteelCount": 70,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 12500,
-                    "DivisionCoefficient": 20
-                }
-            },
-            {
-                "DamageBarCount": 8,
-                "HolySteelCount": 80,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 12500,
-                    "DivisionCoefficient": 20
-                }
-            },
-            {
-                "DamageBarCount": 9,
-                "HolySteelCount": 90,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 12500,
-                    "DivisionCoefficient": 20
-                }
-            },
-            {
-                "DamageBarCount": 10,
-                "HolySteelCount": 100,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 46875,
-                    "DivisionCoefficient": 64
-                }
-            },
-            {
-                "DamageBarCount": 11,
-                "HolySteelCount": 110,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 46875,
-                    "DivisionCoefficient": 64
-                }
-            },
-            {
-                "DamageBarCount": 12,
-                "HolySteelCount": 120,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 117152,
-                    "DivisionCoefficient": 653
-                }
-            },
-            {
-                "DamageBarCount": 13,
-                "HolySteelCount": 130,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 117152,
-                    "DivisionCoefficient": 653
-                }
-            },
-            {
-                "DamageBarCount": 14,
-                "HolySteelCount": 140,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 117152,
-                    "DivisionCoefficient": 653
-                }
-            },
-            {
-                "DamageBarCount": 15,
-                "HolySteelCount": 160,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 117152,
-                    "DivisionCoefficient": 653
-                }
-            },
-            {
-                "DamageBarCount": 16,
-                "HolySteelCount": 180,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 117152,
-                    "DivisionCoefficient": 653
-                }
-            },
-            {
-                "DamageBarCount": 17,
-                "HolySteelCount": 200,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 444444,
-                    "DivisionCoefficient": 4500
-                }
-            },
-            {
-                "DamageBarCount": 18,
-                "HolySteelCount": 220,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 444444,
-                    "DivisionCoefficient": 4500
-                }
-            },
-            {
-                "DamageBarCount": 19,
-                "HolySteelCount": 240,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 444444,
-                    "DivisionCoefficient": 4500
-                }
-            },
-            {
-                "DamageBarCount": 20,
-                "HolySteelCount": 260,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 998947,
-                    "DivisionCoefficient": 2375000
-                }
-            },
-            {
-                "DamageBarCount": 21,
-                "HolySteelCount": 280,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 998947,
-                    "DivisionCoefficient": 2375000
-                }
-            },
-            {
-                "DamageBarCount": 22,
-                "HolySteelCount": 300,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 998947,
-                    "DivisionCoefficient": 2375000
-                }
-            },
-            {
-                "DamageBarCount": 23,
-                "HolySteelCount": 320,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 998947,
-                    "DivisionCoefficient": 2375000
-                }
-            },
-            {
-                "DamageBarCount": 24,
-                "HolySteelCount": 340,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 998947,
-                    "DivisionCoefficient": 2375000
-                }
-            },
-            {
-                "DamageBarCount": 25,
-                "HolySteelCount": 360,
-                "RewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 998947,
-                    "DivisionCoefficient": 2375000
-                }
-            }
-        ],
         "NormalDamageBarRewards": [
             {
                 "NormalRewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 998947,
-                    "DivisionCoefficient": 2375000
+                    "AdditiveCoefficient": 2500,
+                    "DivisionCoefficient": 1
                 },
                 "DamageBarCount": 0,
                 "NormalRewardItems": [
@@ -2044,8 +1360,8 @@
             },
             {
                 "NormalRewardGoldCoefficientInfo": {
-                    "AdditiveCoefficient": 998947,
-                    "DivisionCoefficient": 2375000
+                    "AdditiveCoefficient": 2500,
+                    "DivisionCoefficient": 4
                 },
                 "DamageBarCount": 1,
                 "NormalRewardItems": [
@@ -2562,5 +1878,1140 @@
         ],
         "WorldDamageBarRewards": null,
         "HideWorldDamage": 0
+    },
+    {
+        "Id": 3,
+        "IsIgnore": null,
+        "Memo": "202303レア_イベント",
+        "GuildDamageBarRewards": [
+            {
+                "DamageBarCount": 0,
+                "GuildRewardItems": [
+                    {
+                        "ItemCount": 25000,
+                        "ItemId": 1,
+                        "ItemType": 3
+                    },
+                    {
+                        "ItemCount": 25,
+                        "ItemId": 3,
+                        "ItemType": 13
+                    }
+                ]
+            },
+            {
+                "DamageBarCount": 1,
+                "GuildRewardItems": [
+                    {
+                        "ItemCount": 50000,
+                        "ItemId": 1,
+                        "ItemType": 3
+                    },
+                    {
+                        "ItemCount": 50,
+                        "ItemId": 3,
+                        "ItemType": 13
+                    }
+                ]
+            },
+            {
+                "DamageBarCount": 2,
+                "GuildRewardItems": [
+                    {
+                        "ItemCount": 100000,
+                        "ItemId": 1,
+                        "ItemType": 3
+                    },
+                    {
+                        "ItemCount": 75,
+                        "ItemId": 3,
+                        "ItemType": 13
+                    }
+                ]
+            },
+            {
+                "DamageBarCount": 3,
+                "GuildRewardItems": [
+                    {
+                        "ItemCount": 150000,
+                        "ItemId": 1,
+                        "ItemType": 3
+                    },
+                    {
+                        "ItemCount": 100,
+                        "ItemId": 3,
+                        "ItemType": 13
+                    }
+                ]
+            },
+            {
+                "DamageBarCount": 4,
+                "GuildRewardItems": [
+                    {
+                        "ItemCount": 200000,
+                        "ItemId": 1,
+                        "ItemType": 3
+                    },
+                    {
+                        "ItemCount": 125,
+                        "ItemId": 3,
+                        "ItemType": 13
+                    }
+                ]
+            },
+            {
+                "DamageBarCount": 5,
+                "GuildRewardItems": [
+                    {
+                        "ItemCount": 250000,
+                        "ItemId": 1,
+                        "ItemType": 3
+                    },
+                    {
+                        "ItemCount": 150,
+                        "ItemId": 3,
+                        "ItemType": 13
+                    }
+                ]
+            },
+            {
+                "DamageBarCount": 6,
+                "GuildRewardItems": [
+                    {
+                        "ItemCount": 300000,
+                        "ItemId": 1,
+                        "ItemType": 3
+                    },
+                    {
+                        "ItemCount": 175,
+                        "ItemId": 3,
+                        "ItemType": 13
+                    }
+                ]
+            },
+            {
+                "DamageBarCount": 7,
+                "GuildRewardItems": [
+                    {
+                        "ItemCount": 350000,
+                        "ItemId": 1,
+                        "ItemType": 3
+                    },
+                    {
+                        "ItemCount": 200,
+                        "ItemId": 3,
+                        "ItemType": 13
+                    }
+                ]
+            },
+            {
+                "DamageBarCount": 8,
+                "GuildRewardItems": [
+                    {
+                        "ItemCount": 400000,
+                        "ItemId": 1,
+                        "ItemType": 3
+                    },
+                    {
+                        "ItemCount": 225,
+                        "ItemId": 3,
+                        "ItemType": 13
+                    }
+                ]
+            },
+            {
+                "DamageBarCount": 9,
+                "GuildRewardItems": [
+                    {
+                        "ItemCount": 450000,
+                        "ItemId": 1,
+                        "ItemType": 3
+                    },
+                    {
+                        "ItemCount": 250,
+                        "ItemId": 3,
+                        "ItemType": 13
+                    }
+                ]
+            },
+            {
+                "DamageBarCount": 10,
+                "GuildRewardItems": [
+                    {
+                        "ItemCount": 500000,
+                        "ItemId": 1,
+                        "ItemType": 3
+                    },
+                    {
+                        "ItemCount": 275,
+                        "ItemId": 3,
+                        "ItemType": 13
+                    }
+                ]
+            },
+            {
+                "DamageBarCount": 11,
+                "GuildRewardItems": [
+                    {
+                        "ItemCount": 550000,
+                        "ItemId": 1,
+                        "ItemType": 3
+                    },
+                    {
+                        "ItemCount": 300,
+                        "ItemId": 3,
+                        "ItemType": 13
+                    }
+                ]
+            },
+            {
+                "DamageBarCount": 12,
+                "GuildRewardItems": [
+                    {
+                        "ItemCount": 600000,
+                        "ItemId": 1,
+                        "ItemType": 3
+                    },
+                    {
+                        "ItemCount": 325,
+                        "ItemId": 3,
+                        "ItemType": 13
+                    }
+                ]
+            },
+            {
+                "DamageBarCount": 13,
+                "GuildRewardItems": [
+                    {
+                        "ItemCount": 650000,
+                        "ItemId": 1,
+                        "ItemType": 3
+                    },
+                    {
+                        "ItemCount": 350,
+                        "ItemId": 3,
+                        "ItemType": 13
+                    }
+                ]
+            },
+            {
+                "DamageBarCount": 14,
+                "GuildRewardItems": [
+                    {
+                        "ItemCount": 700000,
+                        "ItemId": 1,
+                        "ItemType": 3
+                    },
+                    {
+                        "ItemCount": 375,
+                        "ItemId": 3,
+                        "ItemType": 13
+                    }
+                ]
+            },
+            {
+                "DamageBarCount": 15,
+                "GuildRewardItems": [
+                    {
+                        "ItemCount": 750000,
+                        "ItemId": 1,
+                        "ItemType": 3
+                    },
+                    {
+                        "ItemCount": 400,
+                        "ItemId": 3,
+                        "ItemType": 13
+                    }
+                ]
+            },
+            {
+                "DamageBarCount": 16,
+                "GuildRewardItems": [
+                    {
+                        "ItemCount": 800000,
+                        "ItemId": 1,
+                        "ItemType": 3
+                    },
+                    {
+                        "ItemCount": 450,
+                        "ItemId": 3,
+                        "ItemType": 13
+                    }
+                ]
+            },
+            {
+                "DamageBarCount": 17,
+                "GuildRewardItems": [
+                    {
+                        "ItemCount": 850000,
+                        "ItemId": 1,
+                        "ItemType": 3
+                    },
+                    {
+                        "ItemCount": 500,
+                        "ItemId": 3,
+                        "ItemType": 13
+                    }
+                ]
+            },
+            {
+                "DamageBarCount": 18,
+                "GuildRewardItems": [
+                    {
+                        "ItemCount": 900000,
+                        "ItemId": 1,
+                        "ItemType": 3
+                    },
+                    {
+                        "ItemCount": 550,
+                        "ItemId": 3,
+                        "ItemType": 13
+                    }
+                ]
+            },
+            {
+                "DamageBarCount": 19,
+                "GuildRewardItems": [
+                    {
+                        "ItemCount": 950000,
+                        "ItemId": 1,
+                        "ItemType": 3
+                    },
+                    {
+                        "ItemCount": 600,
+                        "ItemId": 3,
+                        "ItemType": 13
+                    }
+                ]
+            },
+            {
+                "DamageBarCount": 20,
+                "GuildRewardItems": [
+                    {
+                        "ItemCount": 1000000,
+                        "ItemId": 1,
+                        "ItemType": 3
+                    },
+                    {
+                        "ItemCount": 650,
+                        "ItemId": 3,
+                        "ItemType": 13
+                    }
+                ]
+            },
+            {
+                "DamageBarCount": 21,
+                "GuildRewardItems": [
+                    {
+                        "ItemCount": 1050000,
+                        "ItemId": 1,
+                        "ItemType": 3
+                    },
+                    {
+                        "ItemCount": 700,
+                        "ItemId": 3,
+                        "ItemType": 13
+                    }
+                ]
+            },
+            {
+                "DamageBarCount": 22,
+                "GuildRewardItems": [
+                    {
+                        "ItemCount": 1100000,
+                        "ItemId": 1,
+                        "ItemType": 3
+                    },
+                    {
+                        "ItemCount": 750,
+                        "ItemId": 3,
+                        "ItemType": 13
+                    }
+                ]
+            },
+            {
+                "DamageBarCount": 23,
+                "GuildRewardItems": [
+                    {
+                        "ItemCount": 1150000,
+                        "ItemId": 1,
+                        "ItemType": 3
+                    },
+                    {
+                        "ItemCount": 800,
+                        "ItemId": 3,
+                        "ItemType": 13
+                    }
+                ]
+            },
+            {
+                "DamageBarCount": 24,
+                "GuildRewardItems": [
+                    {
+                        "ItemCount": 1160000,
+                        "ItemId": 1,
+                        "ItemType": 3
+                    },
+                    {
+                        "ItemCount": 850,
+                        "ItemId": 3,
+                        "ItemType": 13
+                    }
+                ]
+            },
+            {
+                "DamageBarCount": 25,
+                "GuildRewardItems": [
+                    {
+                        "ItemCount": 1170000,
+                        "ItemId": 1,
+                        "ItemType": 3
+                    },
+                    {
+                        "ItemCount": 900,
+                        "ItemId": 3,
+                        "ItemType": 13
+                    }
+                ]
+            }
+        ],
+        "GuildExpPerChallenge": 50,
+        "GuildRaidBossId": 3,
+        "LotteryRewardId": 3,
+        "NormalDamageBarRewards": [
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 2500,
+                    "DivisionCoefficient": 1
+                },
+                "DamageBarCount": 0,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 1,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 2500,
+                    "DivisionCoefficient": 4
+                },
+                "DamageBarCount": 1,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 1,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 2500,
+                    "DivisionCoefficient": 4
+                },
+                "DamageBarCount": 2,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 2,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 12500,
+                    "DivisionCoefficient": 20
+                },
+                "DamageBarCount": 3,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 3,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 12500,
+                    "DivisionCoefficient": 20
+                },
+                "DamageBarCount": 4,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 4,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 12500,
+                    "DivisionCoefficient": 20
+                },
+                "DamageBarCount": 5,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 5,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 12500,
+                    "DivisionCoefficient": 20
+                },
+                "DamageBarCount": 6,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 6,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 46875,
+                    "DivisionCoefficient": 64
+                },
+                "DamageBarCount": 7,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 7,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 46875,
+                    "DivisionCoefficient": 64
+                },
+                "DamageBarCount": 8,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 8,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 117152,
+                    "DivisionCoefficient": 653
+                },
+                "DamageBarCount": 9,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 9,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 117152,
+                    "DivisionCoefficient": 653
+                },
+                "DamageBarCount": 10,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 11,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 117152,
+                    "DivisionCoefficient": 653
+                },
+                "DamageBarCount": 11,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 12,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 117152,
+                    "DivisionCoefficient": 653
+                },
+                "DamageBarCount": 12,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 14,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 117152,
+                    "DivisionCoefficient": 653
+                },
+                "DamageBarCount": 13,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 15,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 117152,
+                    "DivisionCoefficient": 653
+                },
+                "DamageBarCount": 14,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 18,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 117152,
+                    "DivisionCoefficient": 653
+                },
+                "DamageBarCount": 15,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 22,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 444444,
+                    "DivisionCoefficient": 4500
+                },
+                "DamageBarCount": 16,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 27,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 444444,
+                    "DivisionCoefficient": 4500
+                },
+                "DamageBarCount": 17,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 28,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 444444,
+                    "DivisionCoefficient": 4500
+                },
+                "DamageBarCount": 18,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 34,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 444444,
+                    "DivisionCoefficient": 4500
+                },
+                "DamageBarCount": 19,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 35,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 444444,
+                    "DivisionCoefficient": 4500
+                },
+                "DamageBarCount": 20,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 39,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 998947,
+                    "DivisionCoefficient": 2375000
+                },
+                "DamageBarCount": 21,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 40,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 998947,
+                    "DivisionCoefficient": 2375000
+                },
+                "DamageBarCount": 22,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 41,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 998947,
+                    "DivisionCoefficient": 2375000
+                },
+                "DamageBarCount": 23,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 42,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 998947,
+                    "DivisionCoefficient": 2375000
+                },
+                "DamageBarCount": 24,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 43,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 998947,
+                    "DivisionCoefficient": 2375000
+                },
+                "DamageBarCount": 25,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 44,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 998947,
+                    "DivisionCoefficient": 2375000
+                },
+                "DamageBarCount": 26,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 45,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 998947,
+                    "DivisionCoefficient": 2375000
+                },
+                "DamageBarCount": 27,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 45,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 998947,
+                    "DivisionCoefficient": 2375000
+                },
+                "DamageBarCount": 28,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 46,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 998947,
+                    "DivisionCoefficient": 2375000
+                },
+                "DamageBarCount": 29,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 46,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 998947,
+                    "DivisionCoefficient": 2375000
+                },
+                "DamageBarCount": 30,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 47,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 998947,
+                    "DivisionCoefficient": 2375000
+                },
+                "DamageBarCount": 31,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 47,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 998947,
+                    "DivisionCoefficient": 2375000
+                },
+                "DamageBarCount": 32,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 48,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 998947,
+                    "DivisionCoefficient": 2375000
+                },
+                "DamageBarCount": 33,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 48,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 998947,
+                    "DivisionCoefficient": 2375000
+                },
+                "DamageBarCount": 34,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 49,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 998947,
+                    "DivisionCoefficient": 2375000
+                },
+                "DamageBarCount": 35,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 49,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 998947,
+                    "DivisionCoefficient": 2375000
+                },
+                "DamageBarCount": 36,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 50,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 998947,
+                    "DivisionCoefficient": 2375000
+                },
+                "DamageBarCount": 37,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 50,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 998947,
+                    "DivisionCoefficient": 2375000
+                },
+                "DamageBarCount": 38,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 51,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 998947,
+                    "DivisionCoefficient": 2375000
+                },
+                "DamageBarCount": 39,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 51,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 998947,
+                    "DivisionCoefficient": 2375000
+                },
+                "DamageBarCount": 40,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 52,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "NormalRewardGoldCoefficientInfo": {
+                    "AdditiveCoefficient": 998947,
+                    "DivisionCoefficient": 2375000
+                },
+                "DamageBarCount": 41,
+                "NormalRewardItems": [
+                    {
+                        "ItemCount": 52,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            }
+        ],
+        "QuestClearEquipmentLvList": [
+            {
+                "EquipmentLv": 10,
+                "QuestClearValue": 0
+            },
+            {
+                "EquipmentLv": 20,
+                "QuestClearValue": 11
+            },
+            {
+                "EquipmentLv": 40,
+                "QuestClearValue": 37
+            },
+            {
+                "EquipmentLv": 60,
+                "QuestClearValue": 76
+            },
+            {
+                "EquipmentLv": 80,
+                "QuestClearValue": 115
+            },
+            {
+                "EquipmentLv": 100,
+                "QuestClearValue": 154
+            },
+            {
+                "EquipmentLv": 120,
+                "QuestClearValue": 192
+            },
+            {
+                "EquipmentLv": 140,
+                "QuestClearValue": 231
+            },
+            {
+                "EquipmentLv": 160,
+                "QuestClearValue": 270
+            },
+            {
+                "EquipmentLv": 180,
+                "QuestClearValue": 309
+            }
+        ],
+        "WorldDamageBarRewards": [
+            {
+                "GoalDamage": 50000000000,
+                "WorldRewardItems": [
+                    {
+                        "ItemCount": 60,
+                        "ItemId": 27,
+                        "ItemType": 17
+                    }
+                ]
+            },
+            {
+                "GoalDamage": 100000000000,
+                "WorldRewardItems": [
+                    {
+                        "ItemCount": 120,
+                        "ItemId": 27,
+                        "ItemType": 17
+                    }
+                ]
+            },
+            {
+                "GoalDamage": 150000000000,
+                "WorldRewardItems": [
+                    {
+                        "ItemCount": 120,
+                        "ItemId": 27,
+                        "ItemType": 17
+                    }
+                ]
+            },
+            {
+                "GoalDamage": 200000000000,
+                "WorldRewardItems": [
+                    {
+                        "ItemCount": 30,
+                        "ItemId": 28,
+                        "ItemType": 17
+                    }
+                ]
+            },
+            {
+                "GoalDamage": 250000000000,
+                "WorldRewardItems": [
+                    {
+                        "ItemCount": 30,
+                        "ItemId": 28,
+                        "ItemType": 17
+                    }
+                ]
+            },
+            {
+                "GoalDamage": 300000000000,
+                "WorldRewardItems": [
+                    {
+                        "ItemCount": 50,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "GoalDamage": 350000000000,
+                "WorldRewardItems": [
+                    {
+                        "ItemCount": 50,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "GoalDamage": 400000000000,
+                "WorldRewardItems": [
+                    {
+                        "ItemCount": 50,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "GoalDamage": 450000000000,
+                "WorldRewardItems": [
+                    {
+                        "ItemCount": 50,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            },
+            {
+                "GoalDamage": 500000000000,
+                "WorldRewardItems": [
+                    {
+                        "ItemCount": 100,
+                        "ItemId": 4,
+                        "ItemType": 50
+                    }
+                ]
+            }
+        ],
+        "HideWorldDamage": 500000000001
     }
 ]

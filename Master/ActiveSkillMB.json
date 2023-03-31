@@ -6734,6 +6734,138 @@
         "RootActiveSkillId": 53002
     },
     {
+        "Id": 55001,
+        "IsIgnore": null,
+        "Memo": "レアSR:Lv1 癇癪を起して滅茶苦茶に武器を振り回し、2ターンの間攻撃力が最も高い敵の回避率を30％減少させた後、対象に攻撃力×700％の物理攻撃を行う。その後80％の確率で対象に1ターンの間『気絶』を付与する。/ Lv2 \nさらに『気絶』付与の判定の後、対象が『気絶』を付帯していない場合、対象に攻撃力×900％の物理攻撃を行う。この攻撃は必ず命中する。ただし最初の攻撃で敵を戦闘不能にした場合、この攻撃は発動しない。/ Lv3 \nさらにこのスキルで敵を戦闘不能にできなかった場合、このスキルを再発動する。/ Ex1 \n黙れ黙れ黙れぇっ！を強化する。回避率の減少量が50％になる。/ Ex3 \n黙れ黙れ黙れぇっ！を強化する。「回避率減少」のターン数が3ターンになる。",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription550011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    55001001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription550012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    55001001,
+                    55001202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription550013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    55001301,
+                    55001302,
+                    55001303,
+                    55001302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription550014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    55001401,
+                    55001302,
+                    55001403,
+                    55001302
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription550016]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    55001601,
+                    55001302,
+                    55001603,
+                    55001302
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName55001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 55001
+    },
+    {
+        "Id": 55002,
+        "IsIgnore": null,
+        "Memo": "レアSR:Lv1 高ぶった感情は相手を仕留めるまでおさまらない。攻撃力が最も高い敵に攻撃力×800％の物理攻撃を行う。対象が『回避率減少』を付帯している場合、物理攻撃のダメージが1.5倍になる。/ Lv2 \nさらに対象が『回避率減少』を付帯していない場合、この攻撃は必ず命中する。/ Lv3 \nさらに自身のHPが少なくなるほど物理攻撃のダメージが大きくなる（最大で攻撃力×1200％まで）。/ Lv4 \n物理攻撃のダメージの最大値が攻撃力×1600％になる。/ Ex2 \n見るな笑うなぁっ！を強化する。物理攻撃のダメージの最大値が攻撃力×1800％になる。",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription550021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    55002001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription550022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    55002201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription550023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    55002301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription550024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    55002401
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription550025]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 256,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    55002501
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName55002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 55002
+    },
+    {
         "Id": 550109001,
         "IsIgnore": null,
         "Memo": "ギルドレイド通常ソーニャSR：ソーニャSR:旋風の如き素早い急襲。HPが最も低い敵に攻撃力×800％の物理攻撃を行う。弱った敵にも容赦しないヴァイキングの本能により、敵のHP割合が40％以下の場合、この攻撃は必ずクリティカルヒットする。／さらに自身の腕力×400％の直接攻撃を行う。／追加攻撃のダメージが腕力×600%になる。／さらにこのスキルで敵を戦闘不能にした場合、このスキルを再発動する。",
@@ -6964,6 +7096,51 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 51002
+    },
+    {
+        "Id": 550255001,
+        "IsIgnore": null,
+        "Memo": "ギルドレイドレアSR",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription550013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    55001301,
+                    55001302,
+                    55001303,
+                    55001302
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName55001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 55001
+    },
+    {
+        "Id": 550255002,
+        "IsIgnore": null,
+        "Memo": "ギルドレイドレアSR",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription550024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    55002401
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName55002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 55002
     },
     {
         "Id": 550347001,
