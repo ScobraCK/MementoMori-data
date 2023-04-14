@@ -1410,5 +1410,137 @@
         "CharacterRarityFlags": 65536,
         "CollectionId": 11,
         "CollectionLevel": 6
+    },
+    {
+        "Id": 67,
+        "IsIgnore": null,
+        "Memo": "カニス・マヨルの遠吠(シフォン,フェンリル,モーザ)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 18,
+                "ChangeParameterType": 1,
+                "Value": 300.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 8,
+        "CollectionId": 12,
+        "CollectionLevel": 1
+    },
+    {
+        "Id": 68,
+        "IsIgnore": null,
+        "Memo": "カニス・マヨルの遠吠(シフォン,フェンリル,モーザ)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 3,
+                "Value": 30.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 18,
+                "ChangeParameterType": 1,
+                "Value": 500.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 128,
+        "CollectionId": 12,
+        "CollectionLevel": 2
+    },
+    {
+        "Id": 69,
+        "IsIgnore": null,
+        "Memo": "カニス・マヨルの遠吠(シフォン,フェンリル,モーザ)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 3,
+                "Value": 30.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 18,
+                "ChangeParameterType": 1,
+                "Value": 500.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 512,
+        "CollectionId": 12,
+        "CollectionLevel": 3
+    },
+    {
+        "Id": 70,
+        "IsIgnore": null,
+        "Memo": "カニス・マヨルの遠吠(シフォン,フェンリル,モーザ)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 3,
+                "Value": 30.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 18,
+                "ChangeParameterType": 1,
+                "Value": 500.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 16384,
+        "CollectionId": 12,
+        "CollectionLevel": 4
+    },
+    {
+        "Id": 71,
+        "IsIgnore": null,
+        "Memo": "カニス・マヨルの遠吠(シフォン,フェンリル,モーザ)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 3,
+                "Value": 31.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 18,
+                "ChangeParameterType": 1,
+                "Value": 510.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 32768,
+        "CollectionId": 12,
+        "CollectionLevel": 5
+    },
+    {
+        "Id": 72,
+        "IsIgnore": null,
+        "Memo": "カニス・マヨルの遠吠(シフォン,フェンリル,モーザ)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 3,
+                "Value": 32.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 18,
+                "ChangeParameterType": 1,
+                "Value": 520.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 65536,
+        "CollectionId": 12,
+        "CollectionLevel": 6
     }
 ]
