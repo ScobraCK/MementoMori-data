@@ -116,5 +116,87 @@
             },
             "RarityFlags": 0
         }
+    },
+    {
+        "Id": 2,
+        "IsIgnore": null,
+        "Memo": "2023_0.5周年ログインボーナス",
+        "DailyRewardList": [
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 5,
+                    "ItemId": 2,
+                    "ItemType": 16
+                },
+                "Date": 1,
+                "RarityFlags": 0
+            },
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 5,
+                    "ItemId": 2,
+                    "ItemType": 16
+                },
+                "Date": 2,
+                "RarityFlags": 0
+            },
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 5,
+                    "ItemId": 2,
+                    "ItemType": 16
+                },
+                "Date": 3,
+                "RarityFlags": 0
+            },
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 5,
+                    "ItemId": 2,
+                    "ItemType": 16
+                },
+                "Date": 4,
+                "RarityFlags": 0
+            },
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 5,
+                    "ItemId": 2,
+                    "ItemType": 16
+                },
+                "Date": 5,
+                "RarityFlags": 0
+            },
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 5,
+                    "ItemId": 2,
+                    "ItemType": 16
+                },
+                "Date": 6,
+                "RarityFlags": 0
+            },
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 5,
+                    "ItemId": 2,
+                    "ItemType": 16
+                },
+                "Date": 7,
+                "RarityFlags": 0
+            }
+        ],
+        "EveryDayRewardItem": null,
+        "ExistEveryDayReward": false,
+        "ExistSpecialReward": true,
+        "SpecialRewardItem": {
+            "Date": 7,
+            "SpecialRewardItem": {
+                "ItemCount": 60,
+                "ItemId": 28,
+                "ItemType": 17
+            },
+            "RarityFlags": 0
+        }
     }
 ]
