@@ -4839,5 +4839,139 @@
             }
         ],
         "CharacterId": 55
+    },
+    {
+        "Id": 223,
+        "IsIgnore": null,
+        "Memo": "シフォンSSR180",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 54
+    },
+    {
+        "Id": 224,
+        "IsIgnore": null,
+        "Memo": "シフォンSSR200",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 600.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1300.0
+            }
+        ],
+        "CharacterId": 54
+    },
+    {
+        "Id": 225,
+        "IsIgnore": null,
+        "Memo": "シフォンSSR220",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 650.0
+            },
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 2,
+                "Value": 650.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1400.0
+            }
+        ],
+        "CharacterId": 54
+    },
+    {
+        "Id": 226,
+        "IsIgnore": null,
+        "Memo": "シフォンSSR240",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            },
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            }
+        ],
+        "CharacterId": 54
+    },
+    {
+        "Id": 227,
+        "IsIgnore": null,
+        "Memo": "シフォンUR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 750.0
+            },
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 2,
+                "Value": 750.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1600.0
+            }
+        ],
+        "CharacterId": 54
+    },
+    {
+        "Id": 228,
+        "IsIgnore": null,
+        "Memo": "シフォンLR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            },
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            }
+        ],
+        "CharacterId": 54
     }
 ]
