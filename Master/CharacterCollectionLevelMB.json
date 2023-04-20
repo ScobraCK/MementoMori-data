@@ -1542,5 +1542,132 @@
         "CharacterRarityFlags": 65536,
         "CollectionId": 12,
         "CollectionLevel": 6
+    },
+    {
+        "Id": 73,
+        "IsIgnore": null,
+        "Memo": "アルファルドの猛火(ベル,フレイシア,ナターシャ)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 100.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 8,
+        "CollectionId": 13,
+        "CollectionLevel": 1
+    },
+    {
+        "Id": 74,
+        "IsIgnore": null,
+        "Memo": "アルファルドの猛火(ベル,フレイシア,ナターシャ)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 200.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 3,
+                "Value": 70.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 128,
+        "CollectionId": 13,
+        "CollectionLevel": 2
+    },
+    {
+        "Id": 75,
+        "IsIgnore": null,
+        "Memo": "アルファルドの猛火(ベル,フレイシア,ナターシャ)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 200.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 3,
+                "Value": 70.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 512,
+        "CollectionId": 13,
+        "CollectionLevel": 3
+    },
+    {
+        "Id": 76,
+        "IsIgnore": null,
+        "Memo": "アルファルドの猛火(ベル,フレイシア,ナターシャ)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 200.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 3,
+                "Value": 70.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 16384,
+        "CollectionId": 13,
+        "CollectionLevel": 4
+    },
+    {
+        "Id": 77,
+        "IsIgnore": null,
+        "Memo": "アルファルドの猛火(ベル,フレイシア,ナターシャ)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 210.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 3,
+                "Value": 71.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 32768,
+        "CollectionId": 13,
+        "CollectionLevel": 5
+    },
+    {
+        "Id": 78,
+        "IsIgnore": null,
+        "Memo": "アルファルドの猛火(ベル,フレイシア,ナターシャ)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 220.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 3,
+                "Value": 72.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 65536,
+        "CollectionId": 13,
+        "CollectionLevel": 6
     }
 ]

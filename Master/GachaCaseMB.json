@@ -518,7 +518,7 @@
         "GachaSelectListType": 1,
         "GachaCaseFlags": 1,
         "GachaLimitDayFromCreatePlayer": 0,
-        "StartTimeFixJST": "2023-01-20 18:20:00",
+        "StartTimeFixJST": "2023-01-17 16:30:00",
         "EndTimeFixJST": "2023-01-31 14:29:59"
     },
     {
@@ -590,7 +590,7 @@
         "GachaSelectListType": 1,
         "GachaCaseFlags": 1,
         "GachaLimitDayFromCreatePlayer": 0,
-        "StartTimeFixJST": "2023-02-13 16:30:00",
+        "StartTimeFixJST": "2023-02-15 16:30:00",
         "EndTimeFixJST": "2023-02-28 14:29:59"
     },
     {
@@ -736,5 +736,23 @@
         "GachaLimitDayFromCreatePlayer": 0,
         "StartTimeFixJST": "2023-04-14 17:30:00",
         "EndTimeFixJST": "2023-04-28 14:29:59"
+    },
+    {
+        "Id": 42,
+        "IsIgnore": null,
+        "Memo": "ベル復刻ガチャ  04/21 14:30 ~ 05/08 14:29",
+        "DisplayOrder": 19042,
+        "ElementType": 0,
+        "GachaCaseUiId": 41,
+        "GachaCategoryType": 0,
+        "GachaDestinyType": 0,
+        "GachaGroupType": 0,
+        "GachaRelicType": 0,
+        "GachaResetType": 0,
+        "GachaSelectListType": 1,
+        "GachaCaseFlags": 1,
+        "GachaLimitDayFromCreatePlayer": 0,
+        "StartTimeFixJST": "2023-04-21 14:30:00",
+        "EndTimeFixJST": "2023-05-08 14:29:59"
     }
 ]
