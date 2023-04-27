@@ -3790,5 +3790,37 @@
         "ItemId": 540,
         "ItemType": 16,
         "NeedCount": 1
+    },
+    {
+        "Id": 238,
+        "IsIgnore": null,
+        "Memo": "天泣の雫",
+        "ChangeItems": [
+            {
+                "ItemCount": 10000,
+                "ItemId": 1,
+                "ItemType": 3
+            }
+        ],
+        "ChangeItemType": 0,
+        "ItemId": 5,
+        "ItemType": 50,
+        "NeedCount": 1
+    },
+    {
+        "Id": 239,
+        "IsIgnore": null,
+        "Memo": "ルサールカガチャチケット",
+        "ChangeItems": [
+            {
+                "ItemCount": 1,
+                "ItemId": 2,
+                "ItemType": 16
+            }
+        ],
+        "ChangeItemType": 0,
+        "ItemId": 440,
+        "ItemType": 16,
+        "NeedCount": 1
     }
 ]
