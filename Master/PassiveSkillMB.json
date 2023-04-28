@@ -3703,7 +3703,7 @@
     {
         "Id": 44003,
         "IsIgnore": null,
-        "Memo": "ルサールカ",
+        "Memo": "ルサールカSR:　Lv1　捨てられ、裏切られ、絶望しても──少女は信じ続けた。きっとあの人が来てくれるはず……。その儚い願いが、少女にもう一度だけ光を与える──。自身が戦闘不能になったとき、自身の最大HP×10％のHPを回復して復活する。弱体効果によって戦闘不能になった場合、このスキルは発動しない。このスキルはバトル中1回のみ発動する。/ Lv2 \nさらに自身に1層の『多重バリア』を付与する。ダメージを受けると、バリアを1層消費してそのダメージを無効化する。 / Lv3\n『多重バリア』が5層になる。さらに1ターンの間自身の攻撃力が70％、スピードが30％増加する。さらに自身以外の味方全体に1層の『多重バリア』を付与する。ダメージを受けると、バリアを1層消費してそのダメージを無効化する。",
         "NameKey": "[PassiveSkillName44003]",
         "PassiveSkillInfos": [
             {
@@ -3718,6 +3718,12 @@
                         "SkillCoolTime": 0,
                         "SkillMaxCoolTime": 9999,
                         "SubSetSkillId": 44003001
+                    },
+                    {
+                        "PassiveTrigger": 19,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "SubSetSkillId": 44003002
                     }
                 ]
             },
@@ -3760,6 +3766,12 @@
                         "SkillCoolTime": 0,
                         "SkillMaxCoolTime": 9999,
                         "SubSetSkillId": 44003302
+                    },
+                    {
+                        "PassiveTrigger": 19,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "SubSetSkillId": 44003303
                     }
                 ]
             }
@@ -3768,7 +3780,7 @@
     {
         "Id": 44004,
         "IsIgnore": null,
-        "Memo": "ルサールカ",
+        "Memo": "ルサールカSR:　Lv1 少女の流した絶望の涙が、100年やむことのない悲しみの雨となった。バトル開始時、もしくは自身が攻撃を受けたとき、自身のHP割合が50％未満の場合、2ターンの間自身の物魔防御貫通が30％増加する。次に自身が攻撃を受けたときこのバフは解除され、再度HP割合の判定を行う。 / Lv2 \nバトル開始時、もしくは自身が攻撃を受けたとき、さらに自身のHP割合が50％以上の場合、2ターンの間自身のクリティカル耐性が30%増加する。次に自身が攻撃を受けたときこのバフは解除され、再度HP割合の判定を行う。 / Lv3 \n物魔防御貫通とクリティカル耐性の増加量がそれぞれ50％になる。",
         "NameKey": "[PassiveSkillName44004]",
         "PassiveSkillInfos": [
             {
@@ -3783,6 +3795,18 @@
                         "SkillCoolTime": 0,
                         "SkillMaxCoolTime": 0,
                         "SubSetSkillId": 44004001
+                    },
+                    {
+                        "PassiveTrigger": 8,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 44004002
+                    },
+                    {
+                        "PassiveTrigger": 19,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 44004002
                     }
                 ]
             },
@@ -3798,6 +3822,18 @@
                         "SkillCoolTime": 0,
                         "SkillMaxCoolTime": 0,
                         "SubSetSkillId": 44004201
+                    },
+                    {
+                        "PassiveTrigger": 8,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 44004202
+                    },
+                    {
+                        "PassiveTrigger": 19,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 44004202
                     }
                 ]
             },
@@ -3813,6 +3849,18 @@
                         "SkillCoolTime": 0,
                         "SkillMaxCoolTime": 0,
                         "SubSetSkillId": 44004301
+                    },
+                    {
+                        "PassiveTrigger": 8,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 44004302
+                    },
+                    {
+                        "PassiveTrigger": 19,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 44004302
                     }
                 ]
             }
@@ -3821,7 +3869,7 @@
     {
         "Id": 44005,
         "IsIgnore": null,
-        "Memo": "ルサールカ5",
+        "Memo": "専用3、1ターン目のターン開始時、スピードが1ターンの間30%上昇（解除可能）",
         "NameKey": "[PassiveSkillName44005]",
         "PassiveSkillInfos": [
             {
@@ -3832,7 +3880,7 @@
                 "BlessingItemId": 0,
                 "PassiveSubSetSkillInfos": [
                     {
-                        "PassiveTrigger": 1,
+                        "PassiveTrigger": 28,
                         "SkillCoolTime": 0,
                         "SkillMaxCoolTime": 0,
                         "SubSetSkillId": 44005001

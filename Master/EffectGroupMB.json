@@ -4799,7 +4799,7 @@
     {
         "Id": 4400100102,
         "IsIgnore": null,
-        "Memo": "攻撃力減少30％1ターン",
+        "Memo": "与ダメージ10％減",
         "CasterIconId": 44,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4400100102]",
@@ -4812,7 +4812,7 @@
     {
         "Id": 4400130102,
         "IsIgnore": null,
-        "Memo": "攻撃力減少50％",
+        "Memo": "与ダメージ減少15％",
         "CasterIconId": 44,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4400130102]",
@@ -4825,7 +4825,7 @@
     {
         "Id": 4400140102,
         "IsIgnore": null,
-        "Memo": "攻撃力減少50％",
+        "Memo": "与ダメージ減少15%",
         "CasterIconId": 44,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4400140102]",
@@ -4838,7 +4838,7 @@
     {
         "Id": 4400320201,
         "IsIgnore": null,
-        "Memo": "無敵",
+        "Memo": "多重バリア1枚",
         "CasterIconId": 44,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4400320201]",
@@ -4846,18 +4846,57 @@
         "IconType": 1,
         "NameKey": "[EffectGroupName4400320201]",
         "IsHide": false,
-        "IsTurnHide": false
+        "IsTurnHide": true
     },
     {
         "Id": 4400330201,
         "IsIgnore": null,
-        "Memo": "無敵＋攻撃力70％増",
+        "Memo": "多重バリア5枚",
         "CasterIconId": 44,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4400330201]",
         "IconId": 44003,
         "IconType": 1,
         "NameKey": "[EffectGroupName4400330201]",
+        "IsHide": false,
+        "IsTurnHide": true
+    },
+    {
+        "Id": 4400330202,
+        "IsIgnore": null,
+        "Memo": "スキル1(，2)クールタイムリセット",
+        "CasterIconId": 44,
+        "CasterIconType": 1,
+        "DescriptionKey": "*",
+        "IconId": 44003,
+        "IconType": 1,
+        "NameKey": "*",
+        "IsHide": true,
+        "IsTurnHide": true
+    },
+    {
+        "Id": 4400330203,
+        "IsIgnore": null,
+        "Memo": "スキル(1，)2クールタイムリセット",
+        "CasterIconId": 44,
+        "CasterIconType": 1,
+        "DescriptionKey": "*",
+        "IconId": 44003,
+        "IconType": 1,
+        "NameKey": "*",
+        "IsHide": true,
+        "IsTurnHide": true
+    },
+    {
+        "Id": 4400330204,
+        "IsIgnore": null,
+        "Memo": "攻撃力70%増, スピード30％増",
+        "CasterIconId": 44,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription44003302013",
+        "IconId": 44003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName4400330203]",
         "IsHide": false,
         "IsTurnHide": false
     },
@@ -4877,7 +4916,7 @@
     {
         "Id": 4400400102,
         "IsIgnore": null,
-        "Memo": "ダメージ強化増加30%",
+        "Memo": "物理魔法防御貫通増加30%（解除可能）",
         "CasterIconId": 44,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4400400102]",
@@ -4885,7 +4924,7 @@
         "IconType": 1,
         "NameKey": "[EffectGroupName4400400102]",
         "IsHide": false,
-        "IsTurnHide": true
+        "IsTurnHide": false
     },
     {
         "Id": 4400420101,
@@ -4911,7 +4950,7 @@
         "IconType": 1,
         "NameKey": "[EffectGroupName4400420103]",
         "IsHide": false,
-        "IsTurnHide": true
+        "IsTurnHide": false
     },
     {
         "Id": 4400430101,
@@ -4929,7 +4968,7 @@
     {
         "Id": 4400430102,
         "IsIgnore": null,
-        "Memo": "ダメージ強化増加50%",
+        "Memo": "物理魔法防御貫通増加50%（解除可能）",
         "CasterIconId": 44,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4400430102]",
@@ -4937,12 +4976,12 @@
         "IconType": 1,
         "NameKey": "[EffectGroupName4400430102]",
         "IsHide": false,
-        "IsTurnHide": true
+        "IsTurnHide": false
     },
     {
         "Id": 4400430103,
         "IsIgnore": null,
-        "Memo": "クリティカル耐性増加50%",
+        "Memo": "クリティカル耐性増加50%（解除可能）",
         "CasterIconId": 44,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4400430103]",
@@ -4950,12 +4989,12 @@
         "IconType": 1,
         "NameKey": "[EffectGroupName4400430103]",
         "IsHide": false,
-        "IsTurnHide": true
+        "IsTurnHide": false
     },
     {
         "Id": 4400500101,
         "IsIgnore": null,
-        "Memo": "スピードが15%上昇",
+        "Memo": "自身のスピード30%上昇（解除可能）",
         "CasterIconId": 44,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4400500101]",
