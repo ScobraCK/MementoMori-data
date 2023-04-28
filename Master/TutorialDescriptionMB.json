@@ -510,5 +510,29 @@
             }
         ],
         "ImageCharacterId": 0
+    },
+    {
+        "Id": 2001,
+        "IsIgnore": null,
+        "Memo": "神殿_イベント",
+        "HelpId": 4200,
+        "ImageItem1": {
+            "ItemCount": 0,
+            "ItemId": 5,
+            "ItemType": 50
+        },
+        "ImageItem2": {
+            "ItemCount": 0,
+            "ItemId": 440,
+            "ItemType": 16
+        },
+        "ImagePositionFormatType": 2,
+        "PageInfo": [
+            {
+                "ImageId": 37,
+                "MainTextKey": "[TutorialDescriptionMainText37]"
+            }
+        ],
+        "ImageCharacterId": 44
     }
 ]

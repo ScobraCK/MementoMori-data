@@ -24,7 +24,7 @@
         "Priority": 1,
         "SendTime": "12:35:00",
         "TitleKey": "[LocalPushNotificationTitleKey2]",
-        "EndTime": "2023-04-28 03:59:59",
+        "EndTime": "2100-12-31 23:59:59",
         "StartTime": "2020-01-01 00:00:00"
     },
     {
@@ -38,7 +38,7 @@
         "Priority": 1,
         "SendTime": "19:35:00",
         "TitleKey": "[LocalPushNotificationTitleKey3]",
-        "EndTime": "2023-04-28 03:59:59",
+        "EndTime": "2100-12-31 23:59:59",
         "StartTime": "2020-01-01 00:00:00"
     },
     {
@@ -54,5 +54,33 @@
         "TitleKey": "[LocalPushNotificationTitleKey4]",
         "EndTime": "2100-12-31 23:59:59",
         "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 5,
+        "IsIgnore": null,
+        "Memo": null,
+        "GroupId": 2,
+        "LocalNotificationSendType": 1,
+        "LocalNotificationType": 4,
+        "MessageKey": "[LocalPushNotificationMessageKey5]",
+        "Priority": 2,
+        "SendTime": "12:35:00",
+        "TitleKey": "[LocalPushNotificationTitleKey5]",
+        "EndTime": "2023-05-08 03:59:59",
+        "StartTime": "2023-04-28 04:00:00"
+    },
+    {
+        "Id": 6,
+        "IsIgnore": null,
+        "Memo": null,
+        "GroupId": 2,
+        "LocalNotificationSendType": 1,
+        "LocalNotificationType": 4,
+        "MessageKey": "[LocalPushNotificationMessageKey6]",
+        "Priority": 2,
+        "SendTime": "19:35:00",
+        "TitleKey": "[LocalPushNotificationTitleKey6]",
+        "EndTime": "2023-05-08 03:59:59",
+        "StartTime": "2023-04-28 04:00:00"
     }
 ]
