@@ -7905,6 +7905,147 @@
         ]
     },
     {
+        "Id": 550344003,
+        "IsIgnore": null,
+        "Memo": "ルサールカ別スキル3",
+        "NameKey": "[PassiveSkillName550344003]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[PassiveSkillDescription5503440031]",
+                "CharacterLevel": 41,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 6,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "SubSetSkillId": 550344003001
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[PassiveSkillDescription5503440032]",
+                "CharacterLevel": 121,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 6,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "SubSetSkillId": 550344003001
+                    },
+                    {
+                        "PassiveTrigger": 19,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "SubSetSkillId": 550344003202
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[PassiveSkillDescription5503440033]",
+                "CharacterLevel": 201,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 6,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "SubSetSkillId": 550344003001
+                    },
+                    {
+                        "PassiveTrigger": 19,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "SubSetSkillId": 550344003302
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 550344004,
+        "IsIgnore": null,
+        "Memo": "ルサールカ別スキル4",
+        "NameKey": "[PassiveSkillName550344004]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[PassiveSkillDescription5503440041]",
+                "CharacterLevel": 61,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 550344004001
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[PassiveSkillDescription5503440042]",
+                "CharacterLevel": 141,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 550344004201
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[PassiveSkillDescription5503440043]",
+                "CharacterLevel": 221,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 550344004301
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 550344005,
+        "IsIgnore": null,
+        "Memo": "ルサールカ別スキル5",
+        "NameKey": "[PassiveSkillName550344005]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[PassiveSkillDescription5503440051]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 550344005001
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "Id": 550347003,
         "IsIgnore": null,
         "Memo": "【劫火の魔女】\\nヴァルリーデSR:悲劇を繰り返したくないと願う心が力を与える。自身の残りHP割合が高いほど自身の攻撃力が増加する。（最大50％）／攻撃力の増加が最大60％までになる。／攻撃力の増加が最大70％までになる。",

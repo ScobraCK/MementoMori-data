@@ -345,8 +345,9 @@
     {
         "Id": 10,
         "IsIgnore": null,
-        "Memo": "※次回追加時に要編集",
+        "Memo": "ルサールカ・ベル",
         "CharacterIdList": [
+            44,
             19,
             5,
             6,
@@ -373,10 +374,48 @@
         ],
         "GachaSelectListType": 2,
         "NewCharacterIdList": [
+            44,
             19
         ],
         "OrderNumber": 8,
-        "StartTimeFixJST": "2023-04-28 14:30:00",
+        "StartTimeFixJST": "2023-04-28 17:30:00",
         "EndTimeFixJST": "2023-05-08 14:29:59"
+    },
+    {
+        "Id": 11,
+        "IsIgnore": null,
+        "Memo": "ルサールカのみ",
+        "CharacterIdList": [
+            44,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "NewCharacterIdList": [
+            44
+        ],
+        "OrderNumber": 9,
+        "StartTimeFixJST": "2023-05-08 14:30:00",
+        "EndTimeFixJST": "2023-05-15 14:29:59"
     }
 ]

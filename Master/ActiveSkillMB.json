@@ -7255,6 +7255,129 @@
         "RootActiveSkillId": 55002
     },
     {
+        "Id": 550344001,
+        "IsIgnore": null,
+        "Memo": "ルサールカ別スキル1",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription5503440011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550344001001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription5503440012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550344001201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription5503440013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550344001301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription5503440014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550344001401
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription5503440015]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 256,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550344001501
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName550344001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 44001
+    },
+    {
+        "Id": 550344002,
+        "IsIgnore": null,
+        "Memo": "ルサールカ別スキル2",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription5503440021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550344002001,
+                    550344002002,
+                    550344002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription5503440022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550344002001,
+                    550344002002,
+                    550344002002,
+                    550344002002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription5503440023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550344002301,
+                    550344002302,
+                    550344002302,
+                    550344002302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription5503440024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550344002401,
+                    550344002402,
+                    550344002402,
+                    550344002402
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName550344002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 44002
+    },
+    {
         "Id": 550347001,
         "IsIgnore": null,
         "Memo": "【劫火の魔女】ヴァルリーデSR:眠っていた復讐心が、全てを焼き尽くす炎となり、ランダムな敵1体に8回攻撃力×100％の物理攻撃を行い、自身のHPを総ダメージ×50％回復する。／物理攻撃のダメージが攻撃力×120％になる。／物理攻撃のダメージが攻撃力×150％、HPの回復量が総ダメージ×100％になる。／スキル１を強化する。物理攻撃のダメージが攻撃力×200％になる。／スキル１を強化する。物理攻撃の回数が10回になる。／スキル１を強化する。物理攻撃のダメージが攻撃力×220％になる。",
