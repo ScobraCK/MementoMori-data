@@ -2576,6 +2576,57 @@
         "StartTimeFixJST": "2023-01-31 15:00:00"
     },
     {
+        "Id": 52,
+        "IsIgnore": null,
+        "Memo": "シヴィ",
+        "ActiveSkillIds": [
+            52001,
+            52002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 80,
+            "Health": 93,
+            "Intelligence": 78,
+            "Muscle": 92
+        },
+        "BaseParameterGrossCoefficient": 343,
+        "ElementType": 1,
+        "InitialBattleParameter": {
+            "AttackPower": 0,
+            "Avoidance": 0,
+            "Critical": 0,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 0,
+            "DamageReflect": 0,
+            "DebuffHit": 0,
+            "DebuffResist": 0,
+            "Defense": 12,
+            "DefensePenetration": 0,
+            "Hit": 0,
+            "HP": 4,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": -2,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 0,
+            "Speed": 2855
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 1,
+        "Name2Key": null,
+        "NameKey": "[CharacterName52]",
+        "NormalSkillId": 101,
+        "PassiveSkillIds": [
+            52003,
+            52004
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2023-05-15 15:00:00"
+    },
+    {
         "Id": 53,
         "IsIgnore": null,
         "Memo": "ウィーラ",

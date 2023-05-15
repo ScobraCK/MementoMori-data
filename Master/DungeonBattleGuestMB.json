@@ -344,56 +344,56 @@
     {
         "Id": 39,
         "IsIgnore": null,
-        "Memo": null,
+        "Memo": "ヴァルリーデ",
         "CharacterId": 47,
-        "IsPickup": true,
-        "EndTimeFixJST": "2023-02-08 14:29:59",
-        "StartTimeFixJST": "2023-01-24 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 40,
         "IsIgnore": null,
-        "Memo": null,
+        "Memo": "ルーク",
         "CharacterId": 30,
-        "IsPickup": true,
-        "EndTimeFixJST": "2023-02-22 14:29:59",
-        "StartTimeFixJST": "2023-02-08 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 41,
         "IsIgnore": null,
-        "Memo": null,
+        "Memo": "カロル",
         "CharacterId": 40,
-        "IsPickup": true,
-        "EndTimeFixJST": "2023-03-08 14:29:59",
-        "StartTimeFixJST": "2023-02-20 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 42,
         "IsIgnore": null,
-        "Memo": null,
+        "Memo": "フォルティナ",
         "CharacterId": 42,
-        "IsPickup": true,
-        "EndTimeFixJST": "2023-04-07 14:29:59",
-        "StartTimeFixJST": "2023-03-23 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 43,
         "IsIgnore": null,
-        "Memo": null,
+        "Memo": "ソーニャ",
         "CharacterId": 9,
-        "IsPickup": true,
-        "EndTimeFixJST": "2023-03-23 14:29:59",
-        "StartTimeFixJST": "2023-03-08 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 44,
         "IsIgnore": null,
         "Memo": "ベル",
         "CharacterId": 19,
-        "IsPickup": true,
-        "EndTimeFixJST": "2023-05-08 14:29:59",
-        "StartTimeFixJST": "2023-04-21 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 45,
@@ -409,18 +409,18 @@
         "IsIgnore": null,
         "Memo": "ソフィア",
         "CharacterId": 51,
-        "IsPickup": true,
-        "EndTimeFixJST": "2023-04-21 14:29:59",
-        "StartTimeFixJST": "2023-04-07 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 47,
         "IsIgnore": null,
-        "Memo": null,
+        "Memo": "Ａ.Ａ.",
         "CharacterId": 48,
         "IsPickup": false,
-        "EndTimeFixJST": "2100-01-01 00:00:00",
-        "StartTimeFixJST": "2100-01-01 00:00:00"
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 48,
@@ -463,8 +463,17 @@
         "IsIgnore": null,
         "Memo": "ルサールカ",
         "CharacterId": 44,
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
+    },
+    {
+        "Id": 53,
+        "IsIgnore": null,
+        "Memo": "シヴィ",
+        "CharacterId": 52,
         "IsPickup": true,
-        "EndTimeFixJST": "2023-05-15 14:29:59",
-        "StartTimeFixJST": "2023-04-28 17:30:00"
+        "EndTimeFixJST": "2023-05-31 14:29:59",
+        "StartTimeFixJST": "2023-05-15 16:30:00"
     }
 ]

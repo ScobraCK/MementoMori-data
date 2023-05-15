@@ -1771,5 +1771,137 @@
         "CharacterRarityFlags": 65536,
         "CollectionId": 14,
         "CollectionLevel": 6
+    },
+    {
+        "Id": 85,
+        "IsIgnore": null,
+        "Memo": "コルウスの吐息(シヴィ,トロポン)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 3,
+                "Value": 15.0
+            }
+        ],
+        "BattleParameterChangeInfos": null,
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 8,
+        "CollectionId": 15,
+        "CollectionLevel": 1
+    },
+    {
+        "Id": 86,
+        "IsIgnore": null,
+        "Memo": "コルウスの吐息(シヴィ,トロポン)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 3,
+                "Value": 30.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 3,
+                "Value": 15.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 128,
+        "CollectionId": 15,
+        "CollectionLevel": 2
+    },
+    {
+        "Id": 87,
+        "IsIgnore": null,
+        "Memo": "コルウスの吐息(シヴィ,トロポン)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 3,
+                "Value": 30.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 3,
+                "Value": 15.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 512,
+        "CollectionId": 15,
+        "CollectionLevel": 3
+    },
+    {
+        "Id": 88,
+        "IsIgnore": null,
+        "Memo": "コルウスの吐息(シヴィ,トロポン)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 3,
+                "Value": 30.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 3,
+                "Value": 15.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 16384,
+        "CollectionId": 15,
+        "CollectionLevel": 4
+    },
+    {
+        "Id": 89,
+        "IsIgnore": null,
+        "Memo": "コルウスの吐息(シヴィ,トロポン)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 3,
+                "Value": 31.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 3,
+                "Value": 16.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 32768,
+        "CollectionId": 15,
+        "CollectionLevel": 5
+    },
+    {
+        "Id": 90,
+        "IsIgnore": null,
+        "Memo": "コルウスの吐息(シヴィ,トロポン)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 3,
+                "Value": 32.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 3,
+                "Value": 17.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 65536,
+        "CollectionId": 15,
+        "CollectionLevel": 6
     }
 ]
