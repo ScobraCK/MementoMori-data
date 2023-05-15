@@ -6596,6 +6596,147 @@
         "RootActiveSkillId": 51002
     },
     {
+        "Id": 52001,
+        "IsIgnore": null,
+        "Memo": "シヴィSR:Lv1 主に迫る危険が大きいほど、剣はより強く覚醒する。\n4ターンの間自身の与ダメージを20%増加させる。このターン中に対象が攻撃によるダメージを受けた回数によって与ダメージの増加量は上昇し、36%、48%、56%、60%の順に高くなる（最大4回まで）。その後攻撃力が最も高い敵に攻撃力×980%の物理攻撃を行い、自身のHPをこのスキルの総与ダメージ×30%回復する。/ Lv2\\n 『与ダメージ増加』の対象が自身と自身以外のスピードが低い味方2体になる。/ Lv3 \\n与ダメージの増加量が25％になる。このターン中に対象が攻撃によるダメージを受けた回数によって与ダメージの増加量は上昇し、45%、60%、70%、75%の順に高くなる（最大4回まで）。/ Ex1 リアクティブブレイドを強化する。物理攻撃のダメージが攻撃力×1170%になる。/Ex2 \\nリアクティブブレイドを強化する。与ダメージの増加量が30％になる。このターン中に対象が攻撃によるダメージを受けた回数によって与ダメージの増加量は上昇し、54%、72%、84%、90%の順に高くなる（最大4回まで）。",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription520011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    52001001,
+                    52001003,
+                    52001004
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription520012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    52001001,
+                    52001202,
+                    52001003,
+                    52001004
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription520013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    52001301,
+                    52001302,
+                    52001003,
+                    52001004
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription520014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    52001301,
+                    52001302,
+                    52001403,
+                    52001004
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription520015]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 256,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    52001501,
+                    52001502,
+                    52001403,
+                    52001004
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName52001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 52001
+    },
+    {
+        "Id": 52002,
+        "IsIgnore": null,
+        "Memo": "シヴィSR: Lv1 その黒き刃は命を吸い取り、主の仲間へと分け与える。\nランダムな敵3体に攻撃力×310%の物理攻撃を行い、スピードが最も低い味方のHPをこのスキルの総与ダメージ×15%回復する。/ Lv2 \\nさらにスピードが最も低い味方の弱体効果を全て解除する。/Lv3 \\nHP回復と弱体効果解除の対象がスピードが低い味方3体になる。/Lv4 \\n物理攻撃のダメージが攻撃力×530%になる。/ Ex3 アブソーブブレイドを強化する。物理攻撃の対象がランダムな敵4体になる。",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription520021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    52002001,
+                    52002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription520022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    52002001,
+                    52002202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription520023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    52002001,
+                    52002302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription520024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    52002401,
+                    52002302
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription520025]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    52002501,
+                    52002302
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName52002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 52002
+    },
+    {
         "Id": 53001,
         "IsIgnore": null,
         "Memo": "ウィーラSR:Lv1 水のおともだちを呼んで攻撃してもらう。ランダムな敵3体に攻撃力×430％の魔法攻撃を行う。水の乙女が触れた者の生気を奪い取り、60％の確率で1ターンの間対象の攻撃力を15％減少させる。対象の魔力が自身よりも低い場合、『攻撃力減少』のターン数が2ターンになる。/ Lv2\n 攻撃力の減少量が35％になる。/ Lv3 \n攻撃力を減少させる確率が100％になる。/ Ex1 ウンディーネを強化する。魔法攻撃の対象がランダムな敵4体になる。/Ex2 \nウンディーネを強化する。魔法攻撃のダメージが攻撃力×480％になる。",

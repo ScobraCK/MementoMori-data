@@ -4659,6 +4659,124 @@
         ]
     },
     {
+        "Id": 52003,
+        "IsIgnore": null,
+        "Memo": "シヴィSR:Lv1 戦うのは苦手だし面倒だから、みんなに頑張ってもらいたいっす。という主の願いを受けて剣が仲間にも力を付与し、自身と自身に隣接する味方1体の防御力と物理防御力がそれぞれ25%増加する（解除不可）。/ Lv2 \\nこのスキルの対象が自身と自身に隣接する味方2体になる。/ Lv3 \\n自身のみ防御力と物理防御力の増加量がそれぞれ100%になる。",
+        "NameKey": "[PassiveSkillName52003]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[PassiveSkillDescription520031]",
+                "CharacterLevel": 41,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "SubSetSkillId": 52003001
+                    },
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "SubSetSkillId": 52003002
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[PassiveSkillDescription520032]",
+                "CharacterLevel": 121,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "SubSetSkillId": 52003201
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[PassiveSkillDescription520033]",
+                "CharacterLevel": 201,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "SubSetSkillId": 52003301
+                    },
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "SubSetSkillId": 52003302
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 52004,
+        "IsIgnore": null,
+        "Memo": "シヴィSR:Lv1 剣は主を守護し続ける。その使命を全うするまで。自身がアクティブスキルで弱体効果を受けて、自身が付帯している弱体効果の個数が2以上の場合、自身の弱体効果を全て解除する。このスキルは4ターンに1回発動する。/ Lv2 \\nさらに2ターンの間自身の被ダメージが15%減少する。/ Lv3\\n被ダメージの減少量が30%になる。",
+        "NameKey": "[PassiveSkillName52004]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[PassiveSkillDescription520041]",
+                "CharacterLevel": 61,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 11,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 4,
+                        "SubSetSkillId": 52004001
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[PassiveSkillDescription520042]",
+                "CharacterLevel": 141,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 11,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 4,
+                        "SubSetSkillId": 52004201
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[PassiveSkillDescription520043]",
+                "CharacterLevel": 221,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 11,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 4,
+                        "SubSetSkillId": 52004301
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "Id": 53003,
         "IsIgnore": null,
         "Memo": "ウィーラSR: Lv1 雨が教えてくれるの。だからウィー、どこにいるかわかるよ。自身の命中率が20％増加する（解除不可）。/ Lv2\nさらに自身の弱体効果命中率が20％増加する（解除不可）。/ Lv3 \n命中率と弱体効果命中率の増加量がそれぞれ40％になる。",
