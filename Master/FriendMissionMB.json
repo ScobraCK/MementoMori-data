@@ -1,0 +1,98 @@
+[
+    {
+        "Id": 1,
+        "IsIgnore": null,
+        "Memo": "test1",
+        "NameKey": "[FriendMissionName1]",
+        "TransitionDestination": 0,
+        "AchievementType": 300,
+        "RequireValue": 1,
+        "SortOrder": 1,
+        "RewardList": [
+            {
+                "ItemCount": 100,
+                "ItemId": 1,
+                "ItemType": 1
+            },
+            {
+                "ItemCount": 1000000,
+                "ItemId": 1,
+                "ItemType": 3
+            }
+        ],
+        "EndTime": "2033-05-31 23:59:59",
+        "StartTime": "2033-04-20 00:00:00"
+    },
+    {
+        "Id": 2,
+        "IsIgnore": null,
+        "Memo": "test2",
+        "NameKey": "[FriendMissionName2]",
+        "TransitionDestination": 0,
+        "AchievementType": 300,
+        "RequireValue": 2,
+        "SortOrder": 2,
+        "RewardList": [
+            {
+                "ItemCount": 200,
+                "ItemId": 1,
+                "ItemType": 1
+            },
+            {
+                "ItemCount": 2000000,
+                "ItemId": 1,
+                "ItemType": 3
+            }
+        ],
+        "EndTime": "2033-05-31 23:59:59",
+        "StartTime": "2033-04-20 00:00:00"
+    },
+    {
+        "Id": 3,
+        "IsIgnore": null,
+        "Memo": "test3",
+        "NameKey": "[FriendMissionName3]",
+        "TransitionDestination": 0,
+        "AchievementType": 300,
+        "RequireValue": 3,
+        "SortOrder": 3,
+        "RewardList": [
+            {
+                "ItemCount": 300,
+                "ItemId": 1,
+                "ItemType": 1
+            },
+            {
+                "ItemCount": 3000000,
+                "ItemId": 1,
+                "ItemType": 3
+            }
+        ],
+        "EndTime": "2033-05-31 23:59:59",
+        "StartTime": "2033-04-20 00:00:00"
+    },
+    {
+        "Id": 4,
+        "IsIgnore": null,
+        "Memo": "test4",
+        "NameKey": "[FriendMissionName4]",
+        "TransitionDestination": 0,
+        "AchievementType": 300,
+        "RequireValue": 4,
+        "SortOrder": 4,
+        "RewardList": [
+            {
+                "ItemCount": 300,
+                "ItemId": 1,
+                "ItemType": 1
+            },
+            {
+                "ItemCount": 3000000,
+                "ItemId": 1,
+                "ItemType": 3
+            }
+        ],
+        "EndTime": "2033-05-31 23:59:59",
+        "StartTime": "2033-04-20 00:00:00"
+    }
+]

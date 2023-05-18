@@ -1,0 +1,34 @@
+[
+    {
+        "Id": 1,
+        "IsIgnore": null,
+        "Memo": null,
+        "CodeExpirationPeriod": 10,
+        "CodeLimitCount": 10,
+        "FriendMissionIdList": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "RewardItemList": [
+            {
+                "ItemCount": 500,
+                "ItemId": 1,
+                "ItemType": 1
+            },
+            {
+                "ItemCount": 5000000,
+                "ItemId": 1,
+                "ItemType": 3
+            }
+        ],
+        "Title": "[FriendCampaignKey1]",
+        "CharacterImageId": 48,
+        "CharacterImageX": 0.0,
+        "CharacterImageY": 0.0,
+        "CharacterImageSize": 620.0,
+        "EndTime": "2033-05-31 00:00:00",
+        "StartTime": "2033-04-20 00:00:00"
+    }
+]
