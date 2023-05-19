@@ -1903,5 +1903,137 @@
         "CharacterRarityFlags": 65536,
         "CollectionId": 15,
         "CollectionLevel": 6
+    },
+    {
+        "Id": 91,
+        "IsIgnore": null,
+        "Memo": "アルゴルの武勇(ルーク,リーン)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 3,
+                "Value": 15.0
+            }
+        ],
+        "BattleParameterChangeInfos": null,
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 8,
+        "CollectionId": 16,
+        "CollectionLevel": 1
+    },
+    {
+        "Id": 92,
+        "IsIgnore": null,
+        "Memo": "アルゴルの武勇(ルーク,リーン)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 3,
+                "Value": 30.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 9,
+                "ChangeParameterType": 1,
+                "Value": 1000.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 128,
+        "CollectionId": 16,
+        "CollectionLevel": 2
+    },
+    {
+        "Id": 93,
+        "IsIgnore": null,
+        "Memo": "アルゴルの武勇(ルーク,リーン)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 3,
+                "Value": 30.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 9,
+                "ChangeParameterType": 1,
+                "Value": 1000.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 512,
+        "CollectionId": 16,
+        "CollectionLevel": 3
+    },
+    {
+        "Id": 94,
+        "IsIgnore": null,
+        "Memo": "アルゴルの武勇(ルーク,リーン)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 3,
+                "Value": 30.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 9,
+                "ChangeParameterType": 1,
+                "Value": 1000.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 16384,
+        "CollectionId": 16,
+        "CollectionLevel": 4
+    },
+    {
+        "Id": 95,
+        "IsIgnore": null,
+        "Memo": "アルゴルの武勇(ルーク,リーン)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 3,
+                "Value": 31.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 9,
+                "ChangeParameterType": 1,
+                "Value": 1050.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 32768,
+        "CollectionId": 16,
+        "CollectionLevel": 5
+    },
+    {
+        "Id": 96,
+        "IsIgnore": null,
+        "Memo": "アルゴルの武勇(ルーク,リーン)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 3,
+                "Value": 32.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 9,
+                "ChangeParameterType": 1,
+                "Value": 1100.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 65536,
+        "CollectionId": 16,
+        "CollectionLevel": 6
     }
 ]

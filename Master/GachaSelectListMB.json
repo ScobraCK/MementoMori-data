@@ -454,5 +454,81 @@
         "OrderNumber": 10,
         "StartTimeFixJST": "2023-05-15 16:30:00",
         "EndTimeFixJST": "2023-05-31 14:29:59"
+    },
+    {
+        "Id": 13,
+        "IsIgnore": null,
+        "Memo": "シヴィ・ルーク復刻",
+        "CharacterIdList": [
+            52,
+            30,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "NewCharacterIdList": [
+            52,
+            30
+        ],
+        "OrderNumber": 11,
+        "StartTimeFixJST": "2023-05-22 14:30:00",
+        "EndTimeFixJST": "2023-05-31 14:29:59"
+    },
+    {
+        "Id": 14,
+        "IsIgnore": null,
+        "Memo": "ルーク復刻(仮置き)",
+        "CharacterIdList": [
+            30,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "NewCharacterIdList": [
+            30
+        ],
+        "OrderNumber": 12,
+        "StartTimeFixJST": "2023-05-31 14:30:00",
+        "EndTimeFixJST": "2023-06-07 14:29:59"
     }
 ]
