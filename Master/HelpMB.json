@@ -760,6 +760,26 @@
         "TutorialDescriptionId": 1
     },
     {
+        "Id": 3910,
+        "IsIgnore": null,
+        "Memo": "試練画面 - 時空の洞窟画面_イベント（ハードモード解放前）",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine3910]",
+                "MainText": "[HelpMainText3910]",
+                "HelpParameterType": 0
+            },
+            {
+                "HeadLine": "[HelpHeadLine3900]",
+                "MainText": "[HelpMainText3900]",
+                "HelpParameterType": 0
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 1
+    },
+    {
         "Id": 4000,
         "IsIgnore": null,
         "Memo": "試練画面 - 時空の洞窟画面（ハードモード解放後）",
@@ -778,6 +798,46 @@
         "HelpTitle": "[HelpTitleKey]",
         "IsDisplayed": true,
         "TutorialDescriptionId": 24
+    },
+    {
+        "Id": 4010,
+        "IsIgnore": null,
+        "Memo": "試練画面 - 時空の洞窟画面_イベント（ハードモード解放後）",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine4010]",
+                "MainText": "[HelpMainText4010]",
+                "HelpParameterType": 0
+            },
+            {
+                "HeadLine": "[HelpHeadLine4000]",
+                "MainText": "[HelpMainText4000]",
+                "HelpParameterType": 0
+            },
+            {
+                "HeadLine": "[HelpHeadLine4001]",
+                "MainText": "[HelpMainText4001]",
+                "HelpParameterType": 0
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 24
+    },
+    {
+        "Id": 4020,
+        "IsIgnore": null,
+        "Memo": "試練画面 - 時空の洞窟画面_見逃し補填DLG",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine4020]",
+                "MainText": "[HelpMainText4020]",
+                "HelpParameterType": 0
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0
     },
     {
         "Id": 4100,
@@ -799,6 +859,26 @@
         "IsIgnore": null,
         "Memo": "試練画面 - 幻影の神殿画面",
         "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine4200]",
+                "MainText": "[HelpMainText4200]",
+                "HelpParameterType": 0
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 5
+    },
+    {
+        "Id": 4210,
+        "IsIgnore": null,
+        "Memo": "試練画面 - 幻影の神殿画面_イベント",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine4210]",
+                "MainText": "[HelpMainText4210]",
+                "HelpParameterType": 0
+            },
             {
                 "HeadLine": "[HelpHeadLine4200]",
                 "MainText": "[HelpMainText4200]",
@@ -937,6 +1017,21 @@
             {
                 "HeadLine": "[HelpHeadLine5000]",
                 "MainText": "[HelpMainText5000]",
+                "HelpParameterType": 0
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 16
+    },
+    {
+        "Id": 5010,
+        "IsIgnore": null,
+        "Memo": "ギルドレイド画面",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine5010]",
+                "MainText": "[HelpMainText5010]",
                 "HelpParameterType": 0
             }
         ],
