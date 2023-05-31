@@ -451,9 +451,9 @@
         "Id": 25,
         "IsIgnore": null,
         "Memo": "時空の洞窟_イベント",
-        "HelpId": 4000,
+        "HelpId": 4010,
         "ImageItem1": {
-            "ItemCount": 10000,
+            "ItemCount": 0,
             "ItemId": 2,
             "ItemType": 50
         },
@@ -515,7 +515,7 @@
         "Id": 2001,
         "IsIgnore": null,
         "Memo": "神殿_イベント",
-        "HelpId": 4200,
+        "HelpId": 4210,
         "ImageItem1": {
             "ItemCount": 0,
             "ItemId": 5,
@@ -534,5 +534,29 @@
             }
         ],
         "ImageCharacterId": 44
+    },
+    {
+        "Id": 3001,
+        "IsIgnore": null,
+        "Memo": "時空の洞窟_イベント_アーティ",
+        "HelpId": 4010,
+        "ImageItem1": {
+            "ItemCount": 0,
+            "ItemId": 6,
+            "ItemType": 50
+        },
+        "ImageItem2": {
+            "ItemCount": 0,
+            "ItemId": 28,
+            "ItemType": 17
+        },
+        "ImagePositionFormatType": 1,
+        "PageInfo": [
+            {
+                "ImageId": 36,
+                "MainTextKey": "[TutorialDescriptionMainText36]"
+            }
+        ],
+        "ImageCharacterId": 0
     }
 ]

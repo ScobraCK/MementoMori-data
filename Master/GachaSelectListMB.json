@@ -497,8 +497,9 @@
     {
         "Id": 14,
         "IsIgnore": null,
-        "Memo": "ルーク復刻(仮置き)",
+        "Memo": "アーティ・ルーク復刻(上書き)",
         "CharacterIdList": [
+            58,
             30,
             5,
             6,
@@ -525,10 +526,48 @@
         ],
         "GachaSelectListType": 2,
         "NewCharacterIdList": [
+            58,
             30
         ],
         "OrderNumber": 12,
-        "StartTimeFixJST": "2023-05-31 14:30:00",
+        "StartTimeFixJST": "2023-05-31 17:30:00",
         "EndTimeFixJST": "2023-06-07 14:29:59"
+    },
+    {
+        "Id": 15,
+        "IsIgnore": null,
+        "Memo": "アーティ",
+        "CharacterIdList": [
+            58,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "NewCharacterIdList": [
+            58
+        ],
+        "OrderNumber": 13,
+        "StartTimeFixJST": "2023-06-07 14:30:00",
+        "EndTimeFixJST": "2023-06-14 14:29:59"
     }
 ]

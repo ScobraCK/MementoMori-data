@@ -2088,6 +2088,30 @@
         "ErrorMessageType": 2
     },
     {
+        "Id": 241001,
+        "IsIgnore": null,
+        "Memo": "プレイヤーのプレイヤーデータがありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 241002,
+        "IsIgnore": null,
+        "Memo": "プレイヤーのオートバトルデータがありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 241003,
+        "IsIgnore": null,
+        "Memo": "プレイヤーの友達招待データがありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 241004,
+        "IsIgnore": null,
+        "Memo": "プレイヤーのプレイヤーデータがありません",
+        "ErrorMessageType": 2
+    },
+    {
         "Id": 242000,
         "IsIgnore": null,
         "Memo": null,
@@ -2194,6 +2218,72 @@
         "IsIgnore": null,
         "Memo": null,
         "ErrorMessageType": 3
+    },
+    {
+        "Id": 242018,
+        "IsIgnore": null,
+        "Memo": "友達招待キャンペーン開催期間外です",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 242019,
+        "IsIgnore": null,
+        "Memo": "存在しないミッションです",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 242020,
+        "IsIgnore": null,
+        "Memo": "入力された招待コードは無効です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 242021,
+        "IsIgnore": null,
+        "Memo": "友達招待機能が解放されていません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 242022,
+        "IsIgnore": null,
+        "Memo": "招待コード入力期間が終了しています",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 242023,
+        "IsIgnore": null,
+        "Memo": "招待コード入力期間が終了しています",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 242024,
+        "IsIgnore": null,
+        "Memo": "既に招待コードを使用しています",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 242025,
+        "IsIgnore": null,
+        "Memo": "自分の招待コードは使用できません",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 242026,
+        "IsIgnore": null,
+        "Memo": "自分と同じサーバーの招待コードしか使用できません",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 242027,
+        "IsIgnore": null,
+        "Memo": "一度招待を受けたプレイヤーの招待コードは1回しか使用できません",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 242028,
+        "IsIgnore": null,
+        "Memo": "この招待コードは使用上限に達しています",
+        "ErrorMessageType": 1
     },
     {
         "Id": 251000,
