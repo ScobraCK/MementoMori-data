@@ -5102,5 +5102,138 @@
             }
         ],
         "CharacterId": 52
+    },
+    {
+        "Id": 235,
+        "IsIgnore": null,
+        "Memo": "アーティSSR180",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 58
+    },
+    {
+        "Id": 236,
+        "IsIgnore": null,
+        "Memo": "アーティSSR200",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1300.0
+            },
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 600.0
+            }
+        ],
+        "CharacterId": 58
+    },
+    {
+        "Id": 237,
+        "IsIgnore": null,
+        "Memo": "アーティSSR220",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 2,
+                "Value": 650.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1400.0
+            },
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "CharacterId": 58
+    },
+    {
+        "Id": 238,
+        "IsIgnore": null,
+        "Memo": "アーティSSR240",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "CharacterId": 58
+    },
+    {
+        "Id": 239,
+        "IsIgnore": null,
+        "Memo": "アーティUR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 2,
+                "Value": 750.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1600.0
+            },
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 900.0
+            }
+        ],
+        "CharacterId": 58
+    },
+    {
+        "Id": 240,
+        "IsIgnore": null,
+        "Memo": "アーティLR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 1000.0
+            }
+        ],
+        "CharacterId": 58
     }
 ]

@@ -2035,5 +2035,137 @@
         "CharacterRarityFlags": 65536,
         "CollectionId": 16,
         "CollectionLevel": 6
+    },
+    {
+        "Id": 97,
+        "IsIgnore": null,
+        "Memo": "アウリガの知恵(アーティ,メルティーユ)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 3,
+                "Value": 15.0
+            }
+        ],
+        "BattleParameterChangeInfos": null,
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 8,
+        "CollectionId": 17,
+        "CollectionLevel": 1
+    },
+    {
+        "Id": 98,
+        "IsIgnore": null,
+        "Memo": "アウリガの知恵(アーティ,メルティーユ)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 3,
+                "Value": 30.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 100.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 128,
+        "CollectionId": 17,
+        "CollectionLevel": 2
+    },
+    {
+        "Id": 99,
+        "IsIgnore": null,
+        "Memo": "アウリガの知恵(アーティ,メルティーユ)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 3,
+                "Value": 30.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 100.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 512,
+        "CollectionId": 17,
+        "CollectionLevel": 3
+    },
+    {
+        "Id": 100,
+        "IsIgnore": null,
+        "Memo": "アウリガの知恵(アーティ,メルティーユ)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 3,
+                "Value": 30.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 100.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 16384,
+        "CollectionId": 17,
+        "CollectionLevel": 4
+    },
+    {
+        "Id": 101,
+        "IsIgnore": null,
+        "Memo": "アウリガの知恵(アーティ,メルティーユ)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 3,
+                "Value": 31.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 110.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 32768,
+        "CollectionId": 17,
+        "CollectionLevel": 5
+    },
+    {
+        "Id": 102,
+        "IsIgnore": null,
+        "Memo": "アウリガの知恵(アーティ,メルティーユ)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 3,
+                "Value": 32.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 120.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 65536,
+        "CollectionId": 17,
+        "CollectionLevel": 6
     }
 ]

@@ -5134,6 +5134,175 @@
         ]
     },
     {
+        "Id": 58003,
+        "IsIgnore": null,
+        "Memo": "アーティSR:Lv1 「二人なら、乗り越えられる」寄り添う影が挫けそうな心を何度も奮い立たせる。自身の最大HPが15％増加する（解除不可）。/ Lv2 \\nさらに自身の被ダメージが15％減少する（解除不可）。/ Lv3 \\n最大HPの増加量が30%、被ダメージの減少量が30%になる。",
+        "NameKey": "[PassiveSkillName58003]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[PassiveSkillDescription580031]",
+                "CharacterLevel": 41,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "SubSetSkillId": 58003001
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[PassiveSkillDescription580032]",
+                "CharacterLevel": 121,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "SubSetSkillId": 58003201
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[PassiveSkillDescription580033]",
+                "CharacterLevel": 201,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "SubSetSkillId": 58003301
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 58004,
+        "IsIgnore": null,
+        "Memo": "アーティSR:Lv1 秘めた魔力はかつて魔剣を生み出すほど強大なものーーバトル開始時自身にクリティカル耐性を10％増加させるバフを3回付与する（最大10回まで）（解除不可）。自身が最大HPの5％を超えるダメージの攻撃を受けた場合、自身が付与した『クリティカル耐性増加』のスタック数を1消費して、10%を超えた分のダメージを50％遮断する。（遮断された後のダメージ量に対して、他のダメージ軽減（『被ダメージ減少』等）が計算される）/ Lv2 \\n5%を超えた分のダメージを70%遮断する。/ Lv3\\n『クリティカル耐性増加』の付与回数が5回になる。/ ExLv2\\n魔剣の創造主を強化する。5%を超えた分のダメージを90%遮断する。",
+        "NameKey": "[PassiveSkillName58004]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[PassiveSkillDescription580041]",
+                "CharacterLevel": 61,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "SubSetSkillId": 58004001
+                    },
+                    {
+                        "PassiveTrigger": 42,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 58004002
+                    },
+                    {
+                        "PassiveTrigger": 8,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 58004003
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[PassiveSkillDescription580042]",
+                "CharacterLevel": 141,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "SubSetSkillId": 58004001
+                    },
+                    {
+                        "PassiveTrigger": 42,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 58004202
+                    },
+                    {
+                        "PassiveTrigger": 8,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 58004003
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[PassiveSkillDescription580043]",
+                "CharacterLevel": 221,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "SubSetSkillId": 58004301
+                    },
+                    {
+                        "PassiveTrigger": 42,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 58004202
+                    },
+                    {
+                        "PassiveTrigger": 8,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 58004003
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[PassiveSkillDescription580044]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 256,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "SubSetSkillId": 58004301
+                    },
+                    {
+                        "PassiveTrigger": 42,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 58004402
+                    },
+                    {
+                        "PassiveTrigger": 8,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 58004003
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "Id": 500000001,
         "IsIgnore": null,
         "Memo": "バトル開始時敵全体に「睡眠」を付与する。「睡眠」は4ターンの間「気絶」を付与する。この効果は「睡眠」を付帯している敵が一定のダメージを受けると解除される。",
