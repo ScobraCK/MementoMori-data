@@ -369,5 +369,58 @@
         ],
         "EndTime": "2023-05-16 03:59:59",
         "StartTime": "2023-05-08 04:00:00"
+    },
+    {
+        "Id": 8,
+        "IsIgnore": null,
+        "Memo": "ソロ報酬2倍（06/10~06/15）",
+        "EventDescriptionKey": "[BountyQuestEventDescription1]",
+        "EventNameKey": "[BountyQuestEventName1]",
+        "MultipleNumber": 100,
+        "TargetItemList": [
+            {
+                "ItemId": 1,
+                "ItemType": 3
+            },
+            {
+                "ItemId": 2,
+                "ItemType": 11
+            },
+            {
+                "ItemId": 1,
+                "ItemType": 1
+            },
+            {
+                "ItemId": 27,
+                "ItemType": 17
+            },
+            {
+                "ItemId": 4,
+                "ItemType": 17
+            },
+            {
+                "ItemId": 5,
+                "ItemType": 17
+            },
+            {
+                "ItemId": 6,
+                "ItemType": 17
+            },
+            {
+                "ItemId": 7,
+                "ItemType": 17
+            },
+            {
+                "ItemId": 8,
+                "ItemType": 17
+            }
+        ],
+        "TargetQuestTypeList": [
+            {
+                "BountyQuestType": 0
+            }
+        ],
+        "EndTime": "2023-06-15 03:59:59",
+        "StartTime": "2023-06-10 04:00:00"
     }
 ]
