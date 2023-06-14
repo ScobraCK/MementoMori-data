@@ -481,8 +481,17 @@
         "IsIgnore": null,
         "Memo": "アーティ",
         "CharacterId": 58,
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
+    },
+    {
+        "Id": 55,
+        "IsIgnore": null,
+        "Memo": "リシェス",
+        "CharacterId": 67,
         "IsPickup": true,
-        "EndTimeFixJST": "2023-06-14 14:29:59",
-        "StartTimeFixJST": "2023-05-31 15:00:00"
+        "EndTimeFixJST": "2023-06-30 14:29:59",
+        "StartTimeFixJST": "2023-06-14 16:30:00"
     }
 ]
