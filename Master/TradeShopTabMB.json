@@ -1107,6 +1107,78 @@
         "StartTime": "2023-02-28 04:00:00"
     },
     {
+        "Id": 16,
+        "IsIgnore": null,
+        "Memo": "グランドバトルショップ",
+        "AutoUpdateTimes": [
+            0
+        ],
+        "AutoUpdateType": 2,
+        "ConsumeItemInfos": [
+            {
+                "ItemType": 13,
+                "ItemId": 15
+            }
+        ],
+        "CustomTextLayout": {
+            "enUS": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#323640FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "jaJP": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#323640FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "koKR": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#323640FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "zhTW": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#323640FF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            }
+        },
+        "DecorationColor": "#050D1FFF",
+        "DecorationId": 1,
+        "DecorationSpecialId": 0,
+        "IconId": 16,
+        "IsHide": false,
+        "IsHideNotOpen": false,
+        "IsManualUpdate": false,
+        "ManualUpdateCurrencyCount": 0,
+        "OpenCommandType": 51,
+        "SortOrder": 17,
+        "TabNameKey": "[TradeShopTabName16]",
+        "TradeShopItemCount": 0,
+        "TradeShopType": 0,
+        "EndTime": null,
+        "StartTime": null
+    },
+    {
         "Id": 17,
         "IsIgnore": null,
         "Memo": "20230331レア_イベント",
