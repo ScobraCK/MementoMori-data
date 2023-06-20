@@ -610,9 +610,10 @@
     {
         "Id": 17,
         "IsIgnore": null,
-        "Memo": "リシェス(仮-0621切替用)",
+        "Memo": "リシェス・ウィーラ(0621切替用)",
         "CharacterIdList": [
             67,
+            53,
             5,
             6,
             7,
@@ -638,10 +639,48 @@
         ],
         "GachaSelectListType": 2,
         "NewCharacterIdList": [
-            67
+            67,
+            53
         ],
         "OrderNumber": 15,
         "StartTimeFixJST": "2023-06-21 14:30:00",
         "EndTimeFixJST": "2023-06-30 14:29:59"
+    },
+    {
+        "Id": 18,
+        "IsIgnore": null,
+        "Memo": "ウィーラ(仮0630切替用)",
+        "CharacterIdList": [
+            53,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "NewCharacterIdList": [
+            53
+        ],
+        "OrderNumber": 16,
+        "StartTimeFixJST": "2023-06-30 14:30:00",
+        "EndTimeFixJST": "2023-07-07 14:29:59"
     }
 ]
