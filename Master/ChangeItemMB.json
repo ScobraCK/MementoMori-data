@@ -3838,5 +3838,37 @@
         "ItemId": 6,
         "ItemType": 50,
         "NeedCount": 1
+    },
+    {
+        "Id": 241,
+        "IsIgnore": null,
+        "Memo": "湖畔の貝殻",
+        "ChangeItems": [
+            {
+                "ItemCount": 10000,
+                "ItemId": 1,
+                "ItemType": 3
+            }
+        ],
+        "ChangeItemType": 0,
+        "ItemId": 7,
+        "ItemType": 50,
+        "NeedCount": 1
+    },
+    {
+        "Id": 242,
+        "IsIgnore": null,
+        "Memo": "水着サブリナガチャチケット",
+        "ChangeItems": [
+            {
+                "ItemCount": 1,
+                "ItemId": 2,
+                "ItemType": 16
+            }
+        ],
+        "ChangeItemType": 0,
+        "ItemId": 700,
+        "ItemType": 16,
+        "NeedCount": 1
     }
 ]

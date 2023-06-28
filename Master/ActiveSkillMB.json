@@ -6407,16 +6407,49 @@
     {
         "Id": 50001,
         "IsIgnore": null,
-        "Memo": "【撃鉄の魔女】アームストロングSR",
+        "Memo": "アームストロングSR",
         "ActiveSkillInfos": [
             {
                 "OrderNumber": 1,
-                "DescriptionKey": "[ActiveSkillDescription430011]",
+                "DescriptionKey": "[ActiveSkillDescription500011]",
                 "CharacterLevel": 1,
                 "EquipmentRarityFlags": 0,
                 "BlessingItemId": 0,
                 "SubSetSkillIds": [
-                    101001
+                    50001001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription500012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    50001001,
+                    50001202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription500013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    50001301,
+                    50001302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription500014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    50001401,
+                    50001402
                 ]
             }
         ],
@@ -6428,16 +6461,87 @@
     {
         "Id": 50002,
         "IsIgnore": null,
-        "Memo": "【撃鉄の魔女】アームストロングSR:",
+        "Memo": "アームストロングSR:",
         "ActiveSkillInfos": [
             {
                 "OrderNumber": 1,
-                "DescriptionKey": "[ActiveSkillDescription430021]",
+                "DescriptionKey": "[ActiveSkillDescription500021]",
                 "CharacterLevel": 11,
                 "EquipmentRarityFlags": 0,
                 "BlessingItemId": 0,
                 "SubSetSkillIds": [
-                    101001
+                    50002001,
+                    50002002,
+                    50002002,
+                    50002002,
+                    50002002,
+                    50002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription500022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    50002201,
+                    50002202,
+                    50002202,
+                    50002202,
+                    50002202,
+                    50002202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription500023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    50002201,
+                    50002202,
+                    50002202,
+                    50002202,
+                    50002202,
+                    50002202,
+                    50002202,
+                    50002202
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription500024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    50002401,
+                    50002402,
+                    50002402,
+                    50002402,
+                    50002402,
+                    50002402,
+                    50002402,
+                    50002402
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription500025]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    50002501,
+                    50002502,
+                    50002502,
+                    50002502,
+                    50002502,
+                    50002502,
+                    50002502,
+                    50002502
                 ]
             }
         ],

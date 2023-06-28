@@ -1,0 +1,59 @@
+[
+    {
+        "Id": 1,
+        "IsIgnore": null,
+        "Memo": "日本語（日本語）",
+        "LanguageType": 1,
+        "HyphenationFront": "!%),.:;?]}¢°’”‰′″℃、。々〉》」』】〕ぁぃぅぇぉっゃゅょゎ゛゜ゝゞァィゥェォッャュョヮヵヶ・ーヽヾ！％），．：；？］｝｡｣､･ｧｨｩｪｫｬｭｮｯｰﾞﾟ￠♪",
+        "HyphenationBack": "$([\\{£¥‘“〈《「『【〔＄（［｛｢￡￥",
+        "HyphenationSeparable": [
+            "…",
+            "─",
+            "Lv0123456789.",
+            "A.",
+            "-'’ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
+        ]
+    },
+    {
+        "Id": 3,
+        "IsIgnore": null,
+        "Memo": "英語（English）",
+        "LanguageType": 2,
+        "HyphenationFront": "〉》】゜￠♪—!%),.:;?]/}¢”%♪-—~»",
+        "HyphenationBack": "〈《「『【〔＄（［｛￡￥°$([\\{£‘“｢«-¥",
+        "HyphenationSeparable": [
+            "Lv0123456790.",
+            "-'’ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz",
+            "A."
+        ]
+    },
+    {
+        "Id": 13,
+        "IsIgnore": null,
+        "Memo": "繁体字（繁體中文）",
+        "LanguageType": 4,
+        "HyphenationFront": "…，。、．：；！？—〉》」』】〕）］｝％＆／～￠♪゜℃℉!%),.:;?]}¢‰｡｣､･/",
+        "HyphenationBack": "〈《「『【〔（［｛＄￡￥$([\\{£¥｢",
+        "HyphenationSeparable": [
+            "…",
+            "─",
+            "Lv0123456789.",
+            "A.",
+            "小Ａ",
+            "-'’ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
+        ]
+    },
+    {
+        "Id": 14,
+        "IsIgnore": null,
+        "Memo": "韓国語（한국어）",
+        "LanguageType": 3,
+        "HyphenationFront": "〉》】゜￠♪—円!%),.:;?]/}¢’”%♪-—~»",
+        "HyphenationBack": "〈《「『【〔＄（［｛￡￥°$([\\{£¥‘“｢«-₩원",
+        "HyphenationSeparable": [
+            "─",
+            "Lv0123456789.",
+            "A."
+        ]
+    }
+]

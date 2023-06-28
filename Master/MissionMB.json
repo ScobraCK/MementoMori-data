@@ -15083,7 +15083,7 @@
         "SortOrderB": 14,
         "TransitionDestination": 901,
         "EndTime": "2100-01-01 00:00:00",
-        "StartTime": "2100-01-01 00:00:00"
+        "StartTime": "2020-01-01 00:00:00"
     },
     {
         "Id": 504,
@@ -15117,7 +15117,7 @@
         "SortOrderB": 14,
         "TransitionDestination": 901,
         "EndTime": "2100-01-01 00:00:00",
-        "StartTime": "2100-01-01 00:00:00"
+        "StartTime": "2020-01-01 00:00:00"
     },
     {
         "Id": 505,
@@ -31718,6 +31718,370 @@
         "SortOrderA": 18,
         "SortOrderB": 25,
         "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1045,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト23-4をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionName1045]",
+        "OpeningPeriod": 0,
+        "RequireValue": 592,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1046,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト23-8をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionName1046]",
+        "OpeningPeriod": 0,
+        "RequireValue": 596,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1047,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト23-12をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionName1047]",
+        "OpeningPeriod": 0,
+        "RequireValue": 600,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 300,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1048,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト23-16をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionName1048]",
+        "OpeningPeriod": 0,
+        "RequireValue": 604,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1049,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト23-20をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionName1049]",
+        "OpeningPeriod": 0,
+        "RequireValue": 608,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1050,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト23-24をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionName1050]",
+        "OpeningPeriod": 0,
+        "RequireValue": 612,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1051,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト23-28をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionName1051]",
+        "OpeningPeriod": 0,
+        "RequireValue": 616,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 300,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1052,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト24-4をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionName1052]",
+        "OpeningPeriod": 0,
+        "RequireValue": 620,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1053,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト24-8をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionName1053]",
+        "OpeningPeriod": 0,
+        "RequireValue": 624,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1054,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト24-12をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionName1054]",
+        "OpeningPeriod": 0,
+        "RequireValue": 628,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 300,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1055,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト24-16をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionName1055]",
+        "OpeningPeriod": 0,
+        "RequireValue": 632,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1056,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト24-20をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionName1056]",
+        "OpeningPeriod": 0,
+        "RequireValue": 636,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1057,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト24-24をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionName1057]",
+        "OpeningPeriod": 0,
+        "RequireValue": 640,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1058,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト24-28をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionName1058]",
+        "OpeningPeriod": 0,
+        "RequireValue": 644,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 300,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
         "EndTime": "2100-01-01 00:00:00",
         "StartTime": "2020-01-01 00:00:00"
     }

@@ -5553,15 +5553,15 @@
     {
         "Id": 5000300101,
         "IsIgnore": null,
-        "Memo": "デバフ2つ解除",
+        "Memo": "*クリティカルダメージが20%増加する（解除不可）。",
         "CasterIconId": 50,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5000300101]",
         "IconId": 50003,
         "IconType": 1,
         "NameKey": "[EffectGroupName5000300101]",
-        "IsHide": false,
-        "IsTurnHide": false
+        "IsHide": true,
+        "IsTurnHide": true
     },
     {
         "Id": 5000320101,
@@ -5577,17 +5577,30 @@
         "IsTurnHide": false
     },
     {
+        "Id": 5000320201,
+        "IsIgnore": null,
+        "Memo": "クリティカル率が20％増加する。",
+        "CasterIconId": 50,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription5000320201]",
+        "IconId": 50003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName5000320201]",
+        "IsHide": false,
+        "IsTurnHide": false
+    },
+    {
         "Id": 5000330101,
         "IsIgnore": null,
-        "Memo": "デバフすべて解除",
+        "Memo": "*クリティカルダメージが40%増加する（解除不可）。",
         "CasterIconId": 50,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5000330101]",
         "IconId": 50003,
         "IconType": 1,
         "NameKey": "[EffectGroupName5000330101]",
-        "IsHide": false,
-        "IsTurnHide": false
+        "IsHide": true,
+        "IsTurnHide": true
     },
     {
         "Id": 5000330102,
@@ -5599,6 +5612,19 @@
         "IconId": 50003,
         "IconType": 1,
         "NameKey": "[EffectGroupName5000330102]",
+        "IsHide": false,
+        "IsTurnHide": false
+    },
+    {
+        "Id": 5000330201,
+        "IsIgnore": null,
+        "Memo": "クリティカル率が40％増加する。",
+        "CasterIconId": 50,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription5000330201]",
+        "IconId": 50003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName5000330201]",
         "IsHide": false,
         "IsTurnHide": false
     },
@@ -5629,6 +5655,32 @@
         "IsTurnHide": false
     },
     {
+        "Id": 5000420201,
+        "IsIgnore": null,
+        "Memo": "*自身が付与した攻撃力バフ5000420202を解除する。",
+        "CasterIconId": 50,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription5000420201]",
+        "IconId": 50004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName5000420201]",
+        "IsHide": true,
+        "IsTurnHide": true
+    },
+    {
+        "Id": 5000420202,
+        "IsIgnore": null,
+        "Memo": "攻撃力が2％増加する。クリティカルヒットした回数1回につき増加量が2％大きくなる（最大20%まで）。",
+        "CasterIconId": 50,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription5000420202]",
+        "IconId": 50004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName5000420202]",
+        "IsHide": true,
+        "IsTurnHide": true
+    },
+    {
         "Id": 5000430101,
         "IsIgnore": null,
         "Memo": "攻撃力40%増+クリティカル率20%増",
@@ -5640,6 +5692,58 @@
         "NameKey": "[EffectGroupName5000430101]",
         "IsHide": false,
         "IsTurnHide": false
+    },
+    {
+        "Id": 5000430201,
+        "IsIgnore": null,
+        "Memo": "*自身が付与した攻撃力バフ5000430202を解除する。",
+        "CasterIconId": 50,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription5000430201]",
+        "IconId": 50004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName5000430201]",
+        "IsHide": true,
+        "IsTurnHide": true
+    },
+    {
+        "Id": 5000430202,
+        "IsIgnore": null,
+        "Memo": "攻撃力が3％増加する。クリティカルヒットした回数1回につき増加量が3％大きくなる（最大30%まで）。",
+        "CasterIconId": 50,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription5000430202]",
+        "IconId": 50004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName5000430202]",
+        "IsHide": true,
+        "IsTurnHide": true
+    },
+    {
+        "Id": 5000440201,
+        "IsIgnore": null,
+        "Memo": "*自身が付与した攻撃力バフ5000440202を解除する。",
+        "CasterIconId": 50,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription5000440201]",
+        "IconId": 50004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName5000440201]",
+        "IsHide": true,
+        "IsTurnHide": true
+    },
+    {
+        "Id": 5000440202,
+        "IsIgnore": null,
+        "Memo": "攻撃力が4％増加する。クリティカルヒットした回数1回につき増加量が4％大きくなる（最大40%まで）。",
+        "CasterIconId": 50,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription5000440202]",
+        "IconId": 50004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName5000440202]",
+        "IsHide": true,
+        "IsTurnHide": true
     },
     {
         "Id": 5100100301,
