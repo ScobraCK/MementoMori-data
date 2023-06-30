@@ -649,8 +649,9 @@
     {
         "Id": 18,
         "IsIgnore": null,
-        "Memo": "ウィーラ(仮0630切替用)",
+        "Memo": "水着サブリナ・ウィーラ(0630切替用)",
         "CharacterIdList": [
+            70,
             53,
             5,
             6,
@@ -677,10 +678,48 @@
         ],
         "GachaSelectListType": 2,
         "NewCharacterIdList": [
+            70,
             53
         ],
         "OrderNumber": 16,
-        "StartTimeFixJST": "2023-06-30 14:30:00",
+        "StartTimeFixJST": "2023-06-30 16:30:00",
         "EndTimeFixJST": "2023-07-07 14:29:59"
+    },
+    {
+        "Id": 19,
+        "IsIgnore": null,
+        "Memo": "水着サブリナ・ウィーラなし(0707切替用)",
+        "CharacterIdList": [
+            70,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "NewCharacterIdList": [
+            70
+        ],
+        "OrderNumber": 17,
+        "StartTimeFixJST": "2023-07-07 14:30:00",
+        "EndTimeFixJST": "2023-07-13 14:29:59"
     }
 ]

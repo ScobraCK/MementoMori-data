@@ -5933,6 +5933,132 @@
         ]
     },
     {
+        "Id": 70003,
+        "IsIgnore": null,
+        "Memo": "水着サブリナSR:Lv1 仲間を護りたい――その想いは倒れても決して消えない。自身が戦闘不能になったとき、50%の確率で攻撃してきた敵に1ターンの間『気絶』を付与する。/ Lv2 \\nさらにバトル開始時、自身の命中率が40%増加する（解除不可）。/ Lv3 \\n『気絶』を付与する確率が100%になる。",
+        "NameKey": "[PassiveSkillName70003]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[PassiveSkillDescription700031]",
+                "CharacterLevel": 41,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 6,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 70003001
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[PassiveSkillDescription700032]",
+                "CharacterLevel": 121,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 6,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 70003001
+                    },
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 70003202
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[PassiveSkillDescription700033]",
+                "CharacterLevel": 201,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 6,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 70003301
+                    },
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 70003202
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 70004,
+        "IsIgnore": null,
+        "Memo": "水着サブリナSR:Lv1 この傷と共に生きていくと決めた――過去を背負って進む決意が、生きる力を育む。自身の最大HPが20％増加する（解除不可）。/ Lv2 \\nさらに自身の防御力が40%増加する（解除不可）。/ Lv3\\n最大HPの増加量が40%、防御力の増加量が100%になる。",
+        "NameKey": "[PassiveSkillName70004]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[PassiveSkillDescription700041]",
+                "CharacterLevel": 61,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 70004001
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[PassiveSkillDescription700042]",
+                "CharacterLevel": 141,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 70004201
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[PassiveSkillDescription700043]",
+                "CharacterLevel": 221,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 70004301
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "Id": 500000001,
         "IsIgnore": null,
         "Memo": "バトル開始時敵全体に「睡眠」を付与する。「睡眠」は4ターンの間「気絶」を付与する。この効果は「睡眠」を付帯している敵が一定のダメージを受けると解除される。",

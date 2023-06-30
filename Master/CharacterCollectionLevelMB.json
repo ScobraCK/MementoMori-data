@@ -2294,5 +2294,137 @@
         "CharacterRarityFlags": 65536,
         "CollectionId": 19,
         "CollectionLevel": 6
+    },
+    {
+        "Id": 115,
+        "IsIgnore": null,
+        "Memo": "デルフィヌスの青旗(水着サブリナ,サブリナ)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 3,
+                "Value": 15.0
+            }
+        ],
+        "BattleParameterChangeInfos": null,
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 8,
+        "CollectionId": 20,
+        "CollectionLevel": 1
+    },
+    {
+        "Id": 116,
+        "IsIgnore": null,
+        "Memo": "デルフィヌスの青旗(水着サブリナ,サブリナ)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 3,
+                "Value": 30.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 9,
+                "ChangeParameterType": 1,
+                "Value": 1000.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 128,
+        "CollectionId": 20,
+        "CollectionLevel": 2
+    },
+    {
+        "Id": 117,
+        "IsIgnore": null,
+        "Memo": "デルフィヌスの青旗(水着サブリナ,サブリナ)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 3,
+                "Value": 30.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 9,
+                "ChangeParameterType": 1,
+                "Value": 1000.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 512,
+        "CollectionId": 20,
+        "CollectionLevel": 3
+    },
+    {
+        "Id": 118,
+        "IsIgnore": null,
+        "Memo": "デルフィヌスの青旗(水着サブリナ,サブリナ)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 3,
+                "Value": 30.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 9,
+                "ChangeParameterType": 1,
+                "Value": 1000.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 16384,
+        "CollectionId": 20,
+        "CollectionLevel": 4
+    },
+    {
+        "Id": 119,
+        "IsIgnore": null,
+        "Memo": "デルフィヌスの青旗(水着サブリナ,サブリナ)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 3,
+                "Value": 31.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 9,
+                "ChangeParameterType": 1,
+                "Value": 1050.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 32768,
+        "CollectionId": 20,
+        "CollectionLevel": 5
+    },
+    {
+        "Id": 120,
+        "IsIgnore": null,
+        "Memo": "デルフィヌスの青旗(水着サブリナ,サブリナ)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 3,
+                "Value": 32.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 9,
+                "ChangeParameterType": 1,
+                "Value": 1100.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 65536,
+        "CollectionId": 20,
+        "CollectionLevel": 6
     }
 ]

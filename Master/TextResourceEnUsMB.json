@@ -22124,21 +22124,21 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[ActiveSkillDescription700011]",
-        "Text": "“Pierce the sea and sky!” Using rapid th"
+        "Text": "“Pierce the sea and sky!” yells Sabrina as she swiftly thrusts her blade, leaving the enemy with no time to even catch their breath. Deals 1 physical attack equal to 350% of her ATK to 4 random enemies. The summer breeze then turns violent, robbing the enemy of their consciousness. This skill takes the enemy with the highest remaining HP percentage among the targets of the physical attack, and inflicts [Fainted] on them for 1 turn (if all targets of the physical attack have already been defeated, the infliction of [Fainted] will not activate)."
     },
     {
         "Id": 3171,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[ActiveSkillDescription700012]",
-        "Text": ""
+        "Text": "The number of turns of [Fainted] becomes 2."
     },
     {
         "Id": 3172,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[ActiveSkillDescription700013]",
-        "Text": ""
+        "Text": "Additionally, before dealing the physical attack, decreases all targets’ chance to resist a critical hit by 40% for 4 turns."
     },
     {
         "Id": 3173,
@@ -22166,28 +22166,28 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[ActiveSkillDescription700021]",
-        "Text": ""
+        "Text": "“Sink to the abyss!” screams Sabrina as she delivers a barrage of strikes, sending the enemy to the depths of the sea. Deals 5 physical attacks equal to 200% of her ATK to enemies at random. If Sabrina deals a critical hit, this skill’s remaining attacks are guaranteed to also deal critical hits. The sharp summer breeze then cuts through the water and chases the enemy down. If Sabrina deals 4 or more critical hits, this skill takes the enemy with the lowest remaining HP percentage among the targets of the physical attacks, dispels 1 of their buffs, and deals 1 physical attack equal to 400% of Sabrina’s ATK to them (if all targets of the physical attacks have already been defeated, the physical attack and the dispelling of the buff will not activate)."
     },
     {
         "Id": 3177,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[ActiveSkillDescription700022]",
-        "Text": ""
+        "Text": "Additionally, each time an enemy is defeated by this skill, the number of additional attacks it deals increases by 1 (5 total additional attacks max)."
     },
     {
         "Id": 3178,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[ActiveSkillDescription700023]",
-        "Text": ""
+        "Text": "The number of buffs that are dispelled becomes 2."
     },
     {
         "Id": 3179,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[ActiveSkillDescription700024]",
-        "Text": ""
+        "Text": "The additional attack’s damage becomes equal to 600% of her ATK."
     },
     {
         "Id": 3180,
@@ -24791,21 +24791,21 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[PassiveSkillDescription700031]",
-        "Text": "\"I want to protect my comrades...\" Even when Sabrina falls in battle, those feelings never fade away. The summer breeze blows, and if Sabrina becomes defeated, this skill has a 50% chance of inflicting [Fainted] on the enemy who attacked her for 1 turn."
+        "Text": "\"I want to protect my comrades...\" Even if Sabrina falls in battle, those feelings will never fade away. If she is defeated, this skill has a 50% chance of inflicting [Fainted] on the enemy who attacked and defeated her for 1 turn. If Sabrina is defeated by a debuff, this skill will not activate."
     },
     {
         "Id": 3559,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[PassiveSkillDescription700032]",
-        "Text": ""
+        "Text": "Additionally, at the start of the battle, increases her chance to hit by 40% (cannot be dispelled)."
     },
     {
         "Id": 3560,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[PassiveSkillDescription700033]",
-        "Text": ""
+        "Text": "The chance to inflict [Fainted] becomes 100%."
     },
     {
         "Id": 3561,
@@ -24819,21 +24819,21 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[PassiveSkillDescription700041]",
-        "Text": ""
+        "Text": "Sabrina has made her decision to live on with the scar in her heart. Her determination to bear the shackles of her past and move forward nurtures her power to live. Increases her max HP by 20% (cannot be dispelled)."
     },
     {
         "Id": 3563,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[PassiveSkillDescription700042]",
-        "Text": ""
+        "Text": "Additionally increases her DEF by 40% (cannot be dispelled)."
     },
     {
         "Id": 3564,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[PassiveSkillDescription700043]",
-        "Text": ""
+        "Text": "The amount her max HP increases by becomes 40%. The amount her DEF increases by becomes 100%."
     },
     {
         "Id": 3565,
@@ -33219,7 +33219,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[EffectGroupName7000100103]",
-        "Text": ""
+        "Text": "Cerulean Tempest"
     },
     {
         "Id": 4763,
@@ -33233,49 +33233,49 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[EffectGroupName7000100201]",
-        "Text": ""
+        "Text": "Cerulean Tempest"
     },
     {
         "Id": 4765,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[EffectGroupDescription7000100201]",
-        "Text": ""
+        "Text": "[Fainted] Becomes unable to perform actions."
     },
     {
         "Id": 4766,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[EffectGroupName7000120201]",
-        "Text": ""
+        "Text": "Cerulean Tempest"
     },
     {
         "Id": 4767,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[EffectGroupDescription7000120201]",
-        "Text": ""
+        "Text": "[Fainted] Becomes unable to perform actions."
     },
     {
         "Id": 4768,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[EffectGroupName7000130101]",
-        "Text": ""
+        "Text": "Cerulean Tempest"
     },
     {
         "Id": 4769,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[EffectGroupDescription7000130101]",
-        "Text": ""
+        "Text": "Decreases chance to resist a critical hit by 40%."
     },
     {
         "Id": 4770,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[EffectGroupName7000200102]",
-        "Text": ""
+        "Text": "Ultramarine Requiem"
     },
     {
         "Id": 4771,
@@ -33289,7 +33289,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[EffectGroupName7000200301]",
-        "Text": ""
+        "Text": "Ultramarine Requiem"
     },
     {
         "Id": 4773,
@@ -33303,7 +33303,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[EffectGroupName7000230301]",
-        "Text": ""
+        "Text": "Ultramarine Requiem"
     },
     {
         "Id": 4775,
@@ -33317,84 +33317,84 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[EffectGroupName7000300101]",
-        "Text": ""
+        "Text": "The Summer Soldier"
     },
     {
         "Id": 4777,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[EffectGroupDescription7000300101]",
-        "Text": ""
+        "Text": "[Fainted] Becomes unable to perform actions."
     },
     {
         "Id": 4778,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[EffectGroupName7000320201]",
-        "Text": ""
+        "Text": "The Summer Soldier"
     },
     {
         "Id": 4779,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[EffectGroupDescription7000320201]",
-        "Text": ""
+        "Text": "Increases chance to hit by 40%."
     },
     {
         "Id": 4780,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[EffectGroupName7000330101]",
-        "Text": ""
+        "Text": "The Summer Soldier"
     },
     {
         "Id": 4781,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[EffectGroupDescription7000330101]",
-        "Text": ""
+        "Text": "[Fainted] Becomes unable to perform actions."
     },
     {
         "Id": 4782,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[EffectGroupName7000400101]",
-        "Text": ""
+        "Text": "Soaring Desire"
     },
     {
         "Id": 4783,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[EffectGroupDescription7000400101]",
-        "Text": ""
+        "Text": "Increases max HP by 20%."
     },
     {
         "Id": 4784,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[EffectGroupName7000420101]",
-        "Text": ""
+        "Text": "Soaring Desire"
     },
     {
         "Id": 4785,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[EffectGroupDescription7000420101]",
-        "Text": ""
+        "Text": "Increases max HP by 20% and DEF by 40%."
     },
     {
         "Id": 4786,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[EffectGroupName7000430101]",
-        "Text": ""
+        "Text": "Soaring Desire"
     },
     {
         "Id": 4787,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[EffectGroupDescription7000430101]",
-        "Text": ""
+        "Text": "Increases max HP by 40% and DEF by 100%."
     },
     {
         "Id": 4788,
@@ -36383,21 +36383,21 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[EquipmentExclusiveSkill70Description1]",
-        "Text": ""
+        "Text": "Strengthens Cerulean Tempest. The targets of the physical attack become 5 random enemies."
     },
     {
         "Id": 5218,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[EquipmentExclusiveSkill70Description2]",
-        "Text": ""
+        "Text": "Strengthens Ultramarine Requiem. The number of initial physical attacks becomes 7."
     },
     {
         "Id": 5219,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[EquipmentExclusiveSkill70Description3]",
-        "Text": ""
+        "Text": "Strengthens Cerulean Tempest. The physical attack’s damage becomes equal to 400% of her ATK."
     },
     {
         "Id": 5220,
@@ -53827,7 +53827,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[CharacterStoryText7003]",
-        "Text": "Moddey hates me.<br><br>I thought she was having fun <br>in the water with everyone. <br>Nina was going “Yah!” <br>and Sonya was yelling “Here I go!” <br>Maybe Cerberus overdid it <br>with “Kaboom!” though...<br><br>...What should I do?<br><br>Before I knew it, <br>everyone returned to the lake, <br>and resumed playing in the water.<br><br>Moddey stayed some distance away, <br>keeping her eyes on everyone... <br>I knew it—she wants to join them.<br><br>As the one in charge of these children, I...!<br><br>Suddenly, I heard screams <br>coming from the lake.<br><br>My eyes dashed to<br>the direction of the voices.<br>There, I saw the children<br>cowering in the water,<br>and a cursed creature standing<br>atop the water’s surface.<br><br>That must be what’s scaring the children...!<br><br>The Duke entrusted them to me. <br>I <i>must</i> carry out my mission...!"
+        "Text": "Moddey hates me.<br><br>I thought she was having fun <br>in the water with everyone. <br>Nina was going “Yah!” <br>and Sonya was yelling “Here I go!” <br>Maybe Cerberus overdid it <br>with “Kaboom!” though...<br><br>...What should I do?<br><br>Before I knew it, <br>everyone returned to the lake, <br>and resumed playing in the water.<br><br>Moddey stayed some distance away, <br>keeping her eyes on everyone... <br>I knew it—she wants to join them.<br><br>As the one in charge of these children, I...!<br><br>Suddenly, I heard screams <br>coming from the lake.<br><br>My eyes dashed to<br>the direction of the voices.<br>There, I saw the children<br>cowering in the water,<br>and a cursed creature standing<br>atop the water’s surface.<br><br>That must be what’s scaring the children...!<br><br>The Duke entrusted them to <i>me</i>. <br>I <i>must</i> carry out my mission...!"
     },
     {
         "Id": 7710,
@@ -108203,7 +108203,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[GachaDetailDailogHeading50]",
-        "Text": "In this Invocation, a limited-time character will debut with a higher pull rate than other characters’.<br>Please check [Individual Pull Rates] for the limited-time character below.<br>■Duration<br>{0}<br><br>■Guaranteed Appearance<br>If [Soldier of the Summer Breeze] Sabrina does not appear after you Invoke in the Prayer of The Fleeting 99 times, [Soldier of the Summer Breeze] Sabrina is guaranteed to appear on the 100th Invoke.<br><br>■Bonus Rewards<br>You will receive Bonus Rewards according to the number of times you Invoke. The number of times you Invoke in the Prayer of The Fleeting will be added to your numbers from both the Prayer of The Cursed and the Prayer of Souls, so your cumulative total of these Invocations will allow you to claim your rewards.<br><br>■Warning<br>For a set amount of time, [Soldier of the Summer Breeze] Sabrina will only appear in the Prayer of The Fleeting and the Invocation of Chance. She will not be selectable when using the Witch’s Invitation obtained from Bonus Rewards, so please be careful.<br>[Soldier of the Summer Breeze] Sabrina and Sabrina are seperate characters. As such, you will be able to use both of them in the same party."
+        "Text": "In this Invocation, a limited-time character will debut with a higher pull rate than other characters’.<br>Please check [Individual Pull Rates] for the limited-time character below.<br>■Duration<br>{0}<br><br>■Guaranteed Appearance<br>If [Soldier of the Summer Breeze] Sabrina does not appear after you Invoke in the Prayer of The Fleeting 99 times, [Soldier of the Summer Breeze] Sabrina is guaranteed to appear on the 100th Invoke.<br><br>■Bonus Rewards<br>You will receive Bonus Rewards according to the number of times you Invoke. The number of times you Invoke in the Prayer of The Fleeting will be added to your numbers from both the Prayer of The Cursed and the Prayer of Souls, so your cumulative total of these Invocations will allow you to claim your rewards.<br><br>■Warning<br>For a set amount of time, [Soldier of the Summer Breeze] Sabrina will only appear in the Prayer of The Fleeting and the Invocation of Chance. She will not be selectable when using the Witch’s Invitation obtained from Bonus Rewards, so please be careful.<br>[Soldier of the Summer Breeze] Sabrina and Sabrina are separate characters. As such, you will be able to use both of them in the same party."
     },
     {
         "Id": 15484,

@@ -5368,5 +5368,138 @@
             }
         ],
         "CharacterId": 67
+    },
+    {
+        "Id": 247,
+        "IsIgnore": null,
+        "Memo": "水着サブリナSSR180",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 70
+    },
+    {
+        "Id": 248,
+        "IsIgnore": null,
+        "Memo": "水着サブリナSSR200",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1300.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 600.0
+            }
+        ],
+        "CharacterId": 70
+    },
+    {
+        "Id": 249,
+        "IsIgnore": null,
+        "Memo": "水着サブリナSSR220",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 650.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1400.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "CharacterId": 70
+    },
+    {
+        "Id": 250,
+        "IsIgnore": null,
+        "Memo": "水着サブリナSSR240",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "CharacterId": 70
+    },
+    {
+        "Id": 251,
+        "IsIgnore": null,
+        "Memo": "水着サブリナUR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 750.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1600.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 900.0
+            }
+        ],
+        "CharacterId": 70
+    },
+    {
+        "Id": 252,
+        "IsIgnore": null,
+        "Memo": "水着サブリナLR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 1000.0
+            }
+        ],
+        "CharacterId": 70
     }
 ]

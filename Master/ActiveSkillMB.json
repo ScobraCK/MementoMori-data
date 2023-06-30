@@ -7494,6 +7494,176 @@
         "RootActiveSkillId": 67002
     },
     {
+        "Id": 70001,
+        "IsIgnore": null,
+        "Memo": "水着サブリナSR:Lv1 「水天貫け！」息をつく暇も与えない素早い突きで、ランダムな敵4体に攻撃力×350%の物理攻撃を行う。さらに吹き荒れる涼風が、敵の意識を奪う──物理攻撃の対象のうちHP割合が最も高い敵に1ターンの間『気絶』を付与する（物理攻撃の対象が全員戦闘不能になっている場合発動しない）。/ Lv2\\n 『気絶』のターン数が2ターンになる。/ Lv3 \\nさらに物理攻撃の前に4ターンの間対象のクリティカル耐性率を40%減少させる。/ Ex1 蒼穹のテンペストを強化する。物理攻撃の対象がランダムな敵5体になる。/ Ex3 蒼穹のテンペストを強化する。物理攻撃のダメージが攻撃力×400%になる。",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription700011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    70001001,
+                    70001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription700012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    70001001,
+                    70001202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription700013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    70001301,
+                    70001202
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription700014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    70001401,
+                    70001202
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription700015]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    70001501,
+                    70001202
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName70001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 70001
+    },
+    {
+        "Id": 70002,
+        "IsIgnore": null,
+        "Memo": "水着サブリナSR: Lv1 「水底へ沈め！」水底へ叩きつけるような素早い突きで、ランダムな敵に5回攻撃力×200％の物理攻撃を行う。クリティカルヒットした場合、以降の連撃は必ずクリティカルヒットする。さらに水を切る鋭い涼風が、敵を追い詰める――クリティカルヒットが4回以上発生した場合、連撃の対象のうちHP割合が最も低い敵のバフを1つ解除し、攻撃力×400%の物理攻撃を行う（連撃の対象が全員戦闘不能になっている場合発動しない）。/ Lv2 \\nさらにこのスキルで敵を戦闘不能にするたび追加攻撃の攻撃回数が1回多くなる（合計で最大5回まで）。/Lv3 \\nバフの解除量が2つになる。/Lv4 \\n追加攻撃のダメージが攻撃力×600%になる。/ Ex2 群青のレクイエムを強化する。最初の物理攻撃の回数が7回になる。",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription700021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    70002001,
+                    70002002,
+                    70002002,
+                    70002002,
+                    70002002,
+                    70002003
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription700022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    70002001,
+                    70002002,
+                    70002002,
+                    70002002,
+                    70002002,
+                    70002003,
+                    70002204,
+                    70002205,
+                    70002206,
+                    70002207
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription700023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    70002001,
+                    70002002,
+                    70002002,
+                    70002002,
+                    70002002,
+                    70002303,
+                    70002304,
+                    70002305,
+                    70002306,
+                    70002307
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription700024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    70002001,
+                    70002002,
+                    70002002,
+                    70002002,
+                    70002002,
+                    70002403,
+                    70002404,
+                    70002405,
+                    70002406,
+                    70002407
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription700025]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 256,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    70002001,
+                    70002002,
+                    70002002,
+                    70002002,
+                    70002002,
+                    70002002,
+                    70002002,
+                    70002403,
+                    70002404,
+                    70002405,
+                    70002406,
+                    70002407
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName70002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 70002
+    },
+    {
         "Id": 550109001,
         "IsIgnore": null,
         "Memo": "ギルドレイド通常ソーニャSR：ソーニャSR:旋風の如き素早い急襲。HPが最も低い敵に攻撃力×800％の物理攻撃を行う。弱った敵にも容赦しないヴァイキングの本能により、敵のHP割合が40％以下の場合、この攻撃は必ずクリティカルヒットする。／さらに自身の腕力×400％の直接攻撃を行う。／追加攻撃のダメージが腕力×600%になる。／さらにこのスキルで敵を戦闘不能にした場合、このスキルを再発動する。",
@@ -7769,6 +7939,58 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 55002
+    },
+    {
+        "Id": 550270001,
+        "IsIgnore": null,
+        "Memo": "ギルドレイド水着サブリナ1",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription700013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    70001301,
+                    70001202
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName70001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 70001
+    },
+    {
+        "Id": 550270002,
+        "IsIgnore": null,
+        "Memo": "ギルドレイド水着サブリナ2",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription700024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    70002001,
+                    70002002,
+                    70002002,
+                    70002002,
+                    70002002,
+                    70002403,
+                    70002404,
+                    70002405,
+                    70002406,
+                    70002407
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName70002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 70002
     },
     {
         "Id": 550344001,

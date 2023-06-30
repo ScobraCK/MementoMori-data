@@ -2940,5 +2940,57 @@
         "RequireFragmentCount": 60,
         "EndTimeFixJST": "2100-12-31 23:59:59",
         "StartTimeFixJST": "2023-06-14 15:00:00"
+    },
+    {
+        "Id": 70,
+        "IsIgnore": null,
+        "Memo": "水着サブリナ",
+        "ActiveSkillIds": [
+            70001,
+            70002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 81,
+            "Health": 77,
+            "Intelligence": 93,
+            "Muscle": 93
+        },
+        "BaseParameterGrossCoefficient": 344,
+        "CharacterType": 2,
+        "ElementType": 3,
+        "InitialBattleParameter": {
+            "AttackPower": -3,
+            "Avoidance": 0,
+            "Critical": 0,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 0,
+            "DamageReflect": 0,
+            "DebuffHit": 4,
+            "DebuffResist": 0,
+            "Defense": 9,
+            "DefensePenetration": 0,
+            "Hit": 0,
+            "HP": 0,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": 0,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 0,
+            "Speed": 3418
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 1,
+        "Name2Key": "[CharacterSubName70]",
+        "NameKey": "[CharacterName70]",
+        "NormalSkillId": 101,
+        "PassiveSkillIds": [
+            70003,
+            70004
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2020-01-01 00:00:00"
     }
 ]
