@@ -1954,5 +1954,26 @@
         "TreasureChestLotteryType": 5,
         "EndTime": null,
         "StartTime": null
+    },
+    {
+        "Id": 10000,
+        "IsIgnore": null,
+        "Memo": "魔女の手紙（SR）（補填用）",
+        "ChestKeyItemId": 0,
+        "DescriptionKey": "[TreasureChestDescription10000]",
+        "DisplayNameKey": "[TreasureChestName10000]",
+        "IconId": 67,
+        "ItemRarityFlags": 64,
+        "MaxItemCount": 5,
+        "MinOpenCount": 1,
+        "NameKey": "[TreasureChestName10000]",
+        "SecondaryFrameNum": 0,
+        "SecondaryFrameType": 0,
+        "TreasureChestItemIdList": [
+            10000
+        ],
+        "TreasureChestLotteryType": 0,
+        "EndTime": null,
+        "StartTime": null
     }
 ]

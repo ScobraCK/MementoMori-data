@@ -688,9 +688,10 @@
     {
         "Id": 19,
         "IsIgnore": null,
-        "Memo": "水着サブリナ・ウィーラなし(0707切替用)",
+        "Memo": "水着サブリナ・ヴァルリーデ追加(0707切替用)",
         "CharacterIdList": [
             70,
+            47,
             5,
             6,
             7,
@@ -716,10 +717,48 @@
         ],
         "GachaSelectListType": 2,
         "NewCharacterIdList": [
-            70
+            70,
+            47
         ],
         "OrderNumber": 17,
         "StartTimeFixJST": "2023-07-07 14:30:00",
         "EndTimeFixJST": "2023-07-13 14:29:59"
+    },
+    {
+        "Id": 20,
+        "IsIgnore": null,
+        "Memo": "水着＊＊・ヴァルリーデ(0713切替用)",
+        "CharacterIdList": [
+            47,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "NewCharacterIdList": [
+            47
+        ],
+        "OrderNumber": 18,
+        "StartTimeFixJST": "2023-07-13 14:30:00",
+        "EndTimeFixJST": "2023-07-24 14:29:59"
     }
 ]
