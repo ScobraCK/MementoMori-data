@@ -727,8 +727,9 @@
     {
         "Id": 20,
         "IsIgnore": null,
-        "Memo": "水着＊＊・ヴァルリーデ(0713切替用)",
+        "Memo": "水着モーザ・ヴァルリーデ(0713切替用)",
         "CharacterIdList": [
+            71,
             47,
             5,
             6,
@@ -755,10 +756,48 @@
         ],
         "GachaSelectListType": 2,
         "NewCharacterIdList": [
+            71,
             47
         ],
         "OrderNumber": 18,
-        "StartTimeFixJST": "2023-07-13 14:30:00",
+        "StartTimeFixJST": "2023-07-13 17:30:00",
         "EndTimeFixJST": "2023-07-24 14:29:59"
+    },
+    {
+        "Id": 21,
+        "IsIgnore": null,
+        "Memo": "水着モーザ・ヴァルリーデなし(0724切替用)",
+        "CharacterIdList": [
+            71,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "NewCharacterIdList": [
+            71
+        ],
+        "OrderNumber": 19,
+        "StartTimeFixJST": "2023-07-24 14:30:00",
+        "EndTimeFixJST": "2023-07-31 14:29:59"
     }
 ]

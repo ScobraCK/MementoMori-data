@@ -7664,6 +7664,161 @@
         "RootActiveSkillId": 70002
     },
     {
+        "Id": 71001,
+        "IsIgnore": null,
+        "Memo": "水着モーザSR:Lv1 楽園に眠る霊魂たちが目を覚まし、ランダムな敵3体に攻撃力×330%の魔法攻撃を行う。さらに眠りを妨げられた怒りが呪詛となり、2ターンの間対象に『毒』を付与する。毎ターン行動開始時に現在HP×3%のダメージを与える。/ Lv2\\n さらに『毒』付与の判定の後、『毒』を付帯している敵のうち攻撃力が最も高い敵の攻撃力を15%吸収し、2ターンの間自身に加える。/ Lv3 \\n『毒』のターン数が4ターンになる。/ Ex1 レストインパラダイスを強化する。レストインパラダイスの対象がランダムな敵4体になる。/ Ex2 レストインパラダイスを強化する。攻撃力の吸収量が30%になる。/ Ex3 レストインパラダイスを強化する。『毒』のダメージが現在HP×5%に増加する。",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription710011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    71001001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription710012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    71001001,
+                    71001202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription710013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    71001301,
+                    71001202
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription710014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    71001401,
+                    71001202
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription710015]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 256,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    71001401,
+                    71001502
+                ]
+            },
+            {
+                "OrderNumber": 6,
+                "DescriptionKey": "[ActiveSkillDescription710016]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    71001601,
+                    71001502
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName71001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 71001
+    },
+    {
+        "Id": 71002,
+        "IsIgnore": null,
+        "Memo": "水着モーザSR:Lv1 水辺にはさまよう霊魂が集まりやすく、生者を見つけると群れをなして襲ってくる。ランダムな敵に3回攻撃力×210%の魔法攻撃を行う。/ Lv2\\n さらに『毒』を付帯している敵1体につき攻撃回数が1回多くなる（合計で最大8回まで）。/ Lv3 \\n最初の魔法攻撃の回数が4回、合計で最大9回までになる。/ Lv4 魔法攻撃のダメージが攻撃力×230%になる。",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription710021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    71002002,
+                    71002003,
+                    71002003
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription710022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    71002201,
+                    71002002,
+                    71002003,
+                    71002003,
+                    71002204,
+                    71002205,
+                    71002206,
+                    71002207,
+                    71002208
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription710023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    71002201,
+                    71002002,
+                    71002003,
+                    71002003,
+                    71002003,
+                    71002204,
+                    71002205,
+                    71002206,
+                    71002207,
+                    71002208
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription710024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    71002201,
+                    71002402,
+                    71002403,
+                    71002403,
+                    71002403,
+                    71002404,
+                    71002405,
+                    71002406,
+                    71002407,
+                    71002408
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName71002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 71002
+    },
+    {
         "Id": 550109001,
         "IsIgnore": null,
         "Memo": "ギルドレイド通常ソーニャSR：ソーニャSR:旋風の如き素早い急襲。HPが最も低い敵に攻撃力×800％の物理攻撃を行う。弱った敵にも容赦しないヴァイキングの本能により、敵のHP割合が40％以下の場合、この攻撃は必ずクリティカルヒットする。／さらに自身の腕力×400％の直接攻撃を行う。／追加攻撃のダメージが腕力×600%になる。／さらにこのスキルで敵を戦闘不能にした場合、このスキルを再発動する。",

@@ -2992,5 +2992,57 @@
         "RequireFragmentCount": 60,
         "EndTimeFixJST": "2100-12-31 23:59:59",
         "StartTimeFixJST": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 71,
+        "IsIgnore": null,
+        "Memo": "水着モーザ",
+        "ActiveSkillIds": [
+            71001,
+            71002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 75,
+            "Health": 69,
+            "Intelligence": 104,
+            "Muscle": 85
+        },
+        "BaseParameterGrossCoefficient": 333,
+        "CharacterType": 2,
+        "ElementType": 4,
+        "InitialBattleParameter": {
+            "AttackPower": 2,
+            "Avoidance": 0,
+            "Critical": 0,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 0,
+            "DamageReflect": 0,
+            "DebuffHit": 0,
+            "DebuffResist": 0,
+            "Defense": 10,
+            "DefensePenetration": 0,
+            "Hit": 1,
+            "HP": 0,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": 0,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": -3,
+            "Speed": 3245
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 4,
+        "Name2Key": "[CharacterSubName71]",
+        "NameKey": "[CharacterName71]",
+        "NormalSkillId": 102,
+        "PassiveSkillIds": [
+            71003,
+            71004
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2020-01-01 00:00:00"
     }
 ]

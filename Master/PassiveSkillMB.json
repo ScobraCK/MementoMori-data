@@ -6059,6 +6059,118 @@
         ]
     },
     {
+        "Id": 71003,
+        "IsIgnore": null,
+        "Memo": "水着モーザSR:Lv1 お墓の下でも、お墓の上でも、みーんなまとめて笑顔にしてあげる。その決意が新たな力となる。自身が攻撃を受けたとき、ダメージを20%遮断する。（遮断された後のダメージ量に対して、他のダメージ軽減（『被ダメージ減少』等）が計算される）/ Lv2 \\nさらに攻撃してきた敵が『毒』を付帯している場合、ダメージを50%遮断する。/ Lv3 \\nダメージを50%遮断する。攻撃してきた敵が『毒』を付帯している場合、ダメージを75%遮断する。",
+        "NameKey": "[PassiveSkillName71003]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[PassiveSkillDescription710031]",
+                "CharacterLevel": 41,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 42,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 71003001
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[PassiveSkillDescription710032]",
+                "CharacterLevel": 121,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 42,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 71003201
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[PassiveSkillDescription710033]",
+                "CharacterLevel": 201,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 42,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 71003301
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 71004,
+        "IsIgnore": null,
+        "Memo": "水着モーザSR:Lv1 「ライラは私が危なくなると、いつも助けに来てくれるね」毎ターン開始時、自身の攻撃力が3%増加する（最大60%まで）（解除不可）。『毒』を付帯している敵1体につき増加量が3%大きくなる。/ Lv2 \\n攻撃力の増加量が4%になり、増加量最大値が80%になる。『毒』を付帯している敵1体につき増加量が4%大きくなる。/ Lv3 \\n攻撃力の増加量が5%になり、増加量最大値が100%になる。『毒』を付帯している敵1体につき増加量が5%大きくなる。",
+        "NameKey": "[PassiveSkillName71004]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[PassiveSkillDescription710041]",
+                "CharacterLevel": 61,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 71004001
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[PassiveSkillDescription710042]",
+                "CharacterLevel": 141,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 71004201
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[PassiveSkillDescription710043]",
+                "CharacterLevel": 221,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 71004301
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "Id": 500000001,
         "IsIgnore": null,
         "Memo": "バトル開始時敵全体に「睡眠」を付与する。「睡眠」は4ターンの間「気絶」を付与する。この効果は「睡眠」を付帯している敵が一定のダメージを受けると解除される。",
