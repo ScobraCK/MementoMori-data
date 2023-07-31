@@ -805,8 +805,9 @@
     {
         "Id": 22,
         "IsIgnore": null,
-        "Memo": "カロル・仮(0731切替用)",
+        "Memo": "フィアー・カロル(0731切替用)",
         "CharacterIdList": [
+            60,
             40,
             5,
             6,
@@ -833,10 +834,85 @@
         ],
         "GachaSelectListType": 2,
         "NewCharacterIdList": [
+            60,
             40
         ],
         "OrderNumber": 20,
-        "StartTimeFixJST": "2023-07-31 16:30:00",
+        "StartTimeFixJST": "2023-07-31 17:30:00",
         "EndTimeFixJST": "2023-08-07 14:29:59"
+    },
+    {
+        "Id": 23,
+        "IsIgnore": null,
+        "Memo": "フィアー（終了期間表示用、実質使用しない）",
+        "CharacterIdList": [
+            60,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "NewCharacterIdList": [
+            60
+        ],
+        "OrderNumber": 2,
+        "StartTimeFixJST": "2023-07-31 17:30:00",
+        "EndTimeFixJST": "2023-09-04 14:29:59"
+    },
+    {
+        "Id": 24,
+        "IsIgnore": null,
+        "Memo": "フィアー・復刻仮入れ（0807切替用）",
+        "CharacterIdList": [
+            60,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "NewCharacterIdList": [
+            60
+        ],
+        "OrderNumber": 21,
+        "StartTimeFixJST": "2023-08-07 14:30:00",
+        "EndTimeFixJST": "2023-08-14 14:29:59"
     }
 ]

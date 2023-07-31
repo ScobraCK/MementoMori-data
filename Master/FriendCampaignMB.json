@@ -2,33 +2,44 @@
     {
         "Id": 1,
         "IsIgnore": null,
-        "Memo": null,
+        "Memo": "友達招待キャンペーン（07/31~08/31）",
         "CodeExpirationPeriod": 10,
-        "CodeLimitCount": 10,
+        "CodeLimitCount": 20,
         "FriendMissionIdList": [
             1,
             2,
             3,
-            4
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
         ],
         "RewardItemList": [
             {
                 "ItemCount": 500,
                 "ItemId": 1,
                 "ItemType": 1
-            },
-            {
-                "ItemCount": 5000000,
-                "ItemId": 1,
-                "ItemType": 3
             }
         ],
         "Title": "[FriendCampaignKey1]",
-        "CharacterImageId": 48,
-        "CharacterImageX": 0.0,
+        "CharacterImageId": 34,
+        "CharacterImageX": -17.0,
         "CharacterImageY": 0.0,
-        "CharacterImageSize": 620.0,
-        "EndTime": "2033-05-31 00:00:00",
-        "StartTime": "2033-04-20 00:00:00"
+        "CharacterImageSize": 640.0,
+        "EndTime": "2023-09-01 03:59:59",
+        "StartTime": "2023-07-31 00:00:00"
     }
 ]
