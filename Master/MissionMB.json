@@ -14306,7 +14306,7 @@
     {
         "Id": 481,
         "IsIgnore": null,
-        "Memo": "メイン_メインクエスト１章をクリアする",
+        "Memo": "（削除）メイン_メインクエスト１章をクリアする",
         "AchievementType": 9010400,
         "DescriptionKey": null,
         "MissionType": 0,
@@ -14334,7 +14334,7 @@
         "SortOrderA": 6,
         "SortOrderB": 14,
         "TransitionDestination": 901,
-        "EndTime": "2100-01-01 00:00:00",
+        "EndTime": "2020-01-01 00:00:00",
         "StartTime": "2020-01-01 00:00:00"
     },
     {
@@ -35358,6 +35358,40 @@
         "SortOrderA": 1,
         "SortOrderB": 1,
         "TransitionDestination": 0,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1157,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト１章をクリアする　修正版",
+        "AchievementType": 9010500,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionName481]",
+        "OpeningPeriod": 0,
+        "RequireValue": 1,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 3,
+                    "ItemId": 2,
+                    "ItemType": 16
+                },
+                "RarityFlags": 0
+            },
+            {
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 4,
+                    "ItemType": 6
+                },
+                "RarityFlags": 2
+            }
+        ],
+        "SortOrderA": 5,
+        "SortOrderB": 13,
+        "TransitionDestination": 901,
         "EndTime": "2100-01-01 00:00:00",
         "StartTime": "2020-01-01 00:00:00"
     }
