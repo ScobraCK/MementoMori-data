@@ -3902,5 +3902,37 @@
         "ItemId": 600,
         "ItemType": 16,
         "NeedCount": 1
+    },
+    {
+        "Id": 245,
+        "IsIgnore": null,
+        "Memo": "浴衣コルディガチャチケット",
+        "ChangeItems": [
+            {
+                "ItemCount": 1,
+                "ItemId": 2,
+                "ItemType": 16
+            }
+        ],
+        "ChangeItemType": 0,
+        "ItemId": 720,
+        "ItemType": 16,
+        "NeedCount": 1
+    },
+    {
+        "Id": 246,
+        "IsIgnore": null,
+        "Memo": "線香花火",
+        "ChangeItems": [
+            {
+                "ItemCount": 10000,
+                "ItemId": 1,
+                "ItemType": 3
+            }
+        ],
+        "ChangeItemType": 0,
+        "ItemId": 8,
+        "ItemType": 50,
+        "NeedCount": 1
     }
 ]
