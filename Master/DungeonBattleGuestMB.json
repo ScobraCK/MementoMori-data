@@ -436,9 +436,9 @@
         "IsIgnore": null,
         "Memo": "ウィーラ",
         "CharacterId": 53,
-        "IsPickup": true,
-        "EndTimeFixJST": "2023-07-07 14:29:59",
-        "StartTimeFixJST": "2023-06-21 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 50,
@@ -520,5 +520,14 @@
         "IsPickup": true,
         "EndTimeFixJST": "2023-09-04 14:29:59",
         "StartTimeFixJST": "2023-07-31 15:00:00"
+    },
+    {
+        "Id": 59,
+        "IsIgnore": null,
+        "Memo": "浴衣コルディ",
+        "CharacterId": 72,
+        "IsPickup": true,
+        "EndTimeFixJST": "2023-08-31 14:29:59",
+        "StartTimeFixJST": "2023-08-14 15:00:00"
     }
 ]

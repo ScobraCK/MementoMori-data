@@ -9426,5 +9426,359 @@
         "PickUpCharacterId": 55,
         "TimeFormatKey": "[GachaTimeFormat50]",
         "TitleColorType": 1
+    },
+    {
+        "Id": 57,
+        "IsIgnore": null,
+        "Memo": "コルディ新キャラガチャ（ピックアップガチャチケット有り・季節キャラ）キャラガチャ8/14 16:30 ~ 8/31 14:29",
+        "AddRewardItems": null,
+        "BannerImageNumber": 34,
+        "BannerKey": "[GachaBanner50]",
+        "CeilingCountFormatKey": null,
+        "CustomTextLayout": {
+            "jaJP": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 27,
+                "BannerLetterSpacing": -4.0,
+                "BannerLineSpacing": 0.5,
+                "BannerOutlineColor": "#706357FF",
+                "BannerPositionX": -46.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 45
+            },
+            "enUS": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 22,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#706357FF",
+                "BannerPositionX": -34.0,
+                "BannerPositionY": 0.0,
+                "TitleFontSize": 45
+            },
+            "koKR": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 22,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 1.2000000476837158,
+                "BannerOutlineColor": "#706357FF",
+                "BannerPositionX": -48.0,
+                "BannerPositionY": -2.0,
+                "TitleFontSize": 45
+            },
+            "zhTW": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 26,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.5,
+                "BannerOutlineColor": "#706357FF",
+                "BannerPositionX": -45.0,
+                "BannerPositionY": 0.0,
+                "TitleFontSize": 45
+            },
+            "zhCN": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 22,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#706357FF",
+                "BannerPositionX": -34.0,
+                "BannerPositionY": 0.0,
+                "TitleFontSize": 45
+            },
+            "frFR": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 22,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#706357FF",
+                "BannerPositionX": -34.0,
+                "BannerPositionY": 0.0,
+                "TitleFontSize": 45
+            },
+            "esMX": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 22,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#706357FF",
+                "BannerPositionX": -34.0,
+                "BannerPositionY": 0.0,
+                "TitleFontSize": 45
+            },
+            "ptBR": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 22,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#706357FF",
+                "BannerPositionX": -34.0,
+                "BannerPositionY": 0.0,
+                "TitleFontSize": 45
+            },
+            "thTH": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 22,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#706357FF",
+                "BannerPositionX": -34.0,
+                "BannerPositionY": 0.0,
+                "TitleFontSize": 45
+            },
+            "idID": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 22,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#706357FF",
+                "BannerPositionX": -34.0,
+                "BannerPositionY": 0.0,
+                "TitleFontSize": 45
+            },
+            "viVN": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 22,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#706357FF",
+                "BannerPositionX": -34.0,
+                "BannerPositionY": 0.0,
+                "TitleFontSize": 45
+            },
+            "ruRU": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 22,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#706357FF",
+                "BannerPositionX": -34.0,
+                "BannerPositionY": 0.0,
+                "TitleFontSize": 45
+            },
+            "deDE": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 22,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#706357FF",
+                "BannerPositionX": -34.0,
+                "BannerPositionY": 0.0,
+                "TitleFontSize": 45
+            },
+            "arEG": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 22,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#706357FF",
+                "BannerPositionX": -34.0,
+                "BannerPositionY": 0.0,
+                "TitleFontSize": 45
+            }
+        },
+        "DetailDialogDetailKey": "[GachaDetailDialogDetail57]",
+        "DetailDialogHeadingKey": "[GachaDetailDailogHeading57]",
+        "DetailDialogNotesKey": "[GachaDetailDialogNotes57]",
+        "EquipmentPictureBookTabIndex": 0,
+        "ExplanationKey": "[GachaExplanation57]",
+        "GachaBonusGaugeType": 0,
+        "GachaButtonMessageKey": null,
+        "HeaderItem1": {
+            "ItemCount": 1,
+            "ItemId": 1,
+            "ItemType": 1
+        },
+        "HeaderItem2": {
+            "ItemCount": 1,
+            "ItemId": 720,
+            "ItemType": 16
+        },
+        "HeaderItem3": null,
+        "IsLotteryViewShowBonusItem": true,
+        "NameKey": "[GachaName50]",
+        "PickUpCharacterId": 72,
+        "TimeFormatKey": "[GachaTimeFormat50]",
+        "TitleColorType": 1
+    },
+    {
+        "Id": 10000,
+        "IsIgnore": null,
+        "Memo": "星の導きガチャ",
+        "AddRewardItems": [
+            {
+                "ItemCount": 1,
+                "ItemId": 89,
+                "ItemType": 17
+            }
+        ],
+        "BannerImageNumber": 10000,
+        "BannerKey": "[GachaBanner10000]",
+        "CeilingCountFormatKey": null,
+        "CustomTextLayout": {
+            "jaJP": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 25,
+                "BannerLetterSpacing": 0.5,
+                "BannerLineSpacing": 0.550000011920929,
+                "BannerOutlineColor": "#3D5963FF",
+                "BannerPositionX": -43.0,
+                "BannerPositionY": 0.0,
+                "TitleFontSize": 45
+            },
+            "enUS": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 19,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.550000011920929,
+                "BannerOutlineColor": "#3D5963FF",
+                "BannerPositionX": -43.0,
+                "BannerPositionY": 0.0,
+                "TitleFontSize": 45
+            },
+            "koKR": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 25,
+                "BannerLetterSpacing": 0.5,
+                "BannerLineSpacing": 1.100000023841858,
+                "BannerOutlineColor": "#3D5963FF",
+                "BannerPositionX": -43.0,
+                "BannerPositionY": 0.0,
+                "TitleFontSize": 45
+            },
+            "zhTW": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 24,
+                "BannerLetterSpacing": 1.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#3D5963FF",
+                "BannerPositionX": -43.0,
+                "BannerPositionY": 0.0,
+                "TitleFontSize": 45
+            },
+            "zhCN": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 19,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.550000011920929,
+                "BannerOutlineColor": "#3D5963FF",
+                "BannerPositionX": -43.0,
+                "BannerPositionY": 0.0,
+                "TitleFontSize": 45
+            },
+            "frFR": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 19,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.550000011920929,
+                "BannerOutlineColor": "#3D5963FF",
+                "BannerPositionX": -43.0,
+                "BannerPositionY": 0.0,
+                "TitleFontSize": 45
+            },
+            "esMX": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 19,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.550000011920929,
+                "BannerOutlineColor": "#3D5963FF",
+                "BannerPositionX": -43.0,
+                "BannerPositionY": 0.0,
+                "TitleFontSize": 45
+            },
+            "ptBR": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 19,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.550000011920929,
+                "BannerOutlineColor": "#3D5963FF",
+                "BannerPositionX": -43.0,
+                "BannerPositionY": 0.0,
+                "TitleFontSize": 45
+            },
+            "thTH": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 19,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.550000011920929,
+                "BannerOutlineColor": "#3D5963FF",
+                "BannerPositionX": -43.0,
+                "BannerPositionY": 0.0,
+                "TitleFontSize": 45
+            },
+            "idID": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 19,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.550000011920929,
+                "BannerOutlineColor": "#3D5963FF",
+                "BannerPositionX": -43.0,
+                "BannerPositionY": 0.0,
+                "TitleFontSize": 45
+            },
+            "viVN": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 19,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.550000011920929,
+                "BannerOutlineColor": "#3D5963FF",
+                "BannerPositionX": -43.0,
+                "BannerPositionY": 0.0,
+                "TitleFontSize": 45
+            },
+            "ruRU": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 19,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.550000011920929,
+                "BannerOutlineColor": "#3D5963FF",
+                "BannerPositionX": -43.0,
+                "BannerPositionY": 0.0,
+                "TitleFontSize": 45
+            },
+            "deDE": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 19,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.550000011920929,
+                "BannerOutlineColor": "#3D5963FF",
+                "BannerPositionX": -43.0,
+                "BannerPositionY": 0.0,
+                "TitleFontSize": 45
+            },
+            "arEG": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 19,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.550000011920929,
+                "BannerOutlineColor": "#3D5963FF",
+                "BannerPositionX": -43.0,
+                "BannerPositionY": 0.0,
+                "TitleFontSize": 45
+            }
+        },
+        "DetailDialogDetailKey": "[GachaDetailDialogDetail10000]",
+        "DetailDialogHeadingKey": "[GachaDetailDailogHeading10000]",
+        "DetailDialogNotesKey": "[GachaDetailDialogNotes10000]",
+        "EquipmentPictureBookTabIndex": 0,
+        "ExplanationKey": "[GachaExplanation10000]",
+        "GachaBonusGaugeType": 0,
+        "GachaButtonMessageKey": null,
+        "HeaderItem1": {
+            "ItemCount": 1,
+            "ItemId": 1,
+            "ItemType": 1
+        },
+        "HeaderItem2": {
+            "ItemCount": 1,
+            "ItemId": 10,
+            "ItemType": 16
+        },
+        "HeaderItem3": null,
+        "IsLotteryViewShowBonusItem": false,
+        "NameKey": "[GachaName10000]",
+        "PickUpCharacterId": 0,
+        "TimeFormatKey": "[GachaTimeFormat10000]",
+        "TitleColorType": 6
     }
 ]

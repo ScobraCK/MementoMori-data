@@ -3096,5 +3096,57 @@
         "RequireFragmentCount": 60,
         "EndTimeFixJST": "2100-12-31 23:59:59",
         "StartTimeFixJST": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 72,
+        "IsIgnore": null,
+        "Memo": "浴衣コルディ",
+        "ActiveSkillIds": [
+            72001,
+            72002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 99,
+            "Health": 59,
+            "Intelligence": 84,
+            "Muscle": 84
+        },
+        "BaseParameterGrossCoefficient": 326,
+        "CharacterType": 2,
+        "ElementType": 2,
+        "InitialBattleParameter": {
+            "AttackPower": 3,
+            "Avoidance": -1,
+            "Critical": 0,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 0,
+            "DamageReflect": 0,
+            "DebuffHit": 0,
+            "DebuffResist": 0,
+            "Defense": 10,
+            "DefensePenetration": 0,
+            "Hit": 0,
+            "HP": -3,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": 0,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 1,
+            "Speed": 3575
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 2,
+        "Name2Key": "[CharacterSubName72]",
+        "NameKey": "[CharacterName72]",
+        "NormalSkillId": 101,
+        "PassiveSkillIds": [
+            72003,
+            72004
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2023-08-14 15:00:00"
     }
 ]

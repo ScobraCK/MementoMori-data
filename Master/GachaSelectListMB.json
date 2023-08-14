@@ -920,8 +920,9 @@
     {
         "Id": 25,
         "IsIgnore": null,
-        "Memo": "新規＋フィアー・レア復刻仮入れ（0814切替用）",
+        "Memo": "浴衣コルディ＋フィアー・レア復刻（0814切替用）",
         "CharacterIdList": [
+            72,
             60,
             55,
             5,
@@ -949,11 +950,68 @@
         ],
         "GachaSelectListType": 2,
         "NewCharacterIdList": [
+            72,
             60,
             55
         ],
-        "OrderNumber": 21,
+        "OrderNumber": 22,
         "StartTimeFixJST": "2023-08-14 16:30:00",
         "EndTimeFixJST": "2023-08-22 14:29:59"
+    },
+    {
+        "Id": 26,
+        "IsIgnore": null,
+        "Memo": "浴衣コルディ＋フィアー・復刻仮入れ（0822切替用）",
+        "CharacterIdList": [
+            72,
+            60,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "NewCharacterIdList": [
+            72,
+            60
+        ],
+        "OrderNumber": 23,
+        "StartTimeFixJST": "2023-08-22 14:30:00",
+        "EndTimeFixJST": "2023-08-31 14:29:59"
+    },
+    {
+        "Id": 10000,
+        "IsIgnore": null,
+        "Memo": "星の導きガチャ_ベル・フォルティナ",
+        "CharacterIdList": [
+            19,
+            42
+        ],
+        "GachaSelectListType": 3,
+        "NewCharacterIdList": [
+            19,
+            42
+        ],
+        "OrderNumber": 1,
+        "StartTimeFixJST": "2023-08-14 16:30:00",
+        "EndTimeFixJST": "2023-08-29 14:29:59"
     }
 ]

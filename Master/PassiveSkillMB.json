@@ -6728,6 +6728,148 @@
         ]
     },
     {
+        "Id": 72003,
+        "IsIgnore": null,
+        "Memo": "浴衣コルディSR:Lv1 「折角のお祭りなんだから、もっともーっとアゲてこ♪」ターン開始時1ターンの間攻撃力が最も高い味方の攻撃力を自身の攻撃力×20%増加させる。このスキルは4ターンに1回発動する。/ Lv2 『攻撃力増加』のターン数が2ターンになる。/ Lv3 攻撃力の増加量が自身の攻撃力×60%になる。/ Ex2 お祭り騒ぎを強化する。お祭り騒ぎの対象が攻撃力が高い味方2体になる。",
+        "NameKey": "[PassiveSkillName72003]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[PassiveSkillDescription720031]",
+                "CharacterLevel": 41,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 4,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 72003001
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[PassiveSkillDescription720032]",
+                "CharacterLevel": 121,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 4,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 72003201
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[PassiveSkillDescription720033]",
+                "CharacterLevel": 201,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 4,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 72003301
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[PassiveSkillDescription720034]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 256,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 4,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 72003401
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 72004,
+        "IsIgnore": null,
+        "Memo": "浴衣コルディSR:Lv1 百発百中のガンマンの腕の見せ所――自身が攻撃するたび、1ターンの間自身の防御力と魔法防御力がそれぞれ3%増加する（最大30%まで）（解除不可）。攻撃した回数1回につき増加量が3%大きくなる。/ Lv2 このスキルが自身が攻撃を受けるたびにも発動するようになる。自身が攻撃を受けた回数1回につき増加量が3％大きくなる。/ Lv3 防御力と魔法防御力の増加量が10%になり、増加量最大値が100%になる。攻撃した回数1回につき、もしくは自身が攻撃を受けた回数1回につき増加量が10%大きくなる。",
+        "NameKey": "[PassiveSkillName72004]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[PassiveSkillDescription720041]",
+                "CharacterLevel": 61,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 9,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 72004001
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[PassiveSkillDescription720042]",
+                "CharacterLevel": 141,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 9,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 72004001
+                    },
+                    {
+                        "PassiveTrigger": 8,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 72004202
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[PassiveSkillDescription720043]",
+                "CharacterLevel": 221,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 9,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 72004301
+                    },
+                    {
+                        "PassiveTrigger": 8,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 72004302
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "Id": 500000001,
         "IsIgnore": null,
         "Memo": "黄泉の歌声　バトル開始時敵全体に4ターンの間『睡眠』を付与する。『睡眠』は対象のHP割合が85％以下になったとき解除される。",
@@ -16650,6 +16792,148 @@
                         "SkillMaxCoolTime": 0,
                         "PassiveGroupId": 0,
                         "SubSetSkillId": 550471004301
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 550472003,
+        "IsIgnore": null,
+        "Memo": "敵用浴衣コルディSR:Lv1 「折角のお祭りなんだから、もっともーっとアゲてこ♪」ターン開始時1ターンの間攻撃力が最も高い味方の攻撃力を自身の攻撃力×20%増加させる。このスキルは4ターンに1回発動する。/ Lv2 『攻撃力増加』のターン数が2ターンになる。/ Lv3 攻撃力の増加量が自身の攻撃力×60%になる。/ Ex2 お祭り騒ぎを強化する。お祭り騒ぎの対象が攻撃力が高い味方2体になる。",
+        "NameKey": "[PassiveSkillName72003]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 41,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 4,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550472003001
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 121,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 4,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550472003201
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 201,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 4,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550472003301
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 256,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 4,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550472003401
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 550472004,
+        "IsIgnore": null,
+        "Memo": "敵用浴衣コルディSR:Lv1 百発百中のガンマンの腕の見せ所――自身が攻撃するたび、1ターンの間自身の防御力と魔法防御力がそれぞれ3%増加する（最大30%まで）（解除不可）。攻撃した回数1回につき増加量が3%大きくなる。/ Lv2 このスキルが自身が攻撃を受けるたびにも発動するようになる。自身が攻撃を受けた回数1回につき増加量が3％大きくなる。/ Lv3 防御力と魔法防御力の増加量が10%になり、増加量最大値が100%になる。攻撃した回数1回につき、もしくは自身が攻撃を受けた回数1回につき増加量が10%大きくなる。",
+        "NameKey": "[PassiveSkillName72004]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 61,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 9,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550472004001
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 141,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 9,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550472004001
+                    },
+                    {
+                        "PassiveTrigger": 8,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550472004202
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 221,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 9,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550472004301
+                    },
+                    {
+                        "PassiveTrigger": 8,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550472004302
                     }
                 ]
             }
