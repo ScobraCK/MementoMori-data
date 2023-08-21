@@ -961,10 +961,11 @@
     {
         "Id": 26,
         "IsIgnore": null,
-        "Memo": "浴衣コルディ＋フィアー・復刻仮入れ（0822切替用）",
+        "Memo": "浴衣コルディ＋フィアー・オフィーリア復刻（0822切替用）",
         "CharacterIdList": [
             72,
             60,
+            49,
             5,
             6,
             7,
@@ -991,11 +992,88 @@
         "GachaSelectListType": 2,
         "NewCharacterIdList": [
             72,
-            60
+            60,
+            49
         ],
         "OrderNumber": 23,
         "StartTimeFixJST": "2023-08-22 14:30:00",
         "EndTimeFixJST": "2023-08-31 14:29:59"
+    },
+    {
+        "Id": 27,
+        "IsIgnore": null,
+        "Memo": "新規＋フィアー・オフィーリア復刻（0831切替用）",
+        "CharacterIdList": [
+            60,
+            49,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "NewCharacterIdList": [
+            60,
+            49
+        ],
+        "OrderNumber": 24,
+        "StartTimeFixJST": "2023-08-31 17:30:00",
+        "EndTimeFixJST": "2023-09-04 14:29:59"
+    },
+    {
+        "Id": 28,
+        "IsIgnore": null,
+        "Memo": "新規＋オフィーリア復刻（0904切替用）",
+        "CharacterIdList": [
+            49,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "NewCharacterIdList": [
+            49
+        ],
+        "OrderNumber": 25,
+        "StartTimeFixJST": "2023-09-04 14:30:00",
+        "EndTimeFixJST": "2023-09-07 14:29:59"
     },
     {
         "Id": 10000,
