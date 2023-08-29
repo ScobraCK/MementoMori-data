@@ -8005,7 +8005,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[GuildGvgClosedTime]",
-        "Text": "{0}:{1:D2}～{2}:{3:D2}は入れません"
+        "Text": "{0}:{1:D2}~{2}:{3:D2}は入れません"
     },
     {
         "Id": 1238,
@@ -60844,6 +60844,48 @@
         "Text": "使用すると星の導きガチャを1回引くことができます。<br><color=#BE5742>星の導きガチャ：VIP13またはクエスト17-4クリアで解放<br>※開催期間が終了しても、次回の「星の導きガチャ」開催時に使用できます。</color>"
     },
     {
+        "Id": 9011,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemName88]",
+        "Text": "アームストロングガチャチケット"
+    },
+    {
+        "Id": 9012,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemDisplayName88]",
+        "Text": "アームストロングガチャチケット"
+    },
+    {
+        "Id": 9013,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemDescription88]",
+        "Text": "使用すると【英霊の魔女】アームストロングのピックアップガチャを1回引くことができます。<br><color=#248CA7>主な入手方法：プレミアギフト（期間限定）</color><br><color=#BE5742>※期間を過ぎると売却してプラチナガチャチケット1枚と交換することができます</color>"
+    },
+    {
+        "Id": 9014,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemName89]",
+        "Text": "戦友のドッグタグ"
+    },
+    {
+        "Id": 9015,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemDisplayName89]",
+        "Text": "戦友のドッグタグ"
+    },
+    {
+        "Id": 9016,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemDescription89]",
+        "Text": "「魔女として生まれた、価値などない存在──それでも私たちは家族だったんだ」戦友のドッグタグと、同じ数の空薬莢を、彼女は常に身に着けている。<br>ショップで他アイテムと交換することができます。<br><color=#248CA7>主な入手方法：時空の洞窟（期間限定）、デイリーミッション（期間限定）、プレミアギフト（期間限定）</color>"
+    },
+    {
         "Id": 9018,
         "IsIgnore": false,
         "Memo": "",
@@ -99696,9 +99738,9 @@
     {
         "Id": 14603,
         "IsIgnore": false,
-        "Memo": null,
+        "Memo": "",
         "StringKey": "[TutorialDescriptionMainText24]",
-        "Text": "<color=#BE5742>グランドバトル</color>は、複数ワールド間から戦闘力によって選抜されたギルドが参加できる特別なギルドバトルです。<color=#BE5742>火曜日～日曜日</color>が開催期間となっており、１グループ４ギルドで構成されます。領地を確保し続けることで入手できるポイントによって順位が決定します。"
+        "Text": "<color=#BE5742>グランドバトル</color>は、複数ワールド間から戦闘力によって選抜されたギルドが参加できる特別なギルドバトルです。<color=#BE5742>毎週火～日曜日</color>が開催期間となっており、１グループ４ギルドで構成されます。領地を確保し続けることで入手できるポイントによって順位が決定します。"
     },
     {
         "Id": 14604,

@@ -8005,7 +8005,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[GuildGvgClosedTime]",
-        "Text": ""
+        "Text": "Cannot enter from<br>{0}:{1:D2}~{2}:{3:D2} (Server Time)."
     },
     {
         "Id": 1238,
@@ -60844,6 +60844,48 @@
         "Text": "Use for 1 free pull for the Invocation of the Stars’ Guidance.<br><color=#BE5742>Invocation of the Stars’ Guidance: Reach VIP13 or clear Quest 17-4 to unlock.<br>*Even if the current Invocation of the Stars’ Guidance comes to an end, this ticket can be used in the Invocation’s next iteration.</color>"
     },
     {
+        "Id": 9011,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemName88]",
+        "Text": "Armstrong Prayer Ticket"
+    },
+    {
+        "Id": 9012,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemDisplayName88]",
+        "Text": "Armstrong Prayer Ticket"
+    },
+    {
+        "Id": 9013,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemDescription88]",
+        "Text": "Use to Invoke 1 time in 【The Witch of Lost Souls】Armstrong’s Prayer of The Fleeting.<br><color=#248CA7>Main way to obtain: Premier Gifts (limited)</color><br><color=#BE5742>*When the Prayer of The Fleeting expires, this item can be sold in exchange for 1 Ticket of The Cursed.</color>"
+    },
+    {
+        "Id": 9014,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemName89]",
+        "Text": "Comrades’ Dog Tags"
+    },
+    {
+        "Id": 9015,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemDisplayName89]",
+        "Text": "Comrades’ Dog Tags"
+    },
+    {
+        "Id": 9016,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemDescription89]",
+        "Text": "“We were outcasts of no value who were born as witches...but to each other, we were a family.” Armstrong not only carries the dog tags of her fallen comrades with her, but also the exact same number of empty bullet cartridges. Use to exchange for other items at the Shop.<br><color=#248CA7>Main ways to obtain: Cave of Space-Time (limited), Daily Missions (limited), Premier Gifts (limited)</color>"
+    },
+    {
         "Id": 9018,
         "IsIgnore": false,
         "Memo": "",
@@ -106621,7 +106663,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[ClientErrorMessage600015]",
-        "Text": ""
+        "Text": "The guilds that can participate are being finalized.<br>Please wait until 4:30 (Server Time) to enter."
     },
     {
         "Id": 15599,

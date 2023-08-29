@@ -8005,7 +8005,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[GuildGvgClosedTime]",
-        "Text": ""
+        "Text": "{0}:{1:D2}~{2}:{3:D2}（伺服器時間）<br>無法入內"
     },
     {
         "Id": 1238,
@@ -60844,6 +60844,48 @@
         "Text": "使用後可進行1次星辰的指引召喚。<br><color=#BE5742>星辰的指引召喚：達VIP13或冒險17-4通關後解鎖<br>※開放期間內未用完的召喚券，可保留至下次「星辰的指引召喚」開放時使用。</color>"
     },
     {
+        "Id": 9011,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemName88]",
+        "Text": "阿姆斯壯召喚券"
+    },
+    {
+        "Id": 9012,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemDisplayName88]",
+        "Text": "阿姆斯壯召喚券"
+    },
+    {
+        "Id": 9013,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemDescription88]",
+        "Text": "使用後可進行1次【英靈魔女】阿姆斯壯的PICK UP召喚。<br><color=#248CA7>主要獲取途徑：精選組合(限時)</color><br><color=#BE5742>※PICK UP召喚開放期間結束後，可透過販售兌換1張白金召喚券。</color>"
+    },
+    {
+        "Id": 9014,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemName89]",
+        "Text": "戰友的兵籍牌"
+    },
+    {
+        "Id": 9015,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemDisplayName89]",
+        "Text": "戰友的兵籍牌"
+    },
+    {
+        "Id": 9016,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemDescription89]",
+        "Text": "「我們都是天生的魔女，一群沒有價值的存在——但我們是彼此的家人。」她一直隨身攜帶著戰友的兵籍牌，還有同等數量的空彈殼。可在商城兌換其他道具。<br><color=#248CA7>主要獲取途徑：時空洞窟(限時)、每日任務(限時)、精選組合(限時)</color>"
+    },
+    {
         "Id": 9018,
         "IsIgnore": false,
         "Memo": "",
@@ -99696,9 +99738,9 @@
     {
         "Id": 14603,
         "IsIgnore": false,
-        "Memo": null,
+        "Memo": "",
         "StringKey": "[TutorialDescriptionMainText24]",
-        "Text": "<color=#BE5742>跨服公會戰</color>的參戰對象是來自不同世界、戰鬥力名列前茅的精銳公會。​<br>舉辦期間為<color=#BE5742>週二～週日</color>，每四個公會為一組。​<br>佔據領地獲得的積分將決定最後的排名順序。"
+        "Text": "<color=#BE5742>跨服公會戰</color>的參戰對象是來自不同世界、戰鬥力名列前茅的精銳公會。​<br>舉辦期間為<color=#BE5742>每週二～週日</color>，每四個公會為一組。​<br>佔據領地獲得的積分將決定最後的排名順序。"
     },
     {
         "Id": 14604,
@@ -106621,7 +106663,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[ClientErrorMessage600015]",
-        "Text": ""
+        "Text": "參戰公會統計時間：～4:30（伺服器時間）"
     },
     {
         "Id": 15599,

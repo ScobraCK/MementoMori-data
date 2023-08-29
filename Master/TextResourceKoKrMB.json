@@ -8005,7 +8005,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[GuildGvgClosedTime]",
-        "Text": ""
+        "Text": "{0}:{1:D2}~{2}:{3:D2} (서버 시간)<br>동안 입장 불가"
     },
     {
         "Id": 1238,
@@ -60844,6 +60844,48 @@
         "Text": "사용하면 길잡이별 뽑기를 1회 뽑을 수 있습니다.<br><color=#BE5742>길잡이별 뽑기: VIP13 또는 퀘스트 17-4 클리어 시 개방<br>※개최 기간이 끝나더라도 다음「길잡이별 뽑기」개최 시에 사용할 수 있습니다.</color>"
     },
     {
+        "Id": 9011,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemName88]",
+        "Text": "암스트롱 뽑기 티켓"
+    },
+    {
+        "Id": 9012,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemDisplayName88]",
+        "Text": "암스트롱 뽑기 티켓"
+    },
+    {
+        "Id": 9013,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemDescription88]",
+        "Text": "사용하면【영령의 마녀】암스트롱의 픽업 뽑기를 1회 뽑을 수 있습니다.<br><color=#248CA7>주요 입수 방법 : 프리미엄 상점 (기간 한정)</color><br><color=#BE5742>※기간이 지나면 해당 아이템을 판매해서 플래티넘 뽑기 티켓 1장과 교환할 수 있습니다.</color>"
+    },
+    {
+        "Id": 9014,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemName89]",
+        "Text": "전우들의 군번줄"
+    },
+    {
+        "Id": 9015,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemDisplayName89]",
+        "Text": "전우들의 군번줄"
+    },
+    {
+        "Id": 9016,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemDescription89]",
+        "Text": "\"마녀로 태어난 무가치한 존재... 그렇더라도 우리들은 가족이었다.\" 그녀는 전우들의 군번줄과 같은 수의 탄피를 항상 몸에 지니고 다닌다. 상점에서 다른 아이템과 교환할 수 있습니다.<br><color=#248CA7>주요 입수 방법 : 시공의 동굴 (기간 한정), 일일 미션 (기간 한정), 프리미엄 상점 (기간 한정)</color>"
+    },
+    {
         "Id": 9018,
         "IsIgnore": false,
         "Memo": "",
@@ -99696,9 +99738,9 @@
     {
         "Id": 14603,
         "IsIgnore": false,
-        "Memo": null,
+        "Memo": "",
         "StringKey": "[TutorialDescriptionMainText24]",
-        "Text": "<color=#BE5742>그랜드 배틀</color>은 여러 월드 중에서 전투력에 따라 선발된 길드만이 참가할 수 있는 <br>특별한 길드 배틀입니다. ​<br>개최 기간은 <color=#BE5742>화~일요일</color>이며, 1조 4길드로 구성됩니다.​<br>지속적으로 영지를 확보해 가면서 얻은 포인트에 따라 순위가 결정됩니다.​"
+        "Text": "<color=#BE5742>그랜드 배틀</color>은 여러 월드 중에서 전투력에 따라 선발된 길드만이 참가할 수 있는 <br>특별한 길드 배틀입니다. ​<br>개최 기간은 <color=#BE5742>매주 화~일요일</color>이며, 1조 4길드로 구성됩니다.​<br>지속적으로 영지를 확보해 가면서 얻은 포인트에 따라 순위가 결정됩니다.​"
     },
     {
         "Id": 14604,
@@ -106621,7 +106663,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[ClientErrorMessage600015]",
-        "Text": ""
+        "Text": "현재 참가 길드 확정 중입니다.<br>4:30 (서버 시간)까지 이용하실 수 없습니다."
     },
     {
         "Id": 15599,
