@@ -3934,5 +3934,37 @@
         "ItemId": 8,
         "ItemType": 50,
         "NeedCount": 1
+    },
+    {
+        "Id": 247,
+        "IsIgnore": null,
+        "Memo": "アームストロングガチャチケット",
+        "ChangeItems": [
+            {
+                "ItemCount": 1,
+                "ItemId": 2,
+                "ItemType": 16
+            }
+        ],
+        "ChangeItemType": 0,
+        "ItemId": 500,
+        "ItemType": 16,
+        "NeedCount": 1
+    },
+    {
+        "Id": 248,
+        "IsIgnore": null,
+        "Memo": "戦友のドッグタグ",
+        "ChangeItems": [
+            {
+                "ItemCount": 10000,
+                "ItemId": 1,
+                "ItemType": 3
+            }
+        ],
+        "ChangeItemType": 0,
+        "ItemId": 9,
+        "ItemType": 50,
+        "NeedCount": 1
     }
 ]
