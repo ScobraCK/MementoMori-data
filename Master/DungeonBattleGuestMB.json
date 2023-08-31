@@ -526,8 +526,17 @@
         "IsIgnore": null,
         "Memo": "浴衣コルディ",
         "CharacterId": 72,
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
+    },
+    {
+        "Id": 60,
+        "IsIgnore": null,
+        "Memo": "アームストロング",
+        "CharacterId": 50,
         "IsPickup": true,
-        "EndTimeFixJST": "2023-08-31 14:29:59",
-        "StartTimeFixJST": "2023-08-14 15:00:00"
+        "EndTimeFixJST": "2023-09-15 14:29:59",
+        "StartTimeFixJST": "2023-08-31 15:00:00"
     }
 ]
