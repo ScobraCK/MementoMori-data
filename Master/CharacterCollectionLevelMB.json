@@ -3866,5 +3866,154 @@
         "CharacterRarityFlags": 131072,
         "CollectionId": 26,
         "CollectionLevel": 7
+    },
+    {
+        "Id": 2701,
+        "IsIgnore": null,
+        "Memo": "テレスコピウムの星光(ステラ,マーリン,ルナリンド)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 200.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 8,
+        "CollectionId": 27,
+        "CollectionLevel": 1
+    },
+    {
+        "Id": 2702,
+        "IsIgnore": null,
+        "Memo": "テレスコピウムの星光(ステラ,マーリン,ルナリンド)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 500.0
+            },
+            {
+                "BattleParameterType": 10,
+                "ChangeParameterType": 1,
+                "Value": 1000.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 128,
+        "CollectionId": 27,
+        "CollectionLevel": 2
+    },
+    {
+        "Id": 2703,
+        "IsIgnore": null,
+        "Memo": "テレスコピウムの星光(ステラ,マーリン,ルナリンド)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 500.0
+            },
+            {
+                "BattleParameterType": 10,
+                "ChangeParameterType": 1,
+                "Value": 1000.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 512,
+        "CollectionId": 27,
+        "CollectionLevel": 3
+    },
+    {
+        "Id": 2704,
+        "IsIgnore": null,
+        "Memo": "テレスコピウムの星光(ステラ,マーリン,ルナリンド)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 500.0
+            },
+            {
+                "BattleParameterType": 10,
+                "ChangeParameterType": 1,
+                "Value": 1000.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 16384,
+        "CollectionId": 27,
+        "CollectionLevel": 4
+    },
+    {
+        "Id": 2705,
+        "IsIgnore": null,
+        "Memo": "テレスコピウムの星光(ステラ,マーリン,ルナリンド)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 550.0
+            },
+            {
+                "BattleParameterType": 10,
+                "ChangeParameterType": 1,
+                "Value": 1100.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 32768,
+        "CollectionId": 27,
+        "CollectionLevel": 5
+    },
+    {
+        "Id": 2706,
+        "IsIgnore": null,
+        "Memo": "テレスコピウムの星光(ステラ,マーリン,ルナリンド)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 600.0
+            },
+            {
+                "BattleParameterType": 10,
+                "ChangeParameterType": 1,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 65536,
+        "CollectionId": 27,
+        "CollectionLevel": 6
+    },
+    {
+        "Id": 2707,
+        "IsIgnore": null,
+        "Memo": "テレスコピウムの星光(ステラ,マーリン,ルナリンド)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 650.0
+            },
+            {
+                "BattleParameterType": 10,
+                "ChangeParameterType": 1,
+                "Value": 1300.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 131072,
+        "CollectionId": 27,
+        "CollectionLevel": 7
     }
 ]

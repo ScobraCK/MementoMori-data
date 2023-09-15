@@ -5973,6 +5973,214 @@
         ]
     },
     {
+        "Id": 57003,
+        "IsIgnore": null,
+        "Memo": "ステラSR:Lv1 長年練習し続けた自作の呪文が、本物の魔法となる――。バトル開始時自身に3ターンの間自身の攻撃力×400%の『シールド』を付与する（解除不可）。/ Lv2 『シールド』のターン数が6ターンになる。/ Lv3 『シールド』の大きさが自身の攻撃力×800%になる。",
+        "NameKey": "[PassiveSkillName57003]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[PassiveSkillDescription570031]",
+                "CharacterLevel": 41,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 57003001
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[PassiveSkillDescription570032]",
+                "CharacterLevel": 121,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 57003201
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[PassiveSkillDescription570033]",
+                "CharacterLevel": 201,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 57003301
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 57004,
+        "IsIgnore": null,
+        "Memo": "ステラSR:Lv1 「ボスの光は、いつだって私を守ってくれる――」バトル開始時10ターンの間自身の防御力が25%増加する。自身が攻撃を受けたとき、自身が付与した『防御力増加』のターン数が1減少する。自身で付与した『防御力増加』を付帯していない状態で自身が攻撃を受けたとき、40%の確率でランダムな敵5体に1ターンの間『沈黙』を付与し、10ターンの間自身の防御力が25%増加する。この攻撃で自身が戦闘不能になった場合、このスキルは発動しない。/ Lv2 防御力の増加量が50%になる。/ Lv3 『沈黙』のターン数が2ターンになる。/ Ex2 星を統べる者を強化する。『沈黙』を付与する確率が80%になる。",
+        "NameKey": "[PassiveSkillName57004]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[PassiveSkillDescription570041]",
+                "CharacterLevel": 61,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 57004001
+                    },
+                    {
+                        "PassiveTrigger": 8,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 57004002
+                    },
+                    {
+                        "PassiveTrigger": 8,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 57004003
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[PassiveSkillDescription570042]",
+                "CharacterLevel": 141,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 57004201
+                    },
+                    {
+                        "PassiveTrigger": 8,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 57004202
+                    },
+                    {
+                        "PassiveTrigger": 8,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 57004203
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[PassiveSkillDescription570043]",
+                "CharacterLevel": 221,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 57004201
+                    },
+                    {
+                        "PassiveTrigger": 8,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 57004302
+                    },
+                    {
+                        "PassiveTrigger": 8,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 57004203
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[PassiveSkillDescription570044]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 256,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 57004201
+                    },
+                    {
+                        "PassiveTrigger": 8,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 57004402
+                    },
+                    {
+                        "PassiveTrigger": 8,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 57004203
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 57005,
+        "IsIgnore": null,
+        "Memo": "ステラSR:Ex3 バトル開始時1ターンの間自身のスピードが25%増加する（解除不可）。",
+        "NameKey": null,
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[PassiveSkillDescription570051]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 57005001
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "Id": 58003,
         "IsIgnore": null,
         "Memo": "アーティSR:Lv1 「二人なら、乗り越えられる」寄り添う影が挫けそうな心を何度も奮い立たせる。自身の最大HPが15％増加する（解除不可）。/ Lv2 \\nさらに自身の被ダメージが15％減少する（解除不可）。/ Lv3 \\n最大HPの増加量が30%、被ダメージの減少量が30%になる。",
@@ -16030,6 +16238,214 @@
                         "SkillMaxCoolTime": 4,
                         "PassiveGroupId": 0,
                         "SubSetSkillId": 550455004302
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 550457003,
+        "IsIgnore": null,
+        "Memo": "敵用ステラSR:Lv1 長年練習し続けた自作の呪文が、本物の魔法となる――。バトル開始時自身に3ターンの間自身の攻撃力×400%の『シールド』を付与する（解除不可）。/ Lv2 『シールド』のターン数が6ターンになる。/ Lv3 『シールド』の大きさが自身の攻撃力×800%になる。",
+        "NameKey": "[PassiveSkillName57003]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 41,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550457003001
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 121,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550457003201
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 201,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550457003301
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 550457004,
+        "IsIgnore": null,
+        "Memo": "敵用ステラSR:Lv1 「ボスの光は、いつだって私を守ってくれる――」バトル開始時10ターンの間自身の防御力が25%増加する。自身が攻撃を受けたとき、自身が付与した『防御力増加』のターン数が1減少する。自身で付与した『防御力増加』を付帯していない状態で自身が攻撃を受けたとき、40%の確率でランダムな敵5体に1ターンの間『沈黙』を付与し、10ターンの間自身の防御力が25%増加する。この攻撃で自身が戦闘不能になった場合、このスキルは発動しない。/ Lv2 防御力の増加量が50%になる。/ Lv3 『沈黙』のターン数が2ターンになる。/ Ex2 星を統べる者を強化する。『沈黙』を付与する確率が80%になる。",
+        "NameKey": "[PassiveSkillName57004]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 61,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550457004001
+                    },
+                    {
+                        "PassiveTrigger": 8,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550457004002
+                    },
+                    {
+                        "PassiveTrigger": 8,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550457004003
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 141,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550457004201
+                    },
+                    {
+                        "PassiveTrigger": 8,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550457004202
+                    },
+                    {
+                        "PassiveTrigger": 8,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550457004203
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 221,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550457004201
+                    },
+                    {
+                        "PassiveTrigger": 8,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550457004302
+                    },
+                    {
+                        "PassiveTrigger": 8,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550457004203
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 256,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550457004201
+                    },
+                    {
+                        "PassiveTrigger": 8,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550457004402
+                    },
+                    {
+                        "PassiveTrigger": 8,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550457004203
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 550457005,
+        "IsIgnore": null,
+        "Memo": "敵用ステラSR:Ex3 バトル開始時1ターンの間自身のスピードが25%増加する（解除不可）。",
+        "NameKey": null,
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550457005001
                     }
                 ]
             }

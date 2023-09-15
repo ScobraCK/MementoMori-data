@@ -5896,5 +5896,138 @@
             }
         ],
         "CharacterId": 72
+    },
+    {
+        "Id": 271,
+        "IsIgnore": null,
+        "Memo": "ステラSSR180",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 57
+    },
+    {
+        "Id": 272,
+        "IsIgnore": null,
+        "Memo": "ステラSSR200",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1300.0
+            },
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 600.0
+            }
+        ],
+        "CharacterId": 57
+    },
+    {
+        "Id": 273,
+        "IsIgnore": null,
+        "Memo": "ステラSSR220",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 650.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1400.0
+            },
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "CharacterId": 57
+    },
+    {
+        "Id": 274,
+        "IsIgnore": null,
+        "Memo": "ステラSSR240",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "CharacterId": 57
+    },
+    {
+        "Id": 275,
+        "IsIgnore": null,
+        "Memo": "ステラUR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 750.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1600.0
+            },
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 900.0
+            }
+        ],
+        "CharacterId": 57
+    },
+    {
+        "Id": 276,
+        "IsIgnore": null,
+        "Memo": "ステラLR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 1000.0
+            }
+        ],
+        "CharacterId": 57
     }
 ]

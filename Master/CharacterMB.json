@@ -2838,6 +2838,59 @@
         "StartTimeFixJST": "2023-03-31 15:00:00"
     },
     {
+        "Id": 57,
+        "IsIgnore": null,
+        "Memo": "ステラ",
+        "ActiveSkillIds": [
+            57001,
+            57002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 78,
+            "Health": 97,
+            "Intelligence": 83,
+            "Muscle": 88
+        },
+        "BaseParameterGrossCoefficient": 346,
+        "CharacterType": 0,
+        "ElementType": 1,
+        "InitialBattleParameter": {
+            "AttackPower": -3,
+            "Avoidance": 0,
+            "Critical": 0,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 0,
+            "DamageReflect": 0,
+            "DebuffHit": 0,
+            "DebuffResist": 0,
+            "Defense": 11,
+            "DefensePenetration": 0,
+            "Hit": 0,
+            "HP": 3,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": -1,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 0,
+            "Speed": 2698
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 1,
+        "Name2Key": null,
+        "NameKey": "[CharacterName57]",
+        "NormalSkillId": 101,
+        "PassiveSkillIds": [
+            57003,
+            57004,
+            57005
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2023-09-15 15:00:00"
+    },
+    {
         "Id": 58,
         "IsIgnore": null,
         "Memo": "アーティ",
@@ -3043,7 +3096,7 @@
         "RarityFlags": 8,
         "RequireFragmentCount": 60,
         "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2020-01-01 00:00:00"
+        "StartTimeFixJST": "2023-06-30 15:00:00"
     },
     {
         "Id": 71,
@@ -3095,7 +3148,7 @@
         "RarityFlags": 8,
         "RequireFragmentCount": 60,
         "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2020-01-01 00:00:00"
+        "StartTimeFixJST": "2023-07-13 15:00:00"
     },
     {
         "Id": 72,
