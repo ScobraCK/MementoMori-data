@@ -1160,9 +1160,10 @@
     {
         "Id": 31,
         "IsIgnore": null,
-        "Memo": "ステラ＋復刻仮入れ（0921切替用）",
+        "Memo": "ステラ＋復刻シフォン（0921切替用）",
         "CharacterIdList": [
             57,
+            54,
             5,
             6,
             7,
@@ -1188,11 +1189,49 @@
         ],
         "GachaSelectListType": 2,
         "NewCharacterIdList": [
-            57
+            57,
+            54
         ],
         "OrderNumber": 29,
         "StartTimeFixJST": "2023-09-21 14:30:00",
         "EndTimeFixJST": "2023-09-29 14:29:59"
+    },
+    {
+        "Id": 32,
+        "IsIgnore": null,
+        "Memo": "シフォン復刻・新規仮データ(0929切替用)",
+        "CharacterIdList": [
+            54,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "NewCharacterIdList": [
+            54
+        ],
+        "OrderNumber": 30,
+        "StartTimeFixJST": "2023-09-29 14:30:00",
+        "EndTimeFixJST": "2023-10-05 14:29:59"
     },
     {
         "Id": 10000,
