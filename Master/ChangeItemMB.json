@@ -3966,5 +3966,21 @@
         "ItemId": 9,
         "ItemType": 50,
         "NeedCount": 1
+    },
+    {
+        "Id": 249,
+        "IsIgnore": null,
+        "Memo": "塔の鍵",
+        "ChangeItems": [
+            {
+                "ItemCount": 10000,
+                "ItemId": 1,
+                "ItemType": 3
+            }
+        ],
+        "ChangeItemType": 0,
+        "ItemId": 10,
+        "ItemType": 50,
+        "NeedCount": 1
     }
 ]
