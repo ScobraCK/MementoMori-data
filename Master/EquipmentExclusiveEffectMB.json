@@ -6029,5 +6029,134 @@
             }
         ],
         "CharacterId": 57
+    },
+    {
+        "Id": 277,
+        "IsIgnore": null,
+        "Memo": "プリシラSSR180",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 62
+    },
+    {
+        "Id": 278,
+        "IsIgnore": null,
+        "Memo": "プリシラSSR200",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1300.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 600.0
+            }
+        ],
+        "CharacterId": 62
+    },
+    {
+        "Id": 279,
+        "IsIgnore": null,
+        "Memo": "プリシラSSR220",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1400.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            },
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            }
+        ],
+        "CharacterId": 62
+    },
+    {
+        "Id": 280,
+        "IsIgnore": null,
+        "Memo": "プリシラSSR240",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            },
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            }
+        ],
+        "CharacterId": 62
+    },
+    {
+        "Id": 281,
+        "IsIgnore": null,
+        "Memo": "プリシラUR",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1600.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 900.0
+            },
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 2000.0
+            }
+        ],
+        "CharacterId": 62
+    },
+    {
+        "Id": 282,
+        "IsIgnore": null,
+        "Memo": "プリシラLR",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 1000.0
+            },
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 2200.0
+            }
+        ],
+        "CharacterId": 62
     }
 ]

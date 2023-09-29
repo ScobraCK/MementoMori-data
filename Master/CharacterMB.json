@@ -2995,6 +2995,58 @@
         "StartTimeFixJST": "2023-07-31 15:00:00"
     },
     {
+        "Id": 62,
+        "IsIgnore": null,
+        "Memo": "プリシラ",
+        "ActiveSkillIds": [
+            62001,
+            62002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 79,
+            "Health": 86,
+            "Intelligence": 92,
+            "Muscle": 78
+        },
+        "BaseParameterGrossCoefficient": 335,
+        "CharacterType": 0,
+        "ElementType": 2,
+        "InitialBattleParameter": {
+            "AttackPower": -3,
+            "Avoidance": 1,
+            "Critical": 0,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 0,
+            "DamageReflect": 0,
+            "DebuffHit": 0,
+            "DebuffResist": 0,
+            "Defense": 10,
+            "DefensePenetration": 0,
+            "Hit": 0,
+            "HP": -1,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": 3,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 0,
+            "Speed": 3167
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 4,
+        "Name2Key": null,
+        "NameKey": "[CharacterName62]",
+        "NormalSkillId": 102,
+        "PassiveSkillIds": [
+            62003,
+            62004
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2023-09-29 15:00:00"
+    },
+    {
         "Id": 67,
         "IsIgnore": null,
         "Memo": "リシェス",
