@@ -952,6 +952,25 @@
                     8001505,
                     8001506
                 ]
+            },
+            {
+                "OrderNumber": 6,
+                "DescriptionKey": "[ActiveSkillDescription80016]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    8001601,
+                    8001602,
+                    8001602,
+                    8001602,
+                    8001602,
+                    8001602,
+                    8001603,
+                    8001604,
+                    8001605,
+                    8001606
+                ]
             }
         ],
         "NameKey": "[ActiveSkillName8001]",
@@ -1051,7 +1070,8 @@
                 "EquipmentRarityFlags": 0,
                 "BlessingItemId": 0,
                 "SubSetSkillIds": [
-                    9001201
+                    9001201,
+                    9001202
                 ]
             },
             {
@@ -1062,7 +1082,9 @@
                 "BlessingItemId": 0,
                 "SubSetSkillIds": [
                     9001201,
-                    9001302
+                    9001202,
+                    9001302,
+                    9001202
                 ]
             },
             {
@@ -1073,7 +1095,9 @@
                 "BlessingItemId": 0,
                 "SubSetSkillIds": [
                     9001401,
-                    9001402
+                    9001202,
+                    9001402,
+                    9001202
                 ]
             },
             {
@@ -1084,7 +1108,9 @@
                 "BlessingItemId": 0,
                 "SubSetSkillIds": [
                     9001501,
-                    9001502
+                    9001202,
+                    9001502,
+                    9001202
                 ]
             },
             {
@@ -1094,7 +1120,9 @@
                 "EquipmentRarityFlags": 512,
                 "BlessingItemId": 0,
                 "SubSetSkillIds": [
-                    9001601,
+                    9001501,
+                    9001602,
+                    9001502,
                     9001602
                 ]
             }
@@ -1127,7 +1155,8 @@
                 "EquipmentRarityFlags": 0,
                 "BlessingItemId": 0,
                 "SubSetSkillIds": [
-                    9002201
+                    9002201,
+                    9002202
                 ]
             },
             {
@@ -1137,6 +1166,7 @@
                 "EquipmentRarityFlags": 0,
                 "BlessingItemId": 0,
                 "SubSetSkillIds": [
+                    9002201,
                     9002301
                 ]
             },
@@ -1147,8 +1177,10 @@
                 "EquipmentRarityFlags": 0,
                 "BlessingItemId": 0,
                 "SubSetSkillIds": [
+                    9002201,
                     9002301,
-                    9002402
+                    9002402,
+                    9002404
                 ]
             }
         ],
@@ -5306,7 +5338,8 @@
                 "EquipmentRarityFlags": 0,
                 "BlessingItemId": 0,
                 "SubSetSkillIds": [
-                    41002201
+                    41002201,
+                    41002202
                 ]
             },
             {
@@ -5316,7 +5349,8 @@
                 "EquipmentRarityFlags": 0,
                 "BlessingItemId": 0,
                 "SubSetSkillIds": [
-                    41002301
+                    41002301,
+                    41002202
                 ]
             },
             {
@@ -5326,7 +5360,8 @@
                 "EquipmentRarityFlags": 0,
                 "BlessingItemId": 0,
                 "SubSetSkillIds": [
-                    41002401
+                    41002401,
+                    41002202
                 ]
             }
         ],
