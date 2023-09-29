@@ -1,0 +1,33 @@
+[
+    {
+        "Id": 1,
+        "IsIgnore": null,
+        "Memo": "テスト",
+        "CampaignTitleKey": "テスト",
+        "DelayDays": 0,
+        "ForceStartTime": "2100-01-01 00:00:00",
+        "PanelMissionSheetInfoList": [
+            {
+                "BingoRewardInfoList": [
+                    {
+                        "BingoType": 1,
+                        "RewardItemList": [
+                            {
+                                "ItemCount": 1,
+                                "ItemId": 1,
+                                "ItemType": 1
+                            }
+                        ]
+                    }
+                ],
+                "MissionIdList": [],
+                "PanelMBId": 1,
+                "SheetNo": 1,
+                "X": 0.0,
+                "Y": 0.0
+            }
+        ],
+        "EndTimeFixJST": "2100-01-02 00:00:00",
+        "StartTimeFixJST": "2100-01-01 00:00:00"
+    }
+]
