@@ -7669,6 +7669,140 @@
         "RootActiveSkillId": 60002
     },
     {
+        "Id": 62001,
+        "IsIgnore": null,
+        "Memo": "プリシラSR:Lv1 吹き荒れる爆炎がランダムな敵3体に攻撃力×200%の魔法攻撃を行う。さらに聖なる炎が仲間を癒し、悪しき力を退ける――攻撃力が高い味方2体のHPを自身の攻撃力×50%回復し、対象の弱体効果を1つ解除する。/ Lv2 さらに2ターンの間攻撃力が高い味方2体の弱体効果耐性率を40%増加させる。/ Lv3 弱体効果解除量が2つになる。さらに最初の魔法攻撃でクリティカルヒットが1回以上発生した場合、弱体効果解除量が3つになる。/ Ex1 聖炎の灯火を強化する。HPを回復し弱体効果を解除する対象が攻撃力が高い味方3体になる。/ Ex2 聖炎の灯火を強化する。弱体効果耐性率の増加量が80%になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription620011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    62001001,
+                    62001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription620012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    62001001,
+                    62001202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription620013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    62001001,
+                    62001302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription620014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    62001001,
+                    62001402
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription620015]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 256,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    62001001,
+                    62001502
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName62001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 62001
+    },
+    {
+        "Id": 62002,
+        "IsIgnore": null,
+        "Memo": "プリシラSR:Lv1 天から降り注ぐ光がランダムな敵3体に攻撃力×200%の魔法攻撃を行う。さらに光り輝く雨が仲間を癒す――HP割合が低い味方2体のHPを自身の攻撃力×50%回復し、1ターンの間対象に『再生』を付与する。毎ターン行動開始時に自身のHPを自身の最大HP×3%回復する。/ Lv2 さらに最初の魔法攻撃でクリティカルヒットが1回以上発生した場合、『再生』のターン数が1ターン増加する。クリティカルヒットした回数1回につきターン数が1増加する。/ Lv3 HPを回復し『再生』を付与する対象がHP割合が低い味方3体になる。/ Lv4 『再生』での回復量が自身の最大HP×5%になる。/ Ex3 シャイニングシャワーを強化する。HPの回復量が自身の攻撃力×100%になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription620021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    62002001,
+                    62002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription620022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    62002001,
+                    62002202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription620023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    62002001,
+                    62002302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription620024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    62002001,
+                    62002402
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription620025]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    62002001,
+                    62002502
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName62002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 62002
+    },
+    {
         "Id": 67001,
         "IsIgnore": null,
         "Memo": "リシェスSR:Lv1 「サービスタ～イム♪」戦場専用の商人は用意周到。攻撃に備え、味方を守るとっておき商品を大盤振る舞い。自身と自身以外のスピードが最も低い味方に1ターンの間自身の攻撃力×300%の『シールド』を付与する。/ Lv2\\n さらに1ターンの間対象の弱体効果耐性率を50%増加させる。/ Lv3 \\n『シールド』と『弱体効果耐性率増加』のターン数がそれぞれ3ターンになる。/ Ex1 サービスタイムを強化する。『シールド』の大きさが自身の攻撃力×500%になる。/ Ex2 サービスタイムを強化する。弱体効果耐性率の増加量が100%になる。",
@@ -8547,6 +8681,50 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 55002
+    },
+    {
+        "Id": 550262001,
+        "IsIgnore": null,
+        "Memo": "ギルドレイドプリシラ1",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    62001001
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName62001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 62001
+    },
+    {
+        "Id": 550262002,
+        "IsIgnore": null,
+        "Memo": "ギルドレイドプリシラ2",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    62002001
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName62002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 62002
     },
     {
         "Id": 550270001,
@@ -16835,6 +17013,140 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 60002
+    },
+    {
+        "Id": 550462001,
+        "IsIgnore": null,
+        "Memo": "敵用プリシラSR:Lv1 吹き荒れる爆炎がランダムな敵3体に攻撃力×200%の魔法攻撃を行う。さらに聖なる炎が仲間を癒し、悪しき力を退ける――攻撃力が高い味方2体のHPを自身の攻撃力×50%回復し、対象の弱体効果を1つ解除する。/ Lv2 さらに2ターンの間攻撃力が高い味方2体の弱体効果耐性率を40%増加させる。/ Lv3 弱体効果解除量が2つになる。さらに最初の魔法攻撃でクリティカルヒットが1回以上発生した場合、弱体効果解除量が3つになる。/ Ex1 聖炎の灯火を強化する。HPを回復し弱体効果を解除する対象が攻撃力が高い味方3体になる。/ Ex2 聖炎の灯火を強化する。弱体効果耐性率の増加量が80%になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550462001001,
+                    550462001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550462001001,
+                    550462001202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550462001001,
+                    550462001302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550462001001,
+                    550462001402
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": null,
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 256,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550462001001,
+                    550462001502
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName62001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 62001
+    },
+    {
+        "Id": 550462002,
+        "IsIgnore": null,
+        "Memo": "敵用プリシラSR:Lv1 天から降り注ぐ光がランダムな敵3体に攻撃力×200%の魔法攻撃を行う。さらに光り輝く雨が仲間を癒す――HP割合が低い味方2体のHPを自身の攻撃力×50%回復し、1ターンの間対象に『再生』を付与する。毎ターン行動開始時に自身のHPを自身の最大HP×3%回復する。/ Lv2 さらに最初の魔法攻撃でクリティカルヒットが1回以上発生した場合、『再生』のターン数が1ターン増加する。クリティカルヒットした回数1回につきターン数が1増加する。/ Lv3 HPを回復し『再生』を付与する対象がHP割合が低い味方3体になる。/ Lv4 『再生』での回復量が自身の最大HP×5%になる。/ Ex3 シャイニングシャワーを強化する。HPの回復量が自身の攻撃力×100%になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550462002001,
+                    550462002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550462002001,
+                    550462002202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550462002001,
+                    550462002302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550462002001,
+                    550462002402
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": null,
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550462002001,
+                    550462002502
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName62002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 62002
     },
     {
         "Id": 550467001,

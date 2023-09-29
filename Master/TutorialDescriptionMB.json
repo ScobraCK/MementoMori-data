@@ -622,5 +622,29 @@
             }
         ],
         "ImageCharacterId": 0
+    },
+    {
+        "Id": 4001,
+        "IsIgnore": null,
+        "Memo": "ギルドレイド_イベント",
+        "HelpId": 5010,
+        "ImageItem1": {
+            "ItemCount": 0,
+            "ItemId": 10,
+            "ItemType": 50
+        },
+        "ImageItem2": {
+            "ItemCount": 0,
+            "ItemId": 28,
+            "ItemType": 17
+        },
+        "ImagePositionFormatType": 3,
+        "PageInfo": [
+            {
+                "ImageId": 39,
+                "MainTextKey": "[TutorialDescriptionMainText40]"
+            }
+        ],
+        "ImageCharacterId": 62
     }
 ]

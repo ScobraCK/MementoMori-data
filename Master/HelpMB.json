@@ -1112,8 +1112,13 @@
     {
         "Id": 5010,
         "IsIgnore": null,
-        "Memo": "ギルドレイド画面",
+        "Memo": "ギルドレイド画面_イベント",
         "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine5010]",
+                "MainText": "[HelpMainText5010]",
+                "HelpParameterType": 0
+            },
             {
                 "HeadLine": "[HelpHeadLine5000]",
                 "MainText": "[HelpMainText5000]",
