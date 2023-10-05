@@ -1238,9 +1238,10 @@
     {
         "Id": 33,
         "IsIgnore": null,
-        "Memo": "プリシラ＋復刻仮入れ（1005切替用）",
+        "Memo": "プリシラ＋ルサールカ復刻（1005切替用）",
         "CharacterIdList": [
             62,
+            44,
             5,
             6,
             7,
@@ -1266,11 +1267,49 @@
         ],
         "GachaSelectListType": 2,
         "NewCharacterIdList": [
-            62
+            62,
+            44
         ],
         "OrderNumber": 31,
         "StartTimeFixJST": "2023-10-05 14:30:00",
         "EndTimeFixJST": "2023-10-18 14:29:59"
+    },
+    {
+        "Id": 34,
+        "IsIgnore": null,
+        "Memo": "ルサールカ復刻・新規仮データ(1018切替用)",
+        "CharacterIdList": [
+            44,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "NewCharacterIdList": [
+            44
+        ],
+        "OrderNumber": 32,
+        "StartTimeFixJST": "2023-10-18 14:30:00",
+        "EndTimeFixJST": "2023-10-24 14:29:59"
     },
     {
         "Id": 10000,
