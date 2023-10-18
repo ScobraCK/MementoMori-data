@@ -2274,18 +2274,18 @@
             45002
         ],
         "BaseParameterCoefficient": {
-            "Energy": 83,
-            "Health": 69,
-            "Intelligence": 86,
-            "Muscle": 100
+            "Energy": 85,
+            "Health": 63,
+            "Intelligence": 85,
+            "Muscle": 104
         },
-        "BaseParameterGrossCoefficient": 338,
+        "BaseParameterGrossCoefficient": 337,
         "CharacterType": 1,
         "ElementType": 5,
         "InitialBattleParameter": {
-            "AttackPower": 0,
+            "AttackPower": 3,
             "Avoidance": 0,
-            "Critical": 0,
+            "Critical": -5,
             "CriticalDamageEnhance": 0,
             "CriticalResist": 0,
             "DamageEnhance": 0,
@@ -2293,7 +2293,7 @@
             "DebuffHit": 0,
             "DebuffResist": 0,
             "Defense": 10,
-            "DefensePenetration": 0,
+            "DefensePenetration": 2,
             "Hit": 0,
             "HP": 0,
             "HpDrain": 0,
@@ -2301,18 +2301,21 @@
             "MagicDamageRelax": 0,
             "PhysicalCriticalDamageRelax": 0,
             "PhysicalDamageRelax": 0,
-            "Speed": 3026
+            "Speed": 3049
         },
         "ItemRarityFlags": 64,
         "JobFlags": 1,
         "Name2Key": "[CharacterSubName45]",
         "NameKey": "[CharacterName45]",
         "NormalSkillId": 101,
-        "PassiveSkillIds": [],
+        "PassiveSkillIds": [
+            45003,
+            45004
+        ],
         "RarityFlags": 8,
         "RequireFragmentCount": 60,
         "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 15:30:00"
+        "StartTimeFixJST": "2023-10-18 15:00:00"
     },
     {
         "Id": 46,

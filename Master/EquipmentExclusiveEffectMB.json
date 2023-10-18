@@ -3669,7 +3669,7 @@
                 "Value": 1300.0
             },
             {
-                "BattleParameterType": 5,
+                "BattleParameterType": 7,
                 "ChangeParameterType": 2,
                 "Value": 600.0
             }
@@ -3680,13 +3680,7 @@
         "Id": 171,
         "IsIgnore": null,
         "Memo": "エルフリンデSSR220",
-        "BaseParameterChangeInfoList": [
-            {
-                "BaseParameterType": 4,
-                "ChangeParameterType": 2,
-                "Value": 650.0
-            }
-        ],
+        "BaseParameterChangeInfoList": null,
         "BattleParameterChangeInfoList": [
             {
                 "BattleParameterType": 2,
@@ -3694,9 +3688,14 @@
                 "Value": 1400.0
             },
             {
-                "BattleParameterType": 5,
+                "BattleParameterType": 7,
                 "ChangeParameterType": 2,
                 "Value": 700.0
+            },
+            {
+                "BattleParameterType": 14,
+                "ChangeParameterType": 1,
+                "Value": 5500.0
             }
         ],
         "CharacterId": 45
@@ -3705,13 +3704,7 @@
         "Id": 172,
         "IsIgnore": null,
         "Memo": "エルフリンデSSR240",
-        "BaseParameterChangeInfoList": [
-            {
-                "BaseParameterType": 4,
-                "ChangeParameterType": 2,
-                "Value": 700.0
-            }
-        ],
+        "BaseParameterChangeInfoList": null,
         "BattleParameterChangeInfoList": [
             {
                 "BattleParameterType": 2,
@@ -3719,9 +3712,14 @@
                 "Value": 1500.0
             },
             {
-                "BattleParameterType": 5,
+                "BattleParameterType": 7,
                 "ChangeParameterType": 2,
                 "Value": 800.0
+            },
+            {
+                "BattleParameterType": 14,
+                "ChangeParameterType": 1,
+                "Value": 6000.0
             }
         ],
         "CharacterId": 45
@@ -3730,13 +3728,7 @@
         "Id": 173,
         "IsIgnore": null,
         "Memo": "エルフリンデUR",
-        "BaseParameterChangeInfoList": [
-            {
-                "BaseParameterType": 4,
-                "ChangeParameterType": 2,
-                "Value": 750.0
-            }
-        ],
+        "BaseParameterChangeInfoList": null,
         "BattleParameterChangeInfoList": [
             {
                 "BattleParameterType": 2,
@@ -3744,9 +3736,14 @@
                 "Value": 1600.0
             },
             {
-                "BattleParameterType": 5,
+                "BattleParameterType": 7,
                 "ChangeParameterType": 2,
                 "Value": 900.0
+            },
+            {
+                "BattleParameterType": 14,
+                "ChangeParameterType": 1,
+                "Value": 6500.0
             }
         ],
         "CharacterId": 45
@@ -3755,13 +3752,7 @@
         "Id": 174,
         "IsIgnore": null,
         "Memo": "エルフリンデLR",
-        "BaseParameterChangeInfoList": [
-            {
-                "BaseParameterType": 4,
-                "ChangeParameterType": 2,
-                "Value": 800.0
-            }
-        ],
+        "BaseParameterChangeInfoList": null,
         "BattleParameterChangeInfoList": [
             {
                 "BattleParameterType": 2,
@@ -3769,9 +3760,14 @@
                 "Value": 1800.0
             },
             {
-                "BattleParameterType": 5,
+                "BattleParameterType": 7,
                 "ChangeParameterType": 2,
                 "Value": 1000.0
+            },
+            {
+                "BattleParameterType": 14,
+                "ChangeParameterType": 1,
+                "Value": 7000.0
             }
         ],
         "CharacterId": 45

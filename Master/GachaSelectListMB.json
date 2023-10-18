@@ -1277,8 +1277,9 @@
     {
         "Id": 34,
         "IsIgnore": null,
-        "Memo": "ルサールカ復刻・新規仮データ(1018切替用)",
+        "Memo": "エルフリンデ＋ルサールカ復刻(1018切替用)",
         "CharacterIdList": [
+            45,
             44,
             5,
             6,
@@ -1305,11 +1306,86 @@
         ],
         "GachaSelectListType": 2,
         "NewCharacterIdList": [
+            45,
             44
         ],
         "OrderNumber": 32,
         "StartTimeFixJST": "2023-10-18 14:30:00",
         "EndTimeFixJST": "2023-10-24 14:29:59"
+    },
+    {
+        "Id": 35,
+        "IsIgnore": null,
+        "Memo": "エルフリンデ②＋復刻仮入れ（1024切替用）",
+        "CharacterIdList": [
+            45,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "NewCharacterIdList": [
+            45
+        ],
+        "OrderNumber": 33,
+        "StartTimeFixJST": "2023-10-24 14:30:00",
+        "EndTimeFixJST": "2023-10-31 14:29:59"
+    },
+    {
+        "Id": 36,
+        "IsIgnore": null,
+        "Memo": "エルフリンデ③＋復刻仮入れ＋新規次キャラ仮入れ（1031切替用）",
+        "CharacterIdList": [
+            45,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "NewCharacterIdList": [
+            45
+        ],
+        "OrderNumber": 34,
+        "StartTimeFixJST": "2023-10-31 14:30:00",
+        "EndTimeFixJST": "2023-11-08 14:29:59"
     },
     {
         "Id": 10000,
@@ -1327,5 +1403,22 @@
         "OrderNumber": 1,
         "StartTimeFixJST": "2023-08-14 16:30:00",
         "EndTimeFixJST": "2023-08-29 14:29:59"
+    },
+    {
+        "Id": 10020,
+        "IsIgnore": null,
+        "Memo": "星の導き2回ガチャ_ルーク・ヴァルリーデ（ 10/18 14:30 ~ 10/31 14:29 ）",
+        "CharacterIdList": [
+            30,
+            47
+        ],
+        "GachaSelectListType": 3,
+        "NewCharacterIdList": [
+            30,
+            47
+        ],
+        "OrderNumber": 2,
+        "StartTimeFixJST": "2023-10-18 14:30:00",
+        "EndTimeFixJST": "2023-10-31 14:29:59"
     }
 ]
