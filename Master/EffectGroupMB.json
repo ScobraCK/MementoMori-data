@@ -15923,7 +15923,7 @@
     {
         "Id": 55040100200101,
         "IsIgnore": null,
-        "Memo": "防御力増",
+        "Memo": "モニカN　お手伝いします！ : 防御力が20％増加する。",
         "CasterIconId": 1,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription100200101]",
@@ -15937,7 +15937,7 @@
     {
         "Id": 55040200100102,
         "IsIgnore": null,
-        "Memo": "気絶",
+        "Memo": "イリアR　信念の一撃 : [気絶] 行動不能になる。",
         "CasterIconId": 2,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription200100102]",
@@ -15964,7 +15964,7 @@
     {
         "Id": 55040200120102,
         "IsIgnore": null,
-        "Memo": "気絶",
+        "Memo": "イリアR　信念の一撃 : [気絶] 行動不能になる。",
         "CasterIconId": 2,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription200120102]",
@@ -15991,7 +15991,7 @@
     {
         "Id": 55040200130102,
         "IsIgnore": null,
-        "Memo": "気絶",
+        "Memo": "イリアR　信念の一撃 : [気絶] 行動不能になる。",
         "CasterIconId": 2,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription200130102]",
@@ -16016,9 +16016,37 @@
         ]
     },
     {
+        "Id": 55040200220102,
+        "IsIgnore": null,
+        "Memo": "イリアR *",
+        "CasterIconId": 2,
+        "CasterIconType": 1,
+        "DescriptionKey": "*",
+        "IconId": 2002,
+        "IconType": 1,
+        "NameKey": "*",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55040200220202,
+        "IsIgnore": null,
+        "Memo": "イリアR *",
+        "CasterIconId": 2,
+        "CasterIconType": 1,
+        "DescriptionKey": "*",
+        "IconId": 2002,
+        "IconType": 1,
+        "NameKey": "*",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 55040200300101,
         "IsIgnore": null,
-        "Memo": "攻撃力増",
+        "Memo": "イリアR　諦めない心 : 攻撃力が20％増加する。",
         "CasterIconId": 2,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription200300101]",
@@ -16032,7 +16060,7 @@
     {
         "Id": 55040200320101,
         "IsIgnore": null,
-        "Memo": "攻撃力増",
+        "Memo": "イリアR　諦めない心 : 攻撃力が30％増加する。",
         "CasterIconId": 2,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription200320101]",
@@ -16046,7 +16074,7 @@
     {
         "Id": 55040300200102,
         "IsIgnore": null,
-        "Memo": "侵食",
+        "Memo": "アイリスR　忠誠の魔刃 : [出血] 毎ターン付与者の攻撃力×{0}%のダメージを受ける。",
         "CasterIconId": 3,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription300200102]",
@@ -16069,7 +16097,7 @@
     {
         "Id": 55040300230102,
         "IsIgnore": null,
-        "Memo": "侵食",
+        "Memo": "アイリスR　忠誠の魔刃 : [出血] 毎ターン付与者の攻撃力×{0}%のダメージを受ける。",
         "CasterIconId": 3,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription300230102]",
@@ -16092,7 +16120,7 @@
     {
         "Id": 55040300300101,
         "IsIgnore": null,
-        "Memo": "多重バリア",
+        "Memo": "アイリスR　秘められた想い : [多重バリア] 最大HP×10％以上のダメージを1層消費して無効化する（解除不可）。",
         "CasterIconId": 3,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription300300101]",
@@ -16100,13 +16128,22 @@
         "IconType": 1,
         "NameKey": "[EffectGroupName300300101]",
         "IsHide": false,
-        "IsTurnHide": false,
-        "EffectGroupInfoList": null
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55040300320101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55040300300101,
+                "OrderNumber": 2
+            }
+        ]
     },
     {
         "Id": 55040300320101,
         "IsIgnore": null,
-        "Memo": "多重バリア",
+        "Memo": "アイリスR　秘められた想い : [多重バリア] 最大HP×10％以上のダメージを1層消費して無効化する（解除不可）。<br>[弱体効果無効] 弱体効果が付与されなくなる（解除不可）。",
         "CasterIconId": 3,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription300320101]",
@@ -16114,13 +16151,22 @@
         "IconType": 1,
         "NameKey": "[EffectGroupName300320101]",
         "IsHide": false,
-        "IsTurnHide": false,
-        "EffectGroupInfoList": null
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55040300320101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55040300300101,
+                "OrderNumber": 2
+            }
+        ]
     },
     {
         "Id": 55040400100102,
         "IsIgnore": null,
-        "Memo": "封印",
+        "Memo": "ロキR　ハニートラップ : [沈黙] スキルが使用不能になる。",
         "CasterIconId": 4,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription400100102]",
@@ -16143,7 +16189,7 @@
     {
         "Id": 55040400130102,
         "IsIgnore": null,
-        "Memo": "封印",
+        "Memo": "ロキR　ハニートラップ : [沈黙] スキルが使用不能になる。",
         "CasterIconId": 4,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription400130102]",
@@ -16166,7 +16212,7 @@
     {
         "Id": 55040400220201,
         "IsIgnore": null,
-        "Memo": "シールド①",
+        "Memo": "ロキR　塔のカード : [シールド] 攻撃力の200％分のダメージを代わりに受ける。",
         "CasterIconId": 4,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription400220201]",
@@ -16189,7 +16235,7 @@
     {
         "Id": 55040400230201,
         "IsIgnore": null,
-        "Memo": "シールド①",
+        "Memo": "ロキR　塔のカード : [シールド] 攻撃力の300％分のダメージを代わりに受ける。",
         "CasterIconId": 4,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription400230201]",
@@ -16212,7 +16258,7 @@
     {
         "Id": 55040400300101,
         "IsIgnore": null,
-        "Memo": "スピード増",
+        "Memo": "ロキR　戦車のカード : スピードが10%増加する。",
         "CasterIconId": 4,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription400300101]",
@@ -16226,7 +16272,7 @@
     {
         "Id": 55040400320101,
         "IsIgnore": null,
-        "Memo": "スピード増",
+        "Memo": "ロキR　戦車のカード : スピードが10%増加し、クリティカル率が10％増加する。",
         "CasterIconId": 4,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription400320101]",
@@ -16240,7 +16286,7 @@
     {
         "Id": 55040500100102,
         "IsIgnore": null,
-        "Memo": "気絶+クリティカル抵抗率50％減",
+        "Memo": "ソルティーナSR　スノウドリーム : [睡眠]クリティカル耐性率が80％減少し、行動不能になる。攻撃を受けると解除される。",
         "CasterIconId": 5,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription500100102]",
@@ -16254,7 +16300,7 @@
     {
         "Id": 55040500200102,
         "IsIgnore": null,
-        "Memo": "気絶",
+        "Memo": "ソルティーナSR　アイススパイン : [気絶] 行動不能になる。",
         "CasterIconId": 5,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription500200102]",
@@ -16281,7 +16327,7 @@
     {
         "Id": 55040500230102,
         "IsIgnore": null,
-        "Memo": "気絶",
+        "Memo": "ソルティーナSR　アイススパイン : [気絶] 行動不能になる。",
         "CasterIconId": 5,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription500230102]",
@@ -16308,7 +16354,7 @@
     {
         "Id": 55040500250102,
         "IsIgnore": null,
-        "Memo": "気絶",
+        "Memo": "ソルティーナSR　アイススパイン : [気絶] 行動不能になる。",
         "CasterIconId": 5,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription500250102]",
@@ -16335,7 +16381,7 @@
     {
         "Id": 55040500300101,
         "IsIgnore": null,
-        "Memo": "デバフをすべて解除",
+        "Memo": "ソルティーナSR　クマさんのぬいぐるみ : *弱体効果をすべて解除する。",
         "CasterIconId": 5,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription500300101]",
@@ -16349,7 +16395,7 @@
     {
         "Id": 55040500320101,
         "IsIgnore": null,
-        "Memo": "攻撃力200%のシールド",
+        "Memo": "ソルティーナSR　クマさんのぬいぐるみ : クリティカル率が20％増加する。",
         "CasterIconId": 5,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription500320101]",
@@ -16372,7 +16418,7 @@
     {
         "Id": 55040500330101,
         "IsIgnore": null,
-        "Memo": "攻撃力300%のシールド",
+        "Memo": "ソルティーナSR　クマさんのぬいぐるみ : クリティカル率が50％増加する。",
         "CasterIconId": 5,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription500330101]",
@@ -16395,7 +16441,7 @@
     {
         "Id": 55040500400101,
         "IsIgnore": null,
-        "Memo": "多重バリア（1層、最大HP10%を超えるダメージを無効化）",
+        "Memo": "ソルティーナSR　姉妹の絆 : [多重バリア] 最大HP×10％以上のダメージを1層消費して無効化する。",
         "CasterIconId": 5,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription500400101]",
@@ -16409,7 +16455,7 @@
     {
         "Id": 55040500420101,
         "IsIgnore": null,
-        "Memo": "多重バリア（2層、最大HP10%を超えるダメージを無効化）",
+        "Memo": "ソルティーナSR　姉妹の絆 : [多重バリア] 最大HP×10％以上のダメージを1層消費して無効化する。",
         "CasterIconId": 5,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription500420101]",
@@ -16423,7 +16469,7 @@
     {
         "Id": 55040500430101,
         "IsIgnore": null,
-        "Memo": "多重バリア（2層、最大HP10%を超えるダメージを無効化）+クリティカル率50％増",
+        "Memo": "ソルティーナSR　姉妹の絆 : [多重バリア] 最大HP×10％以上のダメージを1層消費して無効化する。バリア付与中、クリティカル率が30％増加する。",
         "CasterIconId": 5,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription500430101]",
@@ -16437,7 +16483,7 @@
     {
         "Id": 55040600120102,
         "IsIgnore": null,
-        "Memo": "被ダメージ25%減",
+        "Memo": "アムレートSR　クリスタルブレイカー : 被ダメージが10％増加する。",
         "CasterIconId": 6,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription600120102]",
@@ -16460,7 +16506,7 @@
     {
         "Id": 55040600140102,
         "IsIgnore": null,
-        "Memo": "被ダメージ25%減+拘束（回避できなくなる）",
+        "Memo": "アムレートSR　クリスタルブレイカー : 被ダメージが10％増加する。<br>[拘束] 回避しなくなる。",
         "CasterIconId": 6,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription600140102]",
@@ -16481,9 +16527,23 @@
         ]
     },
     {
+        "Id": 55040600300001,
+        "IsIgnore": null,
+        "Memo": "アムレートSR　一筋の光：*",
+        "CasterIconId": 6,
+        "CasterIconType": 1,
+        "DescriptionKey": "*",
+        "IconId": 6001,
+        "IconType": 1,
+        "NameKey": "*",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 55040600300101,
         "IsIgnore": null,
-        "Memo": "自身のHPが少なくなるほど自身の攻撃力が上昇する。（最大40％まで）",
+        "Memo": "アムレートSR　一筋の光 : 自身のHPが少なくなるほど攻撃力が増加する（最大30％）。",
         "CasterIconId": 6,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription600300101]",
@@ -16497,7 +16557,7 @@
     {
         "Id": 55040600320101,
         "IsIgnore": null,
-        "Memo": "自身のHPが少なくなるほど自身の攻撃力が上昇する。（最大60％まで）",
+        "Memo": "アムレートSR　一筋の光 : 自身のHPが少なくなるほど攻撃力が増加する（最大50％）。",
         "CasterIconId": 6,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription600320101]",
@@ -16511,7 +16571,7 @@
     {
         "Id": 55040600330101,
         "IsIgnore": null,
-        "Memo": "自身のHPが少なくなるほど自身の攻撃力が上昇する。（最大120％まで）",
+        "Memo": "アムレートSR　一筋の光 : 自身のHPが少なくなるほど攻撃力が増加する（最大100％）。",
         "CasterIconId": 6,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription600330101]",
@@ -16523,9 +16583,37 @@
         "EffectGroupInfoList": null
     },
     {
+        "Id": 55040600400101,
+        "IsIgnore": null,
+        "Memo": "アムレートSR　誓いを果たす者  :*",
+        "CasterIconId": 6,
+        "CasterIconType": 1,
+        "DescriptionKey": "*印",
+        "IconId": 6004,
+        "IconType": 1,
+        "NameKey": "誓いを果たす者",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55040600400102,
+        "IsIgnore": null,
+        "Memo": "アムレートSR　誓いを果たす者  :*",
+        "CasterIconId": 6,
+        "CasterIconType": 1,
+        "DescriptionKey": "*印解除",
+        "IconId": 6004,
+        "IconType": 1,
+        "NameKey": "誓いを果たす者",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 55040600420201,
         "IsIgnore": null,
-        "Memo": "不死身",
+        "Memo": "アムレートSR　誓いを果たす者 : [不死身] HP1以下にならない。",
         "CasterIconId": 6,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription600420201]",
@@ -16548,7 +16636,7 @@
     {
         "Id": 55040600430201,
         "IsIgnore": null,
-        "Memo": "不死身",
+        "Memo": "アムレートSR　誓いを果たす者 : [不死身] HP1以下にならない。",
         "CasterIconId": 6,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription600430201]",
@@ -16571,7 +16659,7 @@
     {
         "Id": 55040700100201,
         "IsIgnore": null,
-        "Memo": "スキルクールタイム1減少",
+        "Memo": "フェンリルSR　雪狼の牙 : *スキルクールタイムカウントを1減少させる。",
         "CasterIconId": 7,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription700100201]",
@@ -16585,7 +16673,7 @@
     {
         "Id": 55040700140201,
         "IsIgnore": null,
-        "Memo": "スキルクールタイム2減少",
+        "Memo": "フェンリルSR　雪狼の牙 : *スキルクールタイムカウントを2減少させる。",
         "CasterIconId": 7,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription700140201]",
@@ -16599,7 +16687,7 @@
     {
         "Id": 55040700150201,
         "IsIgnore": null,
-        "Memo": "スキルクールタイム3減少",
+        "Memo": "フェンリルSR　雪狼の牙 : *スキルクールタイムカウントを3減少させる。",
         "CasterIconId": 7,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription700150201]",
@@ -16613,7 +16701,7 @@
     {
         "Id": 55040700150202,
         "IsIgnore": null,
-        "Memo": "攻撃力10%増加",
+        "Memo": "フェンリルSR　雪狼の牙 : 攻撃力が10％増加する。",
         "CasterIconId": 7,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription700150202]",
@@ -16636,7 +16724,7 @@
     {
         "Id": 55040700160202,
         "IsIgnore": null,
-        "Memo": "攻撃力30％増加",
+        "Memo": "フェンリルSR　雪狼の牙 : 攻撃力が20％増加する。",
         "CasterIconId": 7,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription700160202]",
@@ -16659,7 +16747,7 @@
     {
         "Id": 55040700200201,
         "IsIgnore": null,
-        "Memo": "デバフ1つ解除",
+        "Memo": "フェンリルSR　アイシクルシャワー : *弱体効果を2つ解除する。",
         "CasterIconId": 7,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription700200201]",
@@ -16673,7 +16761,7 @@
     {
         "Id": 55040700400101,
         "IsIgnore": null,
-        "Memo": "弱体効果命中を30％増加させる。",
+        "Memo": "フェンリルSR　ブレイブエール : 防御力が30％増加する。",
         "CasterIconId": 7,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription700400101]",
@@ -16687,7 +16775,7 @@
     {
         "Id": 55040700420101,
         "IsIgnore": null,
-        "Memo": "弱体効果命中を60％増加させる。",
+        "Memo": "フェンリルSR　ブレイブエール : 防御力が60％増加する。",
         "CasterIconId": 7,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription700420101]",
@@ -16701,7 +16789,7 @@
     {
         "Id": 55040700430101,
         "IsIgnore": null,
-        "Memo": "弱体効果命中を80％増加させる。",
+        "Memo": "フェンリルSR　ブレイブエール : 防御力が80％増加する。",
         "CasterIconId": 7,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription700430101]",
@@ -16715,7 +16803,7 @@
     {
         "Id": 55040800100102,
         "IsIgnore": null,
-        "Memo": "クリティカル耐性40%減",
+        "Memo": "フローレンスSR　紅天光槍 : クリティカル耐性率が40％減少する。",
         "CasterIconId": 8,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription800100102]",
@@ -16729,7 +16817,7 @@
     {
         "Id": 55040800300101,
         "IsIgnore": null,
-        "Memo": "クリティカル確率が2％増加する。上限30%。",
+        "Memo": "フローレンスSR　聖女の守護者 : 毎ターンクリティカル率が2％増加する（最大30%）。",
         "CasterIconId": 8,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription800300101]",
@@ -16743,7 +16831,7 @@
     {
         "Id": 55040800320101,
         "IsIgnore": null,
-        "Memo": "クリティカル確率が4％増加する。上限60%。",
+        "Memo": "フローレンスSR　聖女の守護者 : 毎ターンクリティカル率が4％増加する（最大60%）。",
         "CasterIconId": 8,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription800320101]",
@@ -16757,7 +16845,7 @@
     {
         "Id": 55040800330101,
         "IsIgnore": null,
-        "Memo": "クリティカル確率が6％増加する。上限90%。",
+        "Memo": "フローレンスSR　聖女の守護者 : 毎ターンクリティカル率が6％増加する（最大90%）。",
         "CasterIconId": 8,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription800330101]",
@@ -16771,7 +16859,7 @@
     {
         "Id": 55040800400101,
         "IsIgnore": null,
-        "Memo": "攻撃力20%増加",
+        "Memo": "フローレンスSR　天誓の契り : 攻撃力が20％増加する。",
         "CasterIconId": 8,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription800400101]",
@@ -16785,7 +16873,7 @@
     {
         "Id": 55040800420101,
         "IsIgnore": null,
-        "Memo": "攻撃力20%増加+与ダメージ20%増加",
+        "Memo": "フローレンスSR　天誓の契り : 攻撃力が20％増加し、与ダメージが20％増加する。",
         "CasterIconId": 8,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription800420101]",
@@ -16799,13 +16887,69 @@
     {
         "Id": 55040800430101,
         "IsIgnore": null,
-        "Memo": "攻撃力30％増加+与ダメージ30％増加",
+        "Memo": "フローレンスSR　天誓の契り : 攻撃力が30％増加し、与ダメージが30％増加する。",
         "CasterIconId": 8,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription800430101]",
         "IconId": 8004,
         "IconType": 1,
         "NameKey": "[EffectGroupName800430101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55040900120102,
+        "IsIgnore": null,
+        "Memo": "ソーニャSR *ロックオン付与",
+        "CasterIconId": 9,
+        "CasterIconType": 1,
+        "DescriptionKey": "*",
+        "IconId": 9001,
+        "IconType": 1,
+        "NameKey": "*",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55040900120202,
+        "IsIgnore": null,
+        "Memo": "ソーニャSR *ロックオン解除",
+        "CasterIconId": 9,
+        "CasterIconType": 1,
+        "DescriptionKey": "*",
+        "IconId": 9001,
+        "IconType": 1,
+        "NameKey": "*",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55040900220102,
+        "IsIgnore": null,
+        "Memo": "ソーニャSR *ロックオン付与",
+        "CasterIconId": 9,
+        "CasterIconType": 1,
+        "DescriptionKey": "*",
+        "IconId": 9002,
+        "IconType": 1,
+        "NameKey": "*",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55040900220202,
+        "IsIgnore": null,
+        "Memo": "ソーニャSR *ロックオン解除",
+        "CasterIconId": 9,
+        "CasterIconType": 1,
+        "DescriptionKey": "*",
+        "IconId": 9002,
+        "IconType": 1,
+        "NameKey": "*",
         "IsHide": true,
         "IsTurnHide": true,
         "EffectGroupInfoList": null
@@ -16855,7 +16999,7 @@
     {
         "Id": 55040900400101,
         "IsIgnore": null,
-        "Memo": "ソーニャSR　ヴァイキングパワー！ : 味方の生存数1体につき攻撃力が2%増加する。",
+        "Memo": "ソーニャSR　ヴァイキングパワー！ : *自身以外の味方の生存数が1体以上なら、自身に印を付与する。",
         "CasterIconId": 9,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription900400101]",
@@ -16880,9 +17024,65 @@
         ]
     },
     {
+        "Id": 55040900400201,
+        "IsIgnore": null,
+        "Memo": "ソーニャSR　ヴァイキングパワー！ : *自身以外の味方の生存数が2体の場合、印のスタック数を1追加する。",
+        "CasterIconId": 9,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription900400101]",
+        "IconId": 9004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName900400101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55040900400202,
+        "IsIgnore": null,
+        "Memo": "ソーニャSR　ヴァイキングパワー！ : *自身以外の味方の生存数が3体の場合、印のスタック数を2追加する。",
+        "CasterIconId": 9,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription900400101]",
+        "IconId": 9004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName900400101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55040900400203,
+        "IsIgnore": null,
+        "Memo": "ソーニャSR　ヴァイキングパワー！ : *自身以外の味方の生存数が4体以上の場合、印のスタック数を3追加する。",
+        "CasterIconId": 9,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription900420101]",
+        "IconId": 9004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName900420101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55040900400204,
+        "IsIgnore": null,
+        "Memo": "ソーニャSR　ヴァイキングパワー！ : バトル開始時の味方の生存数1体につき攻撃力が2%増加する（解除不可）。",
+        "CasterIconId": 9,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription900430101]",
+        "IconId": 9004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName900430101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 55040900420101,
         "IsIgnore": null,
-        "Memo": "ソーニャSR　ヴァイキングパワー！ : 味方の生存数1体につき攻撃力が2%増加し、最大HPが2%増加する。",
+        "Memo": "ソーニャSR　ヴァイキングパワー！ : バトル開始時の味方の生存数1体につき攻撃力が2%増加し、最大HPが2%増加する（解除不可）。",
         "CasterIconId": 9,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription900420101]",
@@ -16909,7 +17109,7 @@
     {
         "Id": 55040900430101,
         "IsIgnore": null,
-        "Memo": "ソーニャSR　ヴァイキングパワー！ : 味方の生存数1体につき攻撃力が3%増加し、最大HPが3%増加する。",
+        "Memo": "ソーニャSR　ヴァイキングパワー！ : バトル開始時の味方の生存数1体につき攻撃力が3%増加し、最大HPが3%増加する（解除不可）。",
         "CasterIconId": 9,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription900430101]",
@@ -16936,7 +17136,7 @@
     {
         "Id": 55041000100102,
         "IsIgnore": null,
-        "Memo": "毒、現在HPの3%",
+        "Memo": "モーザSR　レストインピース : [毒] 毎ターン現在HP×3%のダメージを受ける。",
         "CasterIconId": 10,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1000100102]",
@@ -16967,7 +17167,7 @@
     {
         "Id": 55041000100103,
         "IsIgnore": null,
-        "Memo": "バフ1つ解除",
+        "Memo": "モーザSR　レストインピース : *バフを1つ解除する。",
         "CasterIconId": 10,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1000100103]",
@@ -16981,7 +17181,7 @@
     {
         "Id": 55041000140102,
         "IsIgnore": null,
-        "Memo": "毒、現在HPの4%",
+        "Memo": "モーザSR　レストインピース : [毒] 毎ターン現在HP×4%のダメージを受ける。",
         "CasterIconId": 10,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1000140102]",
@@ -17012,7 +17212,7 @@
     {
         "Id": 55041000150102,
         "IsIgnore": null,
-        "Memo": "毒、現在HPの4%",
+        "Memo": "モーザSR　レストインピース : [毒] 毎ターン現在HP×4%のダメージを受ける。",
         "CasterIconId": 10,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1000150102]",
@@ -17043,7 +17243,7 @@
     {
         "Id": 55041000160102,
         "IsIgnore": null,
-        "Memo": "毒、現在HPの5%",
+        "Memo": "モーザSR　レストインピース : [毒] 毎ターン現在HP×5%のダメージを受ける。",
         "CasterIconId": 10,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1000160102]",
@@ -17074,7 +17274,7 @@
     {
         "Id": 55041000200102,
         "IsIgnore": null,
-        "Memo": "不治（回復できない）",
+        "Memo": "モーザSR　葬送の合図 : [不治] HPが回復しなくなる。",
         "CasterIconId": 10,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1000200102]",
@@ -17097,7 +17297,7 @@
     {
         "Id": 55041000240102,
         "IsIgnore": null,
-        "Memo": "不治（回復できない）",
+        "Memo": "モーザSR　葬送の合図 : [不治] HPが回復しなくなる。",
         "CasterIconId": 10,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1000240102]",
@@ -17120,7 +17320,7 @@
     {
         "Id": 55041000300101,
         "IsIgnore": null,
-        "Memo": "再生（攻撃力10%）",
+        "Memo": "モーザSR　弔いの祈り : [再生] 毎ターンHPを最大HP×10％回復する。",
         "CasterIconId": 10,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1000300101]",
@@ -17132,9 +17332,23 @@
         "EffectGroupInfoList": null
     },
     {
+        "Id": 55041000300103,
+        "IsIgnore": null,
+        "Memo": "モーザSR　弔いの祈り :印70",
+        "CasterIconId": 10,
+        "CasterIconType": 1,
+        "DescriptionKey": "*印70",
+        "IconId": 10003,
+        "IconType": 1,
+        "NameKey": "モーザSR　弔いの祈り :印70",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 55041000300201,
         "IsIgnore": null,
-        "Memo": "再生（攻撃力10%）",
+        "Memo": "モーザSR　弔いの祈り : [再生] 毎ターンHPを最大HP×10％回復する。",
         "CasterIconId": 10,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1000300201]",
@@ -17146,9 +17360,23 @@
         "EffectGroupInfoList": null
     },
     {
+        "Id": 55041000300203,
+        "IsIgnore": null,
+        "Memo": "モーザSR　弔いの祈り :印40",
+        "CasterIconId": 10,
+        "CasterIconType": 1,
+        "DescriptionKey": "*印40",
+        "IconId": 10003,
+        "IconType": 1,
+        "NameKey": "モーザSR　弔いの祈り :印70",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 55041000320101,
         "IsIgnore": null,
-        "Memo": "再生（攻撃力10%）",
+        "Memo": "モーザSR　弔いの祈り : [再生] 毎ターンHPを最大HP×10％回復する。",
         "CasterIconId": 10,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1000320101]",
@@ -17162,7 +17390,7 @@
     {
         "Id": 55041000320102,
         "IsIgnore": null,
-        "Memo": "カウンタ変更（カウンタのダメージが、自身の攻撃力×280％になり、HP割合の最も低い敵にダメージを与えるようになる。）",
+        "Memo": "モーザSR　弔いの祈り : [カウンタ変更] 攻撃力×200％のカウンタをするようになる。",
         "CasterIconId": 10,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1000320102]",
@@ -17176,7 +17404,7 @@
     {
         "Id": 55041000320201,
         "IsIgnore": null,
-        "Memo": "再生（攻撃力11%）+カウンタ変更（カウンタのダメージが、自身の攻撃力×280％になり、HP割合の最も低い敵にダメージを与えるようになる。）",
+        "Memo": "モーザSR　弔いの祈り : [再生] 毎ターンHPを最大HP×10％回復する。",
         "CasterIconId": 10,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1000320201]",
@@ -17190,7 +17418,7 @@
     {
         "Id": 55041000320202,
         "IsIgnore": null,
-        "Memo": "カウンタ変更（カウンタのダメージが、自身の攻撃力×280％になり、HP割合の最も低い敵にダメージを与えるようになる。）",
+        "Memo": "モーザSR　弔いの祈り : [カウンタ変更] 攻撃力×200％のカウンタをするようになる。",
         "CasterIconId": 10,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1000320202]",
@@ -17204,7 +17432,7 @@
     {
         "Id": 55041000330101,
         "IsIgnore": null,
-        "Memo": "再生（攻撃力12%）+カウンタ変更（カウンタのダメージが、自身の攻撃力×280％になり、HP割合の最も低い敵にダメージを与えるようになる。）",
+        "Memo": "モーザSR　弔いの祈り : [再生] 毎ターンHPを最大HP×10％回復する。",
         "CasterIconId": 10,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1000330101]",
@@ -17218,7 +17446,7 @@
     {
         "Id": 55041000330102,
         "IsIgnore": null,
-        "Memo": "カウンタ変更（カウンタのダメージが、自身の攻撃力×280％になり、HP割合の最も低い敵にダメージを与えるようになる。）",
+        "Memo": "モーザSR　弔いの祈り : [カウンタ変更] 攻撃力×200％のカウンタをするようになる。",
         "CasterIconId": 10,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1000330102]",
@@ -17232,7 +17460,7 @@
     {
         "Id": 55041000330201,
         "IsIgnore": null,
-        "Memo": "再生（攻撃力13%）+カウンタ変更（カウンタのダメージが、自身の攻撃力×280％になり、HP割合の最も低い敵にダメージを与えるようになる。）",
+        "Memo": "モーザSR　弔いの祈り : [再生] 毎ターンHPを最大HP×10％回復する。",
         "CasterIconId": 10,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1000330201]",
@@ -17246,7 +17474,7 @@
     {
         "Id": 55041000330202,
         "IsIgnore": null,
-        "Memo": "カウンタ変更（カウンタのダメージが、自身の攻撃力×280％になり、HP割合の最も低い敵にダメージを与えるようになる。）",
+        "Memo": "モーザSR　弔いの祈り : [カウンタ変更] 攻撃力×200％のカウンタをするようになる。",
         "CasterIconId": 10,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1000330202]",
@@ -17260,7 +17488,7 @@
     {
         "Id": 55041000400101,
         "IsIgnore": null,
-        "Memo": "攻撃力20%増加",
+        "Memo": "モーザSR　弔鐘の響き : 攻撃力が15％増加する。",
         "CasterIconId": 10,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1000400101]",
@@ -17274,7 +17502,7 @@
     {
         "Id": 55041000420101,
         "IsIgnore": null,
-        "Memo": "攻撃力40%増加",
+        "Memo": "モーザSR　弔鐘の響き : 攻撃力が30％増加する。",
         "CasterIconId": 10,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1000420101]",
@@ -17288,7 +17516,7 @@
     {
         "Id": 55041000430101,
         "IsIgnore": null,
-        "Memo": "攻撃力40%増加+クリティカル確率40%増加",
+        "Memo": "モーザSR　弔鐘の響き : 攻撃力が30％増加し、クリティカル率が30％増加する。",
         "CasterIconId": 10,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1000430101]",
@@ -17302,7 +17530,7 @@
     {
         "Id": 55041100100102,
         "IsIgnore": null,
-        "Memo": "攻撃力減",
+        "Memo": "シャーロットN　アナザーシャドー : 攻撃力が20％減少する。",
         "CasterIconId": 11,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1100100102]",
@@ -17316,7 +17544,7 @@
     {
         "Id": 55041200200102,
         "IsIgnore": null,
-        "Memo": "攻撃力減",
+        "Memo": "アリアンロッドR　勇猛果敢 : 攻撃力が40％減少する。",
         "CasterIconId": 12,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1200200102]",
@@ -17339,7 +17567,7 @@
     {
         "Id": 55041200240102,
         "IsIgnore": null,
-        "Memo": "不治",
+        "Memo": "アリアンロッドR　勇猛果敢 : 攻撃力が40％減少する。<br>[不治] HPが回復しなくなる。",
         "CasterIconId": 12,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1200240102]",
@@ -17362,7 +17590,7 @@
     {
         "Id": 55041200300101,
         "IsIgnore": null,
-        "Memo": "弱体効果命中増",
+        "Memo": "アリアンロッドR　憧れの銀色 : 弱体効果命中率が20％増加する。",
         "CasterIconId": 12,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1200300101]",
@@ -17376,7 +17604,7 @@
     {
         "Id": 55041200320101,
         "IsIgnore": null,
-        "Memo": "弱体効果命中増",
+        "Memo": "アリアンロッドR　憧れの銀色 : 弱体効果命中率が30％増加する。",
         "CasterIconId": 12,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1200320101]",
@@ -17390,7 +17618,7 @@
     {
         "Id": 55041300100102,
         "IsIgnore": null,
-        "Memo": "侵食",
+        "Memo": "テオドラR　天秤の運命 : [出血] 毎ターン付与者の攻撃力×{0}%のダメージを受ける。",
         "CasterIconId": 13,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1300100102]",
@@ -17413,7 +17641,7 @@
     {
         "Id": 55041300120102,
         "IsIgnore": null,
-        "Memo": "侵食",
+        "Memo": "テオドラR　天秤の運命 : [出血] 毎ターン付与者の攻撃力×{0}％のダメージを受ける。",
         "CasterIconId": 13,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1300120102]",
@@ -17436,7 +17664,7 @@
     {
         "Id": 55041300200102,
         "IsIgnore": null,
-        "Memo": "防御力減",
+        "Memo": "テオドラR　選択の秤 : 防御力が20％減少する。",
         "CasterIconId": 13,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1300200102]",
@@ -17459,7 +17687,7 @@
     {
         "Id": 55041300230102,
         "IsIgnore": null,
-        "Memo": "防御力減",
+        "Memo": "テオドラR　選択の秤 : 防御力が20％減少する。",
         "CasterIconId": 13,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1300230102]",
@@ -17482,7 +17710,7 @@
     {
         "Id": 55041300300101,
         "IsIgnore": null,
-        "Memo": "最大HP増",
+        "Memo": "テオドラR　お手製弁当 : 最大HPが20％増加する。",
         "CasterIconId": 13,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1300300101]",
@@ -17496,7 +17724,7 @@
     {
         "Id": 55041300320101,
         "IsIgnore": null,
-        "Memo": "最大HP増",
+        "Memo": "テオドラR　お手製弁当 : 最大HPが20％増加し、弱体効果命中率が20％増加する。",
         "CasterIconId": 13,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1300320101]",
@@ -17510,7 +17738,7 @@
     {
         "Id": 55041400200102,
         "IsIgnore": null,
-        "Memo": "攻撃力増",
+        "Memo": "ペトラR　魔女の証 : 攻撃力をHP割合×10％増加させる。",
         "CasterIconId": 14,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1400200102]",
@@ -17541,7 +17769,7 @@
     {
         "Id": 55041400220102,
         "IsIgnore": null,
-        "Memo": "攻撃力増",
+        "Memo": "ペトラR　魔女の証 : 攻撃力をHP割合×15％増加させる。",
         "CasterIconId": 14,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1400220102]",
@@ -17572,7 +17800,7 @@
     {
         "Id": 55041400230102,
         "IsIgnore": null,
-        "Memo": "攻撃力増",
+        "Memo": "ペトラR　魔女の証 : 攻撃力をHP割合×20％増加させる。",
         "CasterIconId": 14,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1400230102]",
@@ -17603,7 +17831,7 @@
     {
         "Id": 55041400240102,
         "IsIgnore": null,
-        "Memo": "攻撃力増",
+        "Memo": "ペトラR　魔女の証 : 攻撃力をHP割合×30％増加させる。",
         "CasterIconId": 14,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1400240102]",
@@ -17634,7 +17862,7 @@
     {
         "Id": 55041400300101,
         "IsIgnore": null,
-        "Memo": "通常攻撃強化",
+        "Memo": "ペトラR　この力のつかいかた : [通常攻撃強化] 通常攻撃のダメージを攻撃力×150％に強化する。",
         "CasterIconId": 14,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1400300101]",
@@ -17648,7 +17876,7 @@
     {
         "Id": 55041400320101,
         "IsIgnore": null,
-        "Memo": "通常攻撃強化",
+        "Memo": "ペトラR　この力のつかいかた : [通常攻撃強化] 通常攻撃を2回行う。ダメージを攻撃力×150％に強化する。",
         "CasterIconId": 14,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1400320101]",
@@ -17662,7 +17890,7 @@
     {
         "Id": 55041500100201,
         "IsIgnore": null,
-        "Memo": "印1ターン",
+        "Memo": "サブリナSR　蒼穹の輪舞 : *[印]",
         "CasterIconId": 15,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1500100201]",
@@ -17676,7 +17904,7 @@
     {
         "Id": 55041500120801,
         "IsIgnore": null,
-        "Memo": "防御力10%増",
+        "Memo": "サブリナSR　蒼穹の輪舞 : 防御力が70%増加する。",
         "CasterIconId": 15,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1500120801]",
@@ -17699,7 +17927,7 @@
     {
         "Id": 55041500140801,
         "IsIgnore": null,
-        "Memo": "防御力10%増+デバフ返し（被攻撃時に50%の確率で1ターンの気絶付与）",
+        "Memo": "サブリナSR　蒼穹の輪舞 : 防御力が70%増加する。<br>[気絶返し] 攻撃を受けると30％の確率で[気絶] を付与する（[気絶] 行動不能になる。）。",
         "CasterIconId": 15,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1500140801]",
@@ -17722,7 +17950,7 @@
     {
         "Id": 55041500200102,
         "IsIgnore": null,
-        "Memo": "スピード15%減少",
+        "Memo": "サブリナSR　群青の乱舞 : スピードが10％減少する。",
         "CasterIconId": 15,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1500200102]",
@@ -17745,7 +17973,7 @@
     {
         "Id": 55041500200103,
         "IsIgnore": null,
-        "Memo": "印付与",
+        "Memo": "サブリナSR　群青の乱舞 : 印付与",
         "CasterIconId": 15,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1500200103]",
@@ -17759,7 +17987,7 @@
     {
         "Id": 55041500200301,
         "IsIgnore": null,
-        "Memo": "印解除",
+        "Memo": "サブリナSR　群青の乱舞 : 印解除",
         "CasterIconId": 15,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1500200301]",
@@ -17773,7 +18001,7 @@
     {
         "Id": 55041500230102,
         "IsIgnore": null,
-        "Memo": "スピード20%減少",
+        "Memo": "サブリナSR　群青の乱舞 : スピードが15％減少する。",
         "CasterIconId": 15,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1500230102]",
@@ -17796,7 +18024,7 @@
     {
         "Id": 55041500300101,
         "IsIgnore": null,
-        "Memo": "デバフ1つ解除",
+        "Memo": "サブリナSR　ブレイブ・アライブ : *弱体効果を1つ解除する。",
         "CasterIconId": 15,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1500300101]",
@@ -17810,7 +18038,7 @@
     {
         "Id": 55041500320101,
         "IsIgnore": null,
-        "Memo": "デバフすべて解除",
+        "Memo": "サブリナSR　ブレイブ・アライブ : *弱体効果をすべて解除する。",
         "CasterIconId": 15,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1500320101]",
@@ -17824,7 +18052,7 @@
     {
         "Id": 55041500330101,
         "IsIgnore": null,
-        "Memo": "デバフすべて解除",
+        "Memo": "サブリナSR　ブレイブ・アライブ : *弱体効果をすべて解除する。",
         "CasterIconId": 15,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1500330101]",
@@ -17838,7 +18066,7 @@
     {
         "Id": 55041500330102,
         "IsIgnore": null,
-        "Memo": "デバフ無効",
+        "Memo": "サブリナSR　ブレイブ・アライブ : [行動阻害無効] 行動阻害が付与されなくなる。",
         "CasterIconId": 15,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1500330102]",
@@ -17852,7 +18080,7 @@
     {
         "Id": 55041500400101,
         "IsIgnore": null,
-        "Memo": "最大HP4%増加（20回までスタック可）",
+        "Memo": "サブリナSR　夢翔の愛 : 毎ターン最大HPが3％増加する（最大20回）。",
         "CasterIconId": 15,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1500400101]",
@@ -17866,7 +18094,7 @@
     {
         "Id": 55041500420101,
         "IsIgnore": null,
-        "Memo": "最大HP5%増加（20回までスタック可）",
+        "Memo": "サブリナSR　夢翔の愛 : 毎ターン最大HPが5％増加する（最大20回）。",
         "CasterIconId": 15,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1500420101]",
@@ -17880,7 +18108,7 @@
     {
         "Id": 55041500430101,
         "IsIgnore": null,
-        "Memo": "最大HP6%増加（20回までスタック可）",
+        "Memo": "サブリナSR　夢翔の愛 : 毎ターン最大HPが7％増加する（最大20回）。",
         "CasterIconId": 15,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1500430101]",
@@ -17894,7 +18122,7 @@
     {
         "Id": 55041530100101,
         "IsIgnore": null,
-        "Memo": "気絶",
+        "Memo": "サブリナSR　蒼穹の輪舞 : [気絶] 行動不能になる。",
         "CasterIconId": 15,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1530100101]",
@@ -17908,7 +18136,7 @@
     {
         "Id": 55041600140102,
         "IsIgnore": null,
-        "Memo": "バフ無効",
+        "Memo": "フレイシアSR　ファイナルテンペスト : クリダメ強化が15％減少する。",
         "CasterIconId": 16,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1600140102]",
@@ -17922,7 +18150,7 @@
     {
         "Id": 55041600230102,
         "IsIgnore": null,
-        "Memo": "防御力30％増",
+        "Memo": "フレイシアSR　エデンフラワー : 防御力が20％増加する。",
         "CasterIconId": 16,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1600230102]",
@@ -17936,7 +18164,7 @@
     {
         "Id": 55041600300101,
         "IsIgnore": null,
-        "Memo": "被ダメージ30％減+回避率30%増",
+        "Memo": "フレイシアSR　虹色の光風 : 被ダメージが5％減少する（解除不可）。",
         "CasterIconId": 16,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1600300101]",
@@ -17961,9 +18189,23 @@
         ]
     },
     {
+        "Id": 55041600300201,
+        "IsIgnore": null,
+        "Memo": "フレイシアSR　虹色の光風 : *バフを解除",
+        "CasterIconId": 16,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription1600300101]",
+        "IconId": 16003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName1600300101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 55041600320101,
         "IsIgnore": null,
-        "Memo": "被ダメージ40%減+回避率40%増",
+        "Memo": "フレイシアSR　虹色の光風 : 回避率が10％増加し、被ダメージが10％減少する（解除不可）。",
         "CasterIconId": 16,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1600320101]",
@@ -17988,9 +18230,23 @@
         ]
     },
     {
+        "Id": 55041600320201,
+        "IsIgnore": null,
+        "Memo": "フレイシアSR　虹色の光風 : *バフを解除",
+        "CasterIconId": 16,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription1600320101]",
+        "IconId": 16003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName1600320101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 55041600330101,
         "IsIgnore": null,
-        "Memo": "被ダメージ50％減+回避率50％増",
+        "Memo": "フレイシアSR　虹色の光風 : 回避率が15％増加し、被ダメージが15％減少する（解除不可）。",
         "CasterIconId": 16,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1600330101]",
@@ -18015,9 +18271,23 @@
         ]
     },
     {
+        "Id": 55041600330201,
+        "IsIgnore": null,
+        "Memo": "フレイシアSR　虹色の光風 : *バフを解除",
+        "CasterIconId": 16,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription1600330101]",
+        "IconId": 16003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName1600330101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 55041600400101,
         "IsIgnore": null,
-        "Memo": "通常攻撃を強化する。通常攻撃時、自身のHPを攻撃力×100％回復する。",
+        "Memo": "フレイシアSR　ココロのタネ : [通常攻撃強化] 通常攻撃時、30%の確率で自身のHPを攻撃力×10％回復する。",
         "CasterIconId": 16,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1600400101]",
@@ -18031,7 +18301,7 @@
     {
         "Id": 55041600420101,
         "IsIgnore": null,
-        "Memo": "通常攻撃を強化する。通常攻撃時、自身と最もHP割合の低い味方のHPを攻撃力×100％回復する。",
+        "Memo": "フレイシアSR　ココロのタネ : [通常攻撃強化] 通常攻撃時、30%の確率で自身とHP割合が最も低い味方のHPを攻撃力×10％回復する。",
         "CasterIconId": 16,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1600420101]",
@@ -18045,7 +18315,7 @@
     {
         "Id": 55041600430101,
         "IsIgnore": null,
-        "Memo": "通常攻撃を強化する。通常攻撃時、自身と最もHP割合の低い味方のHPを攻撃力×150％回復する。",
+        "Memo": "フレイシアSR　ココロのタネ : [通常攻撃強化] 通常攻撃時、30%の確率で自身とHP割合が最も低い味方のHPを攻撃力×20％回復する。",
         "CasterIconId": 16,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1600430101]",
@@ -18059,7 +18329,7 @@
     {
         "Id": 55041610200102,
         "IsIgnore": null,
-        "Memo": "印",
+        "Memo": "フレイシアSR　狂愛の暴走 : *[印]",
         "CasterIconId": 16,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1700140401]",
@@ -18073,7 +18343,7 @@
     {
         "Id": 55041700140401,
         "IsIgnore": null,
-        "Memo": "印付与",
+        "Memo": "アモールSR　狂愛の暴走 : *[印]",
         "CasterIconId": 17,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1700140401]",
@@ -18087,7 +18357,7 @@
     {
         "Id": 55041700200102,
         "IsIgnore": null,
-        "Memo": "不治（回復できない）",
+        "Memo": "アモールSR　荊の抱擁 : [不治] HPが回復しなくなる。",
         "CasterIconId": 17,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1700200102]",
@@ -18101,7 +18371,7 @@
     {
         "Id": 55041700230201,
         "IsIgnore": null,
-        "Memo": "被ダメージ50％減+カウンタ100%増加",
+        "Memo": "アモールSR　荊の抱擁 : 被ダメージが50％減少し、カウンタが100％増加する。",
         "CasterIconId": 17,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1700230201]",
@@ -18124,7 +18394,7 @@
     {
         "Id": 55041700260201,
         "IsIgnore": null,
-        "Memo": "被ダメージ50％減+カウンタ120%増加",
+        "Memo": "アモールSR　荊の抱擁 : 被ダメージが50％減少し、カウンタが120％増加する。",
         "CasterIconId": 17,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1700260201]",
@@ -18147,7 +18417,7 @@
     {
         "Id": 55041700400101,
         "IsIgnore": null,
-        "Memo": "自身の最大HPが20％増加する。",
+        "Memo": "アモールSR　恋の予感 : 最大HPが20％増加する。",
         "CasterIconId": 17,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1700400101]",
@@ -18161,7 +18431,7 @@
     {
         "Id": 55041700420101,
         "IsIgnore": null,
-        "Memo": "自身の最大HPが30％増加する。",
+        "Memo": "アモールSR　恋の予感 : 最大HPが30％増加する。",
         "CasterIconId": 17,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1700420101]",
@@ -18175,7 +18445,7 @@
     {
         "Id": 55041700430101,
         "IsIgnore": null,
-        "Memo": "自身の最大HPが50％増加する。",
+        "Memo": "アモールSR　恋の予感 : 最大HPが50％増加する。",
         "CasterIconId": 17,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1700430101]",
@@ -18189,7 +18459,7 @@
     {
         "Id": 55041800100301,
         "IsIgnore": null,
-        "Memo": "攻撃力50％増",
+        "Memo": "リーンSR　クリムゾンスラッシュ : 攻撃力が30％増加する。",
         "CasterIconId": 18,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1800100301]",
@@ -18212,7 +18482,7 @@
     {
         "Id": 55041800140301,
         "IsIgnore": null,
-        "Memo": "攻撃力75%増",
+        "Memo": "リーンSR　クリムゾンスラッシュ : 攻撃力が50％増加する。",
         "CasterIconId": 18,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1800140301]",
@@ -18235,7 +18505,7 @@
     {
         "Id": 55041800300101,
         "IsIgnore": null,
-        "Memo": "シールド（攻撃力400%）",
+        "Memo": "リーンSR　あの日の誓い : [シールド] 攻撃力×250％分のダメージを代わりに受ける。",
         "CasterIconId": 18,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1800300101]",
@@ -18249,7 +18519,7 @@
     {
         "Id": 55041800320101,
         "IsIgnore": null,
-        "Memo": "シールド（攻撃力400%）",
+        "Memo": "リーンSR　あの日の誓い : [シールド] 攻撃力×250％分のダメージを代わりに受ける。",
         "CasterIconId": 18,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1800320101]",
@@ -18263,7 +18533,7 @@
     {
         "Id": 55041800330101,
         "IsIgnore": null,
-        "Memo": "シールド（攻撃力700%）",
+        "Memo": "リーンSR　あの日の誓い : [シールド] 攻撃力×500％分のダメージを代わりに受ける。",
         "CasterIconId": 18,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1800330101]",
@@ -18277,7 +18547,7 @@
     {
         "Id": 55041800400101,
         "IsIgnore": null,
-        "Memo": "クリティカル確率30%増",
+        "Memo": "リーンSR　不屈の決意 : クリティカル率が30％増加する。",
         "CasterIconId": 18,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1800400101]",
@@ -18291,7 +18561,7 @@
     {
         "Id": 55041800400201,
         "IsIgnore": null,
-        "Memo": "1800400101クリティカル確率増を解除",
+        "Memo": "リーンSR　不屈の決意 : *自身のHP割合が50%以上の場合1800400101を解除する。",
         "CasterIconId": 18,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1800400201]",
@@ -18305,7 +18575,7 @@
     {
         "Id": 55041800420101,
         "IsIgnore": null,
-        "Memo": "クリティカル確率50%増",
+        "Memo": "リーンSR　不屈の決意 : クリティカル率が40％増加する。",
         "CasterIconId": 18,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1800420101]",
@@ -18319,7 +18589,7 @@
     {
         "Id": 55041800420201,
         "IsIgnore": null,
-        "Memo": "1800420101クリティカル確率増を解除",
+        "Memo": "リーンSR　不屈の決意 : *自身のHP割合が50%以上の場合1800420101を解除する。",
         "CasterIconId": 18,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1800420201]",
@@ -18333,7 +18603,7 @@
     {
         "Id": 55041800430101,
         "IsIgnore": null,
-        "Memo": "クリティカル確率70%増",
+        "Memo": "リーンSR　不屈の決意 : クリティカル率が60％増加する。",
         "CasterIconId": 18,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1800430101]",
@@ -18347,7 +18617,7 @@
     {
         "Id": 55041800430201,
         "IsIgnore": null,
-        "Memo": "1800430101クリティカル確率増を解除",
+        "Memo": "リーンSR　不屈の決意 : *自身のHP割合が50%以上の場合1800430101を解除する。",
         "CasterIconId": 18,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1800430201]",
@@ -18361,7 +18631,7 @@
     {
         "Id": 55041900120102,
         "IsIgnore": null,
-        "Memo": "出血（付与者の攻撃力10%）",
+        "Memo": "ベルSR　バーストエンド : [出血] 毎ターン付与者の攻撃力×{0}%のダメージを受ける。",
         "CasterIconId": 19,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1900120102]",
@@ -18384,7 +18654,7 @@
     {
         "Id": 55041900120103,
         "IsIgnore": null,
-        "Memo": "バフ1つ解除",
+        "Memo": "ベルSR　バーストエンド : *バフを1つ解除する。",
         "CasterIconId": 19,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1900120103]",
@@ -18398,7 +18668,7 @@
     {
         "Id": 55041900140101,
         "IsIgnore": null,
-        "Memo": "不死身（HPが1を下回らない）",
+        "Memo": "ベルSR　バーストエンド : クリティカル耐性率が50%増加する。",
         "CasterIconId": 19,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1900140101]",
@@ -18412,7 +18682,7 @@
     {
         "Id": 55041900160102,
         "IsIgnore": null,
-        "Memo": "出血（付与者の攻撃力10%）",
+        "Memo": "ベルSR　バーストエンド : [出血] 毎ターン付与者の攻撃力×{0}%のダメージを受ける。",
         "CasterIconId": 19,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1900160102]",
@@ -18435,7 +18705,7 @@
     {
         "Id": 55041900300101,
         "IsIgnore": null,
-        "Memo": "自身の通常攻撃を強化する。攻撃時にクリティカルが発生した場合、自身の攻撃力を10％増加（3ターン）させる（最大3回まで）",
+        "Memo": "ベルSR　気炎万丈 : [通常攻撃強化] 通常攻撃時クリティカルヒットした場合、3ターンの間自身の攻撃力が5％増加する（最大3回）。",
         "CasterIconId": 19,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1900300101]",
@@ -18449,7 +18719,7 @@
     {
         "Id": 55041900320101,
         "IsIgnore": null,
-        "Memo": "自身の通常攻撃を強化する。攻撃時にクリティカルが発生した場合、自身の攻撃力を15％増加（3ターン）させる（最大3回まで）",
+        "Memo": "ベルSR　気炎万丈 : [通常攻撃強化] 通常攻撃時クリティカルヒットした場合、3ターンの間自身の攻撃力が10％増加する（最大3回）。",
         "CasterIconId": 19,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1900320101]",
@@ -18463,7 +18733,7 @@
     {
         "Id": 55041900330101,
         "IsIgnore": null,
-        "Memo": "自身の通常攻撃を強化する。攻撃時にクリティカルが発生した場合、自身の攻撃力を15％増加（5ターン）させる（最大5回まで）",
+        "Memo": "ベルSR　気炎万丈 : [通常攻撃強化] 通常攻撃時クリティカルヒットした場合、3ターンの間自身の攻撃力が10％増加する（最大5回）。",
         "CasterIconId": 19,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1900330101]",
@@ -18477,7 +18747,7 @@
     {
         "Id": 55041900420201,
         "IsIgnore": null,
-        "Memo": "自身のHP割合が50％未満の場合、さらに自身の受けるはずだったダメージ（Fix1の与ダメージ量）-（最大HP×10％）のシールドを付与する。",
+        "Memo": "ベルSR　報穣の焔 : [シールド] 最大HP×30％を超えたダメージ×100％分のダメージを代わりに受ける。",
         "CasterIconId": 19,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1900420201]",
@@ -18500,7 +18770,7 @@
     {
         "Id": 55041900430201,
         "IsIgnore": null,
-        "Memo": "自身の受けたダメージ（Fix1の与ダメージ量）-（最大HP×5％）のシールドを付与する。",
+        "Memo": "ベルSR　報穣の焔 : [シールド] 最大HP×20％を超えたダメージ×100％分のダメージを代わりに受ける。",
         "CasterIconId": 19,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1900430201]",
@@ -18523,7 +18793,7 @@
     {
         "Id": 55041910100201,
         "IsIgnore": null,
-        "Memo": "クリティカルが発生した場合、自身の攻撃力を10％増加（3ターン）させる（最大3回まで）",
+        "Memo": "ベルSR　気炎万丈 : 攻撃力が5％増加する（最大3回）。",
         "CasterIconId": 19,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1910100201]",
@@ -18537,7 +18807,7 @@
     {
         "Id": 55041910200201,
         "IsIgnore": null,
-        "Memo": "クリティカルが発生した場合、自身の攻撃力を15％増加（3ターン）させる（最大3回まで）",
+        "Memo": "ベルSR　気炎万丈 : 攻撃力が10％増加する（最大3回）。",
         "CasterIconId": 19,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1910200201]",
@@ -18551,7 +18821,7 @@
     {
         "Id": 55041910300201,
         "IsIgnore": null,
-        "Memo": "クリティカルが発生した場合、自身の攻撃力を15％増加（5ターン）させる（最大5回まで）",
+        "Memo": "ベルSR　気炎万丈 : 攻撃力が10％増加する（最大5回）。",
         "CasterIconId": 19,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription1910300201]",
@@ -18565,7 +18835,7 @@
     {
         "Id": 55042000100102,
         "IsIgnore": null,
-        "Memo": "出血（付与者の攻撃力10%）",
+        "Memo": "ディアンSR　貫通弾 : [出血] 毎ターン付与者の攻撃力×{0}%のダメージを受ける。",
         "CasterIconId": 20,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2000100102]",
@@ -18588,7 +18858,7 @@
     {
         "Id": 55042000130201,
         "IsIgnore": null,
-        "Memo": "再生（付与者の攻撃力10%）",
+        "Memo": "ディアンSR　貫通弾 : [再生] 毎ターンHPを最大HP×5％回復する。",
         "CasterIconId": 20,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2000130201]",
@@ -18611,7 +18881,7 @@
     {
         "Id": 55042000150102,
         "IsIgnore": null,
-        "Memo": "出血（付与者の攻撃力10%）",
+        "Memo": "ディアンSR　貫通弾 : [出血] 毎ターン付与者の攻撃力×{0}%のダメージを受ける。",
         "CasterIconId": 20,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2000150102]",
@@ -18634,7 +18904,7 @@
     {
         "Id": 55042000150201,
         "IsIgnore": null,
-        "Memo": "再生（付与者の攻撃力10%）",
+        "Memo": "ディアンSR　貫通弾 : [再生] 毎ターンHPを最大HP×5％回復する。",
         "CasterIconId": 20,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2000150201]",
@@ -18657,7 +18927,7 @@
     {
         "Id": 55042000300101,
         "IsIgnore": null,
-        "Memo": "回避率30％増",
+        "Memo": "ディアンSR　奉仕の精神 : 回避率が30%増加する。",
         "CasterIconId": 20,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2000300101]",
@@ -18696,7 +18966,7 @@
     {
         "Id": 55042000300201,
         "IsIgnore": null,
-        "Memo": "回避率30％増",
+        "Memo": "ディアンSR　奉仕の精神 : 回避率が30%増加する。",
         "CasterIconId": 20,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2000300201]",
@@ -18735,7 +19005,7 @@
     {
         "Id": 55042000320101,
         "IsIgnore": null,
-        "Memo": "回避率30％増",
+        "Memo": "ディアンSR　奉仕の精神 : 回避率が30%増加する。",
         "CasterIconId": 20,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2000320101]",
@@ -18774,7 +19044,7 @@
     {
         "Id": 55042000320201,
         "IsIgnore": null,
-        "Memo": "回避率30％増",
+        "Memo": "ディアンSR　奉仕の精神 : 回避率が30%増加する。",
         "CasterIconId": 20,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2000320201]",
@@ -18813,7 +19083,7 @@
     {
         "Id": 55042000330101,
         "IsIgnore": null,
-        "Memo": "回避率50％増",
+        "Memo": "ディアンSR　奉仕の精神 : 回避率が50%増加する。",
         "CasterIconId": 20,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2000330101]",
@@ -18852,7 +19122,7 @@
     {
         "Id": 55042000330201,
         "IsIgnore": null,
-        "Memo": "回避率50％増",
+        "Memo": "ディアンSR　奉仕の精神 : 回避率が50%増加する。",
         "CasterIconId": 20,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2000330201]",
@@ -18891,7 +19161,7 @@
     {
         "Id": 55042000400101,
         "IsIgnore": null,
-        "Memo": "透明",
+        "Memo": "ディアンSR　従者の心得 : [透明] 敵味方の全てのスキルの対象から除外される。味方の数が1体以下になったとき解除される。",
         "CasterIconId": 20,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2000400101]",
@@ -18903,9 +19173,23 @@
         "EffectGroupInfoList": null
     },
     {
+        "Id": 55042000400102,
+        "IsIgnore": null,
+        "Memo": "ディアンSR　従者の心得 :*",
+        "CasterIconId": 20,
+        "CasterIconType": 1,
+        "DescriptionKey": "*印",
+        "IconId": 20004,
+        "IconType": 1,
+        "NameKey": "従者の心得",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 55042000400201,
         "IsIgnore": null,
-        "Memo": "2000400101を解除",
+        "Memo": "ディアンSR　従者の心得 : *自分以外の味方がいなくなった場合2000400101を解除する。",
         "CasterIconId": 20,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2000400201]",
@@ -18919,7 +19203,7 @@
     {
         "Id": 55042000420101,
         "IsIgnore": null,
-        "Memo": "透明+通常攻撃を強化する。敵2体に攻撃力200%の物理攻撃を行い、30%の確率でバフを解除する。",
+        "Memo": "ディアンSR　従者の心得 : [通常攻撃強化] 通常攻撃のダメージを敵2体に攻撃力×250％に強化し、50%の確率でバフを1つ解除する。<br>[透明] 敵味方の全てのスキルの対象から除外される。味方の数が1体以下になったとき解除される。",
         "CasterIconId": 20,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2000420101]",
@@ -18933,7 +19217,7 @@
     {
         "Id": 55042000420201,
         "IsIgnore": null,
-        "Memo": "2000420101を解除",
+        "Memo": "ディアンSR　従者の心得 : *自分以外の味方がいなくなった場合2000420101を解除する。",
         "CasterIconId": 20,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2000420201]",
@@ -18947,7 +19231,7 @@
     {
         "Id": 55042000430101,
         "IsIgnore": null,
-        "Memo": "透明+通常攻撃を強化する。敵2体に攻撃力200%の物理攻撃を行い、50%の確率でバフを解除する。",
+        "Memo": "ディアンSR　従者の心得 : [通常攻撃強化] 通常攻撃のダメージを敵2体に攻撃力×250％に強化し、100%の確率でバフを1つ解除する。<br>[透明] 敵味方の全てのスキルの対象から除外される。味方の数が1体以下になったとき解除される。",
         "CasterIconId": 20,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2000430101]",
@@ -18961,7 +19245,7 @@
     {
         "Id": 55042000430201,
         "IsIgnore": null,
-        "Memo": "2000430101を解除",
+        "Memo": "ディアンSR　従者の心得 : *自分以外の味方がいなくなった場合2000430101を解除する。",
         "CasterIconId": 20,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2000430201]",
@@ -18975,7 +19259,7 @@
     {
         "Id": 55042010100102,
         "IsIgnore": null,
-        "Memo": "30%の確率でバフを解除する。",
+        "Memo": "ディアンSR　従者の心得 : *バフを1つ解除する。",
         "CasterIconId": 20,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2010100102]",
@@ -18989,7 +19273,7 @@
     {
         "Id": 55042010200102,
         "IsIgnore": null,
-        "Memo": "50%の確率でバフを解除する。",
+        "Memo": "ディアンSR　従者の心得 : *バフを1つ解除する。",
         "CasterIconId": 20,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2010200102]",
@@ -19003,7 +19287,7 @@
     {
         "Id": 55042200100102,
         "IsIgnore": null,
-        "Memo": "気絶",
+        "Memo": "ザラR　全力突撃 : [気絶] 行動不能になる。",
         "CasterIconId": 22,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2200100102]",
@@ -19026,7 +19310,7 @@
     {
         "Id": 55042200130102,
         "IsIgnore": null,
-        "Memo": "気絶",
+        "Memo": "ザラR　全力突撃 : [気絶] 行動不能になる。",
         "CasterIconId": 22,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2200130102]",
@@ -19049,7 +19333,7 @@
     {
         "Id": 55042200220102,
         "IsIgnore": null,
-        "Memo": "スピード減",
+        "Memo": "ザラR　正面突破 : スピードが10％減少する。",
         "CasterIconId": 22,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2200220102]",
@@ -19072,7 +19356,7 @@
     {
         "Id": 55042200240102,
         "IsIgnore": null,
-        "Memo": "スピード減",
+        "Memo": "ザラR　正面突破 : スピードが20％減少する。",
         "CasterIconId": 22,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2200240102]",
@@ -19095,7 +19379,7 @@
     {
         "Id": 55042200300101,
         "IsIgnore": null,
-        "Memo": "被ダメージ減（HP割合が高くなると解除される）",
+        "Memo": "ザラR　防御態勢 : 被ダメージが20％減少する。HP割合が30％以上になるとこのスキルは解除される。",
         "CasterIconId": 22,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2200300101]",
@@ -19109,7 +19393,7 @@
     {
         "Id": 55042200300201,
         "IsIgnore": null,
-        "Memo": "被ダメージ減の解除",
+        "Memo": "ザラR　防御態勢 : *自身のHP割合が30%以上の場合2200300101を解除する。",
         "CasterIconId": 22,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2200300201]",
@@ -19123,7 +19407,7 @@
     {
         "Id": 55042200320101,
         "IsIgnore": null,
-        "Memo": "被ダメージ減（HP割合が高くなると解除される）",
+        "Memo": "ザラR　防御態勢 : 被ダメージが30％減少する。HP割合が30％以上になるとこのスキルは解除される。",
         "CasterIconId": 22,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2200320101]",
@@ -19137,7 +19421,7 @@
     {
         "Id": 55042200320201,
         "IsIgnore": null,
-        "Memo": "被ダメージ減の解除",
+        "Memo": "ザラR　防御態勢 : *自身のHP割合が30%以上の場合2200320101を解除する。",
         "CasterIconId": 22,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2200320201]",
@@ -19151,7 +19435,7 @@
     {
         "Id": 55042300200102,
         "IsIgnore": null,
-        "Memo": "流血",
+        "Memo": "ロザリーR　ソウルメモリー : [出血] 毎ターン付与者の攻撃力×{0}%のダメージを受ける。",
         "CasterIconId": 23,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2300200102]",
@@ -19165,7 +19449,7 @@
     {
         "Id": 55042300200201,
         "IsIgnore": null,
-        "Memo": "ダメージ無効化",
+        "Memo": "ロザリーR　ソウルメモリー : [ダメージ無効] ダメージを無効化する。",
         "CasterIconId": 23,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2300200201]",
@@ -19188,7 +19472,7 @@
     {
         "Id": 55042300240201,
         "IsIgnore": null,
-        "Memo": "ダメージ無効化",
+        "Memo": "ロザリーR　ソウルメモリー : [ダメージ無効] ダメージを無効化する。",
         "CasterIconId": 23,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2300240201]",
@@ -19211,7 +19495,7 @@
     {
         "Id": 55042300300101,
         "IsIgnore": null,
-        "Memo": "再生",
+        "Memo": "ロザリーR　繋がれた命 : [再生] 毎ターンHPを最大HP×5％回復する。",
         "CasterIconId": 23,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2300300101]",
@@ -19225,7 +19509,7 @@
     {
         "Id": 55042300320101,
         "IsIgnore": null,
-        "Memo": "再生",
+        "Memo": "ロザリーR　繋がれた命 : [再生] 毎ターンHPを最大HP×10％回復する。",
         "CasterIconId": 23,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2300320101]",
@@ -19239,7 +19523,7 @@
     {
         "Id": 55042400200102,
         "IsIgnore": null,
-        "Memo": "防御力減",
+        "Memo": "リブラR　恋する乙女の猛攻 : 防御力が50％減少する。",
         "CasterIconId": 24,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2400200102]",
@@ -19266,7 +19550,7 @@
     {
         "Id": 55042400230102,
         "IsIgnore": null,
-        "Memo": "防御力減",
+        "Memo": "リブラR　恋する乙女の猛攻 : 防御力が65％減少する。",
         "CasterIconId": 24,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2400230102]",
@@ -19293,7 +19577,7 @@
     {
         "Id": 55042400240102,
         "IsIgnore": null,
-        "Memo": "防御力減",
+        "Memo": "リブラR　恋する乙女の猛攻 : 防御力が65％減少する。",
         "CasterIconId": 24,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2400240102]",
@@ -19320,7 +19604,7 @@
     {
         "Id": 55042400300101,
         "IsIgnore": null,
-        "Memo": "回避増",
+        "Memo": "リブラR　一途な心 : 回避率が20％増加する。",
         "CasterIconId": 24,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2400300101]",
@@ -19334,7 +19618,7 @@
     {
         "Id": 55042400320101,
         "IsIgnore": null,
-        "Memo": "回避増",
+        "Memo": "リブラR　一途な心 : 回避率が30％増加する。",
         "CasterIconId": 24,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2400320101]",
@@ -19348,7 +19632,7 @@
     {
         "Id": 55042500300101,
         "IsIgnore": null,
-        "Memo": "攻撃力20%",
+        "Memo": "アイビーSR　レッドプリンセス : 攻撃力が20％増加する（最大4回）。",
         "CasterIconId": 25,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2500300101]",
@@ -19373,9 +19657,51 @@
         ]
     },
     {
+        "Id": 55042500300102,
+        "IsIgnore": null,
+        "Memo": "アイビーSR　レッドプリンセス :*",
+        "CasterIconId": 25,
+        "CasterIconType": 1,
+        "DescriptionKey": "*スタック数を増加",
+        "IconId": 25003,
+        "IconType": 1,
+        "NameKey": "レッドプリンセス",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55042500300103,
+        "IsIgnore": null,
+        "Memo": "アイビーSR　レッドプリンセス :*",
+        "CasterIconId": 25,
+        "CasterIconType": 1,
+        "DescriptionKey": "*スタック数を増加",
+        "IconId": 25003,
+        "IconType": 1,
+        "NameKey": "レッドプリンセス",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55042500300104,
+        "IsIgnore": null,
+        "Memo": "アイビーSR　レッドプリンセス :*",
+        "CasterIconId": 25,
+        "CasterIconType": 1,
+        "DescriptionKey": "*スタック数を増加",
+        "IconId": 25003,
+        "IconType": 1,
+        "NameKey": "レッドプリンセス",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 55042500320101,
         "IsIgnore": null,
-        "Memo": "攻撃力30％",
+        "Memo": "アイビーSR　レッドプリンセス : 攻撃力が30％増加する（最大4回）。",
         "CasterIconId": 25,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2500320101]",
@@ -19400,9 +19726,51 @@
         ]
     },
     {
+        "Id": 55042500320102,
+        "IsIgnore": null,
+        "Memo": "アイビーSR　レッドプリンセス :*",
+        "CasterIconId": 25,
+        "CasterIconType": 1,
+        "DescriptionKey": "*スタック数を増加",
+        "IconId": 25003,
+        "IconType": 1,
+        "NameKey": "レッドプリンセス",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55042500320103,
+        "IsIgnore": null,
+        "Memo": "アイビーSR　レッドプリンセス :*",
+        "CasterIconId": 25,
+        "CasterIconType": 1,
+        "DescriptionKey": "*スタック数を増加",
+        "IconId": 25003,
+        "IconType": 1,
+        "NameKey": "レッドプリンセス",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55042500320104,
+        "IsIgnore": null,
+        "Memo": "アイビーSR　レッドプリンセス :*",
+        "CasterIconId": 25,
+        "CasterIconType": 1,
+        "DescriptionKey": "*スタック数を増加",
+        "IconId": 25003,
+        "IconType": 1,
+        "NameKey": "レッドプリンセス",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 55042500330101,
         "IsIgnore": null,
-        "Memo": "攻撃力50％",
+        "Memo": "アイビーSR　レッドプリンセス : 攻撃力が50％増加する（最大4回）。",
         "CasterIconId": 25,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2500330101]",
@@ -19427,9 +19795,51 @@
         ]
     },
     {
+        "Id": 55042500330102,
+        "IsIgnore": null,
+        "Memo": "アイビーSR　レッドプリンセス :*",
+        "CasterIconId": 25,
+        "CasterIconType": 1,
+        "DescriptionKey": "*スタック数を増加",
+        "IconId": 25003,
+        "IconType": 1,
+        "NameKey": "レッドプリンセス",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55042500330103,
+        "IsIgnore": null,
+        "Memo": "アイビーSR　レッドプリンセス :*",
+        "CasterIconId": 25,
+        "CasterIconType": 1,
+        "DescriptionKey": "*スタック数を増加",
+        "IconId": 25003,
+        "IconType": 1,
+        "NameKey": "レッドプリンセス",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55042500330104,
+        "IsIgnore": null,
+        "Memo": "アイビーSR　レッドプリンセス :*",
+        "CasterIconId": 25,
+        "CasterIconType": 1,
+        "DescriptionKey": "*スタック数を増加",
+        "IconId": 25003,
+        "IconType": 1,
+        "NameKey": "レッドプリンセス",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 55042500400101,
         "IsIgnore": null,
-        "Memo": "通常攻撃を強化する。ランダムな敵1体に攻撃力×120％の物理攻撃を行う。対象より自分のスピードが速い場合、30％の確率で1ターンの間『気絶』を付与する。",
+        "Memo": "アイビーSR　まっかっかー♪ : [通常攻撃強化] 通常攻撃のダメージを攻撃力×120%に強化する。対象のスピードが自身よりも低い場合、30%の確率で[気絶] を付与する（[気絶] 行動不能になる。）。",
         "CasterIconId": 25,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2500400101]",
@@ -19443,7 +19853,7 @@
     {
         "Id": 55042500420101,
         "IsIgnore": null,
-        "Memo": "通常攻撃を強化する。ランダムな敵2体に攻撃力×120％の物理攻撃を行う。対象より自分のスピードが速い場合、30％の確率で1ターンの間『気絶』を付与する。",
+        "Memo": "アイビーSR　まっかっかー♪ : [通常攻撃強化] 通常攻撃のダメージを敵2体に攻撃力×120%に強化する。対象のスピードが自身よりも低い場合、30%の確率で[気絶] を付与する（[気絶] 行動不能になる。）。",
         "CasterIconId": 25,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2500420101]",
@@ -19457,7 +19867,7 @@
     {
         "Id": 55042500430101,
         "IsIgnore": null,
-        "Memo": "通常攻撃を強化する。ランダムな敵2体に攻撃力×120％の物理攻撃を行う。対象より自分のスピードが速い場合、50％の確率で1ターンの間『気絶』を付与する。",
+        "Memo": "アイビーSR　まっかっかー♪ : [通常攻撃強化] 通常攻撃のダメージを敵2体に攻撃力×120%に強化する。対象のスピードが自身よりも低い場合、50%確率で[気絶] を付与する（[気絶] 行動不能になる。）。",
         "CasterIconId": 25,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2500430101]",
@@ -19471,7 +19881,7 @@
     {
         "Id": 55042510100102,
         "IsIgnore": null,
-        "Memo": "対象より自分のスピードが速い場合、30％の確率で1ターンの間『気絶』を付与する。",
+        "Memo": "アイビーSR　まっかっかー♪ : [気絶] 行動不能になる。",
         "CasterIconId": 25,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2510100102]",
@@ -19485,7 +19895,7 @@
     {
         "Id": 55042510300102,
         "IsIgnore": null,
-        "Memo": "対象より自分のスピードが速い場合、50％の確率で1ターンの間『気絶』を付与する。",
+        "Memo": "アイビーSR　まっかっかー♪ : [気絶] 行動不能になる。",
         "CasterIconId": 25,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2510300102]",
@@ -19499,7 +19909,7 @@
     {
         "Id": 55042600100101,
         "IsIgnore": null,
-        "Memo": "デバフを1つ解除",
+        "Memo": "マーリンSR　お師匠さまのように : *弱体効果を1つ解除する。",
         "CasterIconId": 26,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2600100101]",
@@ -19513,7 +19923,7 @@
     {
         "Id": 55042600100102,
         "IsIgnore": null,
-        "Memo": "攻撃力40%増",
+        "Memo": "マーリンSR　お師匠さまのように : 攻撃力が0%増加する。",
         "CasterIconId": 26,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2600100102]",
@@ -19540,7 +19950,7 @@
     {
         "Id": 55042600120102,
         "IsIgnore": null,
-        "Memo": "攻撃力60%増",
+        "Memo": "マーリンSR　お師匠さまのように : 攻撃力が30%増加する。",
         "CasterIconId": 26,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2600120102]",
@@ -19567,7 +19977,7 @@
     {
         "Id": 55042600130102,
         "IsIgnore": null,
-        "Memo": "攻撃力80%増",
+        "Memo": "マーリンSR　お師匠さまのように : 攻撃力が40%増加する。",
         "CasterIconId": 26,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2600130102]",
@@ -19594,7 +20004,7 @@
     {
         "Id": 55042600140103,
         "IsIgnore": null,
-        "Memo": "クリティカルダメージ50％増加",
+        "Memo": "マーリンSR　お師匠さまのように : クリティカルダメージが20%増加する。",
         "CasterIconId": 26,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2600140103]",
@@ -19617,7 +20027,7 @@
     {
         "Id": 55042600150101,
         "IsIgnore": null,
-        "Memo": "デバフを2つ解除",
+        "Memo": "マーリンSR　お師匠さまのように : *弱体効果を2つ解除する。",
         "CasterIconId": 26,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2600150101]",
@@ -19631,7 +20041,7 @@
     {
         "Id": 55042600160103,
         "IsIgnore": null,
-        "Memo": "クリティカルダメージ60%増加",
+        "Memo": "マーリンSR　お師匠さまのように : クリティカルダメージが40%増加する。",
         "CasterIconId": 26,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2600160103]",
@@ -19654,7 +20064,7 @@
     {
         "Id": 55042600200101,
         "IsIgnore": null,
-        "Memo": "バフを1つ解除",
+        "Memo": "マーリンSR　ヴァインストリーム : *バフを1つ解除する。",
         "CasterIconId": 26,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2600200101]",
@@ -19666,9 +20076,23 @@
         "EffectGroupInfoList": null
     },
     {
+        "Id": 55042600300001,
+        "IsIgnore": null,
+        "Memo": "マーリンSR　お弟子さん募集中！:*",
+        "CasterIconId": 26,
+        "CasterIconType": 1,
+        "DescriptionKey": "*印",
+        "IconId": 26003,
+        "IconType": 1,
+        "NameKey": "お弟子さん募集中！",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 55042600300101,
         "IsIgnore": null,
-        "Memo": "防御力20%増加",
+        "Memo": "マーリンSR　お弟子さん募集中！ : クリティカル率が20%増加する（解除不可）。ターン開始時味方の生存数が2体以下の場合解除される。",
         "CasterIconId": 26,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2600300101]",
@@ -19691,7 +20115,7 @@
     {
         "Id": 55042600300102,
         "IsIgnore": null,
-        "Memo": "攻撃力20%増加",
+        "Memo": "マーリンSR　お弟子さん募集中！ : 防御力が20%増加する（解除不可）。ターン開始時味方の生存数が3体以上の場合解除される。",
         "CasterIconId": 26,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2600300102]",
@@ -19714,7 +20138,7 @@
     {
         "Id": 55042600300103,
         "IsIgnore": null,
-        "Memo": "Group2600300101を解除",
+        "Memo": "マーリンSR　お弟子さん募集中！ : *生存する味方が2体以下の場合2600300101を解除する。",
         "CasterIconId": 26,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2600300103]",
@@ -19728,7 +20152,7 @@
     {
         "Id": 55042600320101,
         "IsIgnore": null,
-        "Memo": "防御力30%増加",
+        "Memo": "マーリンSR　お弟子さん募集中！ : クリティカル率が40%増加する（解除不可）。ターン開始時味方の生存数が2体以下の場合解除される。",
         "CasterIconId": 26,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2600320101]",
@@ -19751,7 +20175,7 @@
     {
         "Id": 55042600320102,
         "IsIgnore": null,
-        "Memo": "攻撃力30％増加",
+        "Memo": "マーリンSR　お弟子さん募集中！ : 防御力が40%増加する（解除不可）。ターン開始時味方の生存数が3体以上の場合解除される。",
         "CasterIconId": 26,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2600320102]",
@@ -19772,6 +20196,20 @@
         ]
     },
     {
+        "Id": 55042600320103,
+        "IsIgnore": null,
+        "Memo": "マーリンSR　お弟子さん募集中！ : Group2600320101を解除",
+        "CasterIconId": 26,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription2600330103]",
+        "IconId": 26003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName2600330103]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 55042600330103,
         "IsIgnore": null,
         "Memo": "Group2600320101を解除",
@@ -19786,9 +20224,23 @@
         "EffectGroupInfoList": null
     },
     {
+        "Id": 55042600400001,
+        "IsIgnore": null,
+        "Memo": "マーリンSR　師弟の絆:*",
+        "CasterIconId": 26,
+        "CasterIconType": 1,
+        "DescriptionKey": "*印",
+        "IconId": 26004,
+        "IconType": 1,
+        "NameKey": "師弟の絆",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 55042600400101,
         "IsIgnore": null,
-        "Memo": "再生（毎ターン5%回復）",
+        "Memo": "マーリンSR　師弟の絆 : [再生] 毎ターンHPを最大HP×3％回復する（解除不可）。",
         "CasterIconId": 26,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2600400101]",
@@ -19796,7 +20248,7 @@
         "IconType": 1,
         "NameKey": "[EffectGroupName2600400101]",
         "IsHide": false,
-        "IsTurnHide": false,
+        "IsTurnHide": true,
         "EffectGroupInfoList": [
             {
                 "EffectGroupId": 55042600420101,
@@ -19811,7 +20263,7 @@
     {
         "Id": 55042600420101,
         "IsIgnore": null,
-        "Memo": "再生（毎ターン7％回復）",
+        "Memo": "マーリンSR　師弟の絆 : [再生] 毎ターンHPを最大HP×5％回復する（解除不可）。",
         "CasterIconId": 26,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2600420101]",
@@ -19819,7 +20271,7 @@
         "IconType": 1,
         "NameKey": "[EffectGroupName2600420101]",
         "IsHide": false,
-        "IsTurnHide": false,
+        "IsTurnHide": true,
         "EffectGroupInfoList": [
             {
                 "EffectGroupId": 55042600420101,
@@ -19834,7 +20286,7 @@
     {
         "Id": 55042700120301,
         "IsIgnore": null,
-        "Memo": "攻撃力50％増加",
+        "Memo": "コルディSR　クイック&デッド : 攻撃力が50％増加する。",
         "CasterIconId": 27,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2700120301]",
@@ -19857,7 +20309,7 @@
     {
         "Id": 55042700140102,
         "IsIgnore": null,
-        "Memo": "防御力40%減",
+        "Memo": "コルディSR　クイック&デッド : 防御力が80%減少する。",
         "CasterIconId": 27,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2700140102]",
@@ -19880,7 +20332,7 @@
     {
         "Id": 55042700150102,
         "IsIgnore": null,
-        "Memo": "防御力40%減",
+        "Memo": "コルディSR　クイック&デッド : 防御力が80%減少する。",
         "CasterIconId": 27,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2700140102]",
@@ -19903,7 +20355,7 @@
     {
         "Id": 55042700150301,
         "IsIgnore": null,
-        "Memo": "攻撃力50％増加",
+        "Memo": "コルディSR　クイック&デッド : 攻撃力が50％増加する。",
         "CasterIconId": 27,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2700120301]",
@@ -19926,7 +20378,7 @@
     {
         "Id": 55042700300101,
         "IsIgnore": null,
-        "Memo": "攻撃力30％増",
+        "Memo": "コルディSR　わたしにご注目！ : 攻撃力が30％増加する。",
         "CasterIconId": 27,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2700300101]",
@@ -19940,7 +20392,7 @@
     {
         "Id": 55042700320101,
         "IsIgnore": null,
-        "Memo": "攻撃力30％増+防御貫通30％増",
+        "Memo": "コルディSR　わたしにご注目！ : 攻撃力が30％増加し、防御貫通が30％増加する。",
         "CasterIconId": 27,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2700320101]",
@@ -19954,7 +20406,7 @@
     {
         "Id": 55042700330101,
         "IsIgnore": null,
-        "Memo": "攻撃力40%増+防御貫通40%増",
+        "Memo": "コルディSR　わたしにご注目！ : 攻撃力が40％増加し、防御貫通が40％増加する。",
         "CasterIconId": 27,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2700330101]",
@@ -19968,7 +20420,7 @@
     {
         "Id": 55042700400101,
         "IsIgnore": null,
-        "Memo": "行動阻害無効",
+        "Memo": "コルディSR　硝煙に巻く : [行動阻害無効] 行動阻害が付与されなくなる。",
         "CasterIconId": 27,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2700400101]",
@@ -19982,7 +20434,7 @@
     {
         "Id": 55042700420101,
         "IsIgnore": null,
-        "Memo": "行動阻害無効",
+        "Memo": "コルディSR　硝煙に巻く : [行動阻害無効] 行動阻害が付与されなくなる。",
         "CasterIconId": 27,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2700420101]",
@@ -19996,7 +20448,7 @@
     {
         "Id": 55042700430101,
         "IsIgnore": null,
-        "Memo": "デバフ無効",
+        "Memo": "コルディSR　硝煙に巻く : [弱体効果無効] 弱体効果が付与されなくなる。",
         "CasterIconId": 27,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2700430101]",
@@ -20010,7 +20462,7 @@
     {
         "Id": 55042800100101,
         "IsIgnore": null,
-        "Memo": "バフを1つ奪う。",
+        "Memo": "ニーナSR　迷子哀哭 : *バフを1つ奪う。",
         "CasterIconId": 28,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2800100101]",
@@ -20022,9 +20474,23 @@
         "EffectGroupInfoList": null
     },
     {
+        "Id": 55042800130101,
+        "IsIgnore": null,
+        "Memo": "ニーナSR　迷子哀哭 : *バフを1つ奪う。",
+        "CasterIconId": 28,
+        "CasterIconType": 1,
+        "DescriptionKey": "*バフを1つ奪う。",
+        "IconId": 28001,
+        "IconType": 1,
+        "NameKey": "迷子哀哭",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 55042800130102,
         "IsIgnore": null,
-        "Memo": "弱体効果命中減40%",
+        "Memo": "ニーナSR　迷子哀哭 : 弱体効果命中率が40％減少する。",
         "CasterIconId": 28,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2800130102]",
@@ -20047,7 +20513,7 @@
     {
         "Id": 55042800140101,
         "IsIgnore": null,
-        "Memo": "バフを1つ奪う",
+        "Memo": "ニーナSR　迷子哀哭 : バフを1つ奪う",
         "CasterIconId": 28,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2800140101]",
@@ -20061,7 +20527,7 @@
     {
         "Id": 55042800140102,
         "IsIgnore": null,
-        "Memo": "弱体効果命中減40%",
+        "Memo": "ニーナSR　迷子哀哭 : 弱体効果命中率が40％減少する。",
         "CasterIconId": 28,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2800140102]",
@@ -20084,7 +20550,7 @@
     {
         "Id": 55042800200101,
         "IsIgnore": null,
-        "Memo": "デバフをうつす",
+        "Memo": "ニーナSR　大嫌い！！ : *弱体効果を1つ解除する。",
         "CasterIconId": 28,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2800200101]",
@@ -20098,7 +20564,7 @@
     {
         "Id": 55042800230101,
         "IsIgnore": null,
-        "Memo": "デバフをうつす",
+        "Memo": "ニーナSR　大嫌い！！ : *弱体効果を1つ解除する。",
         "CasterIconId": 28,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2800230101]",
@@ -20112,7 +20578,7 @@
     {
         "Id": 55042800240102,
         "IsIgnore": null,
-        "Memo": "命中率40%減少",
+        "Memo": "ニーナSR　大嫌い！！ : 命中率が30%減少する。",
         "CasterIconId": 28,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2800240102]",
@@ -20126,7 +20592,7 @@
     {
         "Id": 55042800300101,
         "IsIgnore": null,
-        "Memo": "スピード20%増加",
+        "Memo": "ニーナSR　まだ歩けるよ : 回避率が20％増加する。",
         "CasterIconId": 28,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2800300101]",
@@ -20140,7 +20606,7 @@
     {
         "Id": 55042800320101,
         "IsIgnore": null,
-        "Memo": "スピード20%増加+被ダメージ20%減",
+        "Memo": "ニーナSR　まだ歩けるよ : 回避率が20％増加し、被ダメージが20％減少する。",
         "CasterIconId": 28,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2800320101]",
@@ -20154,7 +20620,7 @@
     {
         "Id": 55042800330101,
         "IsIgnore": null,
-        "Memo": "スピード30％増加+被ダメージ30％減",
+        "Memo": "ニーナSR　まだ歩けるよ : 回避率が30％増加し、被ダメージが30％減少する。",
         "CasterIconId": 28,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2800330101]",
@@ -20168,7 +20634,7 @@
     {
         "Id": 55042900100201,
         "IsIgnore": null,
-        "Memo": "シールド（総与ダメージ10%）",
+        "Memo": "メルティーユSR　生命転化 : [シールド] このスキルの総与ダメージ×25%分のダメージを代わりに受ける。",
         "CasterIconId": 29,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2900100201]",
@@ -20191,7 +20657,7 @@
     {
         "Id": 55042900130201,
         "IsIgnore": null,
-        "Memo": "シールド（総与ダメージ20%）",
+        "Memo": "メルティーユSR　生命転化 : [シールド] このスキルの総与ダメージ×40%分のダメージを代わりに受ける。",
         "CasterIconId": 29,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2900130201]",
@@ -20214,7 +20680,7 @@
     {
         "Id": 55042900200101,
         "IsIgnore": null,
-        "Memo": "スキルクールタイム1減少",
+        "Memo": "メルティーユSR　メンテナンス : *スキルクールタイムカウントを1減少させる。",
         "CasterIconId": 29,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2900200101]",
@@ -20228,7 +20694,7 @@
     {
         "Id": 55042900220102,
         "IsIgnore": null,
-        "Memo": "攻撃力50％増加",
+        "Memo": "メルティーユSR　メンテナンス : 攻撃力が65％増加する。",
         "CasterIconId": 29,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2900220102]",
@@ -20255,7 +20721,7 @@
     {
         "Id": 55042900230103,
         "IsIgnore": null,
-        "Memo": "デバフをすべて解除",
+        "Memo": "メルティーユSR　メンテナンス : *弱体効果をすべて解除する。",
         "CasterIconId": 29,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2900230103]",
@@ -20269,7 +20735,7 @@
     {
         "Id": 55042900240101,
         "IsIgnore": null,
-        "Memo": "スキルクールタイム2減少",
+        "Memo": "メルティーユSR　メンテナンス : *スキルクールタイムカウントを2減少させる。",
         "CasterIconId": 29,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2900240101]",
@@ -20283,7 +20749,7 @@
     {
         "Id": 55042900250102,
         "IsIgnore": null,
-        "Memo": "攻撃力80%増加",
+        "Memo": "メルティーユSR　メンテナンス : 攻撃力が85%増加する。",
         "CasterIconId": 29,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2900250102]",
@@ -20310,7 +20776,7 @@
     {
         "Id": 55042900260102,
         "IsIgnore": null,
-        "Memo": "攻撃力80%増加+防御力50％増加",
+        "Memo": "メルティーユSR　メンテナンス : 攻撃力が85%増加し、防御力が65%増加する。",
         "CasterIconId": 29,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2900260102]",
@@ -20337,7 +20803,7 @@
     {
         "Id": 55042900300101,
         "IsIgnore": null,
-        "Memo": "再生（攻撃力5%）",
+        "Memo": "メルティーユSR　ホムンクルスボディ : [再生] 毎ターンHPを最大HP×15％回復する。",
         "CasterIconId": 29,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2900300101]",
@@ -20351,7 +20817,7 @@
     {
         "Id": 55042900320101,
         "IsIgnore": null,
-        "Memo": "再生（攻撃力10%）",
+        "Memo": "メルティーユSR　ホムンクルスボディ : [再生] 毎ターンHPを最大HP×20％回復する。",
         "CasterIconId": 29,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2900320101]",
@@ -20365,7 +20831,7 @@
     {
         "Id": 55042900330101,
         "IsIgnore": null,
-        "Memo": "再生（攻撃力10%）+潜伏",
+        "Memo": "メルティーユSR　ホムンクルスボディ : [再生] 毎ターンHPを最大HP×20％回復する。<br>[ステルス] 敵の攻撃ターゲットから除外される。",
         "CasterIconId": 29,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2900330101]",
@@ -20379,7 +20845,7 @@
     {
         "Id": 55042900400101,
         "IsIgnore": null,
-        "Memo": "状態異常耐性30％増",
+        "Memo": "メルティーユSR　研究成果 : 弱体効果耐性率が30％増加する。",
         "CasterIconId": 29,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2900400101]",
@@ -20393,7 +20859,7 @@
     {
         "Id": 55042900420101,
         "IsIgnore": null,
-        "Memo": "状態異常耐性50%増",
+        "Memo": "メルティーユSR　研究成果 : 弱体効果耐性率が50％増加する。",
         "CasterIconId": 29,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2900420101]",
@@ -20407,7 +20873,7 @@
     {
         "Id": 55042900430101,
         "IsIgnore": null,
-        "Memo": "状態異常耐性100%増",
+        "Memo": "メルティーユSR　研究成果 : 弱体効果耐性率が100％増加する。",
         "CasterIconId": 29,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2900430101]",
@@ -20421,7 +20887,7 @@
     {
         "Id": 55043000120202,
         "IsIgnore": null,
-        "Memo": "攻撃力50％減少",
+        "Memo": "ルークSR　光導の一閃 : 攻撃力が50％減少する。",
         "CasterIconId": 30,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3000120202]",
@@ -20435,7 +20901,7 @@
     {
         "Id": 55043000200101,
         "IsIgnore": null,
-        "Memo": "シールドをすべて解除",
+        "Memo": "ルークSR　ナイトプライド : *シールドをすべて解除する。",
         "CasterIconId": 30,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3000200101]",
@@ -20449,7 +20915,7 @@
     {
         "Id": 55043000230101,
         "IsIgnore": null,
-        "Memo": "印付与",
+        "Memo": "ルークSR　ナイトプライド : *[印] ",
         "CasterIconId": 30,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3000230101]",
@@ -20463,7 +20929,7 @@
     {
         "Id": 55043000230201,
         "IsIgnore": null,
-        "Memo": "シールドをすべて解除",
+        "Memo": "ルークSR　ナイトプライド : *シールドをすべて解除する。",
         "CasterIconId": 30,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3000230201]",
@@ -20477,7 +20943,7 @@
     {
         "Id": 55043000300101,
         "IsIgnore": null,
-        "Memo": "被ダメージ5%増（スタック5回）",
+        "Memo": "ルークSR　君ガ為ノ剣 : 被ダメージが5％増加する（最大5回）。",
         "CasterIconId": 30,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3000300101]",
@@ -20504,7 +20970,7 @@
     {
         "Id": 55043000320101,
         "IsIgnore": null,
-        "Memo": "被ダメージ10%増（スタック5回）",
+        "Memo": "ルークSR　君ガ為ノ剣 : 被ダメージが10%増加する（最大5回）。",
         "CasterIconId": 30,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3000320101]",
@@ -20531,7 +20997,7 @@
     {
         "Id": 55043000330101,
         "IsIgnore": null,
-        "Memo": "被ダメージ15%増（スタック5回）",
+        "Memo": "ルークSR　君ガ為ノ剣 : 被ダメージが15%増加する（最大5回）。",
         "CasterIconId": 30,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3000330101]",
@@ -20558,7 +21024,7 @@
     {
         "Id": 55043000400101,
         "IsIgnore": null,
-        "Memo": "クリティカル耐性３０％増",
+        "Memo": "ルークSR　誇り高き騎士 : クリティカル耐性率が30％増加する。",
         "CasterIconId": 30,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3000400101]",
@@ -20581,7 +21047,7 @@
     {
         "Id": 55043000420101,
         "IsIgnore": null,
-        "Memo": "クリティカル耐性６０％増",
+        "Memo": "ルークSR　誇り高き騎士 : クリティカル耐性率が60％増加する。",
         "CasterIconId": 30,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3000420101]",
@@ -20604,7 +21070,7 @@
     {
         "Id": 55043100100102,
         "IsIgnore": null,
-        "Memo": "流血",
+        "Memo": "ガルムN　戦弓の一矢 : [出血] 毎ターン付与者の攻撃力×{0}％のダメージを受ける。",
         "CasterIconId": 31,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3100100102]",
@@ -20618,7 +21084,7 @@
     {
         "Id": 55043100200102,
         "IsIgnore": null,
-        "Memo": "スピード減",
+        "Memo": "ガルムN　追撃連射 : スピードが20％減少する。",
         "CasterIconId": 31,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3100200102]",
@@ -20632,7 +21098,7 @@
     {
         "Id": 55043200100102,
         "IsIgnore": null,
-        "Memo": "攻撃力減",
+        "Memo": "スクルドR　失敗は成功の母だよ : 攻撃力が10％減少する。",
         "CasterIconId": 32,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3200100102]",
@@ -20655,7 +21121,7 @@
     {
         "Id": 55043200130102,
         "IsIgnore": null,
-        "Memo": "攻撃力減",
+        "Memo": "スクルドR　失敗は成功の母だよ : 攻撃力が20％減少する。",
         "CasterIconId": 32,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3200130102]",
@@ -20678,7 +21144,7 @@
     {
         "Id": 55043200230102,
         "IsIgnore": null,
-        "Memo": "スピード増",
+        "Memo": "スクルドR　アロマヒール : スピードが20％増加する。",
         "CasterIconId": 32,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3200230102]",
@@ -20692,7 +21158,7 @@
     {
         "Id": 55043200300101,
         "IsIgnore": null,
-        "Memo": "最大HP増",
+        "Memo": "スクルドR　スクルドブレンド : 最大HPが20％増加する。",
         "CasterIconId": 32,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3200300101]",
@@ -20706,7 +21172,7 @@
     {
         "Id": 55043200320101,
         "IsIgnore": null,
-        "Memo": "最大HP増",
+        "Memo": "スクルドR　スクルドブレンド : 最大HPが30％増加する。",
         "CasterIconId": 32,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3200320101]",
@@ -20720,7 +21186,7 @@
     {
         "Id": 55043300130202,
         "IsIgnore": null,
-        "Memo": "攻撃力増",
+        "Memo": "チェルナR　スパッタリング : 攻撃力が10％増加する（最大5回）。",
         "CasterIconId": 33,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3300130202]",
@@ -20734,7 +21200,7 @@
     {
         "Id": 55043300200102,
         "IsIgnore": null,
-        "Memo": "気絶+流血",
+        "Memo": "チェルナR　インパスト : [気絶] 行動不能になる。<br>[出血] 毎ターン付与者の攻撃力×{0}%のダメージを受ける。",
         "CasterIconId": 33,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3300200102]",
@@ -20757,7 +21223,7 @@
     {
         "Id": 55043300230102,
         "IsIgnore": null,
-        "Memo": "気絶+流血",
+        "Memo": "チェルナR　インパスト : [気絶] 行動不能になる。<br>[出血] 毎ターン付与者の攻撃力×{0}%のダメージを受ける。",
         "CasterIconId": 33,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3300230102]",
@@ -20780,7 +21246,7 @@
     {
         "Id": 55043300300101,
         "IsIgnore": null,
-        "Memo": "HPドレイン増",
+        "Memo": "チェルナR　ポートレイト : HPドレインが20％増加する。",
         "CasterIconId": 33,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3300300101]",
@@ -20794,7 +21260,7 @@
     {
         "Id": 55043300320101,
         "IsIgnore": null,
-        "Memo": "HPドレイン増",
+        "Memo": "チェルナR　ポートレイト : HPドレインが30％増加する。",
         "CasterIconId": 33,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3300320101]",
@@ -20808,7 +21274,7 @@
     {
         "Id": 55043400200102,
         "IsIgnore": null,
-        "Memo": "スピード減",
+        "Memo": "ソテイラR　あ！　あれなんだ！？ : スピードが20％減少する。",
         "CasterIconId": 34,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3400200102]",
@@ -20831,7 +21297,7 @@
     {
         "Id": 55043400230102,
         "IsIgnore": null,
-        "Memo": "スピード減",
+        "Memo": "ソテイラR　あ！　あれなんだ！？ : スピードが30％減少する。",
         "CasterIconId": 34,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3400230102]",
@@ -20854,7 +21320,7 @@
     {
         "Id": 55043400300101,
         "IsIgnore": null,
-        "Memo": "流血",
+        "Memo": "ソテイラR　はーちゃん、おはよ！ : [出血] 毎ターン付与者の攻撃力×{0}%のダメージを受ける。",
         "CasterIconId": 34,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3400300101]",
@@ -20877,7 +21343,7 @@
     {
         "Id": 55043400320101,
         "IsIgnore": null,
-        "Memo": "流血",
+        "Memo": "ソテイラR　はーちゃん、おはよ！ : [出血] 毎ターン付与者の攻撃力×{0}%のダメージを受ける。",
         "CasterIconId": 34,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3400320101]",
@@ -20946,7 +21412,7 @@
     {
         "Id": 55043500200201,
         "IsIgnore": null,
-        "Memo": "シールド（総与ダメージ20%）",
+        "Memo": "ミミSR　宵猫のワルツ : [シールド] このスキルの総与ダメージ×20％分のダメージを代わりに受ける。",
         "CasterIconId": 35,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3500200201]",
@@ -20969,7 +21435,7 @@
     {
         "Id": 55043500260201,
         "IsIgnore": null,
-        "Memo": "シールド（総与ダメージ30％）",
+        "Memo": "ミミSR　宵猫のワルツ : [シールド] このスキルの総与ダメージ×30％分のダメージを代わりに受ける。",
         "CasterIconId": 35,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3500260201]",
@@ -20992,7 +21458,7 @@
     {
         "Id": 55043500300101,
         "IsIgnore": null,
-        "Memo": "攻撃力40%増",
+        "Memo": "ミミSR　夢踊る野良猫 : 攻撃力が40％増加する。",
         "CasterIconId": 35,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3500300101]",
@@ -21006,7 +21472,7 @@
     {
         "Id": 55043500320101,
         "IsIgnore": null,
-        "Memo": "攻撃力60%増",
+        "Memo": "ミミSR　夢踊る野良猫 : 攻撃力が60％増加する。",
         "CasterIconId": 35,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3500320101]",
@@ -21020,7 +21486,7 @@
     {
         "Id": 55043500330101,
         "IsIgnore": null,
-        "Memo": "攻撃力80%増",
+        "Memo": "ミミSR　夢踊る野良猫 : 攻撃力が80％増加する。",
         "CasterIconId": 35,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3500330101]",
@@ -21034,14 +21500,14 @@
     {
         "Id": 55043500400101,
         "IsIgnore": null,
-        "Memo": "『共鳴』を付与する。防御力が最も低い敵が受けたダメージ×60％のダメージを受けるようになる。",
+        "Memo": "ミミSR　ユニゾンダンス : [共鳴] バトル開始時の防御力が最も高い味方1体が受けたダメージの50％を自身も受ける（解除不可）。",
         "CasterIconId": 35,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3500400101]",
         "IconId": 35004,
         "IconType": 1,
         "NameKey": "[EffectGroupName3500400101]",
-        "IsHide": true,
+        "IsHide": false,
         "IsTurnHide": true,
         "EffectGroupInfoList": [
             {
@@ -21061,14 +21527,14 @@
     {
         "Id": 55043500400201,
         "IsIgnore": null,
-        "Memo": "『共鳴』を付与する。防御力の最も高い敵が受けたダメージ×60％のダメージを受けるようになる。",
+        "Memo": "ミミSR　ユニゾンダンス : [共鳴] バトル開始時の防御力が最も低い味方1体が受けたダメージの50％を自身も受ける（解除不可）。",
         "CasterIconId": 35,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3500400201]",
         "IconId": 35004,
         "IconType": 1,
         "NameKey": "[EffectGroupName3500400201]",
-        "IsHide": true,
+        "IsHide": false,
         "IsTurnHide": true,
         "EffectGroupInfoList": [
             {
@@ -21088,28 +21554,28 @@
     {
         "Id": 55043500400301,
         "IsIgnore": null,
-        "Memo": "3500400101解除+3500400201解除",
+        "Memo": "ミミSR　ユニゾンダンス : *付帯者が0の場合3500400101/3500400201を解除する。",
         "CasterIconId": 35,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3500400301]",
         "IconId": 35004,
         "IconType": 1,
         "NameKey": "[EffectGroupName3500400301]",
-        "IsHide": false,
-        "IsTurnHide": false,
+        "IsHide": true,
+        "IsTurnHide": true,
         "EffectGroupInfoList": null
     },
     {
         "Id": 55043500420101,
         "IsIgnore": null,
-        "Memo": "『共鳴』を付与する。防御力が最も低い敵が受けたダメージ×80％のダメージを受けるようになる。",
+        "Memo": "ミミSR　ユニゾンダンス : [共鳴] バトル開始時の防御力が最も高い味方1体が受けたダメージの60％を自身も受ける（解除不可）。",
         "CasterIconId": 35,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3500420101]",
         "IconId": 35004,
         "IconType": 1,
         "NameKey": "[EffectGroupName3500420101]",
-        "IsHide": true,
+        "IsHide": false,
         "IsTurnHide": true,
         "EffectGroupInfoList": [
             {
@@ -21129,14 +21595,14 @@
     {
         "Id": 55043500420201,
         "IsIgnore": null,
-        "Memo": "『共鳴』を付与する。防御力の最も高い敵が受けたダメージ×80％のダメージを受けるようになる。",
+        "Memo": "ミミSR　ユニゾンダンス : [共鳴] バトル開始時の防御力が最も低い味方1体が受けたダメージの60％を自身も受ける（解除不可）。",
         "CasterIconId": 35,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3500420201]",
         "IconId": 35004,
         "IconType": 1,
         "NameKey": "[EffectGroupName3500420201]",
-        "IsHide": true,
+        "IsHide": false,
         "IsTurnHide": true,
         "EffectGroupInfoList": [
             {
@@ -21156,28 +21622,28 @@
     {
         "Id": 55043500420301,
         "IsIgnore": null,
-        "Memo": "3500420101解除+3500420201解除",
+        "Memo": "ミミSR　ユニゾンダンス : *付帯者が0の場合3500420101/3500420201を解除する。",
         "CasterIconId": 35,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3500420301]",
         "IconId": 35004,
         "IconType": 1,
         "NameKey": "[EffectGroupName3500420301]",
-        "IsHide": false,
-        "IsTurnHide": false,
+        "IsHide": true,
+        "IsTurnHide": true,
         "EffectGroupInfoList": null
     },
     {
         "Id": 55043500430101,
         "IsIgnore": null,
-        "Memo": "『共鳴』を付与する。防御力が最も低い敵が受けたダメージ×80％のダメージを受けるようになる。",
+        "Memo": "ミミSR　ユニゾンダンス : [共鳴] バトル開始時の防御力が最も高い味方1体が受けたダメージの80％を自身も受ける（解除不可）。",
         "CasterIconId": 35,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3500430101]",
         "IconId": 35004,
         "IconType": 1,
         "NameKey": "[EffectGroupName3500430101]",
-        "IsHide": true,
+        "IsHide": false,
         "IsTurnHide": true,
         "EffectGroupInfoList": [
             {
@@ -21197,14 +21663,14 @@
     {
         "Id": 55043500430201,
         "IsIgnore": null,
-        "Memo": "『共鳴』を付与する。防御力の最も高い敵が受けたダメージ×80％のダメージを受けるようになる。",
+        "Memo": "ミミSR　ユニゾンダンス : [共鳴] バトル開始時の防御力が最も低い味方1体が受けたダメージの80％を自身も受ける（解除不可）。",
         "CasterIconId": 35,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3500430201]",
         "IconId": 35004,
         "IconType": 1,
         "NameKey": "[EffectGroupName3500430201]",
-        "IsHide": true,
+        "IsHide": false,
         "IsTurnHide": true,
         "EffectGroupInfoList": [
             {
@@ -21224,21 +21690,21 @@
     {
         "Id": 55043500430301,
         "IsIgnore": null,
-        "Memo": "3500430101解除+3500430201解除",
+        "Memo": "ミミSR　ユニゾンダンス : *付帯者が0の場合3500430101/3500430201を解除する。",
         "CasterIconId": 35,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3500430301]",
         "IconId": 35004,
         "IconType": 1,
         "NameKey": "[EffectGroupName3500430301]",
-        "IsHide": false,
-        "IsTurnHide": false,
+        "IsHide": true,
+        "IsTurnHide": true,
         "EffectGroupInfoList": null
     },
     {
         "Id": 55043600140102,
         "IsIgnore": null,
-        "Memo": "HPドレイン30%減少",
+        "Memo": "トロポンSR　ライアースティング : HPドレインが30％減少する。",
         "CasterIconId": 36,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3600140102]",
@@ -21261,7 +21727,7 @@
     {
         "Id": 55043600160102,
         "IsIgnore": null,
-        "Memo": "HPドレイン30%減少",
+        "Memo": "トロポンSR　ライアースティング : HPドレインが30％減少する。",
         "CasterIconId": 36,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3600160102]",
@@ -21284,7 +21750,7 @@
     {
         "Id": 55043600220301,
         "IsIgnore": null,
-        "Memo": "バフすべてのターン数を、戦闘不能にした敵数分、増加",
+        "Memo": "トロポンSR　トリックスター : *自身の付帯している全てのバフのターン数を1増加する。",
         "CasterIconId": 36,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3600220301]",
@@ -21298,7 +21764,7 @@
     {
         "Id": 55043600300101,
         "IsIgnore": null,
-        "Memo": "最大HP20%増加",
+        "Memo": "トロポンSR　優しい詐欺師 : 最大HPが20％増加する。",
         "CasterIconId": 36,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3600300101]",
@@ -21312,7 +21778,7 @@
     {
         "Id": 55043600320101,
         "IsIgnore": null,
-        "Memo": "最大HP40%増加",
+        "Memo": "トロポンSR　優しい詐欺師 : 最大HPが40％増加する。",
         "CasterIconId": 36,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3600320101]",
@@ -21326,7 +21792,7 @@
     {
         "Id": 55043600330101,
         "IsIgnore": null,
-        "Memo": "最大HP40%増加+スピード20%増加",
+        "Memo": "トロポンSR　優しい詐欺師 : 最大HPが40％増加し、スピードが20％増加する。",
         "CasterIconId": 36,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3600330101]",
@@ -21340,7 +21806,7 @@
     {
         "Id": 55043600400101,
         "IsIgnore": null,
-        "Memo": "バフを1つ奪う",
+        "Memo": "トロポンSR　イリュージョン : *バフを1つ奪う",
         "CasterIconId": 36,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3600400101]",
@@ -21354,7 +21820,7 @@
     {
         "Id": 55043600420101,
         "IsIgnore": null,
-        "Memo": "バフを1つ奪う",
+        "Memo": "トロポンSR　イリュージョン : *バフを1つ奪う",
         "CasterIconId": 36,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3600420101]",
@@ -21368,7 +21834,7 @@
     {
         "Id": 55043600420102,
         "IsIgnore": null,
-        "Memo": "デバフを1つ移動する",
+        "Memo": "トロポンSR　イリュージョン : *弱体効果を1つ移動する",
         "CasterIconId": 36,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3600420102]",
@@ -21382,7 +21848,7 @@
     {
         "Id": 55043600430101,
         "IsIgnore": null,
-        "Memo": "バフを1つ奪う",
+        "Memo": "トロポンSR　イリュージョン : *バフを1つ奪う",
         "CasterIconId": 36,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3600430101]",
@@ -21396,7 +21862,7 @@
     {
         "Id": 55043600430102,
         "IsIgnore": null,
-        "Memo": "デバフを1つ移動する",
+        "Memo": "トロポンSR　イリュージョン : *弱体効果を1つ移動する",
         "CasterIconId": 36,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3600430102]",
@@ -21410,7 +21876,7 @@
     {
         "Id": 55043700100102,
         "IsIgnore": null,
-        "Memo": "攻撃力50％減少",
+        "Memo": "ハトホルSR　胡蝶の舞 : 攻撃力が50％減少する。",
         "CasterIconId": 37,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3700100102]",
@@ -21437,7 +21903,7 @@
     {
         "Id": 55043700120102,
         "IsIgnore": null,
-        "Memo": "攻撃力50％減少",
+        "Memo": "ハトホルSR　胡蝶の舞 : 攻撃力が50％減少する。",
         "CasterIconId": 37,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3700120102]",
@@ -21464,7 +21930,7 @@
     {
         "Id": 55043700140102,
         "IsIgnore": null,
-        "Memo": "攻撃力50％減少",
+        "Memo": "ハトホルSR　胡蝶の舞 : 攻撃力が50％減少する。",
         "CasterIconId": 37,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3700140102]",
@@ -21491,7 +21957,7 @@
     {
         "Id": 55043700200102,
         "IsIgnore": null,
-        "Memo": "気絶",
+        "Memo": "ハトホルSR　黄泉への誘い : [気絶] 行動不能になる。",
         "CasterIconId": 37,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3700200102]",
@@ -21522,7 +21988,7 @@
     {
         "Id": 55043700230102,
         "IsIgnore": null,
-        "Memo": "気絶",
+        "Memo": "ハトホルSR　黄泉への誘い : [気絶] 行動不能になる。",
         "CasterIconId": 37,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3700230102]",
@@ -21553,7 +22019,7 @@
     {
         "Id": 55043700240103,
         "IsIgnore": null,
-        "Memo": "出血（付与者の攻撃力20%）",
+        "Memo": "ハトホルSR　黄泉への誘い : [浸食] 毎ターンスキルの総与ダメージ×{0}％のダメージを受ける。",
         "CasterIconId": 37,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3700240103]",
@@ -21584,7 +22050,7 @@
     {
         "Id": 55043700250102,
         "IsIgnore": null,
-        "Memo": "気絶",
+        "Memo": "ハトホルSR　黄泉への誘い : [気絶] 行動不能になる。",
         "CasterIconId": 37,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3700250102]",
@@ -21615,7 +22081,7 @@
     {
         "Id": 55043700300101,
         "IsIgnore": null,
-        "Memo": "攻撃力20%増",
+        "Memo": "ハトホルSR　夢舞う踊り子 : 攻撃力が20％増加する。",
         "CasterIconId": 37,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3700300101]",
@@ -21629,7 +22095,7 @@
     {
         "Id": 55043700320101,
         "IsIgnore": null,
-        "Memo": "攻撃力50％増",
+        "Memo": "ハトホルSR　夢舞う踊り子 : 攻撃力が50％増加する。",
         "CasterIconId": 37,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3700320101]",
@@ -21643,7 +22109,7 @@
     {
         "Id": 55043700330101,
         "IsIgnore": null,
-        "Memo": "攻撃力80%増",
+        "Memo": "ハトホルSR　夢舞う踊り子 : 攻撃力が80％増加する。",
         "CasterIconId": 37,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3700330101]",
@@ -21657,7 +22123,7 @@
     {
         "Id": 55043700400101,
         "IsIgnore": null,
-        "Memo": "通常攻撃強化37101",
+        "Memo": "ハトホルSR　黄砂の舞 : 通常攻撃を強化する。通常攻撃がクリティカルヒットした場合、1ターンの間自身の弱体効果命中率が10％増加する。",
         "CasterIconId": 37,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3700400101]",
@@ -21671,7 +22137,7 @@
     {
         "Id": 55043700420101,
         "IsIgnore": null,
-        "Memo": "通常攻撃強化37102",
+        "Memo": "ハトホルSR　黄砂の舞 : 通常攻撃を強化する。通常攻撃がクリティカルヒットした場合、1ターンの間自身の弱体効果命中率が30％増加する。",
         "CasterIconId": 37,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3700420101]",
@@ -21685,7 +22151,7 @@
     {
         "Id": 55043700430101,
         "IsIgnore": null,
-        "Memo": "通常攻撃強化37103",
+        "Memo": "ハトホルSR　黄砂の舞 : 通常攻撃を強化する。通常攻撃がクリティカルヒットした場合、1ターンの間自身の弱体効果命中率が50％増加する。",
         "CasterIconId": 37,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3700430101]",
@@ -21699,7 +22165,7 @@
     {
         "Id": 55043710100101,
         "IsIgnore": null,
-        "Memo": "弱体効果命中10%増（3700400101をこちらに移動する）",
+        "Memo": "ハトホルSR　黄砂の舞 : 弱体効果命中10%増",
         "CasterIconId": 37,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3710100101]",
@@ -21713,7 +22179,7 @@
     {
         "Id": 55043710200101,
         "IsIgnore": null,
-        "Memo": "弱体効果命中30％増",
+        "Memo": "ハトホルSR　黄砂の舞 : 弱体効果命中30％増",
         "CasterIconId": 37,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3710200101]",
@@ -21727,7 +22193,7 @@
     {
         "Id": 55043710300101,
         "IsIgnore": null,
-        "Memo": "弱体効果命中50%増",
+        "Memo": "ハトホルSR　黄砂の舞 : 弱体効果命中50%増",
         "CasterIconId": 37,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3710300101]",
@@ -21741,7 +22207,7 @@
     {
         "Id": 55043800100101,
         "IsIgnore": null,
-        "Memo": "攻撃力付与者の10％分増",
+        "Memo": "オリヴィエSR　勇気への祝福 : 攻撃力が付与者の攻撃力×15％分増加する。",
         "CasterIconId": 38,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3800100101]",
@@ -21776,7 +22242,7 @@
     {
         "Id": 55043800120101,
         "IsIgnore": null,
-        "Memo": "防御力付与者の10％分増+攻撃力付与者の10％分増",
+        "Memo": "オリヴィエSR　勇気への祝福 : 防御力が付与者の防御力×15％分増加し、攻撃力が付与者の攻撃力×15％分増加する。",
         "CasterIconId": 38,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3800120101]",
@@ -21811,7 +22277,7 @@
     {
         "Id": 55043800130101,
         "IsIgnore": null,
-        "Memo": "防御力付与者の20％分増+攻撃力付与者の20％分増",
+        "Memo": "オリヴィエSR　勇気への祝福 : 防御力が付与者の防御力×30％分増加し、攻撃力を付与者の攻撃力×30％分増加する。",
         "CasterIconId": 38,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3800130101]",
@@ -21846,7 +22312,7 @@
     {
         "Id": 55043800140101,
         "IsIgnore": null,
-        "Memo": "防御力付与者の30％分増+攻撃力付与者の30％分増",
+        "Memo": "オリヴィエSR　勇気への祝福 : 防御力が付与者の防御力×40％分増加し、攻撃力を付与者の攻撃力×40％分増加する。",
         "CasterIconId": 38,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3800140101]",
@@ -21881,7 +22347,7 @@
     {
         "Id": 55043800150101,
         "IsIgnore": null,
-        "Memo": "防御力付与者の40％分増+攻撃力付与者の40％分増",
+        "Memo": "オリヴィエSR　勇気への祝福 : 防御力が付与者の防御力×50％分増加し、攻撃力を付与者の攻撃力×50％分増加する。",
         "CasterIconId": 38,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3800150101]",
@@ -21916,7 +22382,7 @@
     {
         "Id": 55043800200301,
         "IsIgnore": null,
-        "Memo": "総与ダメージ10%のシールド",
+        "Memo": "オリヴィエSR　続け、聖なる旗に : [シールド] このスキルの総与ダメージ×40%分のダメージを代わりに受ける。",
         "CasterIconId": 38,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3800200301]",
@@ -21930,7 +22396,7 @@
     {
         "Id": 55043800230401,
         "IsIgnore": null,
-        "Memo": "クリティカルダメージ30%増加",
+        "Memo": "オリヴィエSR　続け、聖なる旗に : クリティカルダメージが30％増加する。<br>[シールド] このスキルの総与ダメージ×40%分のダメージを代わりに受ける。",
         "CasterIconId": 38,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3800230401]",
@@ -21944,7 +22410,7 @@
     {
         "Id": 55043800300101,
         "IsIgnore": null,
-        "Memo": "最大HP10%増加",
+        "Memo": "オリヴィエSR　善行の報い : 最大HPが20％増加する。",
         "CasterIconId": 38,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3800300101]",
@@ -21958,7 +22424,7 @@
     {
         "Id": 55043800320101,
         "IsIgnore": null,
-        "Memo": "最大HP10%増加+防御力30％増加",
+        "Memo": "オリヴィエSR　善行の報い : 最大HPが20％増加し、防御力が40％増加する。",
         "CasterIconId": 38,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3800320101]",
@@ -21972,7 +22438,7 @@
     {
         "Id": 55043800330101,
         "IsIgnore": null,
-        "Memo": "最大HP20%増加+防御力40％増加",
+        "Memo": "オリヴィエSR　善行の報い : 最大HPが30％増加し、防御力が50％増加する。",
         "CasterIconId": 38,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3800330101]",
@@ -21986,7 +22452,7 @@
     {
         "Id": 55043800400101,
         "IsIgnore": null,
-        "Memo": "攻撃力10%減少",
+        "Memo": "オリヴィエSR　神に愛されし者 : 攻撃力が15％減少する。",
         "CasterIconId": 38,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3800400101]",
@@ -22013,7 +22479,7 @@
     {
         "Id": 55043800420101,
         "IsIgnore": null,
-        "Memo": "攻撃力20%減少",
+        "Memo": "オリヴィエSR　神に愛されし者 : 攻撃力が25％減少する。",
         "CasterIconId": 38,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3800420101]",
@@ -22040,7 +22506,7 @@
     {
         "Id": 55043800430101,
         "IsIgnore": null,
-        "Memo": "攻撃力40%減少",
+        "Memo": "オリヴィエSR　神に愛されし者 : 攻撃力が40％減少する。",
         "CasterIconId": 38,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3800430101]",
@@ -22067,7 +22533,7 @@
     {
         "Id": 55043900100102,
         "IsIgnore": null,
-        "Memo": "気絶",
+        "Memo": "プリマヴェーラSR　至高の旋律 : [気絶] 行動不能になる。",
         "CasterIconId": 39,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3900100102]",
@@ -22090,7 +22556,7 @@
     {
         "Id": 55043900140102,
         "IsIgnore": null,
-        "Memo": "気絶",
+        "Memo": "プリマヴェーラSR　至高の旋律 : [気絶] 行動不能になる。",
         "CasterIconId": 39,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3900140102]",
@@ -22113,7 +22579,7 @@
     {
         "Id": 55043900200102,
         "IsIgnore": null,
-        "Memo": "バフ無効",
+        "Memo": "プリマヴェーラSR　レ・ロズ・ブル : [バフ無効] バフが付与されなくなる。",
         "CasterIconId": 39,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3900200102]",
@@ -22144,7 +22610,7 @@
     {
         "Id": 55043900240102,
         "IsIgnore": null,
-        "Memo": "バフ無効+防御力20%減",
+        "Memo": "プリマヴェーラSR　レ・ロズ・ブル : 防御力が20％減少する。<br>[バフ無効] バフが付与されなくなる。",
         "CasterIconId": 39,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3900240102]",
@@ -22175,7 +22641,7 @@
     {
         "Id": 55043900250102,
         "IsIgnore": null,
-        "Memo": "バフ無効+防御力20%減",
+        "Memo": "プリマヴェーラSR　レ・ロズ・ブル : 防御力が20％減少する。<br>[バフ無効] バフが付与されなくなる。",
         "CasterIconId": 39,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3900250102]",
@@ -22206,7 +22672,7 @@
     {
         "Id": 55043900260102,
         "IsIgnore": null,
-        "Memo": "バフ無効+防御力50%減",
+        "Memo": "プリマヴェーラSR　レ・ロズ・ブル : 防御力が30％減少する。<br>[バフ無効] バフが付与されなくなる。",
         "CasterIconId": 39,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3900260102]",
@@ -22237,7 +22703,7 @@
     {
         "Id": 55043900300101,
         "IsIgnore": null,
-        "Memo": "攻撃力増（生存味方数×5%）",
+        "Memo": "プリマヴェーラSR　歌姫の福音 : *自身以外の味方の生存数が1体以上なら、自身に印を付与する。",
         "CasterIconId": 39,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3900300101]",
@@ -22262,9 +22728,65 @@
         ]
     },
     {
+        "Id": 55043900300201,
+        "IsIgnore": null,
+        "Memo": "プリマヴェーラSR　歌姫の福音 : *自身以外の味方の生存数が2体の場合、印のスタック数を1追加する。",
+        "CasterIconId": 39,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription3900300101]",
+        "IconId": 39003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName3900300101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55043900300202,
+        "IsIgnore": null,
+        "Memo": "プリマヴェーラSR　歌姫の福音 : *自身以外の味方の生存数が3体の場合、印のスタック数を2追加する。",
+        "CasterIconId": 39,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription3900300101]",
+        "IconId": 39003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName3900300101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55043900300203,
+        "IsIgnore": null,
+        "Memo": "プリマヴェーラSR　歌姫の福音 : *自身以外の味方の生存数が4体以上の場合、印のスタック数を3追加する。",
+        "CasterIconId": 39,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription3900320101]",
+        "IconId": 39003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName3900320101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55043900300204,
+        "IsIgnore": null,
+        "Memo": "プリマヴェーラSR　歌姫の福音 : バトル開始時の味方の生存数1体につき攻撃力が2%増加する（解除不可）。",
+        "CasterIconId": 39,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription3900330101]",
+        "IconId": 39003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName3900330101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 55043900320101,
         "IsIgnore": null,
-        "Memo": "攻撃力増（生存味方数×5%）+スピード増（生存味方数×5%）",
+        "Memo": "プリマヴェーラSR　歌姫の福音 : バトル開始時の味方の生存数1体につき攻撃力が2%、スピードが2%増加する（解除不可）。",
         "CasterIconId": 39,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3900320101]",
@@ -22291,7 +22813,7 @@
     {
         "Id": 55043900330101,
         "IsIgnore": null,
-        "Memo": "攻撃力増（生存味方数×7%）+スピード増（生存味方数×7%）",
+        "Memo": "プリマヴェーラSR　歌姫の福音 : バトル開始時の味方の生存数1体につき攻撃力が3%、スピードが3%増加する（解除不可）。",
         "CasterIconId": 39,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3900330101]",
@@ -22318,7 +22840,7 @@
     {
         "Id": 55043900400101,
         "IsIgnore": null,
-        "Memo": "攻撃力20%増",
+        "Memo": "プリマヴェーラSR　至高の歌姫 : 攻撃力が20％増加する。",
         "CasterIconId": 39,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3900400101]",
@@ -22332,7 +22854,7 @@
     {
         "Id": 55043900420101,
         "IsIgnore": null,
-        "Memo": "攻撃力50％増",
+        "Memo": "プリマヴェーラSR　至高の歌姫 : 攻撃力が35％増加する。",
         "CasterIconId": 39,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3900420101]",
@@ -22346,7 +22868,7 @@
     {
         "Id": 55043900430101,
         "IsIgnore": null,
-        "Memo": "攻撃力50％増+状態異常耐性100%増",
+        "Memo": "プリマヴェーラSR　至高の歌姫 : 攻撃力が35％増加し、弱体効果耐性率が100％増加する。",
         "CasterIconId": 39,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription3900430101]",
@@ -22550,7 +23072,7 @@
     {
         "Id": 55044100100102,
         "IsIgnore": null,
-        "Memo": "気絶",
+        "Memo": "【弔花の魔女】ナターシャSR　花葬 : [気絶] 行動不能になる。",
         "CasterIconId": 41,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4100100102]",
@@ -22577,7 +23099,7 @@
     {
         "Id": 55044100140102,
         "IsIgnore": null,
-        "Memo": "気絶",
+        "Memo": "【弔花の魔女】ナターシャSR　花葬 : [気絶] 行動不能になる。",
         "CasterIconId": 41,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4100140102]",
@@ -22604,7 +23126,7 @@
     {
         "Id": 55044100150102,
         "IsIgnore": null,
-        "Memo": "気絶",
+        "Memo": "【弔花の魔女】ナターシャSR　花葬 : [気絶] 行動不能になる。",
         "CasterIconId": 41,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4100150102]",
@@ -22629,9 +23151,37 @@
         ]
     },
     {
+        "Id": 55044100220100,
+        "IsIgnore": null,
+        "Memo": "【弔花の魔女】ナターシャSR *印付与",
+        "CasterIconId": 41,
+        "CasterIconType": 1,
+        "DescriptionKey": "*",
+        "IconId": 41002,
+        "IconType": 1,
+        "NameKey": "*",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55044100220202,
+        "IsIgnore": null,
+        "Memo": "【弔花の魔女】ナターシャSR *印解除",
+        "CasterIconId": 41,
+        "CasterIconType": 1,
+        "DescriptionKey": "*",
+        "IconId": 41002,
+        "IconType": 1,
+        "NameKey": "*",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 55044100400101,
         "IsIgnore": null,
-        "Memo": "攻撃力30%増加",
+        "Memo": "【弔花の魔女】ナターシャSR　弔花の魔女 : 攻撃力が30％増加する。",
         "CasterIconId": 41,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4100400101]",
@@ -22645,7 +23195,7 @@
     {
         "Id": 55044100420101,
         "IsIgnore": null,
-        "Memo": "攻撃力30％増加+クリティカルダメージ30％増加",
+        "Memo": "【弔花の魔女】ナターシャSR　弔花の魔女 : 攻撃力が30％増加し、クリティカルダメージが30％増加する。",
         "CasterIconId": 41,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4100420101]",
@@ -22659,7 +23209,7 @@
     {
         "Id": 55044100430101,
         "IsIgnore": null,
-        "Memo": "攻撃力40%増加+クリティカルダメージ40%増加",
+        "Memo": "【弔花の魔女】ナターシャSR　弔花の魔女 : 攻撃力が40％増加し、クリティカルダメージが40％増加する。",
         "CasterIconId": 41,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4100430101]",
@@ -22673,7 +23223,7 @@
     {
         "Id": 55044200100101,
         "IsIgnore": null,
-        "Memo": "シールド（攻撃力300%）+再生（HPの5%）",
+        "Memo": "【聖剣の魔女】フォルティナSR　聖女の祈り : [シールド] 付与者の攻撃力×120％分のダメージを代わりに受ける。",
         "CasterIconId": 42,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4200100101]",
@@ -22710,9 +23260,23 @@
         ]
     },
     {
+        "Id": 55044200100102,
+        "IsIgnore": null,
+        "Memo": "【聖剣の魔女】フォルティナSR　聖女の祈り : [再生] 毎ターンHPを最大HP×7％回復する。",
+        "CasterIconId": 42,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription4200100102]",
+        "IconId": 42001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName4200100102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 55044200120101,
         "IsIgnore": null,
-        "Memo": "シールド（攻撃力500%）+再生（HPの5%）",
+        "Memo": "【聖剣の魔女】フォルティナSR　聖女の祈り : [シールド] 付与者の攻撃力×150％分のダメージを代わりに受ける。",
         "CasterIconId": 42,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4200120101]",
@@ -22751,7 +23315,7 @@
     {
         "Id": 55044200130101,
         "IsIgnore": null,
-        "Memo": "シールド（攻撃力500%）+再生（HPの5%）",
+        "Memo": "【聖剣の魔女】フォルティナSR　聖女の祈り : [シールド] 付与者の攻撃力×150％分のダメージを代わりに受ける。",
         "CasterIconId": 42,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4200130101]",
@@ -22788,9 +23352,23 @@
         ]
     },
     {
+        "Id": 55044200130102,
+        "IsIgnore": null,
+        "Memo": "【聖剣の魔女】フォルティナSR　聖女の祈り : [再生] 毎ターンHPを最大HP×7％回復する。",
+        "CasterIconId": 42,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription4200130102]",
+        "IconId": 42001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName4200130102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 55044200140101,
         "IsIgnore": null,
-        "Memo": "シールド（攻撃力250%）+再生（HPの5%）",
+        "Memo": "【聖剣の魔女】フォルティナSR　聖女の祈り : [シールド] 付与者の攻撃力×180％分のダメージを代わりに受ける。",
         "CasterIconId": 42,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4200140101]",
@@ -22829,7 +23407,7 @@
     {
         "Id": 55044200150101,
         "IsIgnore": null,
-        "Memo": "シールド（攻撃力500%）+再生（HPの5%）",
+        "Memo": "【聖剣の魔女】フォルティナSR　聖女の祈り : [シールド] 付与者の攻撃力×180％分のダメージを代わりに受ける。",
         "CasterIconId": 42,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4200150101]",
@@ -22866,9 +23444,23 @@
         ]
     },
     {
+        "Id": 55044200150102,
+        "IsIgnore": null,
+        "Memo": "【聖剣の魔女】フォルティナSR　聖女の祈り : [再生] 毎ターンHPを最大HP×7％回復する。",
+        "CasterIconId": 42,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription4200150102]",
+        "IconId": 42001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName4200150102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 55044200160101,
         "IsIgnore": null,
-        "Memo": "シールド（攻撃力300%）+再生（HPの5%）",
+        "Memo": "【聖剣の魔女】フォルティナSR　聖女の祈り : [シールド] 付与者の攻撃力×200％分のダメージを代わりに受ける。",
         "CasterIconId": 42,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4200160101]",
@@ -22905,9 +23497,65 @@
         ]
     },
     {
+        "Id": 55044200220602,
+        "IsIgnore": null,
+        "Memo": "【聖剣の魔女】フォルティナSR　*",
+        "CasterIconId": 42,
+        "CasterIconType": 1,
+        "DescriptionKey": "*",
+        "IconId": 42002,
+        "IconType": 1,
+        "NameKey": "*",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55044200230102,
+        "IsIgnore": null,
+        "Memo": "【聖剣の魔女】フォルティナSR　*",
+        "CasterIconId": 42,
+        "CasterIconType": 1,
+        "DescriptionKey": "*",
+        "IconId": 42002,
+        "IconType": 1,
+        "NameKey": "*",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55044200230202,
+        "IsIgnore": null,
+        "Memo": "【聖剣の魔女】フォルティナSR　*",
+        "CasterIconId": 42,
+        "CasterIconType": 1,
+        "DescriptionKey": "*",
+        "IconId": 42002,
+        "IconType": 1,
+        "NameKey": "*",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55044200240301,
+        "IsIgnore": null,
+        "Memo": "【聖剣の魔女】フォルティナSR　*",
+        "CasterIconId": 42,
+        "CasterIconType": 1,
+        "DescriptionKey": "*",
+        "IconId": 42002,
+        "IconType": 1,
+        "NameKey": "*",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 55044200300101,
         "IsIgnore": null,
-        "Memo": "行動阻害無効",
+        "Memo": "【聖剣の魔女】フォルティナSR　聖剣の守護 : [行動阻害無効] 行動阻害が付与されなくなる。",
         "CasterIconId": 42,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4200300101]",
@@ -22930,7 +23578,7 @@
     {
         "Id": 55044200320101,
         "IsIgnore": null,
-        "Memo": "行動阻害無効",
+        "Memo": "【聖剣の魔女】フォルティナSR　聖剣の守護 : [行動阻害無効] 行動阻害が付与されなくなる。",
         "CasterIconId": 42,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4200320101]",
@@ -22953,7 +23601,7 @@
     {
         "Id": 55044200400101,
         "IsIgnore": null,
-        "Memo": "防御力20%増",
+        "Memo": "【聖剣の魔女】フォルティナSR　神様からの贈り物 : 防御力が15％増加する。",
         "CasterIconId": 42,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4200400101]",
@@ -22967,7 +23615,7 @@
     {
         "Id": 55044200420101,
         "IsIgnore": null,
-        "Memo": "防御力20%増+カウンタ20%増",
+        "Memo": "【聖剣の魔女】フォルティナSR　神様からの贈り物 : 防御力が15％増加し、カウンタが15％増加する。",
         "CasterIconId": 42,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4200420101]",
@@ -22981,7 +23629,7 @@
     {
         "Id": 55044200430101,
         "IsIgnore": null,
-        "Memo": "防御力30％+カウンタ30％増",
+        "Memo": "【聖剣の魔女】フォルティナSR　神様からの贈り物 : 防御力が20％増加し、カウンタが20％増加する。",
         "CasterIconId": 42,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4200430101]",
@@ -22995,7 +23643,7 @@
     {
         "Id": 55044300100102,
         "IsIgnore": null,
-        "Memo": "物理防御力50％減少",
+        "Memo": "【雷啼の魔女】ケルベロスSR　雷啼の爪 : 物理防御力が50%減少する。",
         "CasterIconId": 43,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4300100102]",
@@ -23009,7 +23657,7 @@
     {
         "Id": 55044300140301,
         "IsIgnore": null,
-        "Memo": "クリティカルダメージ30％増加",
+        "Memo": "【雷啼の魔女】ケルベロスSR　雷啼の爪 : クリティカルダメージが30％増加する。",
         "CasterIconId": 43,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4300140301]",
@@ -23032,7 +23680,7 @@
     {
         "Id": 55044300160301,
         "IsIgnore": null,
-        "Memo": "クリティカルダメージ60％増加",
+        "Memo": "【雷啼の魔女】ケルベロスSR　雷啼の爪 : クリティカルダメージが60％増加する。",
         "CasterIconId": 43,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4300160301]",
@@ -23055,7 +23703,7 @@
     {
         "Id": 55044300330102,
         "IsIgnore": null,
-        "Memo": "デバフ無効",
+        "Memo": "【雷啼の魔女】ケルベロスSR　魔法の言葉 : [弱体効果無効] 弱体効果が付与されなくなる。",
         "CasterIconId": 43,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4300330102]",
@@ -23069,7 +23717,7 @@
     {
         "Id": 55044300400101,
         "IsIgnore": null,
-        "Memo": "攻撃力20％増加",
+        "Memo": "【雷啼の魔女】ケルベロスSR　制御不能の力 : 攻撃力が20％増加する。",
         "CasterIconId": 43,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4300400101]",
@@ -23083,7 +23731,7 @@
     {
         "Id": 55044300420101,
         "IsIgnore": null,
-        "Memo": "攻撃力40％増加",
+        "Memo": "【雷啼の魔女】ケルベロスSR　制御不能の力 : 攻撃力が40％増加する。",
         "CasterIconId": 43,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4300420101]",
@@ -23097,7 +23745,7 @@
     {
         "Id": 55044300430101,
         "IsIgnore": null,
-        "Memo": "クリティカル率20％増加",
+        "Memo": "【雷啼の魔女】ケルベロスSR　制御不能の力 : 攻撃力が40％増加し、クリティカル率が20％増加する。",
         "CasterIconId": 43,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4300430101]",
@@ -23111,7 +23759,7 @@
     {
         "Id": 55044400100102,
         "IsIgnore": null,
-        "Memo": "与ダメージ10％減",
+        "Memo": "【天泣の魔女】ルサールカSR　キキーモラの腐り雨：与ダメージ10％減",
         "CasterIconId": 44,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4400100102]",
@@ -23138,7 +23786,7 @@
     {
         "Id": 55044400130102,
         "IsIgnore": null,
-        "Memo": "与ダメージ減少15％",
+        "Memo": "【天泣の魔女】ルサールカSR　キキーモラの腐り雨：与ダメージ減少15％",
         "CasterIconId": 44,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4400130102]",
@@ -23165,7 +23813,7 @@
     {
         "Id": 55044400140102,
         "IsIgnore": null,
-        "Memo": "与ダメージ減少15%",
+        "Memo": "【天泣の魔女】ルサールカSR　キキーモラの腐り雨：与ダメージ減少15%",
         "CasterIconId": 44,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4400140102]",
@@ -23192,7 +23840,7 @@
     {
         "Id": 55044400320201,
         "IsIgnore": null,
-        "Memo": "多重バリア1枚",
+        "Memo": "【天泣の魔女】ルサールカSR　生贄の乙女：多重バリア1枚",
         "CasterIconId": 44,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4400320201]",
@@ -23215,7 +23863,7 @@
     {
         "Id": 55044400330201,
         "IsIgnore": null,
-        "Memo": "多重バリア5枚",
+        "Memo": "【天泣の魔女】ルサールカSR　生贄の乙女：多重バリア5枚",
         "CasterIconId": 44,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4400330201]",
@@ -23238,7 +23886,7 @@
     {
         "Id": 55044400330202,
         "IsIgnore": null,
-        "Memo": "スキル1(，2)クールタイムリセット",
+        "Memo": "【天泣の魔女】ルサールカSR　生贄の乙女：スキル1(，2)クールタイムリセット",
         "CasterIconId": 44,
         "CasterIconType": 1,
         "DescriptionKey": "*",
@@ -23252,7 +23900,7 @@
     {
         "Id": 55044400330203,
         "IsIgnore": null,
-        "Memo": "スキル(1，)2クールタイムリセット",
+        "Memo": "【天泣の魔女】ルサールカSR　生贄の乙女：スキル(1，)2クールタイムリセット",
         "CasterIconId": 44,
         "CasterIconType": 1,
         "DescriptionKey": "*",
@@ -23266,7 +23914,7 @@
     {
         "Id": 55044400330204,
         "IsIgnore": null,
-        "Memo": "攻撃力70%増, スピード30％増",
+        "Memo": "【天泣の魔女】ルサールカSR　生贄の乙女：攻撃力70%増, スピード30％増",
         "CasterIconId": 44,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription44003302013",
@@ -23280,7 +23928,7 @@
     {
         "Id": 55044400400101,
         "IsIgnore": null,
-        "Memo": "4400400102を解除",
+        "Memo": "【天泣の魔女】ルサールカSR　天泣の魔女：4400400102を解除",
         "CasterIconId": 44,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4400400101]",
@@ -23294,7 +23942,7 @@
     {
         "Id": 55044400400102,
         "IsIgnore": null,
-        "Memo": "物理魔法防御貫通増加30%（解除可能）",
+        "Memo": "【天泣の魔女】ルサールカSR　天泣の魔女：物理魔法防御貫通増加30%（解除可能）",
         "CasterIconId": 44,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4400400102]",
@@ -23317,7 +23965,7 @@
     {
         "Id": 55044400420101,
         "IsIgnore": null,
-        "Memo": "4400400102,4400420103を解除",
+        "Memo": "【天泣の魔女】ルサールカSR　天泣の魔女：4400400102,4400420103を解除",
         "CasterIconId": 44,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4400420101]",
@@ -23331,7 +23979,7 @@
     {
         "Id": 55044400420103,
         "IsIgnore": null,
-        "Memo": "クリティカル耐性増加30%",
+        "Memo": "【天泣の魔女】ルサールカSR　天泣の魔女：クリティカル耐性率が30％増加する。",
         "CasterIconId": 44,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4400420103]",
@@ -23354,7 +24002,7 @@
     {
         "Id": 55044400430101,
         "IsIgnore": null,
-        "Memo": "4400430102, 4400430103を解除",
+        "Memo": "【天泣の魔女】ルサールカSR　天泣の魔女：4400430102, 4400430103を解除",
         "CasterIconId": 44,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4400430101]",
@@ -23368,7 +24016,7 @@
     {
         "Id": 55044400430102,
         "IsIgnore": null,
-        "Memo": "物理魔法防御貫通増加50%（解除可能）",
+        "Memo": "【天泣の魔女】ルサールカSR　天泣の魔女：物理魔法防御貫通増加50%（解除可能）",
         "CasterIconId": 44,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4400430102]",
@@ -23391,7 +24039,7 @@
     {
         "Id": 55044400430103,
         "IsIgnore": null,
-        "Memo": "クリティカル耐性増加50%（解除可能）",
+        "Memo": "【天泣の魔女】ルサールカSR　天泣の魔女：クリティカル耐性率が50％増加する。",
         "CasterIconId": 44,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4400430103]",
@@ -23414,7 +24062,7 @@
     {
         "Id": 55044400500101,
         "IsIgnore": null,
-        "Memo": "自身のスピード30%上昇（解除可能）",
+        "Memo": "【天泣の魔女】ルサールカSR　：自身のスピード30%上昇（解除可能）",
         "CasterIconId": 44,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4400500101]",
@@ -23653,7 +24301,7 @@
     {
         "Id": 55044600100102,
         "IsIgnore": null,
-        "Memo": "沈黙",
+        "Memo": "【雪幻の魔女】ルナリンドSR　アイスコフィン : [沈黙] スキルが使用不能になる。",
         "CasterIconId": 46,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4600100102]",
@@ -23680,7 +24328,7 @@
     {
         "Id": 55044600140101,
         "IsIgnore": null,
-        "Memo": "クリティカル確率50%増",
+        "Memo": "【雪幻の魔女】ルナリンドSR　アイスコフィン : クリティカル確率が25％増加する。",
         "CasterIconId": 46,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4600140101]",
@@ -23703,7 +24351,7 @@
     {
         "Id": 55044600140202,
         "IsIgnore": null,
-        "Memo": "沈黙",
+        "Memo": "【雪幻の魔女】ルナリンドSR　アイスコフィン : [沈黙] スキルが使用不能になる。",
         "CasterIconId": 46,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4600140202]",
@@ -23730,7 +24378,7 @@
     {
         "Id": 55044600150202,
         "IsIgnore": null,
-        "Memo": "沈黙",
+        "Memo": "【雪幻の魔女】ルナリンドSR　アイスコフィン : [沈黙] スキルが使用不能になる。",
         "CasterIconId": 46,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4600150202]",
@@ -23757,7 +24405,7 @@
     {
         "Id": 55044600160101,
         "IsIgnore": null,
-        "Memo": "クリティカル確率75%増",
+        "Memo": "【雪幻の魔女】ルナリンドSR　アイスコフィン : クリティカル確率が40％増加する。",
         "CasterIconId": 46,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4600160101]",
@@ -23780,7 +24428,7 @@
     {
         "Id": 55044600200102,
         "IsIgnore": null,
-        "Memo": "毒（現在HP5%）",
+        "Memo": "【雪幻の魔女】ルナリンドSR　ディスペアード : [毒] 毎ターン現在HP×10%のダメージを受ける。",
         "CasterIconId": 46,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4600200102]",
@@ -23807,7 +24455,7 @@
     {
         "Id": 55044600220102,
         "IsIgnore": null,
-        "Memo": "毒（現在HP10％）",
+        "Memo": "【雪幻の魔女】ルナリンドSR　ディスペアード : [毒] 毎ターン現在HP×15%のダメージを受ける。",
         "CasterIconId": 46,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4600220102]",
@@ -23834,7 +24482,7 @@
     {
         "Id": 55044600240102,
         "IsIgnore": null,
-        "Memo": "毒（現在HP10％）",
+        "Memo": "【雪幻の魔女】ルナリンドSR　ディスペアード : [毒] 毎ターン現在HP×15%のダメージを受ける。",
         "CasterIconId": 46,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4600240102]",
@@ -23861,7 +24509,7 @@
     {
         "Id": 55044600300101,
         "IsIgnore": null,
-        "Memo": "物理防御力10%増",
+        "Memo": "【雪幻の魔女】ルナリンドSR　姉妹の絆 : 物理防御力が5％増加する（解除不可）。",
         "CasterIconId": 46,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4600300101]",
@@ -23886,9 +24534,23 @@
         ]
     },
     {
+        "Id": 55044600300201,
+        "IsIgnore": null,
+        "Memo": "【雪幻の魔女】ルナリンドSR　姉妹の絆 : *物理防御力増加のバフを解除",
+        "CasterIconId": 46,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription4600300101]",
+        "IconId": 46003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName4600300101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 55044600320101,
         "IsIgnore": null,
-        "Memo": "物理防御力20%増",
+        "Memo": "【雪幻の魔女】ルナリンドSR　姉妹の絆 : 物理防御力が10％増加する（解除不可）。",
         "CasterIconId": 46,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4600320101]",
@@ -23913,9 +24575,23 @@
         ]
     },
     {
+        "Id": 55044600320201,
+        "IsIgnore": null,
+        "Memo": "【雪幻の魔女】ルナリンドSR　姉妹の絆 : *物理防御力増加のバフを解除",
+        "CasterIconId": 46,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription4600320101]",
+        "IconId": 46003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName4600320101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 55044600330101,
         "IsIgnore": null,
-        "Memo": "物理防御力30％増",
+        "Memo": "【雪幻の魔女】ルナリンドSR　姉妹の絆 : 物理防御力が20％増加する（解除不可）。",
         "CasterIconId": 46,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4600330101]",
@@ -23940,9 +24616,23 @@
         ]
     },
     {
+        "Id": 55044600330201,
+        "IsIgnore": null,
+        "Memo": "【雪幻の魔女】ルナリンドSR　姉妹の絆 : *物理防御力増加のバフを解除",
+        "CasterIconId": 46,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription4600330101]",
+        "IconId": 46003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName4600330101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 55044600400101,
         "IsIgnore": null,
-        "Memo": "被ダメージ20%減",
+        "Memo": "【雪幻の魔女】ルナリンドSR　凍てついた心 : 被ダメージが25％減少する。",
         "CasterIconId": 46,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4600400101]",
@@ -23956,7 +24646,7 @@
     {
         "Id": 55044600420101,
         "IsIgnore": null,
-        "Memo": "被ダメージ20%減+HPドレイン20%増",
+        "Memo": "【雪幻の魔女】ルナリンドSR　凍てついた心 : 被ダメージが25％減少し、HPドレインが25％増加する。",
         "CasterIconId": 46,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4600420101]",
@@ -23970,7 +24660,7 @@
     {
         "Id": 55044600430101,
         "IsIgnore": null,
-        "Memo": "被ダメージ40%減+HPドレイン20%増",
+        "Memo": "【雪幻の魔女】ルナリンドSR　凍てついた心 : 被ダメージが40％減少し、HPドレインが25％増加する。",
         "CasterIconId": 46,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4600430101]",
@@ -23984,7 +24674,7 @@
     {
         "Id": 55044700100101,
         "IsIgnore": null,
-        "Memo": "ヴァルリーデロックオン（非表示）",
+        "Memo": "【劫火の魔女】ヴァルリーデSR　バーストネメシス：ロックオン",
         "CasterIconId": 47,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4700100101]",
@@ -23998,7 +24688,7 @@
     {
         "Id": 55044700300101,
         "IsIgnore": null,
-        "Memo": "攻撃力増（自分のHP割合×0.5分）",
+        "Memo": "【劫火の魔女】ヴァルリーデSR　闘志の焔 : 自身のHPが多くなるほど攻撃力が増加する（最大25％）。",
         "CasterIconId": 47,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4700300101]",
@@ -24012,7 +24702,7 @@
     {
         "Id": 55044700320101,
         "IsIgnore": null,
-        "Memo": "攻撃力増（自分のHP割合×0.6分）",
+        "Memo": "【劫火の魔女】ヴァルリーデSR　闘志の焔 : 自身のHPが多くなるほど攻撃力が増加する（最大45％）。",
         "CasterIconId": 47,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4700320101]",
@@ -24026,7 +24716,7 @@
     {
         "Id": 55044700330101,
         "IsIgnore": null,
-        "Memo": "攻撃力増（自分のHP割合×0.7分）",
+        "Memo": "【劫火の魔女】ヴァルリーデSR　闘志の焔 : 自身のHPが多くなるほど攻撃力が増加する（最大70％）。",
         "CasterIconId": 47,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4700330101]",
@@ -24040,7 +24730,7 @@
     {
         "Id": 55044700400101,
         "IsIgnore": null,
-        "Memo": "被ダメージ20%減+再生（攻撃力10%回復）",
+        "Memo": "【劫火の魔女】ヴァルリーデSR　劫火の魔女 : 被ダメージが5％減少する。<br>[再生] 毎ターンHPを最大HP×10％回復する。<br>HP割合が90%以上になるとこのスキルは解除される。",
         "CasterIconId": 47,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4700400101]",
@@ -24054,7 +24744,7 @@
     {
         "Id": 55044700400201,
         "IsIgnore": null,
-        "Memo": "4700400101解除",
+        "Memo": "【劫火の魔女】ヴァルリーデSR　劫火の魔女 : *自身の残りHP割合が90％以上の場合4700400101を解除する。",
         "CasterIconId": 47,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4700400201]",
@@ -24068,7 +24758,7 @@
     {
         "Id": 55044700420101,
         "IsIgnore": null,
-        "Memo": "被ダメージ20%減+再生（攻撃力15%回復）",
+        "Memo": "【劫火の魔女】ヴァルリーデSR　劫火の魔女 : 被ダメージが5％減少する。<br>[再生] 毎ターンHPを最大HP×20％回復する。<br>HP割合が90%以上になるとこのスキルは解除される。",
         "CasterIconId": 47,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4700420101]",
@@ -24082,7 +24772,7 @@
     {
         "Id": 55044700420201,
         "IsIgnore": null,
-        "Memo": "4700420101を解除",
+        "Memo": "【劫火の魔女】ヴァルリーデSR　劫火の魔女 : *自身の残りHP割合が90％以上の場合4700420101を解除する。",
         "CasterIconId": 47,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4700420201]",
@@ -24096,7 +24786,7 @@
     {
         "Id": 55044700430101,
         "IsIgnore": null,
-        "Memo": "被ダメージ30%減+再生（攻撃力15%回復）",
+        "Memo": "【劫火の魔女】ヴァルリーデSR　劫火の魔女 : 被ダメージが10％減少する。<br>[再生] 毎ターンHPを最大HP×20％回復する。<br>HP割合が90%以上になるとこのスキルは解除される。",
         "CasterIconId": 47,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4700430101]",
@@ -24110,7 +24800,7 @@
     {
         "Id": 55044700430201,
         "IsIgnore": null,
-        "Memo": "4700430101を解除",
+        "Memo": "【劫火の魔女】ヴァルリーデSR　劫火の魔女 : *自身の残りHP割合が90％以上の場合4700430101を解除する。",
         "CasterIconId": 47,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4700430201]",
@@ -24124,7 +24814,7 @@
     {
         "Id": 55044800300101,
         "IsIgnore": null,
-        "Memo": "【錆鉄の魔女】Ａ.Ａ.SR　最高傑作 : [通常攻撃強化] 通常攻撃のダメージを敵3体に魔力×150％の直接攻撃に強化する。",
+        "Memo": "【錆鉄の魔女】Ａ.Ａ.SR　最高傑作 : [通常攻撃強化] 通常攻撃を魔力×150％の直接攻撃に強化する。",
         "CasterIconId": 48,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4800300101]",
@@ -24138,7 +24828,7 @@
     {
         "Id": 55044800320101,
         "IsIgnore": null,
-        "Memo": "【錆鉄の魔女】Ａ.Ａ.SR　最高傑作 : [通常攻撃強化] 通常攻撃のダメージを敵3体に魔力×180％の直接攻撃に強化する。",
+        "Memo": "【錆鉄の魔女】Ａ.Ａ.SR　最高傑作 : [通常攻撃強化] 通常攻撃を魔力×180％の直接攻撃に強化する。",
         "CasterIconId": 48,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4800320101]",
@@ -24152,7 +24842,7 @@
     {
         "Id": 55044800330101,
         "IsIgnore": null,
-        "Memo": "【錆鉄の魔女】Ａ.Ａ.SR　最高傑作 : [通常攻撃強化] 通常攻撃のダメージを敵3体に魔力×220％の直接攻撃に強化する。",
+        "Memo": "【錆鉄の魔女】Ａ.Ａ.SR　最高傑作 : [通常攻撃強化] 通常攻撃を魔力×220％の直接攻撃に強化する。",
         "CasterIconId": 48,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4800330101]",
@@ -24166,7 +24856,7 @@
     {
         "Id": 55044800500101,
         "IsIgnore": null,
-        "Memo": "命中率40％増（解除不可）",
+        "Memo": "【錆鉄の魔女】Ａ.Ａ.SR　 :命中率40％増（解除不可）",
         "CasterIconId": 48,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4800500101]",
@@ -24180,7 +24870,7 @@
     {
         "Id": 55044900140201,
         "IsIgnore": null,
-        "Memo": "【骸晶の魔女】オフィーリアSR　目を奪うは眩き刃 : 弱体効果耐性30％増",
+        "Memo": "【骸晶の魔女】オフィーリアSR　目を奪うは眩き刃 : 弱体効果耐性率が30%増加する。",
         "CasterIconId": 49,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4900140201]",
@@ -24203,7 +24893,7 @@
     {
         "Id": 55044900150201,
         "IsIgnore": null,
-        "Memo": "【骸晶の魔女】オフィーリアSR　目を奪うは眩き刃 : 弱体効果耐性50％増",
+        "Memo": "【骸晶の魔女】オフィーリアSR　目を奪うは眩き刃 : 弱体効果耐性率が50%増加する。",
         "CasterIconId": 49,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4900150201]",
@@ -24307,7 +24997,7 @@
     {
         "Id": 55044900300101,
         "IsIgnore": null,
-        "Memo": "【骸晶の魔女】オフィーリアSR　誓いを守る者 :挑発,回避率減少50％",
+        "Memo": "【骸晶の魔女】オフィーリアSR　誓いを守る者 : 回避率が50％減少する。<br>[挑発] 対象がランダムである敵の攻撃を引き付ける。",
         "CasterIconId": 49,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4900300101]",
@@ -24334,7 +25024,7 @@
     {
         "Id": 55044900320101,
         "IsIgnore": null,
-        "Memo": "【骸晶の魔女】オフィーリアSR　誓いを守る者 : 挑発＋被ダメージ30％減、回避率50％減少",
+        "Memo": "【骸晶の魔女】オフィーリアSR　誓いを守る者 : 被ダメージが30%減少し、回避率が50％減少する。<br>[挑発] 対象がランダムである敵の攻撃を引き付ける。",
         "CasterIconId": 49,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4900320101]",
@@ -24361,7 +25051,7 @@
     {
         "Id": 55044900330101,
         "IsIgnore": null,
-        "Memo": "【骸晶の魔女】オフィーリアSR　誓いを守る者 : 挑発＋被ダメージ30％減+カウンタ50％増、回避率50％減少",
+        "Memo": "【骸晶の魔女】オフィーリアSR　誓いを守る者 : 被ダメージが30%減少し、カウンタが50%増加し、回避率が50％減少する。<br>[挑発] 対象がランダムである敵の攻撃を引き付ける。",
         "CasterIconId": 49,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4900330101]",
@@ -24388,7 +25078,7 @@
     {
         "Id": 55044900400101,
         "IsIgnore": null,
-        "Memo": "【骸晶の魔女】オフィーリアSR　近衛の誉れ : 最大HPが20％増加する。クリティカル耐性20％増加",
+        "Memo": "【骸晶の魔女】オフィーリアSR　近衛の誉れ : 最大HPが20％増加し、クリティカル耐性率が20％増加する。",
         "CasterIconId": 49,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4900400101]",
@@ -24402,7 +25092,7 @@
     {
         "Id": 55044900420101,
         "IsIgnore": null,
-        "Memo": "【骸晶の魔女】オフィーリアSR　近衛の誉れ : 最大HPが40％増加する。クリティカル耐性40％",
+        "Memo": "【骸晶の魔女】オフィーリアSR　近衛の誉れ : 最大HPが40％増加し、クリティカル耐性率が40％増加する。",
         "CasterIconId": 49,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4900420101]",
@@ -24490,14 +25180,14 @@
     {
         "Id": 55045000300101,
         "IsIgnore": null,
-        "Memo": "*クリティカルダメージが20%増加する（解除不可）。",
+        "Memo": "クリティカルダメージが20%増加する（解除不可）。",
         "CasterIconId": 50,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5000300101]",
         "IconId": 50003,
         "IconType": 1,
         "NameKey": "[EffectGroupName5000300101]",
-        "IsHide": true,
+        "IsHide": false,
         "IsTurnHide": true,
         "EffectGroupInfoList": [
             {
@@ -24550,14 +25240,14 @@
     {
         "Id": 55045000330101,
         "IsIgnore": null,
-        "Memo": "*クリティカルダメージが40%増加する（解除不可）。",
+        "Memo": "クリティカルダメージが40%増加する（解除不可）。",
         "CasterIconId": 50,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5000330101]",
         "IconId": 50003,
         "IconType": 1,
         "NameKey": "[EffectGroupName5000330101]",
-        "IsHide": true,
+        "IsHide": false,
         "IsTurnHide": true,
         "EffectGroupInfoList": [
             {
@@ -24775,7 +25465,7 @@
     {
         "Id": 55045100100301,
         "IsIgnore": null,
-        "Memo": "ソフィアSR 攻撃力増15％",
+        "Memo": "ソフィアSR　紅潔の剣舞：攻撃力増15％",
         "CasterIconId": 51,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5100100301]",
@@ -24798,7 +25488,7 @@
     {
         "Id": 55045100130301,
         "IsIgnore": null,
-        "Memo": "ソフィアSR 攻撃力増30％",
+        "Memo": "ソフィアSR　紅潔の剣舞：攻撃力増30％",
         "CasterIconId": 51,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5100130301]",
@@ -24821,7 +25511,7 @@
     {
         "Id": 55045100300101,
         "IsIgnore": null,
-        "Memo": "ソフィアSR 付帯するすべての弱体効果のターン数を2減少する。",
+        "Memo": "ソフィアSR　教導の精神：付帯するすべての弱体効果のターン数を2減少する。",
         "CasterIconId": 51,
         "CasterIconType": 1,
         "DescriptionKey": "*",
@@ -24835,7 +25525,7 @@
     {
         "Id": 55045100320201,
         "IsIgnore": null,
-        "Memo": "ソフィアSR 弱体効果命中率減20％",
+        "Memo": "ソフィアSR　教導の精神：弱体効果命中率減20％",
         "CasterIconId": 51,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5100320201]",
@@ -24862,7 +25552,7 @@
     {
         "Id": 55045100330201,
         "IsIgnore": null,
-        "Memo": "ソフィアSR 弱体効果命中率減50％",
+        "Memo": "ソフィアSR　教導の精神：弱体効果命中率減50％",
         "CasterIconId": 51,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5100330201]",
@@ -24889,7 +25579,7 @@
     {
         "Id": 55045100340201,
         "IsIgnore": null,
-        "Memo": "ソフィアSR 弱体効果命中率50減と攻撃力減40％",
+        "Memo": "ソフィアSR　教導の精神：弱体効果命中率50減と攻撃力減40％",
         "CasterIconId": 51,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5100340201]",
@@ -24916,7 +25606,7 @@
     {
         "Id": 55045100400101,
         "IsIgnore": null,
-        "Memo": "ソフィアSR 最大HP増15％",
+        "Memo": "ソフィアSR　教師の心得：最大HP増15％",
         "CasterIconId": 51,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5100400101]",
@@ -24930,7 +25620,7 @@
     {
         "Id": 55045100420101,
         "IsIgnore": null,
-        "Memo": "ソフィアSR 最大HP増15％とクリティカル耐性15％増",
+        "Memo": "ソフィアSR　教師の心得：最大HPが15％増加し、クリティカル耐性率が15％増加する。",
         "CasterIconId": 51,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5100420101]",
@@ -24944,7 +25634,7 @@
     {
         "Id": 55045100430101,
         "IsIgnore": null,
-        "Memo": "ソフィアSR 最大HP増30％とクリティカル耐性15％増",
+        "Memo": "ソフィアSR　教師の心得：最大HPが30％増加し、クリティカル耐性率が30％増加する。",
         "CasterIconId": 51,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5100430101]",
@@ -24958,7 +25648,7 @@
     {
         "Id": 55045100500101,
         "IsIgnore": null,
-        "Memo": "ソフィアSR カウンタ55％増",
+        "Memo": "ソフィアSR　教師の心得：カウンタ55％増",
         "CasterIconId": 51,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5100500101]",
@@ -24972,7 +25662,7 @@
     {
         "Id": 55045200100101,
         "IsIgnore": null,
-        "Memo": "与ダメージが20%増加する（最大60％）。",
+        "Memo": "シヴィSR　リアクティブブレイド：与ダメージが20%増加する（最大60％）。",
         "CasterIconId": 52,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5200100101]",
@@ -24999,7 +25689,7 @@
     {
         "Id": 55045200130101,
         "IsIgnore": null,
-        "Memo": "与ダメージが25%増加する（最大75％）。",
+        "Memo": "シヴィSR　リアクティブブレイド：与ダメージが25%増加する（最大75％）。",
         "CasterIconId": 52,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5200130101]",
@@ -25026,7 +25716,7 @@
     {
         "Id": 55045200150101,
         "IsIgnore": null,
-        "Memo": "与ダメージが30%増加する（最大90％）。",
+        "Memo": "シヴィSR　リアクティブブレイド：与ダメージが30%増加する（最大90％）。",
         "CasterIconId": 52,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5200150101]",
@@ -25053,7 +25743,7 @@
     {
         "Id": 55045200220202,
         "IsIgnore": null,
-        "Memo": "弱体効果を全て解除",
+        "Memo": "シヴィSR　アブソーブブレイド：弱体効果を全て解除",
         "CasterIconId": 52,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5200220202]",
@@ -25067,7 +25757,7 @@
     {
         "Id": 55045200300101,
         "IsIgnore": null,
-        "Memo": "防御力が25%増加し、物理防御力が25%増加する。",
+        "Memo": "シヴィSR　みんな頑張るっす！：防御力が25%増加し、物理防御力が25%増加する。",
         "CasterIconId": 52,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5200300101]",
@@ -25082,15 +25772,46 @@
                 "OrderNumber": 1
             },
             {
-                "EffectGroupId": 55045200300101,
+                "EffectGroupId": 55045200330101,
                 "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 55045200300101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 55045200330101,
+        "IsIgnore": null,
+        "Memo": "シヴィSR　みんな頑張るっす！：防御力が25%増加し、物理防御力が25%増加する。",
+        "CasterIconId": 52,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription5200300101]",
+        "IconId": 52003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName5200300101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55045200330201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55045200330101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 55045200300101,
+                "OrderNumber": 3
             }
         ]
     },
     {
         "Id": 55045200330201,
         "IsIgnore": null,
-        "Memo": "防御力が100%増加し、物理防御力が100%増加する。",
+        "Memo": "シヴィSR　みんな頑張るっす！：防御力が100%増加し、物理防御力が100%増加する。",
         "CasterIconId": 52,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5200330201]",
@@ -25105,15 +25826,19 @@
                 "OrderNumber": 1
             },
             {
-                "EffectGroupId": 55045200300101,
+                "EffectGroupId": 55045200330101,
                 "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 55045200300101,
+                "OrderNumber": 3
             }
         ]
     },
     {
         "Id": 55045200400101,
         "IsIgnore": null,
-        "Memo": "弱体効果を全て解除",
+        "Memo": "シヴィSR　魔剣の守護：弱体効果を全て解除",
         "CasterIconId": 52,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5200400101]",
@@ -25127,7 +25852,7 @@
     {
         "Id": 55045200420102,
         "IsIgnore": null,
-        "Memo": "被ダメージが15%減少する。",
+        "Memo": "シヴィSR　魔剣の守護：被ダメージが15%減少する。",
         "CasterIconId": 52,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5200420102]",
@@ -25150,7 +25875,7 @@
     {
         "Id": 55045200430102,
         "IsIgnore": null,
-        "Memo": "被ダメージが30%減少する。",
+        "Memo": "シヴィSR　魔剣の守護：被ダメージが30%減少する。",
         "CasterIconId": 52,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5200430102]",
@@ -25173,7 +25898,7 @@
     {
         "Id": 55045300100102,
         "IsIgnore": null,
-        "Memo": "攻撃力を15％減少させる。",
+        "Memo": "ウィーラSR　ウンディーネ：攻撃力を15％減少させる。",
         "CasterIconId": 53,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5300100102]",
@@ -25200,7 +25925,7 @@
     {
         "Id": 55045300120102,
         "IsIgnore": null,
-        "Memo": "攻撃力を35％減少させる。",
+        "Memo": "ウィーラSR　ウンディーネ：攻撃力を35％減少させる。",
         "CasterIconId": 53,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5300120102]",
@@ -25227,7 +25952,7 @@
     {
         "Id": 55045300130102,
         "IsIgnore": null,
-        "Memo": "攻撃力を35％減少させる。",
+        "Memo": "ウィーラSR　ウンディーネ：攻撃力を35％減少させる。",
         "CasterIconId": 53,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5300130102]",
@@ -25254,7 +25979,7 @@
     {
         "Id": 55045300200102,
         "IsIgnore": null,
-        "Memo": "スピードを15％減少させる（最大3回まで）。",
+        "Memo": "ウィーラSR　アンダイン：スピードを15％減少させる（最大3回まで）。",
         "CasterIconId": 53,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5300200102]",
@@ -25277,7 +26002,7 @@
     {
         "Id": 55045300220102,
         "IsIgnore": null,
-        "Memo": "スピードを15％減少させる（最大4回まで）。",
+        "Memo": "ウィーラSR　アンダイン：スピードを15％減少させる（最大4回まで）。",
         "CasterIconId": 53,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5300220102]",
@@ -25300,7 +26025,7 @@
     {
         "Id": 55045300300101,
         "IsIgnore": null,
-        "Memo": "自身の命中率が20％増加する（解除不可）。",
+        "Memo": "ウィーラSR　雨が教えてくれるの：自身の命中率が20％増加する（解除不可）。",
         "CasterIconId": 53,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5300300101]",
@@ -25314,7 +26039,7 @@
     {
         "Id": 55045300320101,
         "IsIgnore": null,
-        "Memo": "自身の命中率と弱体効果命中率が20％増加する（解除不可）。",
+        "Memo": "ウィーラSR　雨が教えてくれるの：自身の命中率と弱体効果命中率が20％増加する（解除不可）。",
         "CasterIconId": 53,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5300320101]",
@@ -25328,7 +26053,7 @@
     {
         "Id": 55045300330101,
         "IsIgnore": null,
-        "Memo": "自身の命中率と弱体効果命中率が40％増加する（解除不可）。",
+        "Memo": "ウィーラSR　雨が教えてくれるの：自身の命中率と弱体効果命中率が40％増加する（解除不可）。",
         "CasterIconId": 53,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5300330101]",
@@ -25342,7 +26067,7 @@
     {
         "Id": 55045300400101,
         "IsIgnore": null,
-        "Memo": "自身の弱体効果をすべて解除。",
+        "Memo": "ウィーラSR　ふたりぼっちの絆：自身の弱体効果をすべて解除。",
         "CasterIconId": 53,
         "CasterIconType": 1,
         "DescriptionKey": "*",
@@ -25356,7 +26081,7 @@
     {
         "Id": 55045300420102,
         "IsIgnore": null,
-        "Memo": "自身に攻撃力300％のシールド付与。",
+        "Memo": "ウィーラSR　ふたりぼっちの絆：自身に攻撃力300％のシールド付与。",
         "CasterIconId": 53,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5300420102]",
@@ -25379,7 +26104,7 @@
     {
         "Id": 55045300430102,
         "IsIgnore": null,
-        "Memo": "自身に攻撃力300％のシールド付与。",
+        "Memo": "ウィーラSR　ふたりぼっちの絆：自身に攻撃力300％のシールド付与。",
         "CasterIconId": 53,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5300430102]",
@@ -25402,7 +26127,7 @@
     {
         "Id": 55045400100101,
         "IsIgnore": null,
-        "Memo": "防御力を50％増加させる。",
+        "Memo": "シフォンSR　わんわんおー！：防御力を50％増加させる。",
         "CasterIconId": 54,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5400100101]",
@@ -25429,7 +26154,7 @@
     {
         "Id": 55045400120101,
         "IsIgnore": null,
-        "Memo": "攻撃力を10％、防御力を50％増加させる。",
+        "Memo": "シフォンSR　わんわんおー！：攻撃力を10％、防御力を50％増加させる。",
         "CasterIconId": 54,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5400120101]",
@@ -25456,7 +26181,7 @@
     {
         "Id": 55045400130101,
         "IsIgnore": null,
-        "Memo": "攻撃力を20％、防御力を70％増加させる。",
+        "Memo": "シフォンSR　わんわんおー！：攻撃力を20％、防御力を70％増加させる。",
         "CasterIconId": 54,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5400130101]",
@@ -25483,7 +26208,7 @@
     {
         "Id": 55045400140102,
         "IsIgnore": null,
-        "Memo": "攻撃力×100％の『シールド』を付与する。",
+        "Memo": "シフォンSR　わんわんおー！：攻撃力×100％の『シールド』を付与する。",
         "CasterIconId": 54,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5400140102]",
@@ -25497,7 +26222,7 @@
     {
         "Id": 55045400200102,
         "IsIgnore": null,
-        "Memo": "クリティカル耐性を30％減少『睡眠』",
+        "Memo": "シフォンSR　精霊の加護：[睡眠] クリティカル耐性率が30％減少し、行動不能になる。攻撃を受けると解除される。",
         "CasterIconId": 54,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5400200102]",
@@ -25511,7 +26236,7 @@
     {
         "Id": 55045400220104,
         "IsIgnore": null,
-        "Memo": "クリティカルダメージ15％増加。",
+        "Memo": "シフォンSR　精霊の加護：クリティカルダメージ15％増加。",
         "CasterIconId": 54,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5400220104]",
@@ -25538,7 +26263,7 @@
     {
         "Id": 55045400240104,
         "IsIgnore": null,
-        "Memo": "クリティカルダメージ15％増加。",
+        "Memo": "シフォンSR　精霊の加護：クリティカルダメージ15％増加。",
         "CasterIconId": 54,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5400240104]",
@@ -25565,7 +26290,7 @@
     {
         "Id": 55045400250104,
         "IsIgnore": null,
-        "Memo": "クリティカルダメージ30％増加。",
+        "Memo": "シフォンSR　精霊の加護：クリティカルダメージ30％増加。",
         "CasterIconId": 54,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5400250104]",
@@ -25592,7 +26317,7 @@
     {
         "Id": 55045400300101,
         "IsIgnore": null,
-        "Memo": "自身の最大HPと防御力がそれぞれ15％増加する。解除不可。",
+        "Memo": "シフォンSR　しあわせもの：自身の最大HPと防御力がそれぞれ15％増加する。解除不可。",
         "CasterIconId": 54,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5400300101]",
@@ -25615,7 +26340,7 @@
     {
         "Id": 55045400320201,
         "IsIgnore": null,
-        "Memo": "自身の攻撃力×150％の『シールド』を付与する。",
+        "Memo": "シフォンSR　しあわせもの：自身の攻撃力×150％の『シールド』を付与する。",
         "CasterIconId": 54,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5400320201]",
@@ -25629,7 +26354,7 @@
     {
         "Id": 55045400330101,
         "IsIgnore": null,
-        "Memo": "自身の最大HPと防御力がそれぞれ30％増加する。解除不可。",
+        "Memo": "シフォンSR　しあわせもの：自身の最大HPと防御力がそれぞれ30％増加する。解除不可。",
         "CasterIconId": 54,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5400330101]",
@@ -25652,7 +26377,7 @@
     {
         "Id": 55045400340201,
         "IsIgnore": null,
-        "Memo": "自身の攻撃力×200％の『シールド』を付与する。",
+        "Memo": "シフォンSR　しあわせもの：自身の攻撃力×200％の『シールド』を付与する。",
         "CasterIconId": 54,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5400340201]",
@@ -25666,7 +26391,7 @@
     {
         "Id": 55045500100101,
         "IsIgnore": null,
-        "Memo": "回避率30％減少。",
+        "Memo": "レアSR　黙れ黙れ黙れぇっ！：回避率30％減少。",
         "CasterIconId": 55,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5500100101]",
@@ -25693,7 +26418,7 @@
     {
         "Id": 55045500100103,
         "IsIgnore": null,
-        "Memo": "気絶",
+        "Memo": "レアSR　黙れ黙れ黙れぇっ！：気絶",
         "CasterIconId": 55,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5500100103]",
@@ -25707,7 +26432,7 @@
     {
         "Id": 55045500140101,
         "IsIgnore": null,
-        "Memo": "回避率50％減少。",
+        "Memo": "レアSR　黙れ黙れ黙れぇっ！：回避率50％減少。",
         "CasterIconId": 55,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5500140101]",
@@ -25734,7 +26459,7 @@
     {
         "Id": 55045500160101,
         "IsIgnore": null,
-        "Memo": "回避率50％減少。",
+        "Memo": "レアSR　黙れ黙れ黙れぇっ！：回避率50％減少。",
         "CasterIconId": 55,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5500160101]",
@@ -25761,7 +26486,7 @@
     {
         "Id": 55045500300101,
         "IsIgnore": null,
-        "Memo": "攻撃力15％増加（解除不可）",
+        "Memo": "レアSR　精神錯乱：攻撃力15％増加（解除不可）",
         "CasterIconId": 55,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5500300101]",
@@ -25775,7 +26500,7 @@
     {
         "Id": 55045500320101,
         "IsIgnore": null,
-        "Memo": "攻撃力とクリティカルダメージ15％増加（解除不可）",
+        "Memo": "レアSR　精神錯乱：攻撃力とクリティカルダメージ15％増加（解除不可）",
         "CasterIconId": 55,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5500320101]",
@@ -25789,7 +26514,7 @@
     {
         "Id": 55045500330101,
         "IsIgnore": null,
-        "Memo": "攻撃力とクリティカルダメージ35％増加（解除不可）",
+        "Memo": "レアSR　精神錯乱：攻撃力とクリティカルダメージ35％増加（解除不可）",
         "CasterIconId": 55,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5500330101]",
@@ -25803,7 +26528,7 @@
     {
         "Id": 55045500400101,
         "IsIgnore": null,
-        "Memo": "ステルス",
+        "Memo": "レアSR　被害妄想：ステルス",
         "CasterIconId": 55,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5500400101]",
@@ -25826,7 +26551,7 @@
     {
         "Id": 55045500420101,
         "IsIgnore": null,
-        "Memo": "ステルス",
+        "Memo": "レアSR　被害妄想：ステルス",
         "CasterIconId": 55,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5500420101]",
@@ -25849,7 +26574,7 @@
     {
         "Id": 55045500430201,
         "IsIgnore": null,
-        "Memo": "被ダメージ15％減少",
+        "Memo": "レアSR　被害妄想：被ダメージ15％減少",
         "CasterIconId": 55,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5500430201]",
@@ -26391,7 +27116,7 @@
     {
         "Id": 55045800400101,
         "IsIgnore": null,
-        "Memo": "クリティカル耐性が10%増加する（最大10回まで）。",
+        "Memo": "クリティカル耐性率が10%増加する（最大10回まで）（解除不可）。",
         "CasterIconId": 58,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription5800400101]",
