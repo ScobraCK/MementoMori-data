@@ -4447,7 +4447,7 @@
     {
         "Id": 45003,
         "IsIgnore": null,
-        "Memo": "【聖槍の魔女】\\nエルフリンデSR:",
+        "Memo": "エルフリンデSR:Lv1 たとえこの手で壊したのだとしても。人々を護り、世界を護る。それが代々の教皇に課された使命であることに変わりはないから──。バトル開始時自身に防御力、物理防御力、魔法防御力が5%増加するバフを2回付与する（最大10回まで）（解除不可）。自身がアクティブスキルによってバフを受けた場合、このスキルで付与したバフのスタック数が2増加する。自身が最大HP×10%を超えるダメージの攻撃を受けた場合、ダメージを40%遮断する。遮断する効果は1ターンに1回発動する。/ Lv2 バトル開始時の付与回数が4回になり、自身がバフを受けた場合に増加するスタック数が4になる。/ Lv3 防御力、物理防御力、魔法防御力の増加量が10%になる。/ Ex2 教皇の祝福を強化する。自身が最大HP×10%以上のダメージの攻撃を受けた場合、ダメージを90%遮断する。",
         "NameKey": "[PassiveSkillName45003]",
         "PassiveSkillInfos": [
             {
@@ -4460,9 +4460,113 @@
                     {
                         "PassiveTrigger": 1,
                         "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 45003001
+                    },
+                    {
+                        "PassiveTrigger": 24,
+                        "SkillCoolTime": 0,
                         "SkillMaxCoolTime": 0,
                         "PassiveGroupId": 0,
-                        "SubSetSkillId": 105001
+                        "SubSetSkillId": 45003002
+                    },
+                    {
+                        "PassiveTrigger": 42,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 1,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 45003003
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[PassiveSkillDescription450032]",
+                "CharacterLevel": 121,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 45003201
+                    },
+                    {
+                        "PassiveTrigger": 24,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 45003202
+                    },
+                    {
+                        "PassiveTrigger": 42,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 1,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 45003003
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[PassiveSkillDescription450033]",
+                "CharacterLevel": 201,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 45003301
+                    },
+                    {
+                        "PassiveTrigger": 24,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 45003302
+                    },
+                    {
+                        "PassiveTrigger": 42,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 1,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 45003303
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[PassiveSkillDescription450034]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 256,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 45003301
+                    },
+                    {
+                        "PassiveTrigger": 24,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 45003302
+                    },
+                    {
+                        "PassiveTrigger": 42,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 1,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 45003403
                     }
                 ]
             }
@@ -4471,7 +4575,7 @@
     {
         "Id": 45004,
         "IsIgnore": null,
-        "Memo": "【聖槍の魔女】\\nエルフリンデSR: ",
+        "Memo": "エルフリンデSR:Lv1 祈りに潜む魔の影が、新たな力を言霊に宿す。ターン開始時2ターンの間自身以外の味方全体の弱体効果命中率を15%増加させる。このスキルは4ターンに1回発動する。/ Lv2 『弱体効果命中率増加』のターン数が4ターンになる。/ Lv3 弱体効果命中率の増加量が30%になる。",
         "NameKey": "[PassiveSkillName45004]",
         "PassiveSkillInfos": [
             {
@@ -4484,9 +4588,41 @@
                     {
                         "PassiveTrigger": 1,
                         "SkillCoolTime": 0,
-                        "SkillMaxCoolTime": 0,
+                        "SkillMaxCoolTime": 4,
                         "PassiveGroupId": 0,
-                        "SubSetSkillId": 105001
+                        "SubSetSkillId": 45004001
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[PassiveSkillDescription450042]",
+                "CharacterLevel": 141,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 4,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 45004201
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[PassiveSkillDescription450043]",
+                "CharacterLevel": 221,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 4,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 45004301
                     }
                 ]
             }
@@ -15053,7 +15189,7 @@
     {
         "Id": 550445003,
         "IsIgnore": null,
-        "Memo": "敵用【聖槍の魔女】\\nエルフリンデSR",
+        "Memo": "敵用エルフリンデSR:Lv1 たとえこの手で壊したのだとしても。人々を護り、世界を護る。それが代々の教皇に課された使命であることに変わりはないから──。バトル開始時自身に防御力、物理防御力、魔法防御力が5%増加するバフを2回付与する（最大10回まで）（解除不可）。自身がアクティブスキルによってバフを受けた場合、このスキルで付与したバフのスタック数が2増加する。自身が最大HP×10%を超えるダメージの攻撃を受けた場合、ダメージを40%遮断する。遮断する効果は1ターンに1回発動する。/ Lv2 バトル開始時の付与回数が4回になり、自身がバフを受けた場合に増加するスタック数が4になる。/ Lv3 防御力、物理防御力、魔法防御力の増加量が10%になる。/ Ex2 教皇の祝福を強化する。自身が最大HP×10%以上のダメージの攻撃を受けた場合、ダメージを90%遮断する。",
         "NameKey": "[PassiveSkillName45003]",
         "PassiveSkillInfos": [
             {
@@ -15066,9 +15202,113 @@
                     {
                         "PassiveTrigger": 1,
                         "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550445003001
+                    },
+                    {
+                        "PassiveTrigger": 24,
+                        "SkillCoolTime": 0,
                         "SkillMaxCoolTime": 0,
                         "PassiveGroupId": 0,
-                        "SubSetSkillId": 45003
+                        "SubSetSkillId": 550445003002
+                    },
+                    {
+                        "PassiveTrigger": 42,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 1,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550445003003
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 121,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550445003201
+                    },
+                    {
+                        "PassiveTrigger": 24,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550445003202
+                    },
+                    {
+                        "PassiveTrigger": 42,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 1,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550445003003
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 201,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550445003301
+                    },
+                    {
+                        "PassiveTrigger": 24,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550445003302
+                    },
+                    {
+                        "PassiveTrigger": 42,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 1,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550445003303
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 256,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550445003301
+                    },
+                    {
+                        "PassiveTrigger": 24,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550445003302
+                    },
+                    {
+                        "PassiveTrigger": 42,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 1,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550445003403
                     }
                 ]
             }
@@ -15077,7 +15317,7 @@
     {
         "Id": 550445004,
         "IsIgnore": null,
-        "Memo": "敵用【聖槍の魔女】\\nエルフリンデSR",
+        "Memo": "敵用エルフリンデSR:Lv1 祈りに潜む魔の影が、新たな力を言霊に宿す。ターン開始時2ターンの間自身以外の味方全体の弱体効果命中率を15%増加させる。このスキルは4ターンに1回発動する。/ Lv2 『弱体効果命中率増加』のターン数が4ターンになる。/ Lv3 弱体効果命中率の増加量が30%になる。",
         "NameKey": "[PassiveSkillName45004]",
         "PassiveSkillInfos": [
             {
@@ -15090,9 +15330,41 @@
                     {
                         "PassiveTrigger": 1,
                         "SkillCoolTime": 0,
-                        "SkillMaxCoolTime": 0,
+                        "SkillMaxCoolTime": 4,
                         "PassiveGroupId": 0,
-                        "SubSetSkillId": 45004
+                        "SubSetSkillId": 550445004001
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 141,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 4,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550445004201
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 221,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 4,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550445004301
                     }
                 ]
             }

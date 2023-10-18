@@ -5800,7 +5800,7 @@
     {
         "Id": 45001,
         "IsIgnore": null,
-        "Memo": "【聖槍の魔女】\\nエルフリンデSR:",
+        "Memo": "エルフリンデSR:Lv1 悪を滅し、人々を救う、天使の代理者たる教皇の光。それは人々が平和を願うほど、より強く世界にもたらされていたという。2ターンの間自身の命中率が50%増加し、ランダムな敵3体に攻撃力×400%の物理攻撃を行う。味方が付帯しているバフ1つにつき物理攻撃のダメージが攻撃力×25%大きくなる（最大攻撃力×600%まで）。/ Lv2 味方が付帯しているバフ1つにつき増加するダメージが攻撃力×50%になる（最大攻撃力×800%まで）。/ Lv3 物理攻撃のダメージが攻撃力×800%になる（最大攻撃力×1200%まで）。/ Ex1 神聖なる滅光を強化する。神聖なる滅光の対象がランダムな敵5体になる。",
         "ActiveSkillConditions": "True",
         "ActiveSkillInfos": [
             {
@@ -5810,7 +5810,41 @@
                 "EquipmentRarityFlags": 0,
                 "BlessingItemId": 0,
                 "SubSetSkillIds": [
-                    101001
+                    45001001,
+                    45001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription450012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    45001001,
+                    45001202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription450013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    45001001,
+                    45001302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription450014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    45001001,
+                    45001402
                 ]
             }
         ],
@@ -5822,7 +5856,7 @@
     {
         "Id": 45002,
         "IsIgnore": null,
-        "Memo": "【聖槍の魔女】\\nエルフリンデSR: ",
+        "Memo": "エルフリンデSR:Lv1 残穢をまとった純白の翼が、罪を裁く光を放つ。ランダムな敵2体に攻撃力×800%の物理攻撃を行う。対象が付帯している弱体効果1つにつき物理攻撃のダメージが攻撃力×200%大きくなる（最大攻撃力×1200%まで）。/ Lv2 対象が付帯している弱体効果1つにつき増加するダメージが攻撃力×400%になる（最大で攻撃力×1600%まで）。/ Lv3 このスキルの対象がランダムな敵3体になる。/ Lv4 物理攻撃のダメージが攻撃力×1400%になる（最大攻撃力×2200%まで）。/ Ex3 裁きの魔光を強化する。物理攻撃のダメージが攻撃力×1600%になる（最大攻撃力×2400%まで）。",
         "ActiveSkillConditions": "True",
         "ActiveSkillInfos": [
             {
@@ -5832,7 +5866,47 @@
                 "EquipmentRarityFlags": 0,
                 "BlessingItemId": 0,
                 "SubSetSkillIds": [
-                    101001
+                    45002001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription450022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    45002201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription450023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    45002301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription450024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    45002401
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription450025]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    45002501
                 ]
             }
         ],
@@ -15146,7 +15220,7 @@
     {
         "Id": 550445001,
         "IsIgnore": null,
-        "Memo": "敵用【聖槍の魔女】\\nエルフリンデSR: ",
+        "Memo": "敵用エルフリンデSR",
         "ActiveSkillConditions": "True",
         "ActiveSkillInfos": [
             {
@@ -15156,7 +15230,41 @@
                 "EquipmentRarityFlags": 0,
                 "BlessingItemId": 0,
                 "SubSetSkillIds": [
-                    101001
+                    550445001001,
+                    550445001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550445001001,
+                    550445001202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550445001001,
+                    550445001302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550445001001,
+                    550445001402
                 ]
             }
         ],
@@ -15168,7 +15276,7 @@
     {
         "Id": 550445002,
         "IsIgnore": null,
-        "Memo": "敵用【聖槍の魔女】\\nエルフリンデSR: ",
+        "Memo": "敵用エルフリンデSR",
         "ActiveSkillConditions": "True",
         "ActiveSkillInfos": [
             {
@@ -15178,7 +15286,47 @@
                 "EquipmentRarityFlags": 0,
                 "BlessingItemId": 0,
                 "SubSetSkillIds": [
-                    101001
+                    550445002001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550445002201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550445002301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550445002401
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": null,
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550445002501
                 ]
             }
         ],

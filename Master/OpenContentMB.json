@@ -842,7 +842,7 @@
     {
         "Id": 180,
         "IsIgnore": null,
-        "Memo": "楽曲再生(10/16～18特別仕様)",
+        "Memo": "楽曲再生",
         "AssetPath": null,
         "DescriptionKey": null,
         "GuideDescriptionKey": null,
@@ -850,8 +850,8 @@
         "IsActiveGuide": false,
         "OpenCommandType": 180,
         "OpenContentType": 1,
-        "OpenContentValue": 99999,
-        "ToastKey": "[MusicPlayerTransitionProhibitedMessage]",
+        "OpenContentValue": 64,
+        "ToastKey": "[OpenContentToast180]",
         "TutorialId": 0
     },
     {
