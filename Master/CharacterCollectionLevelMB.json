@@ -4319,5 +4319,154 @@
         "CharacterRarityFlags": 131072,
         "CollectionId": 29,
         "CollectionLevel": 7
+    },
+    {
+        "Id": 3001,
+        "IsIgnore": null,
+        "Memo": "キルキヌスの教導(ソフィア,オリヴィエ)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 200.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 8,
+        "CollectionId": 30,
+        "CollectionLevel": 1
+    },
+    {
+        "Id": 3002,
+        "IsIgnore": null,
+        "Memo": "キルキヌスの教導(ソフィア,オリヴィエ)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 500.0
+            },
+            {
+                "BattleParameterType": 3,
+                "ChangeParameterType": 2,
+                "Value": 200.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 128,
+        "CollectionId": 30,
+        "CollectionLevel": 2
+    },
+    {
+        "Id": 3003,
+        "IsIgnore": null,
+        "Memo": "キルキヌスの教導(ソフィア,オリヴィエ)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 500.0
+            },
+            {
+                "BattleParameterType": 3,
+                "ChangeParameterType": 2,
+                "Value": 200.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 512,
+        "CollectionId": 30,
+        "CollectionLevel": 3
+    },
+    {
+        "Id": 3004,
+        "IsIgnore": null,
+        "Memo": "キルキヌスの教導(ソフィア,オリヴィエ)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 500.0
+            },
+            {
+                "BattleParameterType": 3,
+                "ChangeParameterType": 2,
+                "Value": 200.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 16384,
+        "CollectionId": 30,
+        "CollectionLevel": 4
+    },
+    {
+        "Id": 3005,
+        "IsIgnore": null,
+        "Memo": "キルキヌスの教導(ソフィア,オリヴィエ)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 550.0
+            },
+            {
+                "BattleParameterType": 3,
+                "ChangeParameterType": 2,
+                "Value": 210.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 32768,
+        "CollectionId": 30,
+        "CollectionLevel": 5
+    },
+    {
+        "Id": 3006,
+        "IsIgnore": null,
+        "Memo": "キルキヌスの教導(ソフィア,オリヴィエ)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 600.0
+            },
+            {
+                "BattleParameterType": 3,
+                "ChangeParameterType": 2,
+                "Value": 220.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 65536,
+        "CollectionId": 30,
+        "CollectionLevel": 6
+    },
+    {
+        "Id": 3007,
+        "IsIgnore": null,
+        "Memo": "キルキヌスの教導(ソフィア,オリヴィエ)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 650.0
+            },
+            {
+                "BattleParameterType": 3,
+                "ChangeParameterType": 2,
+                "Value": 230.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 131072,
+        "CollectionId": 30,
+        "CollectionLevel": 7
     }
 ]
