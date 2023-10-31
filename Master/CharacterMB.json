@@ -2998,6 +2998,59 @@
         "StartTimeFixJST": "2023-07-31 15:00:00"
     },
     {
+        "Id": 61,
+        "IsIgnore": null,
+        "Memo": "[神呪の魔女]イリア",
+        "ActiveSkillIds": [
+            61001,
+            61002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 86,
+            "Health": 69,
+            "Intelligence": 86,
+            "Muscle": 105
+        },
+        "BaseParameterGrossCoefficient": 346,
+        "CharacterType": 2,
+        "ElementType": 6,
+        "InitialBattleParameter": {
+            "AttackPower": 4,
+            "Avoidance": 0,
+            "Critical": 0,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": -1,
+            "DamageEnhance": 0,
+            "DamageReflect": 0,
+            "DebuffHit": 0,
+            "DebuffResist": 0,
+            "Defense": 10,
+            "DefensePenetration": 1,
+            "Hit": 0,
+            "HP": 0,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": -2,
+            "MagicDamageRelax": 0,
+            "PhysicalCriticalDamageRelax": -2,
+            "PhysicalDamageRelax": 0,
+            "Speed": 2703
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 1,
+        "Name2Key": "[CharacterSubName61]",
+        "NameKey": "[CharacterName61]",
+        "NormalSkillId": 101,
+        "PassiveSkillIds": [
+            61003,
+            61004,
+            61005
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2023-10-31 15:00:00"
+    },
+    {
         "Id": 62,
         "IsIgnore": null,
         "Memo": "プリシラ",

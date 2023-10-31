@@ -1355,8 +1355,9 @@
     {
         "Id": 36,
         "IsIgnore": null,
-        "Memo": "エルフリンデ③＋ソフィア復刻②＋新規次キャラ仮入れ①（1031切替用）",
+        "Memo": "エルフリンデ③＋ソフィア復刻②＋神呪イリア①（1031切替用）",
         "CharacterIdList": [
+            61,
             45,
             51,
             5,
@@ -1384,12 +1385,50 @@
         ],
         "GachaSelectListType": 2,
         "NewCharacterIdList": [
+            61,
             45,
             51
         ],
         "OrderNumber": 34,
         "StartTimeFixJST": "2023-10-31 14:30:00",
         "EndTimeFixJST": "2023-11-08 14:29:59"
+    },
+    {
+        "Id": 37,
+        "IsIgnore": null,
+        "Memo": "神呪イリア②＋新規次キャラ仮入れ①（1108切替用）",
+        "CharacterIdList": [
+            61,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "NewCharacterIdList": [
+            61
+        ],
+        "OrderNumber": 35,
+        "StartTimeFixJST": "2023-11-08 14:30:00",
+        "EndTimeFixJST": "2023-11-15 14:29:59"
     },
     {
         "Id": 10000,

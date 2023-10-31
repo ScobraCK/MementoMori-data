@@ -6722,6 +6722,291 @@
         ]
     },
     {
+        "Id": 61003,
+        "IsIgnore": null,
+        "Memo": "神呪イリアSR:Lv1 「自分の命で世界を救う。その覚悟はできてるつもりだった。でも、心のどこかでは……」バトル開始時自身に『献身』を付与する（解除不可）。自身以外の味方が受けたダメージ×20%を自身がかわりに受けるようになる。自身か味方が攻撃を受けて、自身が敵の攻撃によるダメージを受けた回数が10以上の場合、もしくは自身以外の味方の生存数が0体になった場合、自身が付与した『献身』を解除し、2ターンの間自身に『神呪解放』を付与する（解除不可）。このスキルはバトル中1回のみ発動する。/ Lv2 『神呪解放』のターン数が5ターンになる。/ Lv3 『神呪解放』のターン数が8ターンになる。",
+        "NameKey": "[PassiveSkillName61003]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[PassiveSkillDescription610031]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 61003001
+                    },
+                    {
+                        "PassiveTrigger": 29,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 1,
+                        "SubSetSkillId": 61003004
+                    },
+                    {
+                        "PassiveTrigger": 10,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 1,
+                        "SubSetSkillId": 61003004
+                    },
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 1,
+                        "SubSetSkillId": 61003005
+                    },
+                    {
+                        "PassiveTrigger": 7,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 1,
+                        "SubSetSkillId": 61003005
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[PassiveSkillDescription610032]",
+                "CharacterLevel": 121,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 61003001
+                    },
+                    {
+                        "PassiveTrigger": 29,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 1,
+                        "SubSetSkillId": 61003204
+                    },
+                    {
+                        "PassiveTrigger": 10,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 1,
+                        "SubSetSkillId": 61003204
+                    },
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 1,
+                        "SubSetSkillId": 61003205
+                    },
+                    {
+                        "PassiveTrigger": 7,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 1,
+                        "SubSetSkillId": 61003205
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[PassiveSkillDescription610033]",
+                "CharacterLevel": 201,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 61003001
+                    },
+                    {
+                        "PassiveTrigger": 29,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 1,
+                        "SubSetSkillId": 61003304
+                    },
+                    {
+                        "PassiveTrigger": 10,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 1,
+                        "SubSetSkillId": 61003304
+                    },
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 1,
+                        "SubSetSkillId": 61003305
+                    },
+                    {
+                        "PassiveTrigger": 7,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 1,
+                        "SubSetSkillId": 61003305
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 61004,
+        "IsIgnore": null,
+        "Memo": "神呪イリアSR:Lv1 それは悪魔が仕掛け、天使が欺いた、存在しないはずの守護天使。自身か味方が攻撃を受けて、このターン中自身が対象の攻撃によるダメージを受けた回数が2以上の場合、自身へのダメージを30％遮断する。自身が致命的なダメージを受けた時、HP1で耐え、自身のHPを自身の最大HP×20%回復する。HP1で耐える効果はバトル中1回のみ発動する。/ Lv2 さらにバトル開始時自身に1層の多重バリアを付与する（解除不可）。ダメージを受けると、バリアを1層消費してそのダメージを無効化する。/ Lv3 ダメージを70%遮断する。/ Ex2 0番目の守護天使を強化する。『多重バリア』が3層になり、自身が致命的なダメージを受けた時のHP回復量が自身の最大HP×100%になる。",
+        "NameKey": "[PassiveSkillName61004]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[PassiveSkillDescription610041]",
+                "CharacterLevel": 61,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 42,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 61004002
+                    },
+                    {
+                        "PassiveTrigger": 52,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 61004003
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[PassiveSkillDescription610042]",
+                "CharacterLevel": 141,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 61004001
+                    },
+                    {
+                        "PassiveTrigger": 42,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 61004002
+                    },
+                    {
+                        "PassiveTrigger": 52,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 61004003
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[PassiveSkillDescription610043]",
+                "CharacterLevel": 221,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 61004001
+                    },
+                    {
+                        "PassiveTrigger": 42,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 61004302
+                    },
+                    {
+                        "PassiveTrigger": 52,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 61004003
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[PassiveSkillDescription610044]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 256,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 61004401
+                    },
+                    {
+                        "PassiveTrigger": 42,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 61004302
+                    },
+                    {
+                        "PassiveTrigger": 52,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 61004303
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 61005,
+        "IsIgnore": null,
+        "Memo": "神呪イリアSR:Lv1 バトル開始時冥属性の味方が3体以上いる場合、自身の防御貫通が40%増加する（解除不可）。",
+        "NameKey": "*",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[PassiveSkillDescription610051]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 61005001
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "Id": 62003,
         "IsIgnore": null,
         "Memo": "プリシラSR:Lv1 きっと助けにきてくれるって信じてた――自身の最大HPが25%、魔法防御力が50％増加する（解除不可）。/ Lv2 さらに自身のクリティカル率が20%増加する（解除不可）。/ Lv3 最大HPの増加量が50%、魔法防御力の増加量が100%、クリティカル率の増加量が40%になる。",
@@ -17766,6 +18051,291 @@
                         "SkillMaxCoolTime": 0,
                         "PassiveGroupId": 0,
                         "SubSetSkillId": 550460004402
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 550461003,
+        "IsIgnore": null,
+        "Memo": "敵用神呪イリアSR:",
+        "NameKey": "[PassiveSkillName61003]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550461003001
+                    },
+                    {
+                        "PassiveTrigger": 29,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 1,
+                        "SubSetSkillId": 550461003004
+                    },
+                    {
+                        "PassiveTrigger": 10,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 1,
+                        "SubSetSkillId": 550461003004
+                    },
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 1,
+                        "SubSetSkillId": 550461003005
+                    },
+                    {
+                        "PassiveTrigger": 7,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 1,
+                        "SubSetSkillId": 550461003005
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 121,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550461003001
+                    },
+                    {
+                        "PassiveTrigger": 29,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 1,
+                        "SubSetSkillId": 550461003204
+                    },
+                    {
+                        "PassiveTrigger": 10,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 1,
+                        "SubSetSkillId": 550461003204
+                    },
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 1,
+                        "SubSetSkillId": 550461003205
+                    },
+                    {
+                        "PassiveTrigger": 7,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 1,
+                        "SubSetSkillId": 550461003205
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 201,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550461003001
+                    },
+                    {
+                        "PassiveTrigger": 29,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 1,
+                        "SubSetSkillId": 550461003304
+                    },
+                    {
+                        "PassiveTrigger": 10,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 1,
+                        "SubSetSkillId": 550461003304
+                    },
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 1,
+                        "SubSetSkillId": 550461003305
+                    },
+                    {
+                        "PassiveTrigger": 7,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 1,
+                        "SubSetSkillId": 550461003305
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 550461004,
+        "IsIgnore": null,
+        "Memo": "敵用神呪イリアSR",
+        "NameKey": "[PassiveSkillName61004]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 61,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 42,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550461004002
+                    },
+                    {
+                        "PassiveTrigger": 52,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550461004003
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 141,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550461004001
+                    },
+                    {
+                        "PassiveTrigger": 42,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550461004002
+                    },
+                    {
+                        "PassiveTrigger": 52,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550461004003
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 221,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550461004001
+                    },
+                    {
+                        "PassiveTrigger": 42,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550461004302
+                    },
+                    {
+                        "PassiveTrigger": 52,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550461004003
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 256,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550461004401
+                    },
+                    {
+                        "PassiveTrigger": 42,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550461004302
+                    },
+                    {
+                        "PassiveTrigger": 52,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550461004303
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 550461005,
+        "IsIgnore": null,
+        "Memo": "敵用神呪イリアSR",
+        "NameKey": "*",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 550461005001
                     }
                 ]
             }

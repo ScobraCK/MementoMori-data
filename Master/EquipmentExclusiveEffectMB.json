@@ -6154,5 +6154,134 @@
             }
         ],
         "CharacterId": 62
+    },
+    {
+        "Id": 289,
+        "IsIgnore": null,
+        "Memo": "神呪イリアSSR180",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 61
+    },
+    {
+        "Id": 290,
+        "IsIgnore": null,
+        "Memo": "神呪イリアSSR200",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1300.0
+            },
+            {
+                "BattleParameterType": 12,
+                "ChangeParameterType": 1,
+                "Value": 5000.0
+            }
+        ],
+        "CharacterId": 61
+    },
+    {
+        "Id": 291,
+        "IsIgnore": null,
+        "Memo": "神呪イリアSSR220",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1400.0
+            },
+            {
+                "BattleParameterType": 12,
+                "ChangeParameterType": 1,
+                "Value": 5500.0
+            },
+            {
+                "BattleParameterType": 9,
+                "ChangeParameterType": 1,
+                "Value": 2600.0
+            }
+        ],
+        "CharacterId": 61
+    },
+    {
+        "Id": 292,
+        "IsIgnore": null,
+        "Memo": "神呪イリアSSR240",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 12,
+                "ChangeParameterType": 1,
+                "Value": 6000.0
+            },
+            {
+                "BattleParameterType": 9,
+                "ChangeParameterType": 1,
+                "Value": 2900.0
+            }
+        ],
+        "CharacterId": 61
+    },
+    {
+        "Id": 293,
+        "IsIgnore": null,
+        "Memo": "神呪イリアUR",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1600.0
+            },
+            {
+                "BattleParameterType": 12,
+                "ChangeParameterType": 1,
+                "Value": 6500.0
+            },
+            {
+                "BattleParameterType": 9,
+                "ChangeParameterType": 1,
+                "Value": 3200.0
+            }
+        ],
+        "CharacterId": 61
+    },
+    {
+        "Id": 294,
+        "IsIgnore": null,
+        "Memo": "神呪イリアLR",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 12,
+                "ChangeParameterType": 1,
+                "Value": 7000.0
+            },
+            {
+                "BattleParameterType": 9,
+                "ChangeParameterType": 1,
+                "Value": 3500.0
+            }
+        ],
+        "CharacterId": 61
     }
 ]
