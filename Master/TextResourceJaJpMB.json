@@ -2667,6 +2667,13 @@
         "Text": "専用武器詳細"
     },
     {
+        "Id": 391,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailRecitation]",
+        "Text": "モノローグ"
+    },
+    {
         "Id": 392,
         "IsIgnore": false,
         "Memo": "",
@@ -4303,6 +4310,13 @@
         "Memo": "",
         "StringKey": "[PresentTypeReachVipLevelRewardDescription]",
         "Text": "VIP{0}になりました。報酬をお受け取りください。"
+    },
+    {
+        "Id": 659,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[RecitationLiveModeOffGuidance]",
+        "Text": "設定から動画配信モードをOFFにしてください"
     },
     {
         "Id": 661,
@@ -21854,6 +21868,76 @@
         "Text": "直接攻撃のダメージが過去20ターンで受けた自身の総被ダメージ×20%になる。"
     },
     {
+        "Id": 3365,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillName61001]",
+        "Text": "天命の閃撃"
+    },
+    {
+        "Id": 3366,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillDescription610011]",
+        "Text": "あの日あの人に教えてもらった力は、どんな障害も真正面から切り開く、未来へ進むための力だった。1ターンの間自身の命中率が50％増加し、正面の敵に10回攻撃力×140%の物理攻撃を行う。バトル中このスキルを使うのが3回目以降の場合、連撃のダメージが3倍になる。"
+    },
+    {
+        "Id": 3367,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillDescription610012]",
+        "Text": "さらにこのスキルで敵を戦闘不能にできなかった場合、対象のバフを1つ解除し、攻撃力×580%の物理攻撃を行う。"
+    },
+    {
+        "Id": 3368,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillDescription610013]",
+        "Text": "最初の連撃のダメージが攻撃力×180%になる。"
+    },
+    {
+        "Id": 3369,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillDescription610014]",
+        "Text": "天命の閃撃を強化する。最初の連撃のダメージが攻撃力×240%になる。"
+    },
+    {
+        "Id": 3370,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillName61002]",
+        "Text": "光呑む神の呪い"
+    },
+    {
+        "Id": 3371,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillDescription610021]",
+        "Text": "世界を守ろうとする意志と、世界を破壊しようとする意志。そのバランスが崩れた時、少女は人には許されざる力を手にする。自身が『神呪解放』を付帯している場合に発動。ランダムな敵に4回攻撃力×340%の物理攻撃を行う。このスキルは発動後にスキルクールタイムが発生しない。"
+    },
+    {
+        "Id": 3372,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillDescription610022]",
+        "Text": "さらに物理攻撃の前に対象が弱体効果を付帯している場合、物理攻撃のダメージが1.5倍になる。"
+    },
+    {
+        "Id": 3373,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillDescription610023]",
+        "Text": "物理攻撃の回数が5回になる。"
+    },
+    {
+        "Id": 3374,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillDescription610024]",
+        "Text": "物理攻撃のダメージが攻撃力×440%になる。"
+    },
+    {
         "Id": 3375,
         "IsIgnore": false,
         "Memo": "",
@@ -25009,6 +25093,83 @@
         "Memo": "",
         "StringKey": "[PassiveSkillDescription600044]",
         "Text": ""
+    },
+    {
+        "Id": 3827,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillName61003]",
+        "Text": "神呪の加護"
+    },
+    {
+        "Id": 3828,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillDescription610031]",
+        "Text": "「自分の命で世界を救う。その覚悟はできてるつもりだった。でも、心のどこかでは……」バトル開始時自身に『献身』を付与する（解除不可）。自身以外の味方が受けるダメージ×20%を自身が代わりに受けるようになる。自身か味方が攻撃を受けて、自身が攻撃によるダメージを受けた回数が10以上の場合、もしくは自身以外の味方の生存数が0体になった場合、自身が付与した『献身』を解除し、2ターンの間自身に『神呪解放』を付与する（解除不可）。このスキルはバトル中1回のみ発動する。"
+    },
+    {
+        "Id": 3829,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillDescription610032]",
+        "Text": "『神呪解放』のターン数が5ターンになる。"
+    },
+    {
+        "Id": 3830,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillDescription610033]",
+        "Text": "『神呪解放』のターン数が8ターンになる。"
+    },
+    {
+        "Id": 3831,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillName61004]",
+        "Text": "0番目の守護天使"
+    },
+    {
+        "Id": 3832,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillDescription610041]",
+        "Text": "それは悪魔が仕掛け、天使が欺いた、存在しないはずの守護天使。自身か味方が攻撃を受けて、このターン中自身が対象の攻撃によるダメージを受けた回数が2以上の場合、自身へのダメージを30％遮断する。自身が致命的なダメージを受けたとき、HP1で耐え、自身のHPを自身の最大HP×20%回復する。HP1で耐える効果はバトル中1回のみ発動する。"
+    },
+    {
+        "Id": 3833,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillDescription610042]",
+        "Text": "さらにバトル開始時自身に1層の『多重バリア』を付与する（解除不可）。ダメージを受けると、バリアを1層消費してそのダメージを無効化する。"
+    },
+    {
+        "Id": 3834,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillDescription610043]",
+        "Text": "ダメージを70%遮断する。"
+    },
+    {
+        "Id": 3835,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillDescription610044]",
+        "Text": "0番目の守護天使を強化する。『多重バリア』が3層になり、自身が致命的なダメージを受けたときのHP回復量が自身の最大HP×100%になる。"
+    },
+    {
+        "Id": 3836,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillName61005]",
+        "Text": "*"
+    },
+    {
+        "Id": 3837,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillDescription610051]",
+        "Text": "バトル開始時冥属性の味方が3体以上いる場合、自身の防御貫通が40%増加する（解除不可）。"
     },
     {
         "Id": 3838,
@@ -34076,6 +34237,160 @@
         "Text": "カウンタが30%増加する。"
     },
     {
+        "Id": 5134,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100100101]",
+        "Text": "天命の閃撃"
+    },
+    {
+        "Id": 5135,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100100101]",
+        "Text": "命中率が50%増加する。"
+    },
+    {
+        "Id": 5136,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100100102]",
+        "Text": "天命の閃撃"
+    },
+    {
+        "Id": 5137,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100100102]",
+        "Text": "*[印]"
+    },
+    {
+        "Id": 5138,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100120401]",
+        "Text": "天命の閃撃"
+    },
+    {
+        "Id": 5139,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100120401]",
+        "Text": "*バフを1つ解除する。"
+    },
+    {
+        "Id": 5140,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100300101]",
+        "Text": "神呪の加護"
+    },
+    {
+        "Id": 5141,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100300101]",
+        "Text": "[献身] 味方が受けたダメージ×20％分のダメージを自身が代わりに受ける（解除不可）。"
+    },
+    {
+        "Id": 5142,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100300401]",
+        "Text": "神呪の加護"
+    },
+    {
+        "Id": 5143,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100300401]",
+        "Text": "*[献身]を解除する。"
+    },
+    {
+        "Id": 5144,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100300402]",
+        "Text": "神呪の加護"
+    },
+    {
+        "Id": 5145,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100300402]",
+        "Text": "[神呪解放]光呑む神の呪いが発動可能になる（解除不可）。"
+    },
+    {
+        "Id": 5146,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100320402]",
+        "Text": "神呪の加護"
+    },
+    {
+        "Id": 5147,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100320402]",
+        "Text": "[神呪解放]光呑む神の呪いが発動可能になる（解除不可）。"
+    },
+    {
+        "Id": 5148,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100330402]",
+        "Text": "神呪の加護"
+    },
+    {
+        "Id": 5149,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100330402]",
+        "Text": "[神呪解放]光呑む神の呪いが発動可能になる（解除不可）。"
+    },
+    {
+        "Id": 5150,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100400101]",
+        "Text": "0番目の守護天使"
+    },
+    {
+        "Id": 5151,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100400101]",
+        "Text": "[多重バリア] ダメージを1層消費して無効化する（解除不可）。"
+    },
+    {
+        "Id": 5152,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100440101]",
+        "Text": "0番目の守護天使"
+    },
+    {
+        "Id": 5153,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100440101]",
+        "Text": "[多重バリア] ダメージを1層消費して無効化する（解除不可）。"
+    },
+    {
+        "Id": 5154,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100500101]",
+        "Text": "*"
+    },
+    {
+        "Id": 5155,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100500101]",
+        "Text": "*防御貫通が40％増加する（解除不可）。"
+    },
+    {
         "Id": 5156,
         "IsIgnore": false,
         "Memo": "",
@@ -38367,6 +38682,27 @@
         "Text": "遺された力を強化する。HPの回復量が被ダメージ×30%になる（最大で自身の最大HP×15%まで）。"
     },
     {
+        "Id": 5770,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EquipmentExclusiveSkill61Description1]",
+        "Text": "天命の閃撃を強化する。最初の連撃のダメージが攻撃力×240%になる。"
+    },
+    {
+        "Id": 5771,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EquipmentExclusiveSkill61Description2]",
+        "Text": "0番目の守護天使を強化する。『多重バリア』が3層になり、自身が致命的なダメージを受けたときのHP回復量が自身の最大HP×100%になる。"
+    },
+    {
+        "Id": 5772,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EquipmentExclusiveSkill61Description3]",
+        "Text": "バトル開始時冥属性の味方が3体以上いる場合、自身の防御貫通が40%増加する（解除不可）。"
+    },
+    {
         "Id": 5773,
         "IsIgnore": false,
         "Memo": "",
@@ -38953,6 +39289,20 @@
         "Memo": "",
         "StringKey": "[CharacterName60]",
         "Text": "フィアー"
+    },
+    {
+        "Id": 5859,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterName61]",
+        "Text": "イリア"
+    },
+    {
+        "Id": 5860,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterSubName61]",
+        "Text": "神呪の魔女"
     },
     {
         "Id": 5861,
@@ -48839,6 +49189,174 @@
         "Text": "さっさと終わらせよう"
     },
     {
+        "Id": 7424,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6102]",
+        "Text": "さあ、行こっか。今度こそ……世界を救いに。"
+    },
+    {
+        "Id": 7425,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6103]",
+        "Text": "あ、やっと会いに来てくれた。ずっと待ってたんだよ私。なのに、連絡もしないで、ずうっと放っておいて……。い、いまさら謝っても許さないからね。私、怒ってるんだからっ。"
+    },
+    {
+        "Id": 7426,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6104]",
+        "Text": "人はいつか死ぬんだから、それを忘れないようにして、後悔の無いように生きないとね。そういうの、なんていうんだっけ？"
+    },
+    {
+        "Id": 7427,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6105]",
+        "Text": "魔女の力は心の力。力のバランスをとるためには、心のバランスが大事なんだ。今の私？　ちょっとだけ悪い子、かな？"
+    },
+    {
+        "Id": 7428,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6106]",
+        "Text": "あの、ね。最近、私の中に私じゃない私がいて……、変なことを言っちゃう時があるかもしれない。その時は君に止めてほしいんだ。きっと「私」も、それを望んでるから。"
+    },
+    {
+        "Id": 7429,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6107]",
+        "Text": "うーーん、ちょっと疲れたなあ。ね、そろそろ休憩しない？　このあいだいいお店を……あ、そんなこと言うんだ。だったらもう世界救わないぞー？　ふふふ、よろしい。このあいだ美味しいパン屋さんを見つけたから、一緒に行こう。"
+    },
+    {
+        "Id": 7430,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6108]",
+        "Text": "あれ、寝てるの？　最近忙しいもんね。……ねえ。疲れてるならさ、逃げちゃおうよ。世界のことなんか全部忘れて、二人でどこか、誰もいない遠くへ……。私は、それでもいいよ。"
+    },
+    {
+        "Id": 7431,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6109]",
+        "Text": "誕生日おめでとう。こうしてまた君の誕生日を祝えるなんて、前は当たり前みたいに思ってたけど……。来年も、再来年も、こうして一緒に過ごせたら、素敵なことだよね。"
+    },
+    {
+        "Id": 7432,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6110]",
+        "Text": "ひとつだけお願いがあるんだけどいいかな……。実は君に仕事をサボらせてパン屋に行ったのがアイリスにバレて、呼び出されてて……一緒に来て欲しいんだ。君が一緒ならアイリスもあまり怒れないと思うし……。お願い！"
+    },
+    {
+        "Id": 7433,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6111]",
+        "Text": "また体重が増えてる、どうして……！？"
+    },
+    {
+        "Id": 7434,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6112]",
+        "Text": "自分の命で世界を救う。その覚悟はできてるつもりだった。でも、心のどこかでは、自分が死なずに世界も救う素晴らしい方法があるんじゃないかって、願ってたんだ……。だから最後の最後で、私は……。"
+    },
+    {
+        "Id": 7435,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6113]",
+        "Text": "君、最近いろんな子と仲良いよね。別に、それが君の役目なんだし、私だけが特別だとか、思ってないけど……。うう、なんで私、こんなこと言ってるんだろう……いつからこんな嫌な子になったのかな……。"
+    },
+    {
+        "Id": 7436,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6114]",
+        "Text": "力が強くなるほどに、私の中の何かも大きくなってるのを感じるんだ。君が望んでくれたら、私はいつでも……。ふふ、そんなこと君が言うわけないか。世界を救って、私も死なない。そういう未来も、きっとあるよね。"
+    },
+    {
+        "Id": 7437,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6115]",
+        "Text": "最近、思うんだ。私が逃げたら、どうなっちゃうのかな。君と二人で見る平和な世界もいいけど、君と二人で見る壊れ行く世界も、きっと美しいよね。君が好きな方を選んで。私は、どっちでもいいよ。"
+    },
+    {
+        "Id": 7438,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6116]",
+        "Text": "また強くなったみたいだね。"
+    },
+    {
+        "Id": 7439,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6117]",
+        "Text": "また少し成長できたみたいだね。ありがとう。"
+    },
+    {
+        "Id": 7440,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6118]",
+        "Text": "私の力と、私の中にあるもうひとつの力……。うん、大丈夫。まだ抑えられてるよ。"
+    },
+    {
+        "Id": 7441,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6119]",
+        "Text": "引き出せる力が増えたってことは、それだけ力が安定してるってことなのかな。それとも同化が進んでるってことなのかな。どっちなんだろうね。"
+    },
+    {
+        "Id": 7442,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6120]",
+        "Text": "君は私に世界を救ってほしいって思ってる？　それとも、生きてほしいって、思ってくれる？　私に力をくれるのは、どっちのためなのかな。"
+    },
+    {
+        "Id": 7443,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6121]",
+        "Text": "私が犠牲になって世界を救っても、その世界にはもう私はいないんだよね。じゃあ、どうでもいっか。……なんてことを考えるのは、おかしいかな？世界の命と、私の命。どっちが大切なのか、君は教えてくれる？"
+    },
+    {
+        "Id": 7444,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6190]",
+        "Text": "ふふん、私のおかげでしょ。もっと感謝してもいいんだよ。"
+    },
+    {
+        "Id": 7445,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6191]",
+        "Text": "負けちゃったか……。まあ、そういう日もあるよね。"
+    },
+    {
+        "Id": 7446,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6192]",
+        "Text": "新しい力、みせてあげる！"
+    },
+    {
+        "Id": 7447,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6193]",
+        "Text": "神も悪魔も、超えてみせる！"
+    },
+    {
         "Id": 7448,
         "IsIgnore": false,
         "Memo": "",
@@ -49943,6 +50461,412 @@
         "Memo": "メモリー",
         "StringKey": "[BgmVocal19]",
         "Text": "メモリー"
+    },
+    {
+        "Id": 8399,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4101]",
+        "Text": "たくさんのお花とお父さんとお母さん<br>たったそれだけしかないけれど<br>それでわたしは幸せだった"
+    },
+    {
+        "Id": 8400,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4102]",
+        "Text": "たった 幾億の<br>涙 花を咲かせる<br>きっと どこまでも<br>あたたかくて つめたい"
+    },
+    {
+        "Id": 8401,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4103]",
+        "Text": "この世界が嫌い、になれない…"
+    },
+    {
+        "Id": 8402,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4104]",
+        "Text": "♪♪♪"
+    },
+    {
+        "Id": 8403,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4105]",
+        "Text": "お父さんが好きな大きなお花<br>お母さんが好きな真っ赤なお花<br>きっと喜んでくれるよね<br>いっぱい褒めてくれるよね<br><br>そう信じていた私を待っていたのは<br>変わり果てた二人の姿でした"
+    },
+    {
+        "Id": 8404,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4106]",
+        "Text": "咲いた 涙色<br>花言葉は 追憶<br>散った 宝物<br>愛の意味を教えて"
+    },
+    {
+        "Id": 8405,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4107]",
+        "Text": "割れたシャボン玉 やるせない<br>夢はどこまでも夢のまま…"
+    },
+    {
+        "Id": 8406,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4108]",
+        "Text": "お父さん？　お母さん？<br>こんなところで寝たら風邪をひいちゃうよ<br>体もこんなに冷たくなってる<br><br>だから早く起きてよ……<br>ほら、こんなに綺麗なお花だよ……<br>ねえ、返事をしてよ……目を覚ましてよ……"
+    },
+    {
+        "Id": 8407,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4109]",
+        "Text": "♪♪♪"
+    },
+    {
+        "Id": 8408,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4110]",
+        "Text": "気が付くと私は美しい花に包まれていた<br>悲しいほどきれいな弔いの花が<br>二人のいない世界を滅ぼしていた<br><br>それでも涙で咲く花はない<br>花が咲くのはいつだって<br>誰かが愛してくれたから"
+    },
+    {
+        "Id": 8409,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4111]",
+        "Text": "♪♪♪"
+    },
+    {
+        "Id": 8410,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4112]",
+        "Text": "きっと どこまでも<br>いじわるで美しい<br>きっと どこまでも<br>あたたかくて つめたい"
+    },
+    {
+        "Id": 8411,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4113]",
+        "Text": "誰もいない家の中で<br>もう戻らない夢ばかりを見ている<br>たくさんのお花と　お父さんとお母さん<br><br>もしも願いが叶うなら<br>次はみんなに愛されるお花になりたいな……"
+    },
+    {
+        "Id": 8439,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4101]",
+        "Text": "たくさんのお花とお父さんとお母さん<br>たったそれだけしかないけれど<br>それでわたしは幸せだった"
+    },
+    {
+        "Id": 8440,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4102]",
+        "Text": "Flowers<br>Double-edged beauty<br>Symbol of happiness and of sorrow<br>Petals over your body<br>Cover you and your loving memory"
+    },
+    {
+        "Id": 8441,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4103]",
+        "Text": "Even a world so wonderful<br>Oh, could be so cruel"
+    },
+    {
+        "Id": 8442,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4104]",
+        "Text": "♪♪♪"
+    },
+    {
+        "Id": 8443,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4105]",
+        "Text": "お父さんが好きな大きなお花<br>お母さんが好きな真っ赤なお花<br>きっと喜んでくれるよね<br>いっぱい褒めてくれるよね<br><br>そう信じていた私を待っていたのは<br>変わり果てた二人の姿でした"
+    },
+    {
+        "Id": 8444,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4106]",
+        "Text": "I would always remember<br>You taught me to be kind and to be true<br>Withered hopes for tomorrow<br>This makes me question if I have to"
+    },
+    {
+        "Id": 8445,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4107]",
+        "Text": "Should I just grieve and then move on?<br>Or fight now that you're gone?<br>I'm not afraid to break these walls<br>And to risk it all"
+    },
+    {
+        "Id": 8446,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4108]",
+        "Text": "お父さん？　お母さん？<br>こんなところで寝たら風邪をひいちゃうよ<br>体もこんなに冷たくなってる<br><br>だから早く起きてよ……<br>ほら、こんなに綺麗なお花だよ……<br>ねえ、返事をしてよ……目を覚ましてよ……"
+    },
+    {
+        "Id": 8447,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4109]",
+        "Text": "♪♪♪"
+    },
+    {
+        "Id": 8448,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4110]",
+        "Text": "気が付くと私は美しい花に包まれていた<br>悲しいほどきれいな弔いの花が<br>二人のいない世界を滅ぼしていた<br><br>それでも涙で咲く花はない<br>花が咲くのはいつだって<br>誰かが愛してくれたから"
+    },
+    {
+        "Id": 8449,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4111]",
+        "Text": "♪♪♪"
+    },
+    {
+        "Id": 8450,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4112]",
+        "Text": "As I let this gift blossom<br>I will forever be so hopeful<br>Now, I'll unleash my power<br>I will bloom like a beautiful flower"
+    },
+    {
+        "Id": 8451,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4113]",
+        "Text": "誰もいない家の中で<br>もう戻らない夢ばかりを見ている<br>たくさんのお花と　お父さんとお母さん<br><br>もしも願いが叶うなら<br>次はみんなに愛されるお花になりたいな……"
+    },
+    {
+        "Id": 8479,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP201]",
+        "Text": "夕焼け さよなら<br>淋しい声が木霊して咲く<br>今昔 人は詠うように祈り捧ぐ奏で"
+    },
+    {
+        "Id": 8480,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP202]",
+        "Text": "この旅に終わりがある事は<br>初めからちゃんとわかってたんだ<br>いつか来るその日のために<br>私のカバンは空っぽのままだった"
+    },
+    {
+        "Id": 8481,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP203]",
+        "Text": "雨降る街 ゆらりゆらり 濡れる心<br>わたしは今 きみと笑い合いたい"
+    },
+    {
+        "Id": 8482,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP204]",
+        "Text": "朝を待った 捲るカレンダー<br>明日には涙も止まる<br>何度も言った“自由になれば救われるの？”"
+    },
+    {
+        "Id": 8483,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP205]",
+        "Text": "とこしえ さよなら<br>後ろ髪を引かれて進む<br>歩みは止めない<br>月明かり照らす場所へ"
+    },
+    {
+        "Id": 8484,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP206]",
+        "Text": "楽しいだけじゃない　悲しいだけじゃない<br>初めての気持ちが私を満たしていく<br>重くなったカバンで　私の足は軽くなった"
+    },
+    {
+        "Id": 8485,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP207]",
+        "Text": "瞬きする度に変わる世界 くらり<br>時が長く経てば 水泡となって"
+    },
+    {
+        "Id": 8486,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP208]",
+        "Text": "雲の間に間に 青が晴れていく<br>光差す部屋 いつかみた景色"
+    },
+    {
+        "Id": 8487,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP209]",
+        "Text": "朝を待った 募る不安が溢れ出す夜に隠れた<br>胸に或る過去の琥珀 灯す"
+    },
+    {
+        "Id": 8488,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP210]",
+        "Text": "故郷を守れなかった私に　世界なんて守れない<br>そう思ってたけど　見つけたんだ"
+    },
+    {
+        "Id": 8489,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP211]",
+        "Text": "この世界にはたくさんのキセキがあふれてる<br>大切な人のために祈り続ける願いが<br>愛する人のために振り絞る勇気が<br>暗闇さえも光に変える<br><br>それこそが世界を救う魔法なんだ"
+    },
+    {
+        "Id": 8490,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP212]",
+        "Text": "夢をみていたの“こわいことはなんにもないよ”<br>夢を縫い紡ぐ もう戻らなくちゃ 生きる場所へ"
+    },
+    {
+        "Id": 8491,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP213]",
+        "Text": "いにしえ さよなら またはじめる 地面を蹴って<br>きみと手繋いで<br>絆結びゆく旅の途中 つづく つづく"
+    },
+    {
+        "Id": 8492,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP214]",
+        "Text": "♪♪♪"
+    },
+    {
+        "Id": 8493,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP215]",
+        "Text": "花の吹雪舞う<br>月明かり照らす場所へ<br>月明かり照らす場所へ"
+    },
+    {
+        "Id": 8494,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP216]",
+        "Text": "いつの間にか私のカバンはいっぱいになっていた<br>でも大丈夫　私の旅が終わるとき<br>きっと私は　一人じゃないから"
+    },
+    {
+        "Id": 8495,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS201]",
+        "Text": "Saying goodbye to the sunset <br>Your sad melody echoes<br>through the darkest sky <br>Long, long ago, here now, and gone <br>People have lived, prayed, and sang a song  <br>with their fragile memories "
+    },
+    {
+        "Id": 8496,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS202]",
+        "Text": "この旅に終わりがある事は<br>初めからちゃんとわかってたんだ<br>いつか来るその日のために<br>私のカバンは空っぽのままだった"
+    },
+    {
+        "Id": 8497,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS203]",
+        "Text": "The rain won't stop falling <br>Drizzling, blurred streets <br>My heart is soaking too <br>Can't tell how much I wish you were here <br>Wanna laugh with you right now "
+    },
+    {
+        "Id": 8498,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS204]",
+        "Text": "Waiting for sunrise<br>All day, you're on my mind <br>I don't know what to do <br>Tomorrow I won't be crying <br>I'm talking to myself again and again <br>If I'm free, will I be saved? "
+    },
+    {
+        "Id": 8499,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS205]",
+        "Text": "Now is the time to say goodbye <br>I must move forward <br>Knowing that I'm not ready for it <br>Let me believe that you'll be there <br>Let's go out to see the moonlight with me "
+    },
+    {
+        "Id": 8500,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS206]",
+        "Text": "楽しいだけじゃない　悲しいだけじゃない<br>初めての気持ちが私を満たしていく<br>重くなったカバンで　私の足は軽くなった"
+    },
+    {
+        "Id": 8501,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS207]",
+        "Text": "Every time I blink, I see a new sight <br>It makes me feel dizzy <br>We will all disappear someday <br>Like the bubble blown away "
+    },
+    {
+        "Id": 8502,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS208]",
+        "Text": "Through the clouds, I see the sky <br>It's so blue, I felt a beauty <br>Sunlight shines into the room <br>I'm sure I've seen this view before "
+    },
+    {
+        "Id": 8503,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS209]",
+        "Text": "Waiting for sunrise <br>My fear never goes away <br>And still overflows <br>That’s why I hid in the night <br>The moments of precious<br>memories in my heart <br>appear in my dream "
+    },
+    {
+        "Id": 8504,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS210]",
+        "Text": "故郷を守れなかった私に　世界なんて守れない<br>そう思ってたけど　見つけたんだ"
+    },
+    {
+        "Id": 8505,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS211]",
+        "Text": "この世界にはたくさんのキセキがあふれてる<br>大切な人のために祈り続ける願いが<br>愛する人のために振り絞る勇気が<br>暗闇さえも光に変える<br><br>それこそが世界を救う魔法なんだ"
+    },
+    {
+        "Id": 8506,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS212]",
+        "Text": "I'm always dreaming in my dream <br>I'm talking to myself <br>\"Oh dear, there's nothing to fear\" <br>Still looking for a place where we live <br>I've got to get back <br>Shiny light pulls my hand and leads me "
+    },
+    {
+        "Id": 8507,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS213]",
+        "Text": "Now is the time to say goodbye <br>I am moving forward  <br>with the momentum of hope <br>Hold hands with you, I'll be okay <br>In this journey, we are still bonding  <br>our strength to be strong <br>Forevermore, forevermore "
+    },
+    {
+        "Id": 8508,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS214]",
+        "Text": "♪♪♪"
+    },
+    {
+        "Id": 8509,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS215]",
+        "Text": "Petals of wish pour down on us <br>Come with me, let's go to see the moonlight <br>Come with me, let's go to see the moonlight "
+    },
+    {
+        "Id": 8510,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS216]",
+        "Text": "いつの間にか私のカバンはいっぱいになっていた<br>でも大丈夫　私の旅が終わるとき<br>きっと私は　一人じゃないから"
     },
     {
         "Id": 8511,
@@ -54355,6 +55279,76 @@
         "Text": "欲しいのは、こんな力じゃなかった……"
     },
     {
+        "Id": 9161,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileLyricsJP61]",
+        "Text": "<size=25><b>Allure of the Dark</b></size><br>Song by Daoko<br><br>もしも もしも 此処でわたしが逃げたのならば世界は変わる？<br>きみとふたり 壊れる世界 眺めていたい 手を繋ぎ<br>破滅の扉叩く いまからなにもかもが消滅する<br>いつかの憧れていた想いが弾け舞うような ah<br><br>ああ 光さえ飲み込んでしまう闇黒<br>まだ輪郭はもとの形 覚えてる<br>ああ 光さえなければ自由<br><br>悪魔が誘惑 秘密の言葉で<br>わたしの知らないわたし教えてくれる<br>種が芽吹く場所 醜くあるほど 鮮やかに花は咲く<br><br>破滅の音を鳴らす いまから誰もが赤子に還る<br>いつかの憧れていた願いが弾け舞うような ah<br><br>ああ 光さえ飲み込んでしまう闇黒<br>あの残像は此方を視る<br><br>強く守り誓った使命 神の炎が焼き尽くす影<br>黒か白か 審判は誰が下すの？<br><br>ああ 光すら忘れてしまう闇夜から<br>放つ閃光 天に射る<br>ああ 光さえ飲み込んでしまう闇黒<br>まだ輪郭はもとの形 覚えてる<br>ああ 夢をみる やさしい夢"
+    },
+    {
+        "Id": 9162,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileLyricsUS61]",
+        "Text": "<size=25><b>Allure of the Dark</b></size><br><br>If by chance I were to turn away and run away<br>From the path I embraced<br>Could the world still find its way?<br>You and I, side by side<br>In a world that's crumbling, we stand<br>I wish to gaze upon forevermore<br><br>Tapping the door of desolation's might<br>From now on, all fades from sight<br>Venturing into the unknown<br>Notes of longing, the dreams we held so tight<br>Now scatter like stardust, taking flight<br><br>Ah, light so frail in the depths<br>Swallowed by the void of night, I stand alone<br>Freedom's end takes its flight<br>Still I remember from the depths of my heart<br>If this light were not to be<br>We would wander free<br><br>Oh, demons tempt with sly allure<br>They whisper words so obscure<br>The me unknown, yet revealed<br>The hidden depths I'd rather not explore<br>Where seeds unfurl, roots entwine<br>Within the darkness, they unite<br>Flowers bloom emerged in radiant attire<br><br>Sounds of decay echo far and wide<br>Into the void, our spirits flow<br>Back to nothingness they go<br>Notes of longing, the dreams we held so tight<br>Now scatter like stardust, taking flight<br><br>Ah, light so frail in the depths<br>Swallowed by the void of night, I stand alone<br>Dreams of old, in hearts reside<br>To the next soul I flow<br><br>Bound by strength, to protect<br>A vow to uphold my fate<br>Who unleashed this fire's might<br>God's grace, or demon's embrace?<br>Black or white, true or false<br>I contemplate the core of me<br>Beyond the gates<br><br>As light ne'er touched this sphere<br>I wander in this void, where hope disappears<br>Doom's spark ignites, piercing night<br><br>Ah... The light, heaven's gate it defies<br>In desolate skies, dreams belied, I fly alone<br>Freedom's end takes its flight<br>Still I remember from the depths of my heart<br>Dreaming of joy, painfully bright<br>It fades into the night"
+    },
+    {
+        "Id": 9163,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileDescription61]",
+        "Text": "世界の命運を賭けた最後の戦いを経て、天使と悪魔、両方の力を取り込んだイリア。しかしその影響で天使から与えられていた過剰なまでの正義感は薄れてしまった。それは普通の少女に戻っただけともいえるが、その胸の内には、過酷な運命を生きてきた反動とも言うべき想いが見え隠れしている。"
+    },
+    {
+        "Id": 9164,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileVoiceJP61]",
+        "Text": "花澤香菜"
+    },
+    {
+        "Id": 9165,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileVoiceUS61]",
+        "Text": "Erika Lynn Harlacher"
+    },
+    {
+        "Id": 9166,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileLamentJP61]",
+        "Text": "Allure of the Dark"
+    },
+    {
+        "Id": 9167,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileLamentUS61]",
+        "Text": "Allure of the Dark"
+    },
+    {
+        "Id": 9168,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileVocalJP61]",
+        "Text": "Daoko"
+    },
+    {
+        "Id": 9169,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileVocalUS61]",
+        "Text": ""
+    },
+    {
+        "Id": 9170,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileGachaResultSubMessage61]",
+        "Text": "世界の平和よりも、私は……"
+    },
+    {
         "Id": 9171,
         "IsIgnore": false,
         "Memo": "",
@@ -57491,6 +58485,55 @@
         "Text": "皆殺しの魔女は、最後にその力をあたしのために使った。<br><br>呪われた力だとしても、誰かを想う心は紛れもなく人間だ。それが「人として死ねる」ということ。<br><br>あの人が遺した花をそっと撫でた。これがあればあたしも死ねる……<br><br>だけどそれは今じゃない。<br><br>あの人の遺志に応えよう。それこそが、あたしの「人間の証明」になるから。<br><br>花を胸に刺して、あたしは歩き出した。<br><br>人として死のう。それまでは生きよう。<br>それがあの人の願いであり──<br><br>あたしが化け物ではなく、普通の女の子として死ぬための、唯一の方法だから。"
     },
     {
+        "Id": 9963,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterStoryText6101]",
+        "Text": "最初の国で花の呪いを消したとき、違和感があった。<br>フラン国のすべての呪いを消したとき、その正体がわかった。<br><br>呪いは消したんじゃない。私の中に封じただけ。<br>すべての呪いを集めた後、きっと最後に、私を……。<br>……っ。<br><br>世界を滅ぼす10の呪いをたった一人の人間に封じるなんて不可能だ。<br>だけど私にはひとつだけ隠している事があった。<br><br>子供のころ、私は奇跡の子と呼ばれていた。<br>神の力を持って生まれた私は、一度だけ神の奇跡を起こす事ができる、と。<br><br>死ぬのは怖い。だけど、私の命で世界を救える事は、少しだけ救いだった。<br>だから死ぬのは怖くなかった。この力を使えないまま死んでしまう事が怖かった。"
+    },
+    {
+        "Id": 9964,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterStoryText6102]",
+        "Text": "世界を救うための、辛く苦しい旅だと思っていた。<br>楽しく世界を救うなんて許されない。辛くて苦しくなければならないと。<br><br>だけど、誰よりも優しいあの人は、私の異変に気が付いてしまった。<br>1人で耐えるはずの試練は、２人で支えあうものに変わった。<br><br>痛みは半分になり、いつしか消えてしまった。<br>辛く苦しい旅は、あの人とたくさんの仲間に支えられて、明るく楽しい旅に変わった。<br><br>旅はいつか終わる。ちゃんとわかっていたはずだった。なのに、今は……<br><br>お別れの言葉も言えないまま、旅の終わりが、目の前に来ていた。"
+    },
+    {
+        "Id": 9965,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterStoryText6103]",
+        "Text": "大空洞の中央。封印の祭壇。<br>悪魔に操られた教皇様を救い、杖の力で最後の呪いを一掃する。<br>ついに世界は救われたんだ……！<br><br>……おかしい。どうしてこんなに簡単なの。<br>まさか全ての呪いが消えるのを──ひとつに集まるのを、待っていた……？<br><br>世界に10人しかいないクリファの魔女は、全員が守護天使の力を持っている。<br>世界を護る力が反転し、破壊する力に変わったのが「呪い」だ。<br>呪いを奪う事はすなわち「世界を護る力」を奪う事──<br><br>私の中から棘のような力があふれ出す。<br>教皇様の悲壮な声が響いた。<br><br>「11番目の呪い……！？　そんなの、存在するはずが……！」<br><br>封印の祭壇が壊され、ナニカが私の中に入り込んできた。"
+    },
+    {
+        "Id": 9966,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterStoryText6104]",
+        "Text": "古の天使が力を失い、約定は失われ、悪魔の王が降臨する。<br>10の呪いによって作り変えられた私の身体を器にして。<br><br>だけど悪魔は悪魔故に狡猾で、悪魔故に傲慢だった。<br><br>悪魔王が蘇る。10の封印が解け、11番目の封印が残された私の中に。<br>それは悪魔が造り、天使が欺いた、存在しないはずの奇跡。魂を牢獄に変える黒の鍵。<br><br>私は理解した。<br>神の力を持つ私は、一度だけ神の奇跡を起こすことができる。<br><br>それはこの瞬間のためだったんだ。"
+    },
+    {
+        "Id": 9967,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterStoryText6105]",
+        "Text": "遥か昔、悪魔の王が世界を滅ぼそうとした。<br>その力は強大で、天使たちは封じる事しかできなかった。<br><br>その悪魔王が不完全な状態で私の中にいる。<br>今こそ、この命で世界を救う時だ。<br><br>最後にもう一度だけあの人を見た。<br>君がいたからここまで来れたんだよ。だから、ありがとう。……さようなら。<br><br>純白の光があふれ出す。ただ一度の奇跡が願いを叶える。この命で世界を救う、最後の願いを。<br><br>なのに……。<br><br>どこで間違えたのかな……こうなる覚悟はしてたつもりだったけど……<br>ねえ、お願い……お願いだから……<br>たすけて……っ！<br><br>やっぱり楽しく世界を救ってはいけなかったんだ。<br>私は最後の最後で、世界の平和を願えなくて──<br>ただ一度だけの奇跡が、私の願いを叶えた。"
+    },
+    {
+        "Id": 9968,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterStoryText6106]",
+        "Text": "願いが叶い、私は助かった。悪魔王を私の中に残したままで。<br>今は力を抑えているけど、いつか復活した時、私は世界を滅ぼしてしまう……<br><br>止めるためには世界の最下層、悪魔たちの玉座に行かなくてはいけなかった。<br>そこに王を封印するために。あるいは私ごと、殺すために。<br><br>今までなら怖くなかった。だけど……<br><br>何も知らなければ世界は簡単に救えたのに。今は震えながら歩いてる。砕けないよう必死に笑いながら。<br>でもいつかは限界が来る。<br><br>その時、私は私のままでいられるかな……<br>悪魔の玉座で、私は何を願うのかな……"
+    },
+    {
+        "Id": 9969,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterStoryText6107]",
+        "Text": "私の中に天使と悪魔がいる。<br>世界を救えと天使が告げ、悪魔は甘い声で囁く。<br><br>「私」はすでに世界を捨てた。本当の願いを知ったのに、いまさら何をためらうの？<br><br>……あの人は世界を救おうとしてる。だから私も世界を救う。世界のためじゃなく、あの人のために。<br><br>でも、優しいあの人はきっと言うよ。<br>「世界よりも君の命が大切だ」って。<br><br>……あぁそうだね。そんな素敵なことを言われたら、私は喜んで世界を捨てちゃうかも。<br><br>だって私には隠していた事がある。<br>秘された神の力。存在しないはずの、愚かな０番目のクリファの魔女。<br><br>それが私だから。"
+    },
+    {
         "Id": 9970,
         "IsIgnore": false,
         "Memo": "",
@@ -59463,6 +60506,13 @@
         "Memo": "",
         "StringKey": "[EquipmentName441]",
         "Text": "混沌の覇者"
+    },
+    {
+        "Id": 10485,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EquipmentName465]",
+        "Text": "封魔の黒鍵"
     },
     {
         "Id": 10486,
@@ -71530,7 +72580,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[HelpMainText900]",
-        "Text": "■お気に入り<br>入手したキャラは最大５キャラまでお気に入りに設定できます。<br>設定したキャラはマイページに表示され、<br>マイページBGMがそのキャラのラメントになります。"
+        "Text": "■お気に入り<br>入手したキャラは最大５キャラまでお気に入りに設定できます。<br>設定したキャラはマイページに表示され、<br>マイページBGMがそのキャラのラメントになります。<br><br>■モノローグ<br>モノローグマーク（♪）が表示されているキャラはモノローグが利用可能です。<br>モノローグはセリフが挿入されたラメントを視聴することができる機能です。<br>モノローグはそのキャラのマイページ右上、キャラ詳細左下のモノローグボタンから遷移できます。<br>※今後も継続的にモノローグが追加される予定です"
     },
     {
         "Id": 12467,
@@ -71810,7 +72860,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[HelpMainText2213]",
-        "Text": "■バフ・弱体効果<br>バフは戦闘に有利な状態です。<br>弱体効果は戦闘に不利な状態です。<br>弱体効果の付与は、弱体効果命中率と弱体効果耐性率による判定を行います。<br>バフ・弱体効果ともに特定のスキルによって解除あるいはコピーされることがあります。<br><br>■効果ターン<br>バフ・弱体効果のうち、効果ターンの指定があるものに関してはそのターン内のみ効果が有効です。<br>効果ターンは、キャラの行動終了時点で１ターン減少します。<br>ターン数が０になると該当のバフ・弱体効果は解除されます。<br>また、効果ターン増加・減少効果を持つスキルによってもターン数を増減させることが可能です。<br><br>■重ね掛け<br>バフ・弱体効果は例外を除き、同一種類の効果を重ね掛けできます。<br>以下の場合は例外に該当し、重ね掛けができません。<br><br>気絶、毒、出血、火傷、浸食についてそれぞれ同種の効果を重ねた場合、上書きされます。<br>上書きの際、効果ターンの最大値と効果の大きさの最大値を引き継いだ１つの効果のみが残ります。<br><br>スタックを除く、同一キャラの同じバフ・弱体効果を重ねた場合、新しい効果に上書きされます。<br><br>■スタック<br>回数を重ねる度に効果が増加するバフ・弱体効果がスタックに該当します。<br>重ねた回数をスタック数としてカウントし、重ねられる回数には上限があります。<br>スタックされた状態のバフ・弱体効果が解除されると、スタック数は０になります。<br><br>■解除<br>対象のバフまたは弱体効果を解除します。<br>敵のバフを解除する場合、弱体効果命中率と弱体効果耐性率による判定を行います。<br><br>■バフコピー<br>敵に付帯しているバフを自身に付与します。<br>コピーしたバフはコピー時点の効果の値から更新されることはありません。<br>解除不可のバフはコピーの対象外です。<br><br>■弱体効果コピー<br>自身に付帯している弱体効果を敵に付与します。<br>付与する際、弱体効果命中率と弱体効果耐性率による判定を行います。<br>共鳴および解除不可の弱体効果はコピーの対象外です。<br><br>■解除不可<br>この表示のあるバフ・弱体効果は以下の特性を持ちます。<br>付帯しているバフ・弱体効果としてカウントされません。<br>効果の解除、ターン増減、コピーの効果を受けません。<br>弱体効果命中率、弱体効果耐性率、バフ無効、弱体効果無効の影響を受けません。<br>一部のものを除き、バトル中に付帯中のアイコンとして表示されません。"
+        "Text": "■バフ・弱体効果<br>バフは戦闘に有利な状態です。<br>弱体効果は戦闘に不利な状態です。<br>弱体効果の付与は、弱体効果命中率と弱体効果耐性率による判定を行います。<br>バフ・弱体効果ともに特定のスキルによって解除あるいはコピーされることがあります。<br><br>■効果ターン<br>バフ・弱体効果のうち、効果ターンの指定があるものに関してはそのターン内のみ効果が有効です。<br>効果ターンは、キャラの行動終了時点で１ターン減少します。<br>ターン数が０になると該当のバフ・弱体効果は解除されます。<br>また、効果ターン増加・減少効果を持つスキルによってもターン数を増減させることが可能です。<br><br>■重ね掛け<br>バフ・弱体効果は例外を除き、同一種類の効果を重ね掛けできます。<br>以下の場合は例外に該当し、重ね掛けができません。<br><br>気絶、毒、出血、火傷、浸食についてそれぞれ同種の効果を重ねた場合、上書きされます。<br>上書きの際、効果ターンの最大値と効果の大きさの最大値を引き継いだ１つの効果のみが残ります。<br><br>スタックを除く、同一キャラの同じバフ・弱体効果を重ねた場合、新しい効果に上書きされます。<br><br>■スタック<br>回数を重ねる度に効果が増加するバフ・弱体効果がスタックに該当します。<br>重ねた回数をスタック数としてカウントし、重ねられる回数には上限があります。<br>スタックされた状態のバフ・弱体効果が解除されると、スタック数は０になります。<br><br>■解除<br>対象のバフまたは弱体効果を解除します。<br>敵のバフを解除する場合、弱体効果命中率と弱体効果耐性率による判定を行います。<br><br>■バフコピー<br>敵に付帯しているバフを自身に付与します。<br>コピーしたバフはコピー時点の効果の値から更新されることはありません。<br>献身および解除不可のバフはコピーの対象外です。<br><br>■弱体効果コピー<br>自身に付帯している弱体効果を敵に付与します。<br>付与する際、弱体効果命中率と弱体効果耐性率による判定を行います。<br>共鳴および解除不可の弱体効果はコピーの対象外です。<br><br>■解除不可<br>この表示のあるバフ・弱体効果は以下の特性を持ちます。<br>付帯しているバフ・弱体効果としてカウントされません。<br>効果の解除、ターン増減、コピーの効果を受けません。<br>弱体効果命中率、弱体効果耐性率、バフ無効、弱体効果無効の影響を受けません。<br>一部のものを除き、バトル中に付帯中のアイコンとして表示されません。"
     },
     {
         "Id": 12507,
@@ -71824,7 +72874,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[HelpMainText2214]",
-        "Text": "■ステータス増加<br>特定のステータスが増加します。<br>バトル開始時点でのステータスを参照して計算されます。<br><br>■与ダメージ増加<br>攻撃をするとき、その攻撃で与えるダメージが増加します。<br><br>■被ダメージ減少<br>攻撃を受けるとき、その攻撃で受けるダメージが減少します。<br><br>■ダメージ無効<br>ダメージを受けたとき、ダメージを無効化します。<br><br>■多重バリア<br>ダメージを受けたとき、バリアを１層消費してそのダメージを無効化します。<br>ダメージ無効と重ね掛けしている場合、多重バリアは消費されません。<br>シールドと重ね掛けしている場合、多重バリアから優先して使用します。<br><br>■シールド<br>ダメージを受けたとき、一定の量のダメージを無効化します。<br>無効化できる量以上の累計ダメージを受けるとシールドは消滅し、余ったダメージがHPを削ります。<br>ダメージ無効と重ね掛けしている場合、シールドは消費されません。<br>多重バリアと重ね掛けしている場合、多重バリアから優先して使用します。<br><br>■弱体効果無効<br>弱体効果を受けなくなります。<br>既に付帯している弱体効果は無効になりません。<br><br>■行動阻害無効<br>行動阻害効果を含む弱体効果を受けなくなります。<br>行動阻害は気絶、睡眠、混乱、沈黙の４種類があります。<br>既に付帯している行動阻害効果は無効になりません。<br><br>■挑発<br>対象がランダムである敵の攻撃、スキルを付帯者に引き付けるようになります。<br>対象がランダムでない敵の攻撃、スキルは引き付けられません。<br><br>■ステルス<br>対象が１体である敵の攻撃、スキルの対象に選ばれなくなります。<br>ただし正面の敵を対象とする攻撃、スキルは受けます。<br><br>生存している味方全員が透明とステルスのいずれかの状態の場合、ステルスは無効になります。<br><br>■透明<br>敵味方のすべての攻撃、スキルの対象から除外されます。<br>生存している味方全員が透明の状態の場合、透明は無効になります。<br><br>■○○返し<br>攻撃を受けると、一定の確率で相手に特定の弱体効果を付与します。<br><br>■再生<br>毎ターン行動開始時に、一定の量のHPを回復します。<br><br>■不死身<br>受けたダメージ量が残りHPを超える場合、HPを１残して耐えます。<br>攻撃、毒などの持続ダメージ、共鳴、カウンタによるダメージが対象になります。<br><br>■カウンタ変更<br>敵から攻撃を受けたとき、カウンタの代わりに指定されたダメージ量分、特定の敵にダメージを与えます。<br>このダメージ量はカウンタのステータスによる影響を受けません。"
+        "Text": "■ステータス増加<br>特定のステータスが増加します。<br>バトル開始時点でのステータスを参照して計算されます。<br><br>■与ダメージ増加<br>攻撃をするとき、その攻撃で与えるダメージが増加します。<br><br>■被ダメージ減少<br>攻撃を受けるとき、その攻撃で受けるダメージが減少します。<br><br>■ダメージ無効<br>ダメージを受けたとき、ダメージを無効化します。<br><br>■多重バリア<br>ダメージを受けたとき、バリアを１層消費してそのダメージを無効化します。<br>ダメージ無効と重ね掛けしている場合、多重バリアは消費されません。<br>シールドと重ね掛けしている場合、多重バリアから優先して使用します。<br><br>■シールド<br>ダメージを受けたとき、一定の量のダメージを無効化します。<br>無効化できる量以上の累計ダメージを受けるとシールドは消滅し、余ったダメージがHPを削ります。<br>ダメージ無効と重ね掛けしている場合、シールドは消費されません。<br>多重バリアと重ね掛けしている場合、多重バリアから優先して使用します。<br><br>■弱体効果無効<br>弱体効果を受けなくなります。<br>既に付帯している弱体効果は無効になりません。<br><br>■行動阻害無効<br>行動阻害効果を含む弱体効果を受けなくなります。<br>行動阻害は気絶、睡眠、混乱、沈黙の４種類があります。<br>既に付帯している行動阻害効果は無効になりません。<br><br>■挑発<br>対象がランダムである敵の攻撃、スキルを付帯者に引き付けるようになります。<br>対象がランダムでない敵の攻撃、スキルは引き付けられません。<br><br>■ステルス<br>対象が１体である敵の攻撃、スキルの対象に選ばれなくなります。<br>ただし正面の敵を対象とする攻撃、スキルは受けます。<br><br>生存している味方全員が透明とステルスのいずれかの状態の場合、ステルスは無効になります。<br><br>■透明<br>敵味方のすべての攻撃、スキルの対象から除外されます。<br>生存している味方全員が透明の状態の場合、透明は無効になります。<br><br>■○○返し<br>攻撃を受けると、一定の確率で相手に特定の弱体効果を付与します。<br><br>■再生<br>毎ターン行動開始時に、一定の量のHPを回復します。<br><br>■不死身<br>受けたダメージ量が残りHPを超える場合、HPを１残して耐えます。<br>攻撃、毒などの持続ダメージ、共鳴、献身、カウンタによるダメージが対象になります。<br><br>■カウンタ変更<br>敵から攻撃を受けたとき、カウンタの代わりに指定されたダメージ量分、特定の敵にダメージを与えます。<br>このダメージ量はカウンタのステータスによる影響を受けません。<br><br>■献身<br>対象の味方が攻撃で受けるダメージの内、一定の量のダメージを代わりに引き受けます。​<br>献身と共鳴のダメージが同時に発生した場合、合計して１回のダメージとしてカウントされます。"
     },
     {
         "Id": 12509,
@@ -71838,7 +72888,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[HelpMainText2215]",
-        "Text": "■ステータス減少<br>特定のステータスが減少します。<br>バトル開始時点でのステータスを参照して計算されます。<br><br>■与ダメージ減少<br>攻撃をするとき、その攻撃で与えるダメージが減少します。<br><br>■被ダメージ増加<br>攻撃を受けるとき、その攻撃で受けるダメージが増加します。<br><br>■気絶<br>通常攻撃およびスキルの使用が不可能になり、ターン数のみ経過します。<br><br>■睡眠<br>通常攻撃およびスキルの使用が不可能になり、ターン数のみ経過します。<br>ターン経過のほかに特定の条件でも解除されます。<br><br>■混乱<br>攻撃対象を味方と敵の両方からランダムで選択するようになります。<br>攻撃力の高い敵を狙うスキルなど対象が明示されるものでもランダムな敵と味方を狙うようになります。<br>味方を対象にしたスキル、味方と敵同時に作用するスキルは混乱の影響を受けません。<br><br>■沈黙<br>スキルの使用が不可能になり、通常攻撃のみ行うようになります。<br><br>■毒・火傷・出血・浸食<br>毎ターン行動開始時に、一定の持続ダメージを受けるようになります。<br><br>毒・火傷は、現在のHPの割合に応じた持続ダメージを受けます。<br>なお、ダメージは付帯者の攻撃力を越えません。<br><br>出血は、付与者の攻撃力の割合に応じた持続ダメージを受けます。<br><br>浸食は、付与された時のスキルの総与ダメージの割合に応じた持続ダメージを受けます。<br><br>■不治<br>HPの回復ができなくなります。<br>回復、再生、HPドレインの効果が該当します。<br><br>■バフ無効<br>バフを獲得できなくなります。<br>既に付与されているバフは無効になりません。<br>バフ無効を付帯中に条件に応じて値が更新するバフの上昇は反映されません。<br>解除不可バフはバフ無効の影響を受けません。<br><br>■拘束<br>回避ができなくなります。<br><br>■共鳴<br>特定の条件に該当するキャラが攻撃で受けるダメージの内、一定の量のダメージを付帯者も受けます。"
+        "Text": "■ステータス減少<br>特定のステータスが減少します。<br>バトル開始時点でのステータスを参照して計算されます。<br><br>■与ダメージ減少<br>攻撃をするとき、その攻撃で与えるダメージが減少します。<br><br>■被ダメージ増加<br>攻撃を受けるとき、その攻撃で受けるダメージが増加します。<br><br>■気絶<br>通常攻撃およびスキルの使用が不可能になり、ターン数のみ経過します。<br><br>■睡眠<br>通常攻撃およびスキルの使用が不可能になり、ターン数のみ経過します。<br>ターン経過のほかに特定の条件でも解除されます。<br><br>■混乱<br>攻撃対象を味方と敵の両方からランダムで選択するようになります。<br>攻撃力の高い敵を狙うスキルなど対象が明示されるものでもランダムな敵と味方を狙うようになります。<br>味方を対象にしたスキル、味方と敵同時に作用するスキルは混乱の影響を受けません。<br><br>■沈黙<br>スキルの使用が不可能になり、通常攻撃のみ行うようになります。<br><br>■毒・火傷・出血・浸食<br>毎ターン行動開始時に、一定の持続ダメージを受けるようになります。<br><br>毒・火傷は、現在のHPの割合に応じた持続ダメージを受けます。<br>なお、ダメージは付帯者の攻撃力を越えません。<br><br>出血は、付与者の攻撃力の割合に応じた持続ダメージを受けます。<br><br>浸食は、付与された時のスキルの総与ダメージの割合に応じた持続ダメージを受けます。<br><br>■不治<br>HPの回復ができなくなります。<br>回復、再生、HPドレインの効果が該当します。<br><br>■バフ無効<br>バフを獲得できなくなります。<br>既に付与されているバフは無効になりません。<br>バフ無効を付帯中に条件に応じて値が更新するバフの上昇は反映されません。<br>解除不可バフはバフ無効の影響を受けません。<br><br>■拘束<br>回避ができなくなります。<br><br>■共鳴<br>攻撃で受けたダメージの内、一定の量のダメージを同じ共鳴の付帯者も受けるようになります。​<br>献身と共鳴のダメージが同時に発生した場合、合計して１回のダメージとしてカウントされます。"
     },
     {
         "Id": 12511,
@@ -71852,7 +72902,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[HelpMainText2216]",
-        "Text": "■回復<br>HPを一定の量、回復します。<br><br>■戦闘不能<br>HPが０になると戦闘不能になります。戦闘不能のキャラは行動ができません。<br>戦闘不能となった際、そのキャラが持っているバフ・弱体効果はすべて解除されます。<br>またスキルクールタイムは戦闘不能直前の値を保持します。<br><br>■スキルクールタイムカウント増加・減少<br>対象のスキルクールタイムのターン数を増加、減少させます。<br><br>■復活<br>ダメージを受けて戦闘不能になった際、HPを回復し戦闘可能な状態に復帰します。<br>攻撃、毒などの持続ダメージ、共鳴、カウンタによるダメージが対象になります。<br><br>■必ず命中<br>攻撃が必ず命中します。<br>この効果は命中率、回避率の影響を受けません。<br><br>■必ずクリティカルヒット<br>攻撃が命中した場合、必ずクリティカルヒットします。<br>この効果はクリティカル率、クリティカル耐性率の影響を受けません。<br><br>■遮断<br>攻撃、共鳴、カウンタによるダメージを特定の割合で軽減します。<br>毒などの持続ダメージによるダメージは軽減できません。<br>被ダメージ増減、与ダメージ増減の効果は遮断によるダメージ軽減の前に計算されます。<br>シールド、共鳴の効果は遮断によるダメージ軽減の後に計算されます。​<br><br>■HP１で耐える<br>受けたダメージ量が、残りHPを超える場合HPを１残して耐えます。<br>攻撃、毒などの持続ダメージ、共鳴、カウンタによるダメージが対象になります。<br>この効果は解除やコピーの影響を受けません。<br><br>■吸収<br>敵に特定のステータス減少の弱体効果を付与し、そのステータス減少分の数値を自身にバフとして付与します。<br>弱体効果の付与に失敗した場合、自身にバフは付与されません。<br><br>■通常攻撃強化<br>通常攻撃を強化します。強化内容はスキルによって異なります。<br><br>■自傷ダメージ<br>スキルを使用する際に自身のHPを減少させる効果です。<br>被ダメージ増減、ダメージ無効、シールド、多重バリア、遮断、不死身の影響を受けません。<br><br>■カウンタ<br>敵から攻撃を受けたとき、受けたダメージ量に応じて敵にダメージを与えます。<br>カウンタによるダメージはシールド、多重バリア、ダメージ無効、遮断、不死身の効果を受けます。<br>カウンタで与えたダメージは回避されず、また攻撃回数のカウントに含まれません。<br>毒などの持続ダメージや共鳴、パッシブスキルによるダメージで発動しません。<br>攻撃が命中した時のみ発動し、攻撃を回避した場合は発動しません。<br><br>■HPドレイン<br>敵に攻撃したとき、与えたダメージ量に応じて自身のHPを回復します。<br>シールド、多重バリア、ダメージ無効、遮断、不死身の効果を反映したダメージに対して回復量を計算します。<br>毒などの持続ダメージや共鳴、パッシブスキルによるダメージで発動しません。<br>攻撃が命中した時のみ発動し、攻撃が回避された場合は発動しません。"
+        "Text": "■回復<br>HPを一定の量、回復します。<br><br>■戦闘不能<br>HPが０になると戦闘不能になります。戦闘不能のキャラは行動ができません。<br>戦闘不能となった際、そのキャラが持っているバフ・弱体効果はすべて解除されます。<br>またスキルクールタイムは戦闘不能直前の値を保持します。<br><br>■スキルクールタイムカウント増加・減少<br>対象のスキルクールタイムのターン数を増加、減少させます。<br><br>■復活<br>ダメージを受けて戦闘不能になった際、HPを回復し戦闘可能な状態に復帰します。<br>攻撃、毒などの持続ダメージ、共鳴、献身、カウンタによるダメージが対象になります。<br><br>■必ず命中<br>攻撃が必ず命中します。<br>この効果は命中率、回避率の影響を受けません。<br><br>■必ずクリティカルヒット<br>攻撃が命中した場合、必ずクリティカルヒットします。<br>この効果はクリティカル率、クリティカル耐性率の影響を受けません。<br><br>■遮断<br>攻撃、共鳴、献身、カウンタによるダメージを特定の割合で軽減します。<br>毒などの持続ダメージによるダメージは軽減できません。<br>被ダメージ増減、与ダメージ増減の効果は遮断によるダメージ軽減の前に計算されます。<br>シールド、共鳴、献身の効果は遮断によるダメージ軽減の後に計算されます。​<br><br>■HP１で耐える<br>受けたダメージ量が、残りHPを超える場合HPを１残して耐えます。<br>攻撃、毒などの持続ダメージ、共鳴、献身、カウンタによるダメージが対象になります。<br>この効果は解除やコピーの影響を受けません。<br><br>■吸収<br>敵に特定のステータス減少の弱体効果を付与し、そのステータス減少分の数値を自身にバフとして付与します。<br>弱体効果の付与に失敗した場合、自身にバフは付与されません。<br><br>■通常攻撃強化<br>通常攻撃を強化します。強化内容はスキルによって異なります。<br><br>■自傷ダメージ<br>スキルを使用する際に自身のHPを減少させる効果です。<br>被ダメージ増減、ダメージ無効、シールド、多重バリア、遮断、不死身の影響を受けません。<br><br>■カウンタ<br>敵から攻撃を受けたとき、受けたダメージ量に応じて敵にダメージを与えます。<br>カウンタによるダメージはシールド、多重バリア、ダメージ無効、遮断、不死身の効果を受けます。<br>カウンタで与えたダメージは回避されず、また攻撃回数のカウントに含まれません。<br>毒などの持続ダメージや共鳴、献身、パッシブスキルによるダメージで発動しません。<br>攻撃が命中した時のみ発動し、攻撃を回避した場合は発動しません。<br><br>■HPドレイン<br>敵に攻撃したとき、与えたダメージ量に応じて自身のHPを回復します。<br>シールド、多重バリア、ダメージ無効、遮断、不死身の効果を反映したダメージに対して回復量を計算します。<br>毒などの持続ダメージや共鳴、献身、パッシブスキルによるダメージで発動しません。<br>攻撃が命中した時のみ発動し、攻撃が回避された場合は発動しません。"
     },
     {
         "Id": 12513,
@@ -72987,6 +74037,13 @@
         "Memo": "",
         "StringKey": "[LocalRaidName110]",
         "Text": "夏夜の間（期間限定）"
+    },
+    {
+        "Id": 12679,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[LocalRaidName111]",
+        "Text": "神呪の間（期間限定）"
     },
     {
         "Id": 12690,
@@ -105158,7 +106215,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[TutorialTextBox1503]",
-        "Text": "樹の力が最大になる特定の時間に報酬が増えるみたいだけど、<br>強力な守護者に守られてるみたい。<br>私たちだけじゃ危険だよ。みんなで協力して挑戦しよう。"
+        "Text": "樹の力が最大になる特定の時間に報酬が増えるみたいだけど、<br>強力な守護者に守られてるんだ。<br>私たちだけじゃ危険だよ。みんなで協力して挑戦しよう。"
     },
     {
         "Id": 17325,
@@ -105270,7 +106327,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[TutorialTextBox2203]",
-        "Text": "選んだルーンを装着しよう。<br>スロットを加工した後は、<br>ルーンの付け外しは自由に可能だよ。"
+        "Text": "選んだルーンを装着しよう。<br>スロットを加工した後は、<br>ルーンの付け外しが自由にできるよ。"
     },
     {
         "Id": 17341,
@@ -115617,6 +116674,34 @@
         "Memo": "",
         "StringKey": "[GachaExplanation66]",
         "Text": "ソフィアが期間限定で登場"
+    },
+    {
+        "Id": 18865,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[GachaDetailDialogDetail67]",
+        "Text": "・ダイヤまたは専用のチケットを消費して、利用できるガチャです。<br>・キャラのみ出現します。<br>・99回連続でピックアップ対象の「［神呪の魔女］イリア」が出現しなかった場合、100回目に「［神呪の魔女］イリア」が必ず１体確定出現します。<br>・確定出現までの現在の回数は【{0}/100】です。<br>・プラチナガチャ、ピックアップガチャ、属性ガチャの累計ガチャ回数によって、回数報酬で確定のアイテムが獲得できます。<br>※獲得したアイテムは、直接所持数に加算されます<br>※アイテムの所持数が上限に達している場合、プレゼントボックスに送られます<br>・セレクトリストに設定されたSRキャラの提供割合が高くなります。SRキャラ全体の提供割合自体は変わりません。詳細はセレクトリストのヘルプをご確認ください。"
+    },
+    {
+        "Id": 18866,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[GachaDetailDailogHeading67]",
+        "Text": "ピックアップガチャにはピックアップ対象キャラが新登場し、他のキャラより提供割合がアップします。<br>ピックアップ対象キャラは以下「個別提供割合」をご確認ください。<br>■開催期間<br>{0}<br>■確定出現機能<br>ピックアップガチャにおいて、99回以内にピックアップ対象の「［神呪の魔女］イリア」が出現しなかった場合、100回目のガチャ実行時に必ず「［神呪の魔女］イリア」が１体確定出現します。<br>■回数報酬<br>プラチナガチャ、属性ガチャの累計ガチャ回数に応じてもらえる「回数報酬」にピックアップガチャの累計ガチャ回数分も加算されます。他ガチャの累計ガチャ回数の続きから報酬を受け取ることができます。<br>■注意事項<br>「［神呪の魔女］イリア」は一定期間、ピックアップガチャ・運命ガチャ以外から出現しません。<br>「回数報酬」の「魔女の招待状」の選択対象外となりますのでご注意ください。<br>「［神呪の魔女］イリア」と「イリア」は別のキャラです。そのため、同じパーティに編成できます。"
+    },
+    {
+        "Id": 18867,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[GachaDetailDialogNotes67]",
+        "Text": "・ガチャの内容は予告なく変更する場合があります。<br>・出現するキャラの提供割合は、キャラによって異なります。<br>・各提供割合は小数第4位を四捨五入して表示しているため、合計値が100%にならない場合があります。<br>・ガチャは1回ごとに提供割合に基づいて抽選を行います。そのため、提供割合が2％のキャラが、50回中1回必ず出現するわけではありません。<br>・サーバーとの通信状況等によっては、ガチャ演出がスキップされたり、ガチャ演出の一部または全部が正常に表示されないことがありますが、キャラの追加は正常に完了しております。キャラ一覧をご確認ください。"
+    },
+    {
+        "Id": 18868,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[GachaExplanation67]",
+        "Text": "イリア(神呪)が期間限定で登場"
     },
     {
         "Id": 19121,

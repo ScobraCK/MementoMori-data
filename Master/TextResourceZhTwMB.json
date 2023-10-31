@@ -2667,6 +2667,13 @@
         "Text": "專屬武器資訊"
     },
     {
+        "Id": 391,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailRecitation]",
+        "Text": "獨白"
+    },
+    {
         "Id": 392,
         "IsIgnore": false,
         "Memo": "",
@@ -4303,6 +4310,13 @@
         "Memo": "",
         "StringKey": "[PresentTypeReachVipLevelRewardDescription]",
         "Text": "您已晉階為VIP{0}。請收下屬於您的獎勵。"
+    },
+    {
+        "Id": 659,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[RecitationLiveModeOffGuidance]",
+        "Text": "請打開設定將直播模式設為OFF"
     },
     {
         "Id": 661,
@@ -21854,6 +21868,76 @@
         "Text": "造成的直接傷害提升為過去20回合內菲雅承受總傷害×20％。"
     },
     {
+        "Id": 3365,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillName61001]",
+        "Text": "天命劍閃"
+    },
+    {
+        "Id": 3366,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillDescription610011]",
+        "Text": "過去在教皇指導下習得的力量，讓伊利亞得以斬斷前方一切阻礙，不斷朝未來邁進。伊利亞使自己增加50%命中率，效果持續1回合，並對面前的敵人進行10次攻擊，每次造成攻擊力×140％的物理傷害。戰鬥中自第3次發動此技能起，10連擊造成的物理傷害增加為3倍。"
+    },
+    {
+        "Id": 3367,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillDescription610012]",
+        "Text": "如果技能目標仍然存活，伊利亞額外解除技能目標身上的1種增益效果，追加攻擊力×580%的物理傷害。"
+    },
+    {
+        "Id": 3368,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillDescription610013]",
+        "Text": "第一波攻擊造成的物理傷害提升為攻擊力×180%。"
+    },
+    {
+        "Id": 3369,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillDescription610014]",
+        "Text": "強化天命劍閃，第一波攻擊造成的物理傷害提升為攻擊力×240%。"
+    },
+    {
+        "Id": 3370,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillName61002]",
+        "Text": "噬光神咒"
+    },
+    {
+        "Id": 3371,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillDescription610021]",
+        "Text": "保護世界與破壞世界的意志彼此碰撞，當兩者之間失去平衡時，伊利亞將得到人類不該擁有的力量。當伊利亞身上附帶「神咒解放」狀態時，可發動此技能，隨機對敵人進行4次攻擊，每次造成攻擊力×340%的物理傷害。此技能發動後不會進入技能冷卻時間。"
+    },
+    {
+        "Id": 3372,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillDescription610022]",
+        "Text": "當技能目標身上附帶弱化效果時，造成的物理傷害增加為1.5倍。"
+    },
+    {
+        "Id": 3373,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillDescription610023]",
+        "Text": "攻擊次數增加為5次。"
+    },
+    {
+        "Id": 3374,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillDescription610024]",
+        "Text": "造成的物理傷害提升為攻擊力×440%。"
+    },
+    {
         "Id": 3375,
         "IsIgnore": false,
         "Memo": "",
@@ -25009,6 +25093,83 @@
         "Memo": "",
         "StringKey": "[PassiveSkillDescription600044]",
         "Text": ""
+    },
+    {
+        "Id": 3827,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillName61003]",
+        "Text": "神咒護佑"
+    },
+    {
+        "Id": 3828,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillDescription610031]",
+        "Text": "「我以為自己做好了準備，要用自己的命來拯救世界，但是在心裡的某個地方……」戰鬥開始時，伊利亞獲得「獻身」狀態（無法被解除），代其他友軍承受20%攻擊傷害。當伊利亞或友軍受到攻擊，伊利亞受到攻擊傷害達10次以上，或存活在場上的其他友軍人數為0時，伊利亞解除「獻身」並獲得「神咒解放」狀態，效果持續2回合（無法被解除）。此技能每場戰鬥最多觸發1次。"
+    },
+    {
+        "Id": 3829,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillDescription610032]",
+        "Text": "「神咒解放」效果增加為5回合。"
+    },
+    {
+        "Id": 3830,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillDescription610033]",
+        "Text": "「神咒解放」效果增加為8回合。"
+    },
+    {
+        "Id": 3831,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillName61004]",
+        "Text": "第０號守護天使"
+    },
+    {
+        "Id": 3832,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillDescription610041]",
+        "Text": "那是惡魔的造物、天使的欺瞞，本不應存在的守護天使——當伊利亞或其他友軍受到攻擊，發動攻擊的敵人在本回合中對伊利亞造成的攻擊傷害達2次以上時，伊利亞阻絕30%傷害。當伊利亞受到致命傷害時，保留1點生命值不死，並使自己恢復20%最大生命值。鎖血效果每場戰鬥最多觸發1次。"
+    },
+    {
+        "Id": 3833,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillDescription610042]",
+        "Text": "戰鬥開始時，伊利亞額外獲得1層「多重屏障」（無法被解除）。當伊利亞受到傷害時，消耗1層屏障來抵銷該傷害。"
+    },
+    {
+        "Id": 3834,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillDescription610043]",
+        "Text": "阻絕70%傷害。"
+    },
+    {
+        "Id": 3835,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillDescription610044]",
+        "Text": "強化第０號守護天使，獲得的「多重屏障」增加為3層，當伊利亞受到致命傷害時，生命值恢復量提升為100%最大生命值。"
+    },
+    {
+        "Id": 3836,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillName61005]",
+        "Text": ""
+    },
+    {
+        "Id": 3837,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillDescription610051]",
+        "Text": "戰鬥開始時，如果場上的幽冥屬性友軍達3名以上，使伊利亞增加40%防禦穿透（無法被解除）。"
     },
     {
         "Id": 3838,
@@ -34076,6 +34237,160 @@
         "Text": "增加30%傷害反彈。"
     },
     {
+        "Id": 5134,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100100101]",
+        "Text": "天命劍閃"
+    },
+    {
+        "Id": 5135,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100100101]",
+        "Text": "增加50%命中率。"
+    },
+    {
+        "Id": 5136,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100100102]",
+        "Text": "天命劍閃"
+    },
+    {
+        "Id": 5137,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100100102]",
+        "Text": ""
+    },
+    {
+        "Id": 5138,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100120401]",
+        "Text": "天命劍閃"
+    },
+    {
+        "Id": 5139,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100120401]",
+        "Text": ""
+    },
+    {
+        "Id": 5140,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100300101]",
+        "Text": "神咒護佑"
+    },
+    {
+        "Id": 5141,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100300101]",
+        "Text": "［獻身］代友軍承受20%攻擊傷害（無法被解除）。"
+    },
+    {
+        "Id": 5142,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100300401]",
+        "Text": "神咒護佑"
+    },
+    {
+        "Id": 5143,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100300401]",
+        "Text": ""
+    },
+    {
+        "Id": 5144,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100300402]",
+        "Text": "神咒護佑"
+    },
+    {
+        "Id": 5145,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100300402]",
+        "Text": "［神咒解放］可發動噬光神咒（無法被解除）。"
+    },
+    {
+        "Id": 5146,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100320402]",
+        "Text": "神咒護佑"
+    },
+    {
+        "Id": 5147,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100320402]",
+        "Text": "［神咒解放］可發動噬光神咒（無法被解除）。"
+    },
+    {
+        "Id": 5148,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100330402]",
+        "Text": "神咒護佑"
+    },
+    {
+        "Id": 5149,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100330402]",
+        "Text": "［神咒解放］可發動噬光神咒（無法被解除）。"
+    },
+    {
+        "Id": 5150,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100400101]",
+        "Text": "第０號守護天使"
+    },
+    {
+        "Id": 5151,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100400101]",
+        "Text": "［多重屏障］消耗1層屏障可抵銷1次傷害（無法被解除）。"
+    },
+    {
+        "Id": 5152,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100440101]",
+        "Text": "第０號守護天使"
+    },
+    {
+        "Id": 5153,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100440101]",
+        "Text": "［多重屏障］消耗1層屏障可抵銷1次傷害（無法被解除）。"
+    },
+    {
+        "Id": 5154,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100500101]",
+        "Text": ""
+    },
+    {
+        "Id": 5155,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100500101]",
+        "Text": ""
+    },
+    {
         "Id": 5156,
         "IsIgnore": false,
         "Memo": "",
@@ -38367,6 +38682,27 @@
         "Text": "強化遺留的力量，生命值恢復量提升為承受傷害×30%（最多15%最大生命值）。"
     },
     {
+        "Id": 5770,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EquipmentExclusiveSkill61Description1]",
+        "Text": "強化天命劍閃，第一波攻擊造成的物理傷害提升為攻擊力×240%。"
+    },
+    {
+        "Id": 5771,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EquipmentExclusiveSkill61Description2]",
+        "Text": "強化第０號守護天使，獲得的「多重屏障」增加為3層，當伊利亞受到致命傷害時，生命值恢復量提升為100%最大生命值。"
+    },
+    {
+        "Id": 5772,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EquipmentExclusiveSkill61Description3]",
+        "Text": "戰鬥開始時，如果場上的幽冥屬性友軍達3名以上，使伊利亞增加40%防禦穿透（無法被解除）。"
+    },
+    {
         "Id": 5773,
         "IsIgnore": false,
         "Memo": "",
@@ -38953,6 +39289,20 @@
         "Memo": "",
         "StringKey": "[CharacterName60]",
         "Text": "菲雅"
+    },
+    {
+        "Id": 5859,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterName61]",
+        "Text": "伊利亞"
+    },
+    {
+        "Id": 5860,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterSubName61]",
+        "Text": "神咒魔女"
     },
     {
         "Id": 5861,
@@ -48839,6 +49189,174 @@
         "Text": "趕緊結束吧。"
     },
     {
+        "Id": 7424,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6102]",
+        "Text": "我們出發吧。這次一定要……成功拯救這個世界。"
+    },
+    {
+        "Id": 7425,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6103]",
+        "Text": "啊、你終於肯露面了，我還以為要等到天荒地老呢。一直丟著我不管，也不連絡一下……現、現在道歉也來不及了！我可是很生氣的。"
+    },
+    {
+        "Id": 7426,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6104]",
+        "Text": "人終有一死，所以我們必須將這件事謹記在心，讓自己活得不留遺憾。我記得有句話……叫什麼來著？"
+    },
+    {
+        "Id": 7427,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6105]",
+        "Text": "魔女的力量源自內心。要維持力量的平衡，就必須保持內心的平衡。我現在？可能有點變壞了吧？"
+    },
+    {
+        "Id": 7428,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6106]",
+        "Text": "我最近覺得，我的體內好像有一個陌生的自己……有時候可能會出現一些奇怪的發言。希望你遇到的時候可以阻止我。那個「我」一定也很希望你這麼做。"
+    },
+    {
+        "Id": 7429,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6107]",
+        "Text": "嗯～～～好像有點累了。欸欸，我們要不要休息一下？我最近發現了一間很不錯的店……啊！你居然說這種話？那我不救這個世界了喔～呵呵呵，這樣才對嘛。我最近發現了一家很好吃的麵包店，我們一起去吃吧。"
+    },
+    {
+        "Id": 7430,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6108]",
+        "Text": "咦？睡著了嗎？畢竟最近很忙嘛……既然這麼累的話，不如我們一起逃走吧？把這個世界的事情通通忘掉，兩個人一起遠走高飛，到一個沒人知道的地方去……我一點都不介意這麼做喔。"
+    },
+    {
+        "Id": 7431,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6109]",
+        "Text": "生日快樂，沒想到我居然還有機會為你慶生。之前一直覺得這是件很平常的事情……希望以後的每一年都能像今年一樣，跟你一起過生日。"
+    },
+    {
+        "Id": 7432,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6110]",
+        "Text": "我可以拜託你一件事嗎……？之前帶你翹班溜去麵包店的事情被艾莉絲發現了，她要把我叫去訓話……我想拜託你陪我一起去。畢竟你也在場的話，艾莉絲應該就不會罵得太兇了……拜託！"
+    },
+    {
+        "Id": 7433,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6111]",
+        "Text": "體重又上升了，為什麼啊……！？"
+    },
+    {
+        "Id": 7434,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6112]",
+        "Text": "我以為自己做好了準備，可以犧牲自己的性命來拯救世界。可是內心深處卻一直期盼能有其他兩全其美的辦法，既能拯救世界，又能讓我免於一死……所以到了最後關頭，我……"
+    },
+    {
+        "Id": 7435,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6113]",
+        "Text": "你最近跟很多女孩子處得很不錯嘛。沒什麼，反正那本來就是你的責任，我也不認為自己對你而言有什麼特別的……唔……我怎麼會說出這種話……我什麼時候變得這麼討人厭了……"
+    },
+    {
+        "Id": 7436,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6114]",
+        "Text": "力量越強，我體內的某種存在就會變得越發強烈。只要你開口，我隨時願意……呵呵，你大概不可能說出那種話吧。世界重獲和平，我也活了下來——我相信這是可能實現的未來。"
+    },
+    {
+        "Id": 7437,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6115]",
+        "Text": "我最近在想，如果我逃走了，情況會變成什麼樣子呢？我想要跟你一起迎接和平的世界，但又覺得跟你一起看著世界走向毀滅也很美。你選你喜歡的吧，你選哪邊我都願意配合喔！"
+    },
+    {
+        "Id": 7438,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6116]",
+        "Text": "我似乎又變強了。"
+    },
+    {
+        "Id": 7439,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6117]",
+        "Text": "我好像又有一些成長了，謝謝你。"
+    },
+    {
+        "Id": 7440,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6118]",
+        "Text": "我自己的力量，以及我體內的另一股力量……嗯，不要緊，我還控制得住。"
+    },
+    {
+        "Id": 7441,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6119]",
+        "Text": "能夠運用的力量變得比以往更多，代表這股力量已經穩定下來了嗎？或是我正在漸漸與它同化呢？不曉得是哪種情況。"
+    },
+    {
+        "Id": 7442,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6120]",
+        "Text": "你是希望我能拯救這個世界？還是希望我能活下來？你是出於什麼目的而給我力量的呢？"
+    },
+    {
+        "Id": 7443,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6121]",
+        "Text": "犧牲自己拯救世界的話，到時候世界上就沒有我這個人了。既然如此，那我管這麼多做什麼！……有這種想法是不是很奇怪？你可以告訴我，世界的命和我的命，哪一邊比較重要嗎？"
+    },
+    {
+        "Id": 7444,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6190]",
+        "Text": "哼哼～這算我的功勞吧？你可以更真誠地感謝我。"
+    },
+    {
+        "Id": 7445,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6191]",
+        "Text": "輸了嗎……算了，難免會有這種時候嘛。"
+    },
+    {
+        "Id": 7446,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6192]",
+        "Text": "讓你見識我的新力量！"
+    },
+    {
+        "Id": 7447,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6193]",
+        "Text": "我會超越神、超越惡魔！"
+    },
+    {
         "Id": 7448,
         "IsIgnore": false,
         "Memo": "",
@@ -49943,6 +50461,412 @@
         "Memo": "メモリー",
         "StringKey": "[BgmVocal19]",
         "Text": "回憶"
+    },
+    {
+        "Id": 8399,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4101]",
+        "Text": "我只有爸爸、媽媽和好多的花兒們<br>可是我覺得這樣就很幸福了"
+    },
+    {
+        "Id": 8400,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4102]",
+        "Text": "僅僅的 幾億顆 <br>淚珠 開出花朵 <br>想必會是 無比的 <br>溫暖又冰冷 "
+    },
+    {
+        "Id": 8401,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4103]",
+        "Text": "討厭這個世界 該怎麼做到…… "
+    },
+    {
+        "Id": 8402,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4104]",
+        "Text": "♪♪♪"
+    },
+    {
+        "Id": 8403,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4105]",
+        "Text": "爸爸喜歡大朵的花<br>媽媽喜歡紅色的花<br>相信他們一定會很高興<br>還會誇我很乖很棒<br><br>結果等我回到家裡<br>爸爸媽媽卻不再是我熟悉的模樣了"
+    },
+    {
+        "Id": 8404,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4106]",
+        "Text": "盛開的 淚光 <br>花語叫 追憶 <br>散落的 寶物 <br>告訴我愛的意義 "
+    },
+    {
+        "Id": 8405,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4107]",
+        "Text": "破掉的泡沫 鬱鬱寡歡 <br>美夢終究是 一場美夢…… "
+    },
+    {
+        "Id": 8406,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4108]",
+        "Text": "爸爸？媽媽？<br>躺在地板上睡覺會感冒喔<br>你們的身體都變冷了<br><br>快點起來吧……<br>你們看　我摘了好漂亮的花回來喔……<br>求求你們　跟我說說話……快點醒一醒……"
+    },
+    {
+        "Id": 8407,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4109]",
+        "Text": "♪♪♪"
+    },
+    {
+        "Id": 8408,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4110]",
+        "Text": "回過神來的時候　我身在美麗的花海中<br>美得令人悲傷的花兒們在悼念<br>想要摧毀沒有爸爸媽媽的世界<br><br>可是　用眼淚灌溉的花朵不會綻放<br>只有用愛灌溉<br>花兒才會盛開"
+    },
+    {
+        "Id": 8409,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4111]",
+        "Text": "♪♪♪"
+    },
+    {
+        "Id": 8410,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4112]",
+        "Text": "想必會是 無比的 <br>惡意又美麗 <br>想必會是 無比的 <br>溫暖又冰冷 "
+    },
+    {
+        "Id": 8411,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4113]",
+        "Text": "我在空蕩蕩的家裡<br>夢著回不去的曾經<br>花兒們　還有爸爸和媽媽<br><br>如果願望能夠實現<br>下一次　我想要變成一朵人見人愛的花……"
+    },
+    {
+        "Id": 8439,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4101]",
+        "Text": "我只有爸爸、媽媽和好多的花兒們<br>可是我覺得這樣就很幸福了"
+    },
+    {
+        "Id": 8440,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4102]",
+        "Text": "Flowers<br>Double-edged beauty<br>Symbol of happiness and of sorrow<br>Petals over your body<br>Cover you and your loving memory"
+    },
+    {
+        "Id": 8441,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4103]",
+        "Text": "Even a world so wonderful<br>Oh, could be so cruel"
+    },
+    {
+        "Id": 8442,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4104]",
+        "Text": "♪♪♪"
+    },
+    {
+        "Id": 8443,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4105]",
+        "Text": "爸爸喜歡大朵的花<br>媽媽喜歡紅色的花<br>相信他們一定會很高興<br>還會誇我很乖很棒<br><br>結果等我回到家裡<br>爸爸媽媽卻不再是我熟悉的模樣了"
+    },
+    {
+        "Id": 8444,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4106]",
+        "Text": "I would always remember<br>You taught me to be kind and to be true<br>Withered hopes for tomorrow<br>This makes me question if I have to"
+    },
+    {
+        "Id": 8445,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4107]",
+        "Text": "Should I just grieve and then move on?<br>Or fight now that you're gone?<br>I'm not afraid to break these walls<br>And to risk it all"
+    },
+    {
+        "Id": 8446,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4108]",
+        "Text": "爸爸？媽媽？<br>躺在地板上睡覺會感冒喔<br>你們的身體都變冷了<br><br>快點起來吧……<br>你們看　我摘了好漂亮的花回來喔……<br>求求你們　跟我說說話……快點醒一醒……"
+    },
+    {
+        "Id": 8447,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4109]",
+        "Text": "♪♪♪"
+    },
+    {
+        "Id": 8448,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4110]",
+        "Text": "回過神來的時候　我身在美麗的花海中<br>美得令人悲傷的花兒們在悼念<br>想要摧毀沒有爸爸媽媽的世界<br><br>可是　用眼淚灌溉的花朵不會綻放<br>只有用愛灌溉<br>花兒才會盛開"
+    },
+    {
+        "Id": 8449,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4111]",
+        "Text": "♪♪♪"
+    },
+    {
+        "Id": 8450,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4112]",
+        "Text": "As I let this gift blossom<br>I will forever be so hopeful<br>Now, I'll unleash my power<br>I will bloom like a beautiful flower"
+    },
+    {
+        "Id": 8451,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4113]",
+        "Text": "我在空蕩蕩的家裡<br>夢著回不去的曾經<br>花兒們　還有爸爸和媽媽<br><br>如果願望能夠實現<br>下一次　我想要變成一朵人見人愛的花……"
+    },
+    {
+        "Id": 8479,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP201]",
+        "Text": "夕陽餘暉 再會吧 <br>餘音迴響 空空蕩蕩 <br>今昔眾生 祝禱祈願如歌 "
+    },
+    {
+        "Id": 8480,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP202]",
+        "Text": "打從一開始我就明白<br>這趟旅途終有結束的時候<br>為了迎接那一天的到來<br>我的行囊裡什麼也沒裝"
+    },
+    {
+        "Id": 8481,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP203]",
+        "Text": "雨中的街 飄飄蕩蕩 濡濕的心 <br>此刻我多想 與你同歡笑 "
+    },
+    {
+        "Id": 8482,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP204]",
+        "Text": "等待著天亮 日曆又翻頁 <br>明天的風會吹乾淚水 <br>反覆詢問 「獲得自由 就能獲得救贖嗎？」 "
+    },
+    {
+        "Id": 8483,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP205]",
+        "Text": "永恆不朽 再會吧 <br>絲絲留戀間 蹣跚前行 <br>腳下步伐不歇 <br>踏向月光灑落處 "
+    },
+    {
+        "Id": 8484,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP206]",
+        "Text": "有快樂　也有悲傷<br>種種初次體驗的情感逐漸填滿我的心靈<br>我的行囊變得沉重　腳步卻變得輕盈"
+    },
+    {
+        "Id": 8485,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP207]",
+        "Text": "世界瞬息萬變 流轉不息 <br>漫長時光飛逝 化為泡影 "
+    },
+    {
+        "Id": 8486,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP208]",
+        "Text": "風輕雲淡 空色漸藍 <br>天光滿室 舊景依然 "
+    },
+    {
+        "Id": 8487,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP209]",
+        "Text": "等待著天亮 黑夜裡躲藏 <br>看不安在空氣中瀰漫 <br>往事凝成琥珀 將心點亮 "
+    },
+    {
+        "Id": 8488,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP210]",
+        "Text": "保護不了故鄉的我　怎麼可能保護得了世界<br>我曾經這麼想　卻找到了答案"
+    },
+    {
+        "Id": 8489,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP211]",
+        "Text": "這個世界上充滿了奇蹟<br>為親愛的人祈禱的虔誠<br>為所愛的人鼓起的勇氣<br>能照亮黑暗　帶來光明<br><br>這些東西　才是拯救世界的魔法"
+    },
+    {
+        "Id": 8490,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP212]",
+        "Text": "做著一場夢 「沒什麼值得害怕」 <br>編織一場夢 是時候回到 該去的地方 "
+    },
+    {
+        "Id": 8491,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP213]",
+        "Text": "過往歲月 再會吧 <br>腳踩大地 走向新起始 <br>你我彼此手拉手 <br>天涯行旅 浮世尋溫情 緣未滅 路未盡 "
+    },
+    {
+        "Id": 8492,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP214]",
+        "Text": "♪♪♪"
+    },
+    {
+        "Id": 8493,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP215]",
+        "Text": "漫天落花飛舞 <br>飄向月光灑落處 <br>飄向月光灑落處 "
+    },
+    {
+        "Id": 8494,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP216]",
+        "Text": "我的行囊在不知不覺間裝滿了<br>但是不要緊　當我的旅程結束時<br>我一定不是孤單一個人"
+    },
+    {
+        "Id": 8495,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS201]",
+        "Text": "Saying goodbye to the sunset <br>Your sad melody echoes<br>through the darkest sky <br>Long, long ago, here now, and gone <br>People have lived, prayed, and sang a song  <br>with their fragile memories "
+    },
+    {
+        "Id": 8496,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS202]",
+        "Text": "打從一開始我就明白<br>這趟旅途終有結束的時候<br>為了迎接那一天的到來<br>我的行囊裡什麼也沒裝"
+    },
+    {
+        "Id": 8497,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS203]",
+        "Text": "The rain won't stop falling <br>Drizzling, blurred streets <br>My heart is soaking too <br>Can't tell how much I wish you were here <br>Wanna laugh with you right now "
+    },
+    {
+        "Id": 8498,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS204]",
+        "Text": "Waiting for sunrise<br>All day, you're on my mind <br>I don't know what to do <br>Tomorrow I won't be crying <br>I'm talking to myself again and again <br>If I'm free, will I be saved? "
+    },
+    {
+        "Id": 8499,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS205]",
+        "Text": "Now is the time to say goodbye <br>I must move forward <br>Knowing that I'm not ready for it <br>Let me believe that you'll be there <br>Let's go out to see the moonlight with me "
+    },
+    {
+        "Id": 8500,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS206]",
+        "Text": "有快樂　也有悲傷<br>種種初次體驗的情感逐漸填滿我的心靈<br>我的行囊變得沉重　腳步卻變得輕盈"
+    },
+    {
+        "Id": 8501,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS207]",
+        "Text": "Every time I blink, I see a new sight <br>It makes me feel dizzy <br>We will all disappear someday <br>Like the bubble blown away "
+    },
+    {
+        "Id": 8502,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS208]",
+        "Text": "Through the clouds, I see the sky <br>It's so blue, I felt a beauty <br>Sunlight shines into the room <br>I'm sure I've seen this view before "
+    },
+    {
+        "Id": 8503,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS209]",
+        "Text": "Waiting for sunrise <br>My fear never goes away <br>And still overflows <br>That’s why I hid in the night <br>The moments of precious<br>memories in my heart <br>appear in my dream "
+    },
+    {
+        "Id": 8504,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS210]",
+        "Text": "保護不了故鄉的我　怎麼可能保護得了世界<br>我曾經這麼想　卻找到了答案"
+    },
+    {
+        "Id": 8505,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS211]",
+        "Text": "這個世界上充滿了奇蹟<br>為親愛的人祈禱的虔誠<br>為所愛的人鼓起的勇氣<br>能照亮黑暗　帶來光明<br><br>這些東西　才是拯救世界的魔法"
+    },
+    {
+        "Id": 8506,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS212]",
+        "Text": "I'm always dreaming in my dream <br>I'm talking to myself <br>\"Oh dear, there's nothing to fear\" <br>Still looking for a place where we live <br>I've got to get back <br>Shiny light pulls my hand and leads me "
+    },
+    {
+        "Id": 8507,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS213]",
+        "Text": "Now is the time to say goodbye <br>I am moving forward  <br>with the momentum of hope <br>Hold hands with you, I'll be okay <br>In this journey, we are still bonding  <br>our strength to be strong <br>Forevermore, forevermore "
+    },
+    {
+        "Id": 8508,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS214]",
+        "Text": "♪♪♪"
+    },
+    {
+        "Id": 8509,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS215]",
+        "Text": "Petals of wish pour down on us <br>Come with me, let's go to see the moonlight <br>Come with me, let's go to see the moonlight "
+    },
+    {
+        "Id": 8510,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS216]",
+        "Text": "我的行囊在不知不覺間裝滿了<br>但是不要緊　當我的旅程結束時<br>我一定不是孤單一個人"
     },
     {
         "Id": 8511,
@@ -54355,6 +55279,76 @@
         "Text": "我想要的，不是這樣的力量……"
     },
     {
+        "Id": 9161,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileLyricsJP61]",
+        "Text": "<size=25>《Allure of the Dark》</size><br>Song by Daoko<br><br>假如我 假如我 從此逃亡遠走 世界會發生什麼？<br>你與我 能不能 牽著彼此的手 看世界走向沒落<br>敲響破滅之門 萬物從此歸於靜默<br>往日憧憬的愛 彷彿在雀躍地跳動 ah<br><br>啊 黑暗就快將光芒吞沒<br>記憶 還保有原始的輪廓<br>啊 沒有了光 就有自由<br><br>惡魔在引誘 悄悄對我說<br>心中有一個 好陌生的我<br>種子萌芽的場所 土壤越醜陋 越能開出艷麗的花朵<br><br>奏響破滅之聲 生命從此歸於新生<br>往日憧憬的夢 彷彿在雀躍地跳動 ah<br><br>啊 黑暗就快將光芒吞沒<br>殘像 還凝望著我<br><br>矢志不渝的使命 神火焚燒的陰影<br>是與非 黑與白 審判由誰來決裁？<br><br>啊 黑夜就快將光明遺落<br>閃光 將天空劃破<br>啊 黑暗就快將光芒吞沒<br>記憶 還保有原始的輪廓<br>啊 我作著夢 寧靜的夢"
+    },
+    {
+        "Id": 9162,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileLyricsUS61]",
+        "Text": "<size=25><b>Allure of the Dark</b></size><br><br>If by chance I were to turn away and run away<br>From the path I embraced<br>Could the world still find its way?<br>You and I, side by side<br>In a world that's crumbling, we stand<br>I wish to gaze upon forevermore<br><br>Tapping the door of desolation's might<br>From now on, all fades from sight<br>Venturing into the unknown<br>Notes of longing, the dreams we held so tight<br>Now scatter like stardust, taking flight<br><br>Ah, light so frail in the depths<br>Swallowed by the void of night, I stand alone<br>Freedom's end takes its flight<br>Still I remember from the depths of my heart<br>If this light were not to be<br>We would wander free<br><br>Oh, demons tempt with sly allure<br>They whisper words so obscure<br>The me unknown, yet revealed<br>The hidden depths I'd rather not explore<br>Where seeds unfurl, roots entwine<br>Within the darkness, they unite<br>Flowers bloom emerged in radiant attire<br><br>Sounds of decay echo far and wide<br>Into the void, our spirits flow<br>Back to nothingness they go<br>Notes of longing, the dreams we held so tight<br>Now scatter like stardust, taking flight<br><br>Ah, light so frail in the depths<br>Swallowed by the void of night, I stand alone<br>Dreams of old, in hearts reside<br>To the next soul I flow<br><br>Bound by strength, to protect<br>A vow to uphold my fate<br>Who unleashed this fire's might<br>God's grace, or demon's embrace?<br>Black or white, true or false<br>I contemplate the core of me<br>Beyond the gates<br><br>As light ne'er touched this sphere<br>I wander in this void, where hope disappears<br>Doom's spark ignites, piercing night<br><br>Ah... The light, heaven's gate it defies<br>In desolate skies, dreams belied, I fly alone<br>Freedom's end takes its flight<br>Still I remember from the depths of my heart<br>Dreaming of joy, painfully bright<br>It fades into the night"
+    },
+    {
+        "Id": 9163,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileDescription61]",
+        "Text": "歷經攸關世界命運的最終戰役之後，伊利亞同時得到了天使與惡魔的力量。受到這個變化的影響，伊利亞身上那股由天使賜予的強烈正義感變得薄弱。這似乎使她找回了一名平凡少女該有的樣貌，但在她的心中，還隱約帶著一股對於殘酷命運的不滿與反動。"
+    },
+    {
+        "Id": 9164,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileVoiceJP61]",
+        "Text": "花澤香菜"
+    },
+    {
+        "Id": 9165,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileVoiceUS61]",
+        "Text": "Erika Lynn Harlacher"
+    },
+    {
+        "Id": 9166,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileLamentJP61]",
+        "Text": "Allure of the Dark"
+    },
+    {
+        "Id": 9167,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileLamentUS61]",
+        "Text": "Allure of the Dark"
+    },
+    {
+        "Id": 9168,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileVocalJP61]",
+        "Text": "Daoko"
+    },
+    {
+        "Id": 9169,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileVocalUS61]",
+        "Text": ""
+    },
+    {
+        "Id": 9170,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileGachaResultSubMessage61]",
+        "Text": "比起世界的和平，我……"
+    },
+    {
         "Id": 9171,
         "IsIgnore": false,
         "Memo": "",
@@ -57491,6 +58485,55 @@
         "Text": "殺戮魔女在最後，為我使用了她的力量。<br><br>就算擁有被詛咒的力量，一顆為他人著想的心，<br>卻依舊屬於人類。那就是「死得像個人」的意思。<br><br>我輕輕撫摸著她留給我的花。<br>有了它，我也能死了……<br><br>但不是現在。<br><br>我要回應她的遺志。<br>只有這樣，我才能「證明自己是人類」。<br><br>我把花朵佩戴在胸口，邁出了步伐。<br><br>我要以人的身份死去。<br>在那之前，我會一直活下去。<br><br>因為這既是她的心願，<br>也是唯一的方法——讓我能夠擺脫怪物的身份，<br>作為一個平凡的女孩死去。"
     },
     {
+        "Id": 9963,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterStoryText6101]",
+        "Text": "在第一個國家消除魔花的詛咒時，<br>我有種異樣的感覺。<br>等到法蘭境內的詛咒全數消除之後，<br>我終於明白了那股異樣的感覺從何而來。<br><br>詛咒並沒有消失，而是被封印在我的體內了。<br>等到所有詛咒全數封入體內，我就會……<br>……<br><br>人類不可能單憑一己之力，<br>封印足以毀滅世界的10大詛咒。<br>但是，我其實隱瞞了一件事。<br><br>小時候，我被人稱為奇蹟之子。<br>據說帶著神力降生於世上的我，<br>有一次喚起神蹟的機會。<br><br>死亡令人恐懼。<br>唯一慶幸的是，我的犧牲能拯救這個世界。<br>因此我不再害怕死亡，<br>只怕我沒機會用上這股力量便撒手人寰。"
+    },
+    {
+        "Id": 9964,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterStoryText6102]",
+        "Text": "我原本以為，這會是一趟艱難又辛苦的救世之旅。<br>拯救世界哪有開開心心的道理，<br>過程勢必要充滿艱辛與苦難。<br><br>可是，比任何人都溫柔善良的他，<br>發現了我身上的異變。<br>原本該由我獨自承受的考驗，<br>變成了兩個人互相扶持的磨練。<br><br>痛苦減輕了一半，又在不知不覺間消失了。<br>艱難又辛苦的旅路，在他與眾多夥伴的扶持下，<br>變成了一趟充滿希望又快樂的旅程。<br><br>旅程總有結束的時候。<br>我以為自己想得夠明白，如今卻……<br><br>旅程的終點，在我還來不及向大家道別時，<br>猝不及防地來到。"
+    },
+    {
+        "Id": 9965,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterStoryText6103]",
+        "Text": "巨大的坑洞中央，封印的祭壇。<br>我們救回被惡魔操控的教皇陛下，<br>用神杖的力量將最後的詛咒一舉剷平。<br>世界終於得救了……！<br><br>……我覺得不太對勁。整件事未免太容易了。<br>就好像有人一直盼著這一刻——<br>盼著詛咒消失，全部集中到一個地方……？<br><br>全世界為數僅10人的逆卡巴拉魔女，<br>身上都帶有守護天使的力量。<br>將那股保護世界的力量反轉，<br>就會變成名為「詛咒」的破壞性力量。<br>奪走詛咒，<br>也就意味著奪走「保護世界的力量」……<br><br>我的體內開始有力量如尖刺般冒出來。<br>我聽見教皇陛下淒厲的聲音響起：<br><br>「第11個詛咒……！？<br>怎麼可能、這不可能……！」<br><br>封印的祭壇崩塌，有某種東西侵入了我的身體。"
+    },
+    {
+        "Id": 9966,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterStoryText6104]",
+        "Text": "遠古的天使失去力量，誓約失去效力，<br>惡魔之王降臨人世。<br>他用10大詛咒改造了我的身體，<br>將這副軀體作為他的容器。<br><br>然而，惡魔有惡魔的狡猾，卻也有惡魔的傲慢。<br><br>惡魔之王即將甦醒——在我解開了10道封印，<br>卻殘留著第11道封印的體內。<br>那是惡魔的造物、天使的欺瞞，<br>本不應存在的奇蹟——<br>將靈魂化為牢獄的漆黑鑰匙。<br><br>那一刻，我明白了。<br>擁有神力的我，有一次喚起神蹟的機會。<br><br>那個機會——正是為了此刻而存在。"
+    },
+    {
+        "Id": 9967,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterStoryText6105]",
+        "Text": "在很久很久以前，惡魔之王企圖毀滅世界。<br>他的力量無比強大，天使們無法消滅他，<br>只能將其封印。<br><br>那名惡魔之王，<br>正以一種不完整的狀態存在於我的體內。<br>如今正是我用這條命來拯救世界的時刻。<br><br>這是最後一次，我深深地看向他。<br>因為有你的陪伴，我才能一路走到這裡。<br>謝謝你。……永別了。<br><br>純白的光輝亮起，唯一的奇蹟會實現我的心願。<br>實現我最後的心願——用這條命，拯救世界。<br><br>可是……<br><br>我是不是哪裡錯了……<br>我以為自己做好了準備，能夠坦然赴死……<br>可不可以……拜託你……求求你……<br>救救我……！<br><br>拯救世界的過程，果然不該那麼快樂。<br>到了最後關頭，我祈求的不是世界和平……<br>唯一的奇蹟，實現了我的心願。"
+    },
+    {
+        "Id": 9968,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterStoryText6106]",
+        "Text": "願望成真，我撿回了一條命。<br>惡魔之王依舊留在我的身體裡。<br>如今我壓制著他的力量，<br>但是等到他復活的那一天，我將摧毀這個世界……<br><br>為了阻止這個情況發生，<br>我必須前往世界的最底層，抵達惡魔們的王座。<br>我必須在那裡將惡魔之王封印，<br>或是與他同歸於盡。<br><br>以前的我不會感到害怕，但是如今……<br><br>要是我仍然一無所知，世界就能輕鬆地得救了。<br>現在的我只能發著抖向前走，<br>努力擠出笑容不讓自己崩潰。<br>不過，總有一天會到達極限。<br><br>到了那個時候，我還能保有自我嗎……<br>在惡魔的王座前，我會祈求什麼呢……"
+    },
+    {
+        "Id": 9969,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterStoryText6107]",
+        "Text": "我的體內存在著天使與惡魔。<br>天使呼籲我拯救世界，惡魔用甜美的聲音誘惑我。<br><br>妳已經棄整個世界於不顧了。<br>妳明明知道自己真正的心願，<br>事到如今還在猶豫什麼？<br><br>……他想拯救世界，所以我也要拯救世界。<br>不是為了這個世界，而是為了他。<br><br>不過，溫柔善良的他肯定會對我說：<br>「妳的命比這個世界更重要。」<br><br>啊……是呀。<br>要是聽到他這麼說，<br>我應該會很樂意拋棄這個世界。<br><br>因為，我其實隱瞞了一件事。<br>不為人知的神力——<br>本不應存在的、愚昧的第０號逆卡巴拉魔女。<br><br>名為我——伊利亞。"
+    },
+    {
         "Id": 9970,
         "IsIgnore": false,
         "Memo": "",
@@ -59463,6 +60506,13 @@
         "Memo": "",
         "StringKey": "[EquipmentName441]",
         "Text": "混沌霸主"
+    },
+    {
+        "Id": 10485,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EquipmentName465]",
+        "Text": "封魔黑鑰"
     },
     {
         "Id": 10486,
@@ -71530,7 +72580,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[HelpMainText900]",
-        "Text": "■最愛<br>可將取得的角色設為最愛，最多可設定５名。<br>設定為最愛的角色將出現在主頁，<br>並播放該角色的抒情詩作為主頁BGM。​"
+        "Text": "■最愛<br>可將取得的角色設為最愛，最多可設定５名。<br>設定為最愛的角色將出現在主頁，<br>並播放該角色的抒情詩作為主頁BGM。​<br><br>■獨白<br>畫面上出現獨白圖示（♪）的角色可使用「獨白」功能。<br>使用獨白功能可欣賞在旋律間穿插口白的抒情詩。<br>獨白功能可透過點擊該角色主頁右上方，或是角色資訊左下方的獨白圖示來開啟。​<br>※其他角色的獨白將於日後陸續新增。"
     },
     {
         "Id": 12467,
@@ -71810,7 +72860,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[HelpMainText2213]",
-        "Text": "■增益／弱化效果<br>增益效果：有利於戰鬥的狀態。<br>弱化效果：不利於戰鬥的狀態。<br>附加弱化效果時的成功率取決於「弱化效果命中率」與「弱化效果抵抗率」。<br>增益／弱化效果可能藉由特定技能來解除、複製或轉移。<br><br>■效果持續時間<br>效果持續時間有限的增益／弱化效果，只能在一定的回合之內發揮作用。<br>角色行動結束後，增益／弱化效果的持續時間將減少１回合，<br>並在效果持續時間歸零後解除。<br>此外，效果持續時間可藉由特定技能來增加或減少。<br><br>■重複附加<br>除了以下列舉的例外狀況之外，相同類型的增益／弱化效果可重複附加。<br><br>「暈厥」、「中毒」、「流血」、「燃燒」、「侵蝕」的效果重複時，<br>將從類型相同的效果中選擇持續時間最長、效果最強的部分進行保留。<br><br>由同一個角色附加的相同增益／弱化效果不能疊加時，新的效果將直接取代舊的效果。<br><br>■疊加<br>可疊加的增益／弱化效果會根據附加次數逐漸增加強度，且疊加次數有其限制。<br>解除疊加過的增益／弱化效果之後，疊加次數將直接歸零。<br><br>■解除<br>解除目標身上的增益效果或弱化效果。<br>解除敵人身上的增益效果時，成功率取決於「弱化效果命中率」與「弱化效果抵抗率」。<br><br>■複製增益效果<br>獲得敵人身上附帶的增益效果。<br>透過複製獲得的增益效果無法刷新強度。<br>「無法被解除」的增益效果屬於不可複製的對象。<br><br>■複製弱化效果<br>對敵人附加自己身上附帶的弱化效果。<br>附加弱化效果時，成功率取決於「弱化效果命中率」與「弱化效果抵抗率」。<br>「共鳴」與「無法被解除」的弱化效果屬於不可複製的對象。<br><br>■轉移增益效果<br>解除敵人身上附帶的增益效果，成功後可獲得相同的增益效果。<br>解除敵人身上的增益效果時，成功率取決於「弱化效果命中率」與「弱化效果抵抗率」。<br>透過轉移獲得的增益效果無法刷新強度。<br>「無法被解除」的增益效果屬於不可轉移的對象。<br><br>■轉移弱化效果<br>解除自己身上附帶的弱化效果，並以一定機率對敵人附加相同的弱化效果。<br>附加弱化效果時，成功率取決於「弱化效果命中率」與「弱化效果抵抗率」。<br>「共鳴」與「無法被解除」的弱化效果屬於不可轉移的對象。<br><br>■無法被解除<br>標示為「無法被解除」的增益／弱化效果具有以下特性：<br>不會計入角色身上附帶的增益／弱化效果總數之中。<br>不會受到「解除」、「持續時間增減」、「複製」與「轉移」的影響。<br>不會受到「弱化效果命中率」、「弱化效果抵抗率」、「增益效果免疫」與「弱化效果免疫」的影響。<br>除了部分特例之外，戰鬥中不會顯示該效果的圖示。"
+        "Text": "■增益／弱化效果<br>增益效果：有利於戰鬥的狀態。<br>弱化效果：不利於戰鬥的狀態。<br>附加弱化效果時的成功率取決於「弱化效果命中率」與「弱化效果抵抗率」。<br>增益／弱化效果可能藉由特定技能來解除、複製或轉移。<br><br>■效果持續時間<br>效果持續時間有限的增益／弱化效果，只能在一定的回合之內發揮作用。<br>角色行動結束後，增益／弱化效果的持續時間將減少１回合，<br>並在效果持續時間歸零後解除。<br>此外，效果持續時間可藉由特定技能來增加或減少。<br><br>■重複附加<br>除了以下列舉的例外狀況之外，相同類型的增益／弱化效果可重複附加。<br><br>「暈厥」、「中毒」、「流血」、「燃燒」、「侵蝕」的效果重複時，<br>將從類型相同的效果中選擇持續時間最長、效果最強的部分進行保留。<br><br>由同一個角色附加的相同增益／弱化效果不能疊加時，新的效果將直接取代舊的效果。<br><br>■疊加<br>可疊加的增益／弱化效果會根據附加次數逐漸增加強度，且疊加次數有其限制。<br>解除疊加過的增益／弱化效果之後，疊加次數將直接歸零。<br><br>■解除<br>解除目標身上的增益效果或弱化效果。<br>解除敵人身上的增益效果時，成功率取決於「弱化效果命中率」與「弱化效果抵抗率」。<br><br>■複製增益效果<br>獲得敵人身上附帶的增益效果。<br>透過複製獲得的增益效果無法刷新強度。<br>「獻身」與「無法被解除」的增益效果屬於不可複製的對象。<br><br>■複製弱化效果<br>對敵人附加自己身上附帶的弱化效果。<br>附加弱化效果時，成功率取決於「弱化效果命中率」與「弱化效果抵抗率」。<br>「共鳴」與「無法被解除」的弱化效果屬於不可複製的對象。<br><br>■轉移增益效果<br>解除敵人身上附帶的增益效果，成功後可獲得相同的增益效果。<br>解除敵人身上的增益效果時，成功率取決於「弱化效果命中率」與「弱化效果抵抗率」。<br>透過轉移獲得的增益效果無法刷新強度。<br>「獻身」與「無法被解除」的增益效果屬於不可轉移的對象。<br><br>■轉移弱化效果<br>解除自己身上附帶的弱化效果，並以一定機率對敵人附加相同的弱化效果。<br>附加弱化效果時，成功率取決於「弱化效果命中率」與「弱化效果抵抗率」。<br>「共鳴」與「無法被解除」的弱化效果屬於不可轉移的對象。<br><br>■無法被解除<br>標示為「無法被解除」的增益／弱化效果具有以下特性：<br>不會計入角色身上附帶的增益／弱化效果總數之中。<br>不會受到「解除」、「持續時間增減」、「複製」與「轉移」的影響。<br>不會受到「弱化效果命中率」、「弱化效果抵抗率」、「增益效果免疫」與「弱化效果免疫」的影響。<br>除了部分特例之外，戰鬥中不會顯示該效果的圖示。"
     },
     {
         "Id": 12507,
@@ -71824,7 +72874,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[HelpMainText2214]",
-        "Text": "■能力數值上升<br>提高特定的能力數值。<br>以戰鬥開始時的能力數值為基準進行計算。<br><br>■輸出傷害上升<br>發動攻擊時，增加輸出的傷害量。<br><br>■承受傷害下降<br>受到攻擊時，減少承受的傷害量。<br><br>■傷害免疫<br>受到傷害時，抵銷所有傷害。<br><br>■多重屏障<br>受到傷害時，消耗１層屏障來抵銷該傷害。<br>角色身上同時附帶「傷害免疫」時，不會消耗多重屏障。<br>角色身上同時附帶「護盾」時，優先消耗多重屏障。<br><br>■護盾<br>受到傷害時，抵銷一定的傷害量。<br>護盾會在承受超過上限的傷害量之後瓦解，溢出的傷害量將從角色的生命值中扣除。<br>角色身上同時附帶「傷害免疫」時，不會消耗護盾值。<br>角色身上同時附帶「多重屏障」時，優先消耗多重屏障。<br><br>■弱化效果免疫<br>不會受到弱化效果影響。<br>角色身上既有的弱化效果不會因此失效。<br><br>■控制效果免疫<br>不會受到具有行動控制效果的弱化效果影響。<br>行動控制效果分為「暈厥」、「沉睡」、「混亂」、「沉默」四種類型。<br>角色身上既有的行動控制效果不會因此失效。<br><br>■挑釁<br>吸引敵人的隨機攻擊與技能。<br>無法吸引敵人的指定攻擊與技能。<br><br>■隱身<br>不會成為敵人的單體攻擊與技能的目標。<br>無法規避以面前的敵人為指定目標的攻擊與技能。<br>當存活在場上的友軍皆附帶「透明」或「隱身」狀態時，「隱身」隨即失去效果。<br><br>■透明<br>不會成為敵我雙方的攻擊與技能目標。<br>當存活在場上的友軍皆附帶「透明」狀態時，「透明」隨即失去效果。<br><br>■○○反擊<br>受到攻擊後，一定機率對攻擊者附加特定的弱化效果。<br><br>■再生<br>每回合行動開始時恢復一定的生命值。<br><br>■不死之身<br>受到致命傷害時，保留１點生命值不死。<br>攻擊傷害、共鳴傷害、反彈傷害、中毒等持續傷害皆為有效對象。<br><br>■傷害反彈特化<br>受到攻擊時，改以指定條件對特定敵人造成反彈傷害。<br>傷害量取決於指定條件，不受「傷害反彈」的數值影響。"
+        "Text": "■能力數值上升<br>提高特定的能力數值。<br>以戰鬥開始時的能力數值為基準進行計算。<br><br>■輸出傷害上升<br>發動攻擊時，增加輸出的傷害量。<br><br>■承受傷害下降<br>受到攻擊時，減少承受的傷害量。<br><br>■傷害免疫<br>受到傷害時，抵銷所有傷害。<br><br>■多重屏障<br>受到傷害時，消耗１層屏障來抵銷該傷害。<br>角色身上同時附帶「傷害免疫」時，不會消耗多重屏障。<br>角色身上同時附帶「護盾」時，優先消耗多重屏障。<br><br>■護盾<br>受到傷害時，抵銷一定的傷害量。<br>護盾會在承受超過上限的傷害量之後瓦解，溢出的傷害量將從角色的生命值中扣除。<br>角色身上同時附帶「傷害免疫」時，不會消耗護盾值。<br>角色身上同時附帶「多重屏障」時，優先消耗多重屏障。<br><br>■弱化效果免疫<br>不會受到弱化效果影響。<br>角色身上既有的弱化效果不會因此失效。<br><br>■控制效果免疫<br>不會受到具有行動控制效果的弱化效果影響。<br>行動控制效果分為「暈厥」、「沉睡」、「混亂」、「沉默」四種類型。<br>角色身上既有的行動控制效果不會因此失效。<br><br>■挑釁<br>吸引敵人的隨機攻擊與技能。<br>無法吸引敵人的指定攻擊與技能。<br><br>■隱身<br>不會成為敵人的單體攻擊與技能的目標。<br>無法規避以面前的敵人為指定目標的攻擊與技能。<br>當存活在場上的友軍皆附帶「透明」或「隱身」狀態時，「隱身」隨即失去效果。<br><br>■透明<br>不會成為敵我雙方的攻擊與技能目標。<br>當存活在場上的友軍皆附帶「透明」狀態時，「透明」隨即失去效果。<br><br>■○○反擊<br>受到攻擊後，一定機率對攻擊者附加特定的弱化效果。<br><br>■再生<br>每回合行動開始時恢復一定的生命值。<br><br>■不死之身<br>受到致命傷害時，保留１點生命值不死。<br>攻擊傷害、共鳴傷害、獻身傷害、反彈傷害、中毒等持續傷害皆為有效對象。<br><br>■傷害反彈特化<br>受到攻擊時，改以指定條件對特定敵人造成反彈傷害。<br>傷害量取決於指定條件，不受「傷害反彈」的數值影響。<br><br>■獻身<br>當符合條件的友軍受到攻擊時，附帶者代為承受一定比例的傷害。<br>同時受到「獻身」與「共鳴」傷害時，兩者造成的傷害量將合併計算並視為１次傷害。"
     },
     {
         "Id": 12509,
@@ -71838,7 +72888,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[HelpMainText2215]",
-        "Text": "■能力數值下降<br>降低特定的能力數值。<br>以戰鬥開始時的能力數值為基準進行計算。<br><br>■輸出傷害下降<br>發動攻擊時，降低輸出的傷害量。<br><br>■承受傷害上升<br>受到攻擊時，提高承受的傷害量。<br><br>■暈厥<br>效果持續時間內無法使用普攻與技能。<br><br>■沉睡<br>效果持續時間內無法使用普攻與技能。<br>會在特定條件下解除效果。<br><br>■混亂<br>攻擊目標隨機，且包含敵軍與友軍。<br>以「攻擊力最高的敵人」等明確條件來指定目標的技能，將改由敵我雙方中隨機指定技能目標。<br>「以友軍為指定目標的技能」與「同時對敵我雙方生效的技能」不受混亂影響。<br><br>■沉默<br>只能進行普攻，無法使用技能。<br><br>■中毒／燃燒／流血／侵蝕<br>每回合行動開始時持續受到一定的傷害。<br><br>中毒／燃燒：持續受到當前生命值的百分比傷害，且傷害量無法超過附帶者的攻擊力。<br><br>流血：持續受到附加者攻擊力的百分比傷害。<br><br>侵蝕：持續受到附加者施放該技能時造成的總傷害的百分比傷害。<br><br>■不治<br>無法恢復生命值。<br>恢復、再生、吸血皆為有效對象。<br><br>■增益效果免疫<br>不會受到增益效果影響。<br>角色身上既有的增益效果不會因此失效。<br>「增益效果免疫」狀態期間，可根據特定條件刷新數值的增益效果將無法提升強度。<br>無法被解除的增益效果不會受到「增益效果免疫」影響。<br><br>■禁錮<br>無法閃避攻擊。<br><br>■共鳴<br>當符合特定條件的角色受到攻擊時，附帶者同時受到一定比例的傷害。"
+        "Text": "■能力數值下降<br>降低特定的能力數值。<br>以戰鬥開始時的能力數值為基準進行計算。<br><br>■輸出傷害下降<br>發動攻擊時，降低輸出的傷害量。<br><br>■承受傷害上升<br>受到攻擊時，提高承受的傷害量。<br><br>■暈厥<br>效果持續時間內無法使用普攻與技能。<br><br>■沉睡<br>效果持續時間內無法使用普攻與技能。<br>會在特定條件下解除效果。<br><br>■混亂<br>攻擊目標隨機，且包含敵軍與友軍。<br>以「攻擊力最高的敵人」等明確條件來指定目標的技能，將改由敵我雙方中隨機指定技能目標。<br>「以友軍為指定目標的技能」與「同時對敵我雙方生效的技能」不受混亂影響。<br><br>■沉默<br>只能進行普攻，無法使用技能。<br><br>■中毒／燃燒／流血／侵蝕<br>每回合行動開始時持續受到一定的傷害。<br><br>中毒／燃燒：持續受到當前生命值的百分比傷害，且傷害量無法超過附帶者的攻擊力。<br><br>流血：持續受到附加者攻擊力的百分比傷害。<br><br>侵蝕：持續受到附加者施放該技能時造成的總傷害的百分比傷害。<br><br>■不治<br>無法恢復生命值。<br>恢復、再生、吸血皆為有效對象。<br><br>■增益效果免疫<br>不會受到增益效果影響。<br>角色身上既有的增益效果不會因此失效。<br>「增益效果免疫」狀態期間，可根據特定條件刷新數值的增益效果將無法提升強度。<br>無法被解除的增益效果不會受到「增益效果免疫」影響。<br><br>■禁錮<br>無法閃避攻擊。<br><br>■共鳴<br>同為「共鳴」附帶者的其中一方受到攻擊時，另一方同時受到一定比例的傷害。<br>同時受到「獻身」與「共鳴」傷害時，兩者造成的傷害量將合併計算並視為１次傷害。"
     },
     {
         "Id": 12511,
@@ -71852,7 +72902,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[HelpMainText2216]",
-        "Text": "■恢復<br>恢復一定的生命值。<br><br>■失去戰鬥能力<br>當生命值歸零時，角色隨即失去戰鬥能力。失去戰鬥能力的角色無法行動。<br>失去戰鬥能力時，該角色身上附帶的增益／弱化效果將全部解除，<br>技能冷卻時間的數值則會維持在失去戰鬥能力當下的狀態。<br><br>■增加／減少技能冷卻時間<br>增加或減少目標的技能冷卻回合數。<br><br>■復活<br>受到致命傷害且失去戰鬥能力時，恢復生命值並重新返回戰鬥中。<br>攻擊傷害、共鳴傷害、反彈傷害、中毒等持續傷害皆為有效對象。<br><br>​■必定命中​<br>攻擊必定命中。​<br>不會受到命中率與閃避率的影響。​<br><br>■必定暴擊​<br>攻擊命中時必定暴擊。​<br>不會受到暴擊率與抗暴率的影響。<br><br>■阻絕<br>依照特定比例減輕攻擊傷害、共鳴傷害與反彈傷害。<br>無法減輕中毒等持續傷害。<br>「阻絕」減輕的傷害量，以「承受傷害上升／下降」與「輸出傷害上升／下降」生效之後、<br>「護盾」與「共鳴」生效之前的傷害量為基準進行計算。<br><br>■保留１點生命值不死<br>受到致命傷害時，保留１點生命值不死。<br>攻擊傷害、共鳴傷害、反彈傷害、中毒等持續傷害皆為有效對象。<br>此效果無法解除、複製或轉移。<br><br>■吸收<br>對敵人附加弱化效果，降低對方的特定能力數值，並以增益效果的形式獲得對方下降的數值。<br>弱化效果附加失敗時，無法獲得增益效果。<br><br>■普攻強化<br>強化普通攻擊，效果因技能而異。<br><br>■消耗生命值<br>使用技能時使自己受到一定的傷害。<br>不會受到「承受傷害上升／下降」、「傷害免疫」、「護盾」、「多重屏障」、「阻絕」、「不死之身」的影響。<br><br>■傷害反彈<br>受到敵人攻擊時，根據自己承受的傷害量對敵人造成傷害。<br>反彈傷害為「護盾」、「多重屏障」、「傷害免疫」、「阻絕」與「不死之身」的有效對象。<br>反彈傷害無法閃避，也不計入攻擊次數中。<br>中毒等持續傷害、共鳴傷害與被動技能造成的傷害不會觸發傷害反彈效果，<br>未命中的攻擊同樣無法觸發傷害反彈效果。<br><br>■吸血<br>發動攻擊時，根據自己對敵人造成的傷害量恢復生命值。<br>「吸血」恢復的生命值，以「護盾」、「多重屏障」、「傷害免疫」、「阻絕」、「不死之身」生效之後的<br>傷害量為基準進行計算。<br>中毒等持續傷害、共鳴傷害與被動技能造成的傷害不會觸發吸血效果，<br>未命中的攻擊同樣無法觸發吸血效果。"
+        "Text": "■恢復<br>恢復一定的生命值。<br><br>■失去戰鬥能力<br>當生命值歸零時，角色隨即失去戰鬥能力。失去戰鬥能力的角色無法行動。<br>失去戰鬥能力時，該角色身上附帶的增益／弱化效果將全部解除，<br>技能冷卻時間的數值則會維持在失去戰鬥能力當下的狀態。<br><br>■增加／減少技能冷卻時間<br>增加或減少目標的技能冷卻回合數。<br><br>■復活<br>受到致命傷害且失去戰鬥能力時，恢復生命值並重新返回戰鬥中。<br>攻擊傷害、共鳴傷害、獻身傷害、反彈傷害、中毒等持續傷害皆為有效對象。<br><br>​■必定命中​<br>攻擊必定命中。​<br>不會受到命中率與閃避率的影響。​<br><br>■必定暴擊​<br>攻擊命中時必定暴擊。​<br>不會受到暴擊率與抗暴率的影響。<br><br>■阻絕<br>依照特定比例減輕攻擊傷害、共鳴傷害、獻身傷害與反彈傷害。<br>無法減輕中毒等持續傷害。<br>「阻絕」減輕的傷害量，以「承受傷害上升／下降」與「輸出傷害上升／下降」生效之後、<br>「護盾」、「共鳴」與「獻身」生效之前的傷害量為基準進行計算。<br><br>■保留１點生命值不死<br>受到致命傷害時，保留１點生命值不死。<br>攻擊傷害、共鳴傷害、獻身傷害、反彈傷害、中毒等持續傷害皆為有效對象。<br>此效果無法解除、複製或轉移。<br><br>■吸收<br>對敵人附加弱化效果，降低對方的特定能力數值，並以增益效果的形式獲得對方下降的數值。<br>弱化效果附加失敗時，無法獲得增益效果。<br><br>■普攻強化<br>強化普通攻擊，效果因技能而異。<br><br>■消耗生命值<br>使用技能時使自己受到一定的傷害。<br>不會受到「承受傷害上升／下降」、「傷害免疫」、「護盾」、「多重屏障」、「阻絕」、「不死之身」的影響。<br><br>■傷害反彈<br>受到敵人攻擊時，根據自己承受的傷害量對敵人造成傷害。<br>反彈傷害為「護盾」、「多重屏障」、「傷害免疫」、「阻絕」與「不死之身」的有效對象。<br>反彈傷害無法閃避，也不計入攻擊次數中。<br>中毒等持續傷害、共鳴傷害、獻身傷害與被動技能造成的傷害不會觸發傷害反彈效果，<br>未命中的攻擊同樣無法觸發傷害反彈效果。<br><br>■吸血<br>發動攻擊時，根據自己對敵人造成的傷害量恢復生命值。<br>「吸血」恢復的生命值，以「護盾」、「多重屏障」、「傷害免疫」、「阻絕」、「不死之身」生效之後的<br>傷害量為基準進行計算。<br>中毒等持續傷害、共鳴傷害、獻身傷害與被動技能造成的傷害不會觸發吸血效果，<br>未命中的攻擊同樣無法觸發吸血效果。"
     },
     {
         "Id": 12513,
@@ -72987,6 +74037,13 @@
         "Memo": "",
         "StringKey": "[LocalRaidName110]",
         "Text": "夏夜之殿（限時）"
+    },
+    {
+        "Id": 12679,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[LocalRaidName111]",
+        "Text": "神咒之殿（限時）"
     },
     {
         "Id": 12690,
@@ -105158,7 +106215,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[TutorialTextBox1503]",
-        "Text": "據說在生命之樹的力量達到顛峰的特定時刻，神殿會賜予更多報酬，<br>可是裡面有強大的守護者看守。<br>我們獨自進去太危險了，跟大家聯手進行挑戰吧。"
+        "Text": "據說在生命之樹的力量達到顛峰的特定時刻，<br>神殿會賜予更多報酬，<br>可是裡面有強大的守護者看守。<br>我們獨自進去太危險了，跟大家聯手進行挑戰吧。"
     },
     {
         "Id": 17325,
@@ -115617,6 +116674,34 @@
         "Memo": "",
         "StringKey": "[GachaExplanation66]",
         "Text": "「蘇菲亞」限時登場"
+    },
+    {
+        "Id": 18865,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[GachaDetailDialogDetail67]",
+        "Text": "．可使用鑽石或專用票券進行召喚。<br>．召喚對象：角色<br>．如果連續99次沒有召喚出精選角色［神咒魔女］伊利亞，第100次召喚時則必定出現。<br>．保底進度：【{0}/100】<br>．可根據白金召喚、PICK UP召喚與屬性召喚的累計召喚次數，獲得對應的道具作為次數獎勵。<br>※獲得的道具將自動加入持有數量中。<br>※超過持有數量上限的道具將寄送到禮物箱。<br>．放入許願池的SR角色的出現機率將獲得提升（不會影響SR角色的總出現率)。詳情請見許願池的指南。"
+    },
+    {
+        "Id": 18866,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[GachaDetailDailogHeading67]",
+        "Text": "全新精選角色登場。在PICK UP召喚中，精選角色的出現機率將大幅提升。<br>精選角色請見下方的「個別出現機率」。<br>■開放期間<br>{0}<br>■保底機制<br>在PICK UP召喚中，如果連續99次沒有召喚出精選角色［神咒魔女］伊利亞，第100次召喚時則必定出現。<br>■次數獎勵<br>PICK UP召喚次數可累加到白金召喚、屬性召喚目前的累計召喚次數中，並根據累計召喚次數獲得對應的道具作為次數獎勵。<br>■注意事項<br>［神咒魔女］伊利亞在一定期間內，無法從PICK UP召喚、命運召喚以外的管道取得。<br>請注意：次數獎勵「魔女的邀請函」的邀請名單中不包含［神咒魔女］伊利亞。<br>［神咒魔女］伊利亞與伊利亞並非同名角色，可以編入同一支隊伍。"
+    },
+    {
+        "Id": 18867,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[GachaDetailDialogNotes67]",
+        "Text": "．召喚內容可能不經預告逕行調整。<br>．角色的出現機率因角色而異。<br>．出現機率標示至小數點後四位（四捨五入），故合計可能不等於100%。<br>．每一次都將按照以上所示的出現機率逐次進行抽選，故不代表在50次抽選中保證可獲得出現機率為2%的項目。<br>．召喚時的動畫演出可能因為伺服器連線狀況等原因無法完整播放或直接跳過。角色的發送將正常執行不受影響，請前往「持有角色」進行確認。"
+    },
+    {
+        "Id": 18868,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[GachaExplanation67]",
+        "Text": "「伊利亞(神咒)」限時登場"
     },
     {
         "Id": 19121,

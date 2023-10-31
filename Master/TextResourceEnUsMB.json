@@ -2667,6 +2667,13 @@
         "Text": "Unique Weapon Details"
     },
     {
+        "Id": 391,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailRecitation]",
+        "Text": "Lament<br>Monologue"
+    },
+    {
         "Id": 392,
         "IsIgnore": false,
         "Memo": "",
@@ -4303,6 +4310,13 @@
         "Memo": "",
         "StringKey": "[PresentTypeReachVipLevelRewardDescription]",
         "Text": "You have reached VIP{0}. Here are your rewards."
+    },
+    {
+        "Id": 659,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[RecitationLiveModeOffGuidance]",
+        "Text": "Please set Streamer Mode to OFF from the Settings."
     },
     {
         "Id": 661,
@@ -21854,6 +21868,76 @@
         "Text": "The direct attack’s damage becomes equal to 20% of the total damage taken by her over the past 20 turns."
     },
     {
+        "Id": 3365,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillName61001]",
+        "Text": "Surge of Providence"
+    },
+    {
+        "Id": 3366,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillDescription610011]",
+        "Text": "On that fateful day, Illya learned a new power from the person dearest to her. A power that will cut straight through every obstacle in her path, and lead everyone towards the future. Increases Illya’s chance to hit by 50% for 1 turn, and deals 10 physical attacks equal to 140% of her ATK to the enemy directly in front of her. If this skill is used for the 3rd time and onward during battle, the consecutive attacks’ damage is multiplied by 3."
+    },
+    {
+        "Id": 3367,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillDescription610012]",
+        "Text": "Additionally, if the target is not defeated by this skill, dispels 1 buff from them, and deals 1 physical attack equal to 580% of Illya’s ATK to them."
+    },
+    {
+        "Id": 3368,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillDescription610013]",
+        "Text": "The initial consecutive attacks’ damage becomes equal to 180% of her ATK."
+    },
+    {
+        "Id": 3369,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillDescription610014]",
+        "Text": "Strengthens Surge of Providence. The initial consecutive attacks’ damage becomes equal to 240% of her ATK."
+    },
+    {
+        "Id": 3370,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillName61002]",
+        "Text": "God Curses the Light"
+    },
+    {
+        "Id": 3371,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillDescription610021]",
+        "Text": "Illya possesses the will to protect the world, and the will to destroy it. When the balance between the two becomes disrupted, she will attain an unforgivable power. Activates if Illya is enhanced with [God’s Curse Unleashed]. Deals 4 physical attacks equal to 340% of Illya’s ATK to enemies at random. After this skill activates, it will have no skill cooldown time."
+    },
+    {
+        "Id": 3372,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillDescription610022]",
+        "Text": "Additionally, before dealing the physical attacks, if a target is afflicted with a debuff, the physical attack’s damage to that target is multiplied by 1.5."
+    },
+    {
+        "Id": 3373,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillDescription610023]",
+        "Text": "The number of physical attacks becomes 5."
+    },
+    {
+        "Id": 3374,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillDescription610024]",
+        "Text": "The physical attacks’ damage becomes equal to 440% of her ATK."
+    },
+    {
         "Id": 3375,
         "IsIgnore": false,
         "Memo": "",
@@ -25009,6 +25093,83 @@
         "Memo": "",
         "StringKey": "[PassiveSkillDescription600044]",
         "Text": ""
+    },
+    {
+        "Id": 3827,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillName61003]",
+        "Text": "Blessing of God’s Curse"
+    },
+    {
+        "Id": 3828,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillDescription610031]",
+        "Text": "“I thought I was ready...to give up my life and save the world. But, somewhere deep in my heart...” At the start of the battle, this skill grants [Devotion] to Illya (cannot be dispelled). [Devotion] makes Illya substitutively take 20% of the damage taken by another ally. If Illya or another ally is attacked, and the number of times Illya has taken damage from attacks is 10 or more, or if the number of allies other than Illya who are alive becomes 0, this skill’s [Devotion] is dispelled, and this skill grants [God’s Curse Unleashed] to Illya for 2 turns (cannot be dispelled). This skill activates only 1 time per battle."
+    },
+    {
+        "Id": 3829,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillDescription610032]",
+        "Text": "The number of turns of [God’s Curse Unleashed] becomes 5."
+    },
+    {
+        "Id": 3830,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillDescription610033]",
+        "Text": "The number of turns of [God’s Curse Unleashed] becomes 8."
+    },
+    {
+        "Id": 3831,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillName61004]",
+        "Text": "The Angel Who Bears “0”"
+    },
+    {
+        "Id": 3832,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillDescription610041]",
+        "Text": "This is the guardian angel that shouldn’t exist—the result of demons’ schemes and angels’ deception. If Illya or another ally is attacked, and the number of times Illya has taken damage from an enemy’s consecutive attacks this turn is 2 or more, the damage to Illya from that enemy’s attack is cut by 30%. When she takes damage that would reduce her HP to 0, she survives with 1 HP, and restores HP equal to 20% of her max HP to her. The effect that lets Illya survive with 1 HP activates only 1 time per battle."
+    },
+    {
+        "Id": 3833,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillDescription610042]",
+        "Text": "Additionally, at the start of the battle, grants 1 layer of [Multi-Barrier] to Illya (cannot be dispelled). If she takes damage, 1 barrier layer is depleted to nullify the damage."
+    },
+    {
+        "Id": 3834,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillDescription610043]",
+        "Text": "The damage from the enemy’s attack is cut by 70%."
+    },
+    {
+        "Id": 3835,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillDescription610044]",
+        "Text": "Strengthens The Angel Who Bears “0”. The number of layers of [Multi-Barrier] becomes 3. The amount her HP is restored by when she takes damage that would reduce her HP to 0 becomes equal to 100% of her max HP."
+    },
+    {
+        "Id": 3836,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillName61005]",
+        "Text": ""
+    },
+    {
+        "Id": 3837,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillDescription610051]",
+        "Text": "At the start of the battle, if there are 3 or more allies with a Soul of Chaos, this skill increases Illya’s DEF Break by 40% (cannot be dispelled)."
     },
     {
         "Id": 3838,
@@ -34076,6 +34237,160 @@
         "Text": "Increases Counter by 30%."
     },
     {
+        "Id": 5134,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100100101]",
+        "Text": "Surge of Providence"
+    },
+    {
+        "Id": 5135,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100100101]",
+        "Text": "Increases chance to hit by 50%."
+    },
+    {
+        "Id": 5136,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100100102]",
+        "Text": "Surge of Providence"
+    },
+    {
+        "Id": 5137,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100100102]",
+        "Text": ""
+    },
+    {
+        "Id": 5138,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100120401]",
+        "Text": "Surge of Providence"
+    },
+    {
+        "Id": 5139,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100120401]",
+        "Text": ""
+    },
+    {
+        "Id": 5140,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100300101]",
+        "Text": "Blessing of God’s Curse"
+    },
+    {
+        "Id": 5141,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100300101]",
+        "Text": "[Devotion] This character substitutively takes 20% of the damage taken by another ally (cannot be dispelled)."
+    },
+    {
+        "Id": 5142,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100300401]",
+        "Text": "Blessing of God’s Curse"
+    },
+    {
+        "Id": 5143,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100300401]",
+        "Text": ""
+    },
+    {
+        "Id": 5144,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100300402]",
+        "Text": "Blessing of God’s Curse"
+    },
+    {
+        "Id": 5145,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100300402]",
+        "Text": "[God’s Curse Unleashed] God Curses the Light becomes able to activate (cannot be dispelled)."
+    },
+    {
+        "Id": 5146,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100320402]",
+        "Text": "Blessing of God’s Curse"
+    },
+    {
+        "Id": 5147,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100320402]",
+        "Text": "[God’s Curse Unleashed] God Curses the Light becomes able to activate (cannot be dispelled)."
+    },
+    {
+        "Id": 5148,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100330402]",
+        "Text": "Blessing of God’s Curse"
+    },
+    {
+        "Id": 5149,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100330402]",
+        "Text": "[God’s Curse Unleashed] God Curses the Light becomes able to activate (cannot be dispelled)."
+    },
+    {
+        "Id": 5150,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100400101]",
+        "Text": "The Angel Who Bears “0”"
+    },
+    {
+        "Id": 5151,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100400101]",
+        "Text": "[Multi-Barrier] Depletes 1 barrier layer to nullify damage (cannot be dispelled)."
+    },
+    {
+        "Id": 5152,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100440101]",
+        "Text": "The Angel Who Bears “0”"
+    },
+    {
+        "Id": 5153,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100440101]",
+        "Text": "[Multi-Barrier] Depletes 1 barrier layer to nullify damage (cannot be dispelled)."
+    },
+    {
+        "Id": 5154,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100500101]",
+        "Text": ""
+    },
+    {
+        "Id": 5155,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100500101]",
+        "Text": ""
+    },
+    {
         "Id": 5156,
         "IsIgnore": false,
         "Memo": "",
@@ -38367,6 +38682,27 @@
         "Text": "Strengthens The Power She Left Me. The amount her HP is restored by becomes equal to 30% of the damage taken (15% of her max HP max)."
     },
     {
+        "Id": 5770,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EquipmentExclusiveSkill61Description1]",
+        "Text": "Strengthens Surge of Providence. The initial consecutive attacks’ damage becomes equal to 240% of her ATK."
+    },
+    {
+        "Id": 5771,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EquipmentExclusiveSkill61Description2]",
+        "Text": "Strengthens The Angel Who Bears “0”. The number of layers of [Multi-Barrier] becomes 3. The amount her HP is restored by when she takes damage that would reduce her HP to 0 becomes equal to 100% of her max HP."
+    },
+    {
+        "Id": 5772,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EquipmentExclusiveSkill61Description3]",
+        "Text": "At the start of the battle, if there are 3 or more allies with a Soul of Chaos, this skill increases Illya’s DEF Break by 40% (cannot be dispelled)."
+    },
+    {
         "Id": 5773,
         "IsIgnore": false,
         "Memo": "",
@@ -38953,6 +39289,20 @@
         "Memo": "",
         "StringKey": "[CharacterName60]",
         "Text": "Fia"
+    },
+    {
+        "Id": 5859,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterName61]",
+        "Text": "Illya"
+    },
+    {
+        "Id": 5860,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterSubName61]",
+        "Text": "The Witch of God’s Curse"
     },
     {
         "Id": 5861,
@@ -48839,6 +49189,174 @@
         "Text": "Let’s just get this over with."
     },
     {
+        "Id": 7424,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6102]",
+        "Text": "Alright, should we get going? This time...we <i>will</i> save the world."
+    },
+    {
+        "Id": 7425,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6103]",
+        "Text": "Oh, so you’ve <i>finally</i> come back to see me, huh? I’ve been waiting for you this whole time. But, here you are acting like everything’s okay, even though you left me here all alone without even bothering to get in touch... A-Apologizing at this point won’t let you off the hook, you know. I’m still mad at you...!"
+    },
+    {
+        "Id": 7426,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6104]",
+        "Text": "We’re all going to die one day, so we need to keep that in mind, and live our lives without any regrets. Hmmm, there was a word for that sort of thing, right? What was it called again?"
+    },
+    {
+        "Id": 7427,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6105]",
+        "Text": "A witch’s power comes from the heart. The balance in our hearts is essential for keeping our powers balanced. How am I now? Hmmm, I’m feeling a little on the wicked side. Hehe."
+    },
+    {
+        "Id": 7428,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6106]",
+        "Text": "Hey, I haven’t been myself lately. The me deep inside isn’t the true me...and because of that, I’ve probably been saying things I wouldn’t normally say. When that happens, I want you to stop me. I’m sure even the other me wants you to."
+    },
+    {
+        "Id": 7429,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6107]",
+        "Text": "Mmm...I’m getting kind of tired. Hey, do you wanna pause for a break soon? There’s this nice shop I found... Oh, so <i>that’s</i> how it’s going to be? Fine—then you can kiss your precious world goodbye. Hehehe, that’s more like it. I found this bakery that makes the most delicious bread the other day. Let’s drop by."
+    },
+    {
+        "Id": 7430,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6108]",
+        "Text": "Oh, you’re sleeping? I guess you <i>have</i> been busy recently, huh. ...Hey. If you’re tired of it all, let’s just run away. We can forget about everything, and go to some faraway place, where it’ll be just the two of us... I’d be okay with that, you know."
+    },
+    {
+        "Id": 7431,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6109]",
+        "Text": "Happy birthday. The idea of us being here celebrating your birthday again is something I used to take for granted... It would be wonderful if we could do this again every year from now on, right?"
+    },
+    {
+        "Id": 7432,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6110]",
+        "Text": "Hey, can I ask just one small favor from you...? To tell the truth, Iris found out I made you skip work so we could go to that bakery, and now she’s calling for me to see her... So, I want you to come with me. If you’re there, I’m sure even Iris can’t get <i>that</i> angry... Please, just this once!"
+    },
+    {
+        "Id": 7433,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6111]",
+        "Text": "I’ve put on a few more pounds? How in the...?!"
+    },
+    {
+        "Id": 7434,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6112]",
+        "Text": "I thought I was ready...to give up my life and save the world. But, somewhere deep in my heart, I was hoping for a miracle that would let me save the world without dying... That’s why, when it was finally time to do it, at the very last second, I..."
+    },
+    {
+        "Id": 7435,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6113]",
+        "Text": "You know, you <i>sure</i> are getting along with a lot of the other girls lately. Well, that <i>is</i> your duty, I guess. It’s not like I thought I was the only special one or anything... Nnnrgh, why are these words coming out of my mouth...? Since when did I become someone so appalling...?"
+    },
+    {
+        "Id": 7436,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6114]",
+        "Text": "I feel the stronger I become, the larger this something inside me grows. You know, if you wanted me to turn my back on the world, I... Hehe, I guess there’s no way you’d ask for something like that, huh. I’m sure there’s gotta be a future out there where you save both me <i>and</i> the world, right?"
+    },
+    {
+        "Id": 7437,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6115]",
+        "Text": "You know, I’ve been thinking... What would happen if I just ran away? I’m fine with the two of us seeing peace come to the world,​ but tell me—wouldn’t it also be a sight to behold watching it be destroyed? Choose the path you like. We’ll have fun either way."
+    },
+    {
+        "Id": 7438,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6116]",
+        "Text": "It looks like I’ve gotten stronger again."
+    },
+    {
+        "Id": 7439,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6117]",
+        "Text": "I see you helped me grow a little more again. Thank you."
+    },
+    {
+        "Id": 7440,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6118]",
+        "Text": "There’s my power, and the other power inside me... Yeah, I’m okay. I still have everything under control."
+    },
+    {
+        "Id": 7441,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6119]",
+        "Text": "With me being able to draw out even more of this new power, does that mean it’s become that much more stable? Or, is it becoming a part of me? I wonder what the answer is."
+    },
+    {
+        "Id": 7442,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6120]",
+        "Text": "Do you want me to save the world? Or, would you rather that I live on? I wonder which one is your reason for giving me all this power."
+    },
+    {
+        "Id": 7443,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6121]",
+        "Text": "Even if I sacrifice myself to save the world, I won’t be around to see it afterwards. So, there’s no reason for me to keep caring, right? ...Is it strange for me to be having these kinds of thoughts? Hey, between the life of the world, and that of my own, which one is more precious to you? Well, which is it?"
+    },
+    {
+        "Id": 7444,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6190]",
+        "Text": "Hah-hah! We won because of me, right? Feel free to thank me as much as you like."
+    },
+    {
+        "Id": 7445,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6191]",
+        "Text": "We lost...? Well, it’s just one of those days, right?"
+    },
+    {
+        "Id": 7446,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6192]",
+        "Text": "It’s time to show you my new power!"
+    },
+    {
+        "Id": 7447,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6193]",
+        "Text": "No demon or god will outshine <i>me</i>!"
+    },
+    {
         "Id": 7448,
         "IsIgnore": false,
         "Memo": "",
@@ -49943,6 +50461,412 @@
         "Memo": "メモリー",
         "StringKey": "[BgmVocal19]",
         "Text": "Memories"
+    },
+    {
+        "Id": 8399,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4101]",
+        "Text": "Mom, Dad, and a bunch of pretty flowers.<br>It may not have been much,<br>but that’s all I needed to be happy."
+    },
+    {
+        "Id": 8400,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4102]",
+        "Text": "All it takes is a million of my tears <br>To make these flowers blossom <br>I’m sure, until the very end <br>They’ll feel as warm as they are cold "
+    },
+    {
+        "Id": 8401,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4103]",
+        "Text": "I can’t bring myself to hate this world... "
+    },
+    {
+        "Id": 8402,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4104]",
+        "Text": "♪♪♪"
+    },
+    {
+        "Id": 8403,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4105]",
+        "Text": "The big flowers that Dad likes,<br>and the pretty red flowers that Mom likes.<br>They’re going to love these for sure!<br>Oh, they’ll be so happy! <br><br>But what waited for me at home...<br>were the two of them...<br>dead on the cold floor."
+    },
+    {
+        "Id": 8404,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4106]",
+        "Text": "These flowers, colored by sadness <br>Embody my memories <br>My favorites, fallen to the soil <br>Taught me the meaning of love "
+    },
+    {
+        "Id": 8405,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4107]",
+        "Text": "But, my bubble pops,<br>breaking my heart into pieces <br>This dream will always be just a dream... "
+    },
+    {
+        "Id": 8406,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4108]",
+        "Text": "...Mom? Dad? You’re going to<br>catch a cold if you sleep here!<br>You guys feel so cold...<br><br>So come on, wake up!<br>Look at all these pretty flowers I picked...!<br>Hey...answer me...! Please...wake up...!"
+    },
+    {
+        "Id": 8407,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4109]",
+        "Text": "♪♪♪"
+    },
+    {
+        "Id": 8408,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4110]",
+        "Text": "When I woke up, I was<br>surrounded by a bunch of flowers.<br>Mourning flowers so pretty they brought<br>tears to my eyes were destroying<br>the world those two had left.<br><br>But...no flower ever blooms from tears.<br>A flower blooms because<br>someone gave it lots of love."
+    },
+    {
+        "Id": 8409,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4111]",
+        "Text": "♪♪♪"
+    },
+    {
+        "Id": 8410,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4112]",
+        "Text": "I’m sure, until the very end <br>They’ll stay as cruel as they are beautiful <br>I’m sure, until the very end <br>They’ll feel as warm as they are cold "
+    },
+    {
+        "Id": 8411,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4113]",
+        "Text": "In an empty house all alone,<br>I have dreams about never returning.<br>Mom, Dad, and a bunch of pretty flowers.<br>If I can have one wish granted,<br>I hope next time, I can become<br>a flower that’s loved by everyone..."
+    },
+    {
+        "Id": 8439,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4101]",
+        "Text": "Mom, Dad, and a bunch of pretty flowers.<br>It may not have been much,<br>but that’s all I needed to be happy."
+    },
+    {
+        "Id": 8440,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4102]",
+        "Text": "Flowers<br>Double-edged beauty<br>Symbol of happiness and of sorrow<br>Petals over your body<br>Cover you and your loving memory"
+    },
+    {
+        "Id": 8441,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4103]",
+        "Text": "Even a world so wonderful<br>Oh, could be so cruel"
+    },
+    {
+        "Id": 8442,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4104]",
+        "Text": "♪♪♪"
+    },
+    {
+        "Id": 8443,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4105]",
+        "Text": "The big flowers that Dad likes,<br>and the pretty red flowers that Mom likes.<br>They’re going to love these for sure!<br>Oh, they’ll be so happy! <br><br>But what waited for me at home...<br>were the two of them...<br>dead on the cold floor."
+    },
+    {
+        "Id": 8444,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4106]",
+        "Text": "I would always remember<br>You taught me to be kind and to be true<br>Withered hopes for tomorrow<br>This makes me question if I have to"
+    },
+    {
+        "Id": 8445,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4107]",
+        "Text": "Should I just grieve and then move on?<br>Or fight now that you’re gone?<br>I’m not afraid to break these walls<br>And to risk it all"
+    },
+    {
+        "Id": 8446,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4108]",
+        "Text": "...Mom? Dad? You’re going to<br>catch a cold if you sleep here!<br>You guys feel so cold...<br><br>So come on, wake up!<br>Look at all these pretty flowers I picked...!<br>Hey...answer me...! Please...wake up...!"
+    },
+    {
+        "Id": 8447,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4109]",
+        "Text": "♪♪♪"
+    },
+    {
+        "Id": 8448,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4110]",
+        "Text": "When I woke up, I was<br>surrounded by a bunch of flowers.<br>Mourning flowers so pretty they brought<br>tears to my eyes were destroying<br>the world those two had left.<br><br>But...no flower ever blooms from tears.<br>A flower blooms because<br>someone gave it lots of love."
+    },
+    {
+        "Id": 8449,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4111]",
+        "Text": "♪♪♪"
+    },
+    {
+        "Id": 8450,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4112]",
+        "Text": "As I let this gift blossom<br>I will forever be so hopeful<br>Now, I’ll unleash my power<br>I will bloom like a beautiful flower"
+    },
+    {
+        "Id": 8451,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4113]",
+        "Text": "In an empty house all alone,<br>I have dreams about never returning.<br>Mom, Dad, and a bunch of pretty flowers.<br>If I can have one wish granted,<br>I hope next time, I can become<br>a flower that’s loved by everyone..."
+    },
+    {
+        "Id": 8479,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP201]",
+        "Text": "Goodbye to the sunset<br>A lonely voice echoes vibrantly in my mind<br>Long ago, here and now <br>People’s prayers resound <br>with melodies of the heart "
+    },
+    {
+        "Id": 8480,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP202]",
+        "Text": "I knew right from the beginning that<br>this journey would have an ending.<br>There was no escaping that day,<br>so I set forth with an empty bag."
+    },
+    {
+        "Id": 8481,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP203]",
+        "Text": "In the rain-filled streets, I sway to-and-fro <br>With my weeping heart <br>Right now, I wish you were here, <br>smiling with me "
+    },
+    {
+        "Id": 8482,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP204]",
+        "Text": "I waited for sunrise, checking my calendar <br>Tomorrow’s the day I stop crying <br>I asked time and again <br>“If I can be free, will I be saved?” "
+    },
+    {
+        "Id": 8483,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP205]",
+        "Text": "Goodbye forever <br>My heart longs to stay, but I have to go on <br>This unending journey will take me <br>To where the moonlight shines "
+    },
+    {
+        "Id": 8484,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP206]",
+        "Text": "I had found more than joy. More than sadness.<br>Within me, emotions I had never<br>felt before began to stir.<br>As my bag got heavier, my legs got lighter."
+    },
+    {
+        "Id": 8485,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP207]",
+        "Text": "Every time I blink <br>The world changes—it makes me dizzy <br>As time goes on <br>We’ll become bubbles in the wind "
+    },
+    {
+        "Id": 8486,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP208]",
+        "Text": "In between the gray clouds <br>The blue sky starts shining through <br>Sunlight fills the room <br>I’ve seen this sight before "
+    },
+    {
+        "Id": 8487,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP209]",
+        "Text": "I waited for sunrise, hiding into the night <br>When my growing fears began to overflow <br>In my heart, an amber glow from long ago <br>Shines bright "
+    },
+    {
+        "Id": 8488,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP210]",
+        "Text": "I couldn’t protect my homeland,<br>so there’s no <i>way</i> I can protect the world.<br>That’s what I thought, until I found them..."
+    },
+    {
+        "Id": 8489,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP211]",
+        "Text": "Miracles overflowing throughout the world.<br>Wishes that never stop praying<br>for those who are precious...<br>Courage summoned for those who are loved...<br>They turn even the deepest darkness into light.<br><br><i>That</i> is the magic that will save the world."
+    },
+    {
+        "Id": 8490,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP212]",
+        "Text": "I dreamed telling myself <br>“There’s nothing to fear” <br>I weave my dreams together, <br>but it’s time to go back <br>To where I’m alive "
+    },
+    {
+        "Id": 8491,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP213]",
+        "Text": "Goodbye to days long ago <br>Here I go again, hitting the trail <br>I hold your hand in mine <br>As our journey brings us closer together <br>Endlessly, endlessly "
+    },
+    {
+        "Id": 8492,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP214]",
+        "Text": "♪♪♪"
+    },
+    {
+        "Id": 8493,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP215]",
+        "Text": "The flower petals fall and dance <br>To where the moonlight shines <br>To where the moonlight shines "
+    },
+    {
+        "Id": 8494,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP216]",
+        "Text": "Before I knew it,<br>my bag was filled to the brim.<br>But, it’s fine.<br>Because when my journey<br>comes to an end,<br>I know I won’t be alone."
+    },
+    {
+        "Id": 8495,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS201]",
+        "Text": "Saying goodbye to the sunset <br>Your sad melody echoes<br>through the darkest sky <br>Long, long ago, here now, and gone <br>People have lived, prayed, and sang a song  <br>with their fragile memories "
+    },
+    {
+        "Id": 8496,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS202]",
+        "Text": "I knew right from the beginning that<br>this journey would have an ending.<br>There was no escaping that day,<br>so I set forth with an empty bag."
+    },
+    {
+        "Id": 8497,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS203]",
+        "Text": "The rain won’t stop falling <br>Drizzling, blurred streets <br>My heart is soaking too <br>Can’t tell how much I wish you were here <br>Wanna laugh with you right now "
+    },
+    {
+        "Id": 8498,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS204]",
+        "Text": "Waiting for sunrise<br>All day, you’re on my mind <br>I don’t know what to do <br>Tomorrow I won’t be crying <br>I’m talking to myself again and again <br>If I’m free, will I be saved? "
+    },
+    {
+        "Id": 8499,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS205]",
+        "Text": "Now is the time to say goodbye <br>I must move forward <br>Knowing that I’m not ready for it <br>Let me believe that you’ll be there <br>Let’s go out to see the moonlight with me "
+    },
+    {
+        "Id": 8500,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS206]",
+        "Text": "I had found more than joy. More than sadness.<br>Within me, emotions I had never<br>felt before began to stir.<br>As my bag got heavier, my legs got lighter."
+    },
+    {
+        "Id": 8501,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS207]",
+        "Text": "Every time I blink, I see a new sight <br>It makes me feel dizzy <br>We will all disappear someday <br>Like the bubble blown away "
+    },
+    {
+        "Id": 8502,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS208]",
+        "Text": "Through the clouds, I see the sky <br>It’s so blue, I felt a beauty <br>Sunlight shines into the room <br>I’m sure I’ve seen this view before "
+    },
+    {
+        "Id": 8503,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS209]",
+        "Text": "Waiting for sunrise <br>My fear never goes away <br>And still overflows <br>That’s why I hid in the night <br>The moments of precious<br>memories in my heart <br>appear in my dream "
+    },
+    {
+        "Id": 8504,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS210]",
+        "Text": "I couldn’t protect my homeland,<br>so there’s no <i>way</i> I can protect the world.<br>That’s what I thought, until I found them..."
+    },
+    {
+        "Id": 8505,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS211]",
+        "Text": "Miracles overflowing throughout the world.<br>Wishes that never stop praying<br>for those who are precious...<br>Courage summoned for those who are loved...<br>They turn even the deepest darkness into light.<br><br><i>That</i> is the magic that will save the world."
+    },
+    {
+        "Id": 8506,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS212]",
+        "Text": "I’m always dreaming in my dream <br>I’m talking to myself <br>“Oh dear, there’s nothing to fear” <br>Still looking for a place where we live <br>I’ve got to get back <br>Shiny light pulls my hand and leads me "
+    },
+    {
+        "Id": 8507,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS213]",
+        "Text": "Now is the time to say goodbye <br>I am moving forward  <br>with the momentum of hope <br>Hold hands with you, I’ll be okay <br>In this journey, we are still bonding  <br>our strength to be strong <br>Forevermore, forevermore "
+    },
+    {
+        "Id": 8508,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS214]",
+        "Text": "♪♪♪"
+    },
+    {
+        "Id": 8509,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS215]",
+        "Text": "Petals of wish pour down on us <br>Come with me, let’s go to see the moonlight <br>Come with me, let’s go to see the moonlight "
+    },
+    {
+        "Id": 8510,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS216]",
+        "Text": "Before I knew it,<br>my bag was filled to the brim.<br>But, it’s fine.<br>Because when my journey<br>comes to an end,<br>I know I won’t be alone."
     },
     {
         "Id": 8511,
@@ -54355,6 +55279,76 @@
         "Text": "What I wanted...wasn’t this power..."
     },
     {
+        "Id": 9161,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileLyricsJP61]",
+        "Text": "<size=25><b>Allure of the Dark</b></size><br>Song by Daoko<br><br>I wonder...and wonder...if I ran away from here<br>Would the world change its ways?<br>I want to be with you, gazing down at the world<br>Watching as it crumbles, with your hand in mine<br>Knock on the door to destruction<br>Now everything begins to vanish from sight<br>Hopes I once longed to fulfill<br>Feel like they’re bursting,<br>fluttering about...ah...<br><br>Ahh, the darkness devours<br>even the brightest light<br>But I still remember<br>the shadow once cast on me<br>Ahh, without the light,<br>I could be free<br><br>A demon tempts me into the dark<br>Whispering secrets into my ears<br>Unveiling before my very eyes<br>A side of me I’ve never seen before<br>The uglier the soil nurturing the seeds<br>The more vividly the flowers blossom<br><br>Sound the bell of destruction<br>Now everyone begins to be born anew<br>Wishes I once longed to fulfill<br>Feel like they’re bursting,<br>fluttering about...ah...<br><br>Ahh, the darkness devours<br>even the brightest light<br>But the afterglow keeps its gaze on me<br><br>My sworn duty to be strong, to protect<br>Is now just a shadow set aflame by the gods<br>My heart may be black, may be white<br>But who will be the one to judge me?<br><br>Ahh, the moonless night <br>forgets even the brightest light<br>But a flicker of hope<br>soars through the heavens<br>Ahh, the darkness devours<br>even the brightest light<br>But I still remember<br>the shadow once cast on me<br>Ahh, I’m deep in a dream,<br>a gentle dream"
+    },
+    {
+        "Id": 9162,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileLyricsUS61]",
+        "Text": "<size=25><b>Allure of the Dark</b></size><br><br>If by chance I were to turn away and run away<br>From the path I embraced<br>Could the world still find its way?<br>You and I, side by side<br>In a world that’s crumbling, we stand<br>I wish to gaze upon forevermore<br><br>Tapping the door of desolation’s might<br>From now on, all fades from sight<br>Venturing into the unknown<br>Notes of longing, the dreams we held so tight<br>Now scatter like stardust, taking flight<br><br>Ah, light so frail in the depths<br>Swallowed by the void of night, I stand alone<br>Freedom’s end takes its flight<br>Still I remember from the depths of my heart<br>If this light were not to be<br>We would wander free<br><br>Oh, demons tempt with sly allure<br>They whisper words so obscure<br>The me unknown, yet revealed<br>The hidden depths I’d rather not explore<br>Where seeds unfurl, roots entwine<br>Within the darkness, they unite<br>Flowers bloom emerged in radiant attire<br><br>Sounds of decay echo far and wide<br>Into the void, our spirits flow<br>Back to nothingness they go<br>Notes of longing, the dreams we held so tight<br>Now scatter like stardust, taking flight<br><br>Ah, light so frail in the depths<br>Swallowed by the void of night, I stand alone<br>Dreams of old, in hearts reside<br>To the next soul I flow<br><br>Bound by strength, to protect<br>A vow to uphold my fate<br>Who unleashed this fire’s might<br>God’s grace, or demon’s embrace?<br>Black or white, true or false<br>I contemplate the core of me<br>Beyond the gates<br><br>As light ne’er touched this sphere<br>I wander in this void, where hope disappears<br>Doom’s spark ignites, piercing night<br><br>Ah... The light, heaven’s gate it defies<br>In desolate skies, dreams belied, I fly alone<br>Freedom’s end takes its flight<br>Still I remember from the depths of my heart<br>Dreaming of joy, painfully bright<br>It fades into the night"
+    },
+    {
+        "Id": 9163,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileDescription61]",
+        "Text": "The girl who gained the powers of an angel and demon after the battle to save the world. However, this makes her bright sense of justice grow faint. Illya may seem to have simply returned to being a normal girl, but a life of cruel fate has made her heart recoil, and emotions flicker."
+    },
+    {
+        "Id": 9164,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileVoiceJP61]",
+        "Text": "Kana Hanazawa"
+    },
+    {
+        "Id": 9165,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileVoiceUS61]",
+        "Text": "Erika Lynn Harlacher"
+    },
+    {
+        "Id": 9166,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileLamentJP61]",
+        "Text": "Allure of the Dark"
+    },
+    {
+        "Id": 9167,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileLamentUS61]",
+        "Text": "Allure of the Dark"
+    },
+    {
+        "Id": 9168,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileVocalJP61]",
+        "Text": "Daoko"
+    },
+    {
+        "Id": 9169,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileVocalUS61]",
+        "Text": ""
+    },
+    {
+        "Id": 9170,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileGachaResultSubMessage61]",
+        "Text": "I can bring peace to the world,<br>but I would rather..."
+    },
+    {
         "Id": 9171,
         "IsIgnore": false,
         "Memo": "",
@@ -57491,6 +58485,55 @@
         "Text": "In the end, the Witch of Murder<br>used her power for me.<br><br>Even if a power is cursed,<br>there’s no doubt that at its core is<br>a human who loves others.<br>That’s what she meant when<br>she said she could “die as a human.”<br><br>I gently stroked the flower she left behind.<br>With this, I’ll be able to die too...<br><br>But, now’s not the time to do so.<br><br>I’ll fulfill her dying wish.<br>That’ll be the “proof of my humanity.”<br><br>I sewed the flower near my heart,<br>and started walking.<br><br>I’ll die as a human.<br>Until then, I’ll live on.<br><i>That</i> was her dying wish...<br><br>To provide me the only way I can die.<br>Not as a monster, but as a normal girl."
     },
     {
+        "Id": 9963,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterStoryText6101]",
+        "Text": "When we started our journey and<br>dispelled the Curse of flowers, <br>I felt something strange inside me.<br>The moment the entire Curse was <br>dispelled from the country of Fran, <br>I realized what had happened.<br><br>The Curse wasn’t dispelled. <br>It was only sealed away inside of me.<br>After every Curse has converged into me, <br>I’m sure that in the end, I’ll...<br><br>There are 10 Curses destroying the world, <br>and it’s impossible for them all to be <br>sealed away inside a single person.<br>But, there’s one secret I’ve been hiding.<br><br>When I was a child, <br>I was called the child of miracles.<br>Everyone said I was born <br>with the power of God,<br>capable of performing <br>His miracle only once.<br><br>I’m afraid of dying. <br>But, knowing that my life can save the world<br>provided with me with a little bit of solace.<br>That’s why, it wasn’t dying that I was <br>afraid of—it was the idea of dying <br>without being able to use this power."
+    },
+    {
+        "Id": 9964,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterStoryText6102]",
+        "Text": "To save the world, I thought our journey<br>would be full of pain and hardships.<br>It’s unforgivable to have fun <br>while saving the world. <br>We <i>have</i> to undergo the <br>pain and hardships.<br><br>But...with those gentle eyes of his, <br>he noticed how I was changing for the worse.<br>Then, a trial that was meant for me to <br>face alone became something shared <br>by the two of us.<br><br>Half of my pain disappeared, <br>then the next thing I knew, <br>it was completely gone.<br>With him and so many friends <br>lending me their hands, <br>this journey of pain and hardships <br>turned into one full of fun and joy.<br><br>Our journey will one day come to an end. <br>That’s something I should’ve known all along.<br>And yet...right now...<br><br>Still lacking the strength to say goodbye, <br>the end of our journey appeared <br>right before my very eyes."
+    },
+    {
+        "Id": 9965,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterStoryText6103]",
+        "Text": "Inside a large crater lies the altar of sealing.<br>There, we save Her Holiness from <br>the demon controlling her, <br>and the power of the Staff <br>purges the final Curse.<br>At last, the world is saved...!<br><br>...No, something’s off. Why was it so easy?<br>Don’t tell me...the demons were waiting <br>for every Curse to be dispelled...? <br>For every Curse to converge into one place...?<br><br>There are only 10 Witches of Qlipha <br>in the world, and each one possesses <br>the power of a guardian angel.<br>When such power to protect the world inverts, <br>it becomes a power that destroys—a “Curse.”<br>That means, to take away a Curse...<br>is to take away a “power to protect<br>the world...”<br><br>Suddenly, a power taking <br>the shape of ominous, <br>piercing spikes pours out from me.<br>I hear Her Holiness cry out in dread.<br><br>“An 11th Curse...?! <br>But...such a thing should not exist...!”<br><br>The altar of sealing shatters, <br>and <i>something</i> enters my body."
+    },
+    {
+        "Id": 9966,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterStoryText6104]",
+        "Text": "The angels of old lose their power,<br>their seals broken, allowing for <br>the advent of the demon lord.<br>My body, reshaped by the 10 Curses, <br>becoming his vessel.<br><br>But, demons are inherently cunning, <br>and arrogant all the same.<br><br>The demon lord begins to resurrect. <br>The 10 seals have been broken, <br>leaving the 11th inside me.<br>It was a miracle that shouldn’t exist—<br>the result of demons’ schemes <br>and angels’ deception. <br>...A black key that turns souls into prisons.<br><br>It all finally dawned upon me.<br>I wield the power of God, <br>and can perform His miracle only once.<br><br>That power was for this very moment."
+    },
+    {
+        "Id": 9967,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterStoryText6105]",
+        "Text": "Long ago, the demon lord<br>tried to destroy the world. <br>With his overwhelming power, <br>the angels could do nothing <br>but seal him away.<br><br>That very same demon lord is inside me, <br>but he has yet to regain all his strength. <br>Now’s the time to use my life to save the world.<br><br>I turned to meet those familiar, <br>gentle eyes for one last time.<br>I was only able to make it this far <br>because you were always there for me. <br>So, I want to say thank you. <br>...Goodbye.<br><br>A light as pure as snow begins <br>to pour out from within me. <br>This single miracle can make my wish—<br>my final wish—come true. <br>To use my life to save the world.<br><br>And yet...<br><br>Where did I go wrong...? <br>I thought I was ready for<br>this to happen, but...<br>Hey... Please... I beg you...<br>Save me...!<br><br>I knew it was wrong to <br>have fun saving the world.<br>At the very last second, <br>I was too weak to wish for <br>peace to come to the world...<br>Then, the miracle made<br>my wish come true."
+    },
+    {
+        "Id": 9968,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterStoryText6106]",
+        "Text": "My wish came true, and I was saved.<br>The demon lord remained inside me.<br>Right now I can keep his power at bay, <br>but when he eventually makes his return, <br>the end of the world will be on my hands...<br><br>To prevent that from happening, <br>I would have to go deep into the underworld <br>and find the demons’ throne.<br>To seal the demon lord away... <br>Or, to kill all that remains of me.<br><br>Until now, I wasn’t afraid... But...<br><br>If only I’d been oblivious to everything, <br>then I could’ve easily saved the world. <br>Now, I’m trembling as I walk. <br>Smiling desperately so I don’t break.<br>But one day, I’ll be at the end of my rope.<br><br>When that happens, <br>can I hang on to being myself...?<br>Once I’m there at the demons’ throne, <br>what is it that I’ll wish for...?"
+    },
+    {
+        "Id": 9969,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterStoryText6107]",
+        "Text": "There’s an angel and a demon inside me.<br>The angel tells me to save the world, <br>while the demon whispers <br>the sweetest temptations.<br><br>You’ve already abandoned the world. <br>You knew what you truly wanted, <br>so why are you hesitating now?<br><br>...He’s trying to save the world. <br>So, I’ll do the same. <br>Not for the world, but for him.<br><br>But, I’m sure he’ll look at me with <br>those gentle eyes and say, <br>“Your life is more precious <br>to me than the world.”<br><br>...Ah...yes... <br>If I heard such <br>wonderful words from him, <br>it might make me just <br>want to abandon the world.<br><br>After all, there’s a secret I’ve been hiding.<br>The power of God is hidden away <br>in someone who shouldn’t exist—<br>the foolish Witch of Qlipha who <br>bears the number 0.<br><br><i>That</i> is who I am."
+    },
+    {
         "Id": 9970,
         "IsIgnore": false,
         "Memo": "",
@@ -59463,6 +60506,13 @@
         "Memo": "",
         "StringKey": "[EquipmentName441]",
         "Text": "Chaos Queller"
+    },
+    {
+        "Id": 10485,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EquipmentName465]",
+        "Text": "Black Miracle"
     },
     {
         "Id": 10486,
@@ -71530,7 +72580,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[HelpMainText900]",
-        "Text": "■Favorites​<br>Up to 5 characters you have obtained can be set as favorites.​​<br>They will show up on your Home Screen,​​<br>with the displayed character's Lament being played as background music.​"
+        "Text": "■Favorites​<br>Up to 5 characters you have obtained can be set as favorites.​​<br>They will show up on your Home screen,​​<br>with the displayed character's Lament being played as background music.​<br><br>■Lament Monologue<br>This feature will let you experience a character's Lament<br>with their special monologue voice lines mixed in with the music.<br>You can view the Lament Monologue of any character with the Lament Monologue mark (♪)<br>displayed on the bottom-right corner of their icon in the Set Favorites screen.<br><br>A character's Lament Monologue can be viewed through one of the following ways.<br>・Have that character displayed on the Home screen,<br>then tap the Lament Monologue button (♪) on the upper-right corner of the screen.<br>・Open that character's Character Info screen,<br>then tap the Lament Monologue button on the lower-left side of the screen.<br>*More Lament Monologues are planned to be added in the future."
     },
     {
         "Id": 12467,
@@ -71810,7 +72860,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[HelpMainText2213]",
-        "Text": "■Buffs/Debuffs​<br>Buffs put characters at an advantage during battle.​<br>Debuffs put characters at a disadvantage during battle.​<br>The decision to inflict a debuff is made based on a character's chance to inflict a debuff​<br>and the target's chance to resist a debuff.<br>There are specific skills that dispel buffs/debuffs, or copy them onto targets.​<br><br>■A Buff/Debuff's Effect Turn Count​<br>If a buff or debuff specifies the number of turns its effect will last,​<br>the effect will last only within that specified number of turns.​<br>Once a character's action phase is over, an effect's turn count will decrease by 1.​<br>Once the effect's turn count reaches 0, that buff/debuff will be dispelled.​<br>Additionally, certain skills can be used to increase/decrease the turn count of a buff/debuff.​<br><br>■Effect Overlapping​<br>With the exception of buffs/debuffs, there are effects that can overlap with each other.​<br><br>The following is an example of when effects can overlap.​<br>If a target is already enhanced with an effect that increases their ATK,​<br>and an ally grants that target a different effect that increases their ATK,​<br>both ATK-increasing effects can overlap. ​<br><br>The following is an example of when effects cannot overlap.​<br>If Fainted, Poison, Bleed, Burn, and Erosion are each inflicted more than once,​<br>the effect of each debuff will be overwritten.​<br>When an effect is overwritten, only one of that effect will remain on the target.​<br>It will carry over the largest values for the effect turn count and effect size.​<br><br>Excluding effects that can be stacked, if the same buff/debuff becomes overlapped​<br>on the same character, the new buff/debuff will overwrite the old one.​<br><br>■Effect Stacking​<br>Some buffs/debuffs can be stacked if they have an effect that increases in size​<br>each time that buff/debuff is given to a target.​<br>The number of times the buff/debuff is given to a target is added to the stack count,​<br>and there is a limit to how many times the effect can be stacked.​<br>If a stacked buff/debuff is dispelled, its stack count will become 0.​<br><br>■Dispelling​<br>A target's buff or debuff can be dispelled.​<br>The decision to dispel a target's buff will be made based on​<br>a character's chance to inflict a debuff and the target's chance to resist a debuff.<br><br>■Buff Copying​<br>This allows a character to grant themselves a buff that an enemy is enhanced with.​<br>The copied buff's effect value will not be changed or updated from the time it was copied.​<br>If a buff's description says \"cannot be dispelled,\" it cannot be copied.​<br><br>■Debuff Copying​<br>This allows a character to inflict a debuff they are afflicted with on an enemy.​<br>The decision to afflict a copied debuff will be decided based on​<br>a character's chance to inflict a debuff and the target's chance to resist a debuff.​<br>Resonance, as well as debuffs that say \"cannot be dispelled\" in their descriptions,​<br>cannot be copied.​<br><br>■Buffs/Debuffs that Cannot be Dispelled​<br>Buffs/debuffs that \"cannot be dispelled,\" as written in their descriptions,​<br>have the following traits.​<br>They do not count as buffs/debuffs that are \"enhancing\" or \"afflicting\" a target.​<br>Their effects cannot be subject to dispelling, effect turn increasing/decreasing, or copying.​<br>They are not affected by a character's chance to inflict a debuff, <br>a target's chance to resist a debuff, Buff Immunity, or Debuff Immunity.​<br>With the exception of some effects, these buffs/debuffs will not be displayed​<br>as icons during battle.​"
+        "Text": "■Buffs/Debuffs​<br>Buffs put characters at an advantage during battle.​<br>Debuffs put characters at a disadvantage during battle.​<br>The decision to inflict a debuff is made based on a character's chance to inflict a debuff​<br>and the target's chance to resist a debuff.<br>There are specific skills that dispel buffs/debuffs, or copy them onto targets.​<br><br>■A Buff/Debuff's Effect Turn Count​<br>If a buff or debuff specifies the number of turns its effect will last,​<br>the effect will last only within that specified number of turns.​<br>Once a character's action phase is over, an effect's turn count will decrease by 1.​<br>Once the effect's turn count reaches 0, that buff/debuff will be dispelled.​<br>Additionally, certain skills can be used to increase/decrease the turn count of a buff/debuff.​<br><br>■Effect Overlapping​<br>With the exception of buffs/debuffs, there are effects that can overlap with each other.​<br><br>The following is an example of when effects can overlap.​<br>If a target is already enhanced with an effect that increases their ATK,​<br>and an ally grants that target a different effect that increases their ATK,​<br>both ATK-increasing effects can overlap. ​<br><br>The following is an example of when effects cannot overlap.​<br>If Fainted, Poison, Bleed, Burn, and Erosion are each inflicted more than once,​<br>the effect of each debuff will be overwritten.​<br>When an effect is overwritten, only one of that effect will remain on the target.​<br>It will carry over the largest values for the effect turn count and effect size.​<br><br>Excluding effects that can be stacked, if the same buff/debuff becomes overlapped​<br>on the same character, the new buff/debuff will overwrite the old one.​<br><br>■Effect Stacking​<br>Some buffs/debuffs can be stacked if they have an effect that increases in size​<br>each time that buff/debuff is given to a target.​<br>The number of times the buff/debuff is given to a target is added to the stack count,​<br>and there is a limit to how many times the effect can be stacked.​<br>If a stacked buff/debuff is dispelled, its stack count will become 0.​<br><br>■Dispelling​<br>A target's buff or debuff can be dispelled.​<br>The decision to dispel a target's buff will be made based on​<br>a character's chance to inflict a debuff and the target's chance to resist a debuff.<br><br>■Buff Copying​<br>This allows a character to grant themselves a buff that an enemy is enhanced with.​<br>The copied buff's effect value will not be changed or updated from the time it was copied.​<br>Devotion, as well as buffs that say \"cannot be dispelled\" in their description<br>cannot be copied.<br><br>■Debuff Copying​<br>This allows a character to inflict a debuff they are afflicted with on an enemy.​<br>The decision to afflict a copied debuff will be decided based on​<br>a character's chance to inflict a debuff and the target's chance to resist a debuff.​<br>Resonance, as well as debuffs that say \"cannot be dispelled\" in their descriptions,​<br>cannot be copied.​<br><br>■Buffs/Debuffs that Cannot be Dispelled​<br>Buffs/debuffs that \"cannot be dispelled,\" as written in their descriptions,​<br>have the following traits.​<br>They do not count as buffs/debuffs that are \"enhancing\" or \"afflicting\" a target.​<br>Their effects cannot be subject to dispelling, effect turn increasing/decreasing, or copying.​<br>They are not affected by a character's chance to inflict a debuff, <br>a target's chance to resist a debuff, Buff Immunity, or Debuff Immunity.​<br>With the exception of some effects, these buffs/debuffs will not be displayed​<br>as icons during battle.​"
     },
     {
         "Id": 12507,
@@ -71824,7 +72874,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[HelpMainText2214]",
-        "Text": "■Increased Stat​<br>This buff increases a specified stat.​<br>The increase is calculated in reference to the stat's value at the start of the battle.​<br><br>■Increased Damage Dealing​<br>This buff increases the damage a character deals when they attack.​<br><br>■Decreased Damage Taken​<br>This buff decreases the damage a character takes when they are attacked.​<br><br>■Invulnerable​<br>This buff nullifies damage a character takes.​<br><br>■Multi-Barrier​<br>This buff provides a multi-layered barrier. When a character takes damage,​<br>1 barrier layer is depleted to nullify that damage.​<br>If Multi-Barrier is overlapped with Invulnerable, the barrier layer will not be depleted.​<br>If Multi-Barrier is overlapped with Shield, Multi-Barrier will be used first.​<br><br>■Shield​<br>This buff provides a shield that nullifies a designated amount of damage.​<br>When a character takes damage that exceeds the amount that can be nullified,​<br>the shield will be depleted, and the remaining damage will be dealt to the character's HP.​<br>If Shield is overlapped with Invulnerable, Shield will not be depleted.​<br>If Shield is overlapped with Multi-Barrier, Multi-Barrier will be used first.​<br><br>■Debuff Immunity​<br>This buff prevents debuffs from being inflicted on a character.​<br>This does not nullify any debuffs a character is already afflicted with.​<br><br>■Unhindered​<br>This buff prevents action hindering debuffs from being inflicted on a character.​<br>There are 4 action hindering debuffs—Fainted, Sleep, Confusion, and Silence.​<br>This does not nullify any action hindering debuffs a character is already afflicted with.​<br><br>■Taunt​<br>This buff guarantees a character is the target of enemy attacks and skills<br>dealt to 1 or more random targets.​<br>This does not make that character the target if the enemy attack or skill<br>is not dealt to random targets.​<br><br>■Stealth​<br>This buff prevents a character from being a target of enemy attacks and skills dealt to 1 target.​<br>However, that character can be the target of attacks and skills<br>that are dealt to the target directly in front of the attacker.​<br>If all allies who are alive are enhanced with either Stealth or Invisibility,<br>the effect of Stealth will be nullified.<br><br>■Invisibility​<br>This buff prevents a character from being a target of attacks and skills of enemies and allies.​<br>If all allies who are alive are enhanced with Invisibility,<br>the effect of Invisibility will be nullified.<br><br>■Counter-XX​<br>This buff gives a character a chance to counter an enemy attack​<br>by inflicting a specified debuff on their attacker.​<br><br>■Regeneration​<br>This buff restores a specified amount of HP to a character each turn​<br>at the start of that character's action phase.​<br><br>■Immortality​<br>This buff guarantees a character survives with 1 HP remaining​<br>if they take damage that would reduce their HP to 0.​<br>This includes damage taken from attacks, Poison and other debuffs​<br>that deal continuous damage, Resonance, and Counter.​<br><br>■Counter Shift​<br>When attacked by an enemy, this buff allows a character to deal​<br>a designated amount of damage to a specific enemy instead of dealing a regular Counter.​<br>The amount of damage is not affected by the Counter stat.​"
+        "Text": "■Increased Stat​<br>This buff increases a specified stat.​<br>The increase is calculated in reference to the stat's value at the start of the battle.​<br><br>■Increased Damage Dealing​<br>This buff increases the damage a character deals when they attack.​<br><br>■Decreased Damage Taken​<br>This buff decreases the damage a character takes when they are attacked.​<br><br>■Invulnerable​<br>This buff nullifies damage a character takes.​<br><br>■Multi-Barrier​<br>This buff provides a multi-layered barrier. When a character takes damage,​<br>1 barrier layer is depleted to nullify that damage.​<br>If Multi-Barrier is overlapped with Invulnerable, the barrier layer will not be depleted.​<br>If Multi-Barrier is overlapped with Shield, Multi-Barrier will be used first.​<br><br>■Shield​<br>This buff provides a shield that nullifies a designated amount of damage.​<br>When a character takes damage that exceeds the amount that can be nullified,​<br>the shield will be depleted, and the remaining damage will be dealt to the character's HP.​<br>If Shield is overlapped with Invulnerable, Shield will not be depleted.​<br>If Shield is overlapped with Multi-Barrier, Multi-Barrier will be used first.​<br><br>■Debuff Immunity​<br>This buff prevents debuffs from being inflicted on a character.​<br>This does not nullify any debuffs a character is already afflicted with.​<br><br>■Unhindered​<br>This buff prevents action hindering debuffs from being inflicted on a character.​<br>There are 4 action hindering debuffs—Fainted, Sleep, Confusion, and Silence.​<br>This does not nullify any action hindering debuffs a character is already afflicted with.​<br><br>■Taunt​<br>This buff guarantees a character is the target of enemy attacks and skills<br>dealt to 1 or more random targets.​<br>This does not make that character the target if the enemy attack or skill<br>is not dealt to random targets.​<br><br>■Stealth​<br>This buff prevents a character from being a target of enemy attacks and skills dealt to 1 target.​<br>However, that character can be the target of attacks and skills<br>that are dealt to the target directly in front of the attacker.​<br>If all allies who are alive are enhanced with either Stealth or Invisibility,<br>the effect of Stealth will be nullified.<br><br>■Invisibility​<br>This buff prevents a character from being a target of attacks and skills of enemies and allies.​<br>If all allies who are alive are enhanced with Invisibility,<br>the effect of Invisibility will be nullified.<br><br>■Counter-XX​<br>This buff gives a character a chance to counter an enemy attack​<br>by inflicting a specified debuff on their attacker.​<br><br>■Regeneration​<br>This buff restores a specified amount of HP to a character each turn​<br>at the start of that character's action phase.​<br><br>■Immortality​<br>This buff guarantees a character survives with 1 HP remaining​<br>if they take damage that would reduce their HP to 0.​<br>This includes damage taken from attacks, Poison and other debuffs​<br>that deal continuous damage, Resonance, Devotion, and Counter.​<br><br>■Counter Shift​<br>When attacked by an enemy, this buff allows a character to deal​<br>a designated amount of damage to a specific enemy instead of dealing a regular Counter.​<br>The amount of damage is not affected by the Counter stat.<br><br>■Devotion<br>This buff allows a character to substitutively take a designated amount of damage<br>from the damage an attack would deal to another ally.<br>If damage would be taken via Devotion and Resonance at the same time,<br>the damage will be totaled together and count as 1 instance of taking damage."
     },
     {
         "Id": 12509,
@@ -71838,7 +72888,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[HelpMainText2215]",
-        "Text": "■Decreased Stat​<br>This debuff decreases a specified stat.​<br>The decrease is calculated in reference to the stat's value at the start of the battle.​<br><br>■Decreased Damage Dealing​<br>This debuff decreases the damage a character deals when they attack.​<br><br>■Increased Damage Taken​<br>This debuff increases the damage a character takes when they are attacked.​<br><br>■Fainted​<br>This debuff makes a character unable to deal basic attacks or use skills​<br>for a specified number of turns.​<br><br>■Sleep​<br>This debuff makes a character unable to deal basic attacks or use skills​<br>for a specified number of turns.​<br>This is dispelled after the specified number of turns, or by other specific conditions.​<br><br>■Confusion​<br>This debuff makes a character select either allies or enemies at random as attack targets.​<br>Even skills that specify its targets to be the enemy with the highest ATK, etc.,​<br>will be dealt to enemies or allies at random.​<br>Skills that make allies targets, as well as skills that affect allies and enemies at the same time,​<br>are not affected by Confusion.​<br><br>■Silence​<br>This debuff makes a character unable to use skills.​<br>The afflicted character can only deal basic attacks.​<br><br>■Poison/Burn/Bleed/Erosion​<br>These debuffs make a character take a specified amount of continuous damage​<br>each turn at the start of the action phase.​<br><br>Poison and Burn make the afflicted character take continuous damage​<br>based on percentage of their current HP.​<br>The damage will not exceed the afflicted character's ATK stat value.​<br><br>Bleed makes the afflicted character take continuous damage​<br>based on a percentage of the inflictor's ATK.​<br><br>Erosion makes the afflicted character take continuous damage​<br>based on a percentage of the total damage dealt by the skill that inflicted Erosion.​<br><br>■Blight​<br>This debuff prevents a character from having their HP restored.​<br>This affects skills that restore HP, Regeneration, and HP Drain.​<br><br>■Buff Immunity​<br>This debuff prevents buffs from being granted to a character.​<br>This does not nullify any buffs a character is already enhanced with.​<br>While a character is afflicted with Buff Immunity, if a buff updates the value of a stat, etc.,​<br>when specific conditions are met, those increases will not be applied.​<br>Buff Immunity does not affect buffs that cannot be dispelled.​<br><br>■Bind​<br>This debuff makes a character unable to evade enemy attacks.​<br><br>■Resonance​<br>This debuff is inflicted on two characters that meet specific conditions.​<br>When one afflicted character takes damage from an attack,​<br>a designated amount of that damage is dealt to the other afflicted character.​"
+        "Text": "■Decreased Stat​<br>This debuff decreases a specified stat.​<br>The decrease is calculated in reference to the stat's value at the start of the battle.​<br><br>■Decreased Damage Dealing​<br>This debuff decreases the damage a character deals when they attack.​<br><br>■Increased Damage Taken​<br>This debuff increases the damage a character takes when they are attacked.​<br><br>■Fainted​<br>This debuff makes a character unable to deal basic attacks or use skills​<br>for a specified number of turns.​<br><br>■Sleep​<br>This debuff makes a character unable to deal basic attacks or use skills​<br>for a specified number of turns.​<br>This is dispelled after the specified number of turns, or by other specific conditions.​<br><br>■Confusion​<br>This debuff makes a character select either allies or enemies at random as attack targets.​<br>Even skills that specify its targets to be the enemy with the highest ATK, etc.,​<br>will be dealt to enemies or allies at random.​<br>Skills that make allies targets, as well as skills that affect allies and enemies at the same time,​<br>are not affected by Confusion.​<br><br>■Silence​<br>This debuff makes a character unable to use skills.​<br>The afflicted character can only deal basic attacks.​<br><br>■Poison/Burn/Bleed/Erosion​<br>These debuffs make a character take a specified amount of continuous damage​<br>each turn at the start of the action phase.​<br><br>Poison and Burn make the afflicted character take continuous damage​<br>based on percentage of their current HP.​<br>The damage will not exceed the afflicted character's ATK stat value.​<br><br>Bleed makes the afflicted character take continuous damage​<br>based on a percentage of the inflictor's ATK.​<br><br>Erosion makes the afflicted character take continuous damage​<br>based on a percentage of the total damage dealt by the skill that inflicted Erosion.​<br><br>■Blight​<br>This debuff prevents a character from having their HP restored.​<br>This affects skills that restore HP, Regeneration, and HP Drain.​<br><br>■Buff Immunity​<br>This debuff prevents buffs from being granted to a character.​<br>This does not nullify any buffs a character is already enhanced with.​<br>While a character is afflicted with Buff Immunity, if a buff updates the value of a stat, etc.,​<br>when specific conditions are met, those increases will not be applied.​<br>Buff Immunity does not affect buffs that cannot be dispelled.​<br><br>■Bind​<br>This debuff makes a character unable to evade enemy attacks.​<br><br>■Resonance​<br>This debuff is inflicted on two characters,​​<br>and when one afflicted character takes damage from an attack,​<br>a designated amount of that damage is dealt to the other afflicted character.​<br>If damage would be taken via Devotion and Resonance at the same time,<br>the damage will be totaled together and count as 1 instance of taking damage."
     },
     {
         "Id": 12511,
@@ -71852,7 +72902,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[HelpMainText2216]",
-        "Text": "■If/When a Character is Attacked​<br>This condition causes certain skills to activate upon being fulfilled.<br>It will only be fulfilled if the character is successfully hit by an attack.<br>It will not fulfilled if the attack is evaded, or if damage is dealt to the character via Counter.<br>If the character is hit by an attack, but buffs such as [Shield] or [Multi-Barrier]<br>reduce the damage to 0, this condition will still be fulfilled.<br><br>■HP Restoration​<br>This effect restores a character's HP by a designated amount.​<br><br>■Defeated​<br>When a character's HP drops to 0, they are defeated.​<br>Defeated characters cannot perform any actions.​<br>When a character is defeated, all their buffs/debuffs are dispelled.​<br>Additionally, the value of a character's skill cooldown time at the moment right before​<br>they were defeated will remain unchanged. ​<br><br>■Increased/Decreased Skill Cooldown Time​<br>This effect increases or decreases the number of turns of a target's skill cooldown time.​<br><br>■Revive​<br>When a character takes damage that makes them defeated,​<br>this effect restores that character's HP and makes them able to battle again.​<br>Characters who have taken damage from attacks, Poison and other debuffs​<br>that deal continuous damage, Resonance, and Counter can be revived.​<br><br>■Guaranteed to Hit​<br>These attacks are guaranteed to hit their target.​<br>This effect is not affected by a character's Chance to Hit and Chance to Evade.​<br><br>■Guaranteed to Deal a Critical Hit​<br>These attacks, when they successfully hit their target,​<br>are guaranteed to deal a critical hit.​<br>This effect is not affected by a character's Chance to Deal a Critical Hit and<br>Chance to Resist a Critical Hit.<br><br>■Cut​<br>This effect reduces a specific percentage of damage taken by attacks, Resonance, and Counter.​<br>Damage from Poison and other debuffs that deal continuous damage cannot be reduced.​<br>The effects of Increased/Decreased Damage Taken and Increased/Decreased Damage Dealing<br>are calculated before damage is reduced via cutting.<br>The effects of Shield and Resonance are calculated after damage is reduced via cutting.<br><br>■Survive with 1 HP​<br>This effect guarantees a character survives with 1 HP remaining​<br>if they take damage that would reduce their HP to 0.​<br>This includes damage taken from attacks, Poison and other debuffs​<br>that deal continuous damage, Resonance, and Counter.​<br>This effect cannot be dispelled or copied.​<br><br>■Absorb​<br>This effect allows a character to inflict a specific decreased stat debuff on an enemy,​<br>and grant themselves a buff that increases their corresponding stat by the decreased amount.​<br>If the character fails to inflict the debuff, they will not be granted the buff.​<br><br>■Strengthened Basic Attack​<br>This effect strengthens a character's basic attack.​<br>The way a character's basic attack is strengthened varies depending on the skill.​<br><br>■Dealing Damage to Self​<br>This effect decreases a character's HP when they use specific skills.​<br>This is not affected by Increased/Decreased Damage Taken,​<br>Cut, Invulnerable, Shield, Multi-Barrier, or Immortality.​<br><br>■Counter​<br>When attacked by an enemy, this effect allows a character to deal damage back to that enemy.​<br>The damage from Counter is affected by​<br>Cut, Shield, Multi-Barrier, Invulnerable, and Immortality.​<br>The damage dealt to the enemy depends on the damage taken from them.​<br>Damage dealt via Counter cannot be evaded.​<br>Some skills deal a certain number of attacks, but that number is not factored into Counter's damage.​<br>Counter does not activate when a character takes damage from Poison​<br>and other debuffs that deal continuous damage, Resonance, or Passive Skills.​<br>Counter activates only when an attack hits. It does not activate when an attack is evaded.​<br><br>■HP Drain​<br>When attacking an enemy, this effect restores a character's HP​<br>depending on the amount of damage they deal.​<br>The amount of HP restored is calculated based on how much damage is dealt​<br>after the following effects are factored in:​<br>Cut, Shield, Multi-Barrier, Invulnerable, and Immortality.​<br>HP Drain does not activate when a character takes damage from Poison​<br>and other debuffs that deal continuous damage, Resonance, or Passive Skills.​<br>HP Drain activates only when an attack hits. It does not activate when an attack is evaded.​"
+        "Text": "■If/When a Character is Attacked​<br>This condition causes certain skills to activate upon being fulfilled.<br>It will only be fulfilled if the character is successfully hit by an attack.<br>It will not fulfilled if the attack is evaded, or if damage is dealt to the character via Counter.<br>If the character is hit by an attack, but buffs such as [Shield] or [Multi-Barrier]<br>reduce the damage to 0, this condition will still be fulfilled.<br><br>■HP Restoration​<br>This effect restores a character's HP by a designated amount.​<br><br>■Defeated​<br>When a character's HP drops to 0, they are defeated.​<br>Defeated characters cannot perform any actions.​<br>When a character is defeated, all their buffs/debuffs are dispelled.​<br>Additionally, the value of a character's skill cooldown time at the moment right before​<br>they were defeated will remain unchanged. ​<br><br>■Increased/Decreased Skill Cooldown Time​<br>This effect increases or decreases the number of turns of a target's skill cooldown time.​<br><br>■Revive​<br>When a character takes damage that makes them defeated,​<br>this effect restores that character's HP and makes them able to battle again.​<br>Characters who have taken damage from attacks, Poison and other debuffs​<br>that deal continuous damage, Resonance, Devotion, and Counter can be revived.​<br><br>■Guaranteed to Hit​<br>These attacks are guaranteed to hit their target.​<br>This effect is not affected by a character's Chance to Hit and Chance to Evade.​<br><br>■Guaranteed to Deal a Critical Hit​<br>These attacks, when they successfully hit their target,​<br>are guaranteed to deal a critical hit.​<br>This effect is not affected by a character's Chance to Deal a Critical Hit and<br>Chance to Resist a Critical Hit.<br><br>■Cut​<br>This effect reduces a specific percentage of damage taken by attacks, Resonance, Devotion, and Counter.​<br>Damage from Poison and other debuffs that deal continuous damage cannot be reduced.​<br>The effects of Increased/Decreased Damage Taken and Increased/Decreased Damage Dealing<br>are calculated before damage is reduced via cutting.<br>The effects of Shield, Resonance, and Devotion are calculated<br>after damage is reduced via cutting.<br><br>■Survive with 1 HP​<br>This effect guarantees a character survives with 1 HP remaining​<br>if they take damage that would reduce their HP to 0.​<br>This includes damage taken from attacks, Poison and other debuffs​<br>that deal continuous damage, Resonance, Devotion, and Counter.​<br>This effect cannot be dispelled or copied.​<br><br>■Absorb​<br>This effect allows a character to inflict a specific decreased stat debuff on an enemy,​<br>and grant themselves a buff that increases their corresponding stat by the decreased amount.​<br>If the character fails to inflict the debuff, they will not be granted the buff.​<br><br>■Strengthened Basic Attack​<br>This effect strengthens a character's basic attack.​<br>The way a character's basic attack is strengthened varies depending on the skill.​<br><br>■Dealing Damage to Self​<br>This effect decreases a character's HP when they use specific skills.​<br>This is not affected by Increased/Decreased Damage Taken,​<br>Cut, Invulnerable, Shield, Multi-Barrier, or Immortality.​<br><br>■Counter​<br>When attacked by an enemy, this effect allows a character to deal damage back to that enemy.​<br>The damage from Counter is affected by​<br>Cut, Shield, Multi-Barrier, Invulnerable, and Immortality.​<br>The damage dealt to the enemy depends on the damage taken from them.​<br>Damage dealt via Counter cannot be evaded.​<br>Some skills deal a certain number of attacks, but that number is not factored into Counter's damage.​<br>Counter does not activate when a character takes damage from Poison​<br>and other debuffs that deal continuous damage, Resonance, Devotion, or Passive Skills.​<br>Counter activates only when an attack hits. It does not activate when an attack is evaded.​<br><br>■HP Drain​<br>When attacking an enemy, this effect restores a character's HP​<br>depending on the amount of damage they deal.​<br>The amount of HP restored is calculated based on how much damage is dealt​<br>after the following effects are factored in:​<br>Cut, Shield, Multi-Barrier, Invulnerable, and Immortality.​<br>HP Drain does not activate when a character takes damage from Poison​<br>and other debuffs that deal continuous damage, Resonance, Devotion, or Passive Skills.​<br>HP Drain activates only when an attack hits. It does not activate when an attack is evaded."
     },
     {
         "Id": 12513,
@@ -72987,6 +74037,13 @@
         "Memo": "",
         "StringKey": "[LocalRaidName110]",
         "Text": "Room of the Summer Night"
+    },
+    {
+        "Id": 12679,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[LocalRaidName111]",
+        "Text": "Room of God’s Curse"
     },
     {
         "Id": 12690,
@@ -105158,7 +106215,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[TutorialTextBox1503]",
-        "Text": "More rewards are granted at specific times—<br>when the Tree’s power is at its peak.<br>But, apparently the inside is protected by<br>powerful guardians.<br>It’s dangerous to go alone,<br>so let’s all work together and take this challenge on. "
+        "Text": "Apparently, we can earn more rewards at specific times—<br>when the Tree’s power is at its peak.<br>But, the inside is protected by powerful guardians.<br>It’s dangerous to go alone,<br>so let’s all work together and take this challenge on."
     },
     {
         "Id": 17325,
@@ -105431,7 +106488,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[TutorialTextBox3402]",
-        "Text": "Now each stat’s numerical value has changed.<br>Let’s try reforging again and again so a character’s<br>unique type stat gets even stronger."
+        "Text": "Now each stat’s numerical value has changed.<br>Let’s try reforging again and again so<br>a character’s unique type stat gets even stronger."
     },
     {
         "Id": 17364,
@@ -115617,6 +116674,34 @@
         "Memo": "",
         "StringKey": "[GachaExplanation66]",
         "Text": "Sophia is here for a limited time!"
+    },
+    {
+        "Id": 18865,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[GachaDetailDialogDetail67]",
+        "Text": "・You can use Diamonds or [The Witch of God’s Curse] Illya Prayer Tickets to Invoke.<br>・Only characters will appear.<br>・If [The Witch of God’s Curse] Illya does not appear after you Invoke 99 consecutive times, [The Witch of God’s Curse] Illya is guaranteed to appear on the 100th Invoke.<br>・Your pull count for the guaranteed appearance is currently【{0}/100】.<br>・You are guaranteed to obtain a bonus reward based on your total pull count from the Prayer of The Cursed, Prayer of The Fleeting, and Prayer of Souls.<br>*The bonus reward will be sent directly to your Item Box.<br>*If your Item Box is full, the bonus reward will be sent to your Presents Box.<br>・The pull rates of SR characters set in your Wish List will be higher. The pull rates of all SR characters will not be changed. Please check Help on the Wish List screen for more details."
+    },
+    {
+        "Id": 18866,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[GachaDetailDailogHeading67]",
+        "Text": "In this Invocation, a limited-time character will debut with a higher pull rate than other characters’.<br>Please check [Individual Pull Rates] for the limited-time character below.<br>■Duration<br>{0}<br><br>■Guaranteed Appearance<br>If [The Witch of God’s Curse] Illya does not appear after you Invoke in the Prayer of The Fleeting 99 times, [The Witch of God’s Curse] Illya is guaranteed to appear on the 100th Invoke.<br><br>■Bonus Rewards<br>You will receive Bonus Rewards according to the total number of times you Invoke (your total pull count). Your pull count from the Prayer of The Fleeting will be added to your pull count from both the Prayer of The Cursed and the Prayer of Souls, and your total pull count from these Invocations will allow you to claim your rewards.<br><br>■Warning<br>For a set amount of time, [The Witch of God’s Curse] Illya will only appear in the Prayer of The Fleeting and the Invocation of Chance. She will not be selectable when using the Witch’s Invitation obtained from Bonus Rewards, so please be careful.<br>[The Witch of God’s Curse] Illya and  Illya are separate characters. As such, you will be able to use both of them in the same party."
+    },
+    {
+        "Id": 18867,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[GachaDetailDialogNotes67]",
+        "Text": "・This Invocation’s content may be changed without prior notice.<br>・Pull rates vary depending on the character.<br>・Each displayed pull rate is rounded up to the 4th decimal place, so the combined value may not equal 100%.<br>・There will be a lottery based on the pull rates of each consecutive pull, so it is not guaranteed that a character with a 2% pull rate will appear 1 time out of 50 pulls.<br>・The Invocation sequence may be skipped, or not display normally, in part or in full, due to communication issues with the server, etc., but characters will be obtained normally. Please check your roster."
+    },
+    {
+        "Id": 18868,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[GachaExplanation67]",
+        "Text": "Illya (God’s Curse) is here for a limited time!"
     },
     {
         "Id": 19121,

@@ -2667,6 +2667,13 @@
         "Text": "전용무기 정보"
     },
     {
+        "Id": 391,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailRecitation]",
+        "Text": "모놀로그"
+    },
+    {
         "Id": 392,
         "IsIgnore": false,
         "Memo": "",
@@ -4303,6 +4310,13 @@
         "Memo": "",
         "StringKey": "[PresentTypeReachVipLevelRewardDescription]",
         "Text": "VIP{0}을(를) 달성했습니다. 보상을 수령해 주세요."
+    },
+    {
+        "Id": 659,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[RecitationLiveModeOffGuidance]",
+        "Text": "설정에서 스트리밍 모드를 OFF해 주세요."
     },
     {
         "Id": 661,
@@ -21854,6 +21868,76 @@
         "Text": "직접 공격의 대미지가 과거 20턴 동안 자신이 적에게 받은 총 대미지의 20%로 된다."
     },
     {
+        "Id": 3365,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillName61001]",
+        "Text": "천명의 섬격"
+    },
+    {
+        "Id": 3366,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillDescription610011]",
+        "Text": "지난날 그분께 전수받은 이 힘은, 어떤 역경이라도 정면으로 돌파하여 미래로 나아갈 수 있는 힘이었다. 1턴 동안 자신의 적중률이 50% 증가하고, 정면의 적에게 10회 공격력의 140% 물리 공격을 한다. 배틀 중 이 스킬을 사용하면 3회째부터 연속 공격의 대미지가 3배로 된다."
+    },
+    {
+        "Id": 3367,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillDescription610012]",
+        "Text": "추가로 이 스킬로 적을 전투 불능으로 만들 수 없었을 경우, 타겟의 버프를 1개 해제하고, 공격력의 580% 물리 공격을 한다."
+    },
+    {
+        "Id": 3368,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillDescription610013]",
+        "Text": "최초의 연속 공격의 대미지가 공격력의 180%로 된다."
+    },
+    {
+        "Id": 3369,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillDescription610014]",
+        "Text": "천명의 섬격을 강화한다. 최초의 연속 공격의 대미지가 공격력의 240%로 된다."
+    },
+    {
+        "Id": 3370,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillName61002]",
+        "Text": "빛을 집어삼키는 암흑"
+    },
+    {
+        "Id": 3371,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillDescription610021]",
+        "Text": "세계를 지키려는 의지와 파괴하려는 의지. 두 균형이 무너졌을 때, 소녀는 인간에게 허락되지 않은 힘을 손에 넣는다. 자신에게 [신의 저주 해방]이 걸려 있을 경우에 발동. 무작위로 적에게 4회 공격력의 340% 물리 공격을 한다. 이 스킬은 발동 후에 스킬 쿨타임이 발생하지 않는다."
+    },
+    {
+        "Id": 3372,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillDescription610022]",
+        "Text": "추가로 물리 공격 전에 타겟에게 약화 효과가 걸려 있을 경우, 물리 공격의 대미지가 1.5배로 된다."
+    },
+    {
+        "Id": 3373,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillDescription610023]",
+        "Text": "물리 공격의 횟수가 5회로 된다."
+    },
+    {
+        "Id": 3374,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ActiveSkillDescription610024]",
+        "Text": "물리 공격의 대미지가 공격력의 440%로 된다."
+    },
+    {
         "Id": 3375,
         "IsIgnore": false,
         "Memo": "",
@@ -25009,6 +25093,83 @@
         "Memo": "",
         "StringKey": "[PassiveSkillDescription600044]",
         "Text": ""
+    },
+    {
+        "Id": 3827,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillName61003]",
+        "Text": "신이 내린 저주"
+    },
+    {
+        "Id": 3828,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillDescription610031]",
+        "Text": "\"내 목숨을 바쳐 세계를 구원한다는 각오는 이미 끝마쳤다 생각했어. 하지만 마음 한 켠으로는...\" 배틀 시작 시 자신에게 [헌신]을 부여한다. (해제 불가) 자신 이외의 아군이 받는 대미지의 20% 대신 받는다. 자신 이외의 아군 생존자가 0명인 상태이거나, 자신 또는 아군이 공격을 받아서 자신이 대미지를 받은 누적 횟수가 10 이상이 될 경우, 자신이 부여한 [헌신]을 해제하고 2턴 동안 자신에게 [신의 저주 해방]을 부여한다. (해제 불가) 이 스킬은 배틀 중 1회만 발동한다."
+    },
+    {
+        "Id": 3829,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillDescription610032]",
+        "Text": "[신의 저주 해방]의 턴 수가 5턴으로 된다."
+    },
+    {
+        "Id": 3830,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillDescription610033]",
+        "Text": "[신의 저주 해방]의 턴 수가 8턴으로 된다."
+    },
+    {
+        "Id": 3831,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillName61004]",
+        "Text": "0번째 수호천사"
+    },
+    {
+        "Id": 3832,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillDescription610041]",
+        "Text": "악마의 계략과 천사의 함정으로 탄생한, 본디 존재할 리 없는 수호천사. 자신 또는 아군이 공격을 받고, 이 턴 중에 자신이 타겟의 공격에 의한 대미지를 받은 횟수가 2회 이상일 경우, 자신이 받는 대미지를 30% 차단한다. 자신이 치명적인 대미지를 받았을 때 생명력 1로 버티고, 자신의 생명력을 자신의 최대 생명력의 20% 회복한다. 생명력 1로 버티는 효과는 배틀 중 1회만 발동한다."
+    },
+    {
+        "Id": 3833,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillDescription610042]",
+        "Text": "추가로 배틀 시작 시 자신에게 1겹의 [다중 배리어]를 부여한다. (해제 불가) 대미지를 받으면 배리어를 1겹 소모하여 그 대미지를 무효화한다."
+    },
+    {
+        "Id": 3834,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillDescription610043]",
+        "Text": "대미지를 70% 차단한다."
+    },
+    {
+        "Id": 3835,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillDescription610044]",
+        "Text": "0번째 수호천사를 강화한다. [다중 배리어]가 3겹으로 되고, 자신이 치명적인 대미지를 받았을 때의 생명력 회복량이 자신의 최대 생명력의 100%로 된다."
+    },
+    {
+        "Id": 3836,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillName61005]",
+        "Text": ""
+    },
+    {
+        "Id": 3837,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[PassiveSkillDescription610051]",
+        "Text": "배틀 시작 시 어둠 속성의 아군이 3명 이상 있을 경우, 자신의 방어 관통이 40% 증가한다. (해제 불가)"
     },
     {
         "Id": 3838,
@@ -34076,6 +34237,160 @@
         "Text": "반격이 30% 증가한다."
     },
     {
+        "Id": 5134,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100100101]",
+        "Text": "천명의 섬격"
+    },
+    {
+        "Id": 5135,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100100101]",
+        "Text": "적중률이 50% 증가한다."
+    },
+    {
+        "Id": 5136,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100100102]",
+        "Text": "천명의 섬격"
+    },
+    {
+        "Id": 5137,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100100102]",
+        "Text": ""
+    },
+    {
+        "Id": 5138,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100120401]",
+        "Text": "천명의 섬격"
+    },
+    {
+        "Id": 5139,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100120401]",
+        "Text": ""
+    },
+    {
+        "Id": 5140,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100300101]",
+        "Text": "신이 내린 저주"
+    },
+    {
+        "Id": 5141,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100300101]",
+        "Text": "[헌신] 아군이 받은 대미지의 20%를 자신이 대신 받는다. (해제 불가)"
+    },
+    {
+        "Id": 5142,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100300401]",
+        "Text": "신이 내린 저주"
+    },
+    {
+        "Id": 5143,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100300401]",
+        "Text": ""
+    },
+    {
+        "Id": 5144,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100300402]",
+        "Text": "신이 내린 저주"
+    },
+    {
+        "Id": 5145,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100300402]",
+        "Text": "[신의 저주 해방] 빛을 집어삼키는 암흑을 발동할 수 있다. (해제 불가)"
+    },
+    {
+        "Id": 5146,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100320402]",
+        "Text": "신이 내린 저주"
+    },
+    {
+        "Id": 5147,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100320402]",
+        "Text": "[신의 저주 해방] 빛을 집어삼키는 암흑을 발동할 수 있다. (해제 불가)"
+    },
+    {
+        "Id": 5148,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100330402]",
+        "Text": "신이 내린 저주"
+    },
+    {
+        "Id": 5149,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100330402]",
+        "Text": "[신의 저주 해방] 빛을 집어삼키는 암흑을 발동할 수 있다. (해제 불가)"
+    },
+    {
+        "Id": 5150,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100400101]",
+        "Text": "0번째 수호천사"
+    },
+    {
+        "Id": 5151,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100400101]",
+        "Text": "[다중 배리어] 대미지를 배리어 1겹을 소모하여 무효화한다. (해제 불가)"
+    },
+    {
+        "Id": 5152,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100440101]",
+        "Text": "0번째 수호천사"
+    },
+    {
+        "Id": 5153,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100440101]",
+        "Text": "[다중 배리어] 대미지를 배리어 1겹을 소모하여 무효화한다. (해제 불가)"
+    },
+    {
+        "Id": 5154,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupName6100500101]",
+        "Text": ""
+    },
+    {
+        "Id": 5155,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EffectGroupDescription6100500101]",
+        "Text": ""
+    },
+    {
         "Id": 5156,
         "IsIgnore": false,
         "Memo": "",
@@ -38367,6 +38682,27 @@
         "Text": "남겨진 힘을 강화한다. 생명력의 회복량이 받는 대미지의 30%로 된다. (최대 자신의 최대 생명력의 15%까지)"
     },
     {
+        "Id": 5770,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EquipmentExclusiveSkill61Description1]",
+        "Text": "천명의 섬격을 강화한다. 최초의 연속 공격의 대미지가 공격력의 240%로 된다."
+    },
+    {
+        "Id": 5771,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EquipmentExclusiveSkill61Description2]",
+        "Text": "0번째 수호천사를 강화한다. [다중 배리어]가 3겹으로 되고, 자신이 치명적인 대미지를 받았을 때의 생명력 회복량이 자신의 최대 생명력의 100%로 된다."
+    },
+    {
+        "Id": 5772,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EquipmentExclusiveSkill61Description3]",
+        "Text": "배틀 시작 시 어둠 속성의 아군이 3명 이상 있을 경우, 자신의 방어 관통이 40% 증가한다. (해제 불가)"
+    },
+    {
         "Id": 5773,
         "IsIgnore": false,
         "Memo": "",
@@ -38953,6 +39289,20 @@
         "Memo": "",
         "StringKey": "[CharacterName60]",
         "Text": "피아"
+    },
+    {
+        "Id": 5859,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterName61]",
+        "Text": "일리아"
+    },
+    {
+        "Id": 5860,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterSubName61]",
+        "Text": "선악의 마녀"
     },
     {
         "Id": 5861,
@@ -48839,6 +49189,174 @@
         "Text": "빨리 끝내자."
     },
     {
+        "Id": 7424,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6102]",
+        "Text": "자, 가볼까. 이번에야말로... 세계를 구원하러."
+    },
+    {
+        "Id": 7425,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6103]",
+        "Text": "아, 드디어 얼굴 비춰주는구나. 나, 계속 기다리고 있었는걸. 그런데 연락은 없지, 큰일이 생긴 건 아닌지.... 이, 이제 와서 사과해도 용서 안 해줄 거야. 나 지금 화났거든."
+    },
+    {
+        "Id": 7426,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6104]",
+        "Text": "사람은 언젠가 죽어. 그러니 그것을 잊지 않도록, 후회하지 않도록 살아가야겠지. 이런 걸 뭐라고 하더라...?"
+    },
+    {
+        "Id": 7427,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6105]",
+        "Text": "마녀의 힘은 마음의 힘. 힘의 균형을 이루기 위해서는 마음의 균형이 중요해. 지금 나는 어떻냐고? 살짝 나쁜 아이쪽...이려나?"
+    },
+    {
+        "Id": 7428,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6106]",
+        "Text": "저기 있지. 내 안에 내가 아닌 내가 있어서... 가끔 이상한 소리를 할지도 몰라. 그때는 네가 나를 막아줬으면 해. 분명 '나'도, 그러길 바라고 있을 거야."
+    },
+    {
+        "Id": 7429,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6107]",
+        "Text": "으~음, 조금 피곤하네. 잠깐 쉬었다 할까? 저번에 맛집을 찾았는데... 아, 그렇게 나오시겠다? 그럼 나도 이젠 세계 같은 건 모른다? 후후훗. 그래야지. 진짜 맛있는 빵집이야. 같이 가자."
+    },
+    {
+        "Id": 7430,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6108]",
+        "Text": "어라, 자는 거야? 요즘 바쁘긴 했지. ...있지. 힘들면 이대로 도망쳐 버릴래? 세계 같은 건 전부 잊고, 둘이서 저 멀리 아무도 없는 곳으로.... 나는 그것도 좋아."
+    },
+    {
+        "Id": 7431,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6109]",
+        "Text": "생일 축하해. 이렇게 또 네 생일을 축하해 줄 수 있다니, 예전에는 당연하게 생각했지만.... 내년에도, 내후년에도 이렇게 같이 생일을 보낼 수 있다면 참 멋질 텐데."
+    },
+    {
+        "Id": 7432,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6110]",
+        "Text": "한 가지 부탁이 있는데 들어줄래...? 실은 저번에 일하다 말고 너랑 빵집에 갔던 걸 아이리스한테 들켜버렸지 뭐야. 한 소리 들을 것 같은데... 너도 같이 가줄래? 네가 있으면 아이리스도 막 화내진 못할 거야... 제바알!"
+    },
+    {
+        "Id": 7433,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6111]",
+        "Text": "또 쪘어? 대체 왜...?!"
+    },
+    {
+        "Id": 7434,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6112]",
+        "Text": "내 목숨을 바쳐 세계를 구원한다. 이미 이렇게 각오했을 텐데. 하지만 마음 한 켠으로는 죽지 않고도 세계를 구원할 좋은 방법이 있지 않을까 바랐어.... 그래서 최후의 최후에 이르렀던 그때, 나는...."
+    },
+    {
+        "Id": 7435,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6113]",
+        "Text": "너, 요즘 들어서 다른 애들이랑 꽤 친해 보인다? 뭐, 그게 네 역할이기도 하고, 나만 특별하다 생각하는 건 아니지만.... 으으, 난 왜 이런 말을 하는 거지... 언제부터 이렇게 나쁜 아이가 되어버린 걸까...."
+    },
+    {
+        "Id": 7436,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6114]",
+        "Text": "힘이 강해질수록, 내 안에 있는 '무언가'도 함께 커지는 기분이 들어. 네가 바란다면 난 언제든지.... 후훗, 너는 그런 말 하지 않겠지. 세계를 구원하고, 나도 죽지 않는다. 그런 미래도 분명히 있을 거야."
+    },
+    {
+        "Id": 7437,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6115]",
+        "Text": "요즘 그런 생각이 들어. 내가 도망쳐 버리면 어떻게 되는 걸까 하고. 너와 둘이서 맞이하는 평화로운 세계도 좋지만, 망가져 가는 세계도 분명 아름다울 거야. 네가 골라. 나는 어느 쪽이든 괜찮으니까."
+    },
+    {
+        "Id": 7438,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6116]",
+        "Text": "또 강해진 것 같아."
+    },
+    {
+        "Id": 7439,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6117]",
+        "Text": "또 조금 성장한 것 같아. 고마워."
+    },
+    {
+        "Id": 7440,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6118]",
+        "Text": "나의 힘과 내 안에 있는 또 하나의 힘.... 응, 아직은 괜찮아. 잘 억누르고 있어."
+    },
+    {
+        "Id": 7441,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6119]",
+        "Text": "더 많은 힘을 이끌어낼 수 있다는 건, 그만큼 힘을 안정시키고 있다는 걸까? 아니면 그만큼 힘에 물들어 가고 있다는 걸까? 넌 어느 쪽 같아보여?"
+    },
+    {
+        "Id": 7442,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6120]",
+        "Text": "너는 내가 세계를 구원했으면 해? 아니면 이대로 살아갔으면 해? 나에게 힘을 주는 건 어느 쪽을 위해서야?"
+    },
+    {
+        "Id": 7443,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6121]",
+        "Text": "나의 희생으로 세계를 구원하더라도, 그 세계에 나는 이미 없다는 거잖아. 그럼 어찌되든 알 게 뭐야. ...이런 생각이 든다고 하면 이상할까? 세계의 운명과 나의 목숨. 어느 쪽이 소중한지, 나한테 알려줄래?"
+    },
+    {
+        "Id": 7444,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6190]",
+        "Text": "흐흥~ 내 덕분이지? 좀 더 고마워해도 된다고?"
+    },
+    {
+        "Id": 7445,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6191]",
+        "Text": "져버렸어.... 뭐어, 이런 날도 있는 법이지."
+    },
+    {
+        "Id": 7446,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6192]",
+        "Text": "새로운 힘, 맛 좀 보라고!"
+    },
+    {
+        "Id": 7447,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterDetailVoiceSubtitle6193]",
+        "Text": "신도 악마도, 넘어 보이겠어!"
+    },
+    {
         "Id": 7448,
         "IsIgnore": false,
         "Memo": "",
@@ -49943,6 +50461,412 @@
         "Memo": "メモリー",
         "StringKey": "[BgmVocal19]",
         "Text": "메모리"
+    },
+    {
+        "Id": 8399,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4101]",
+        "Text": "많은 꽃들과 아빠와 엄마.<br>단지 그것뿐이지만, 그것만으로도 나는 행복했다."
+    },
+    {
+        "Id": 8400,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4102]",
+        "Text": "단 수억 송이의 <br>눈물꽃을 피워 <br>분명 언제까지나 <br>따뜻하고 차가울 거야 "
+    },
+    {
+        "Id": 8401,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4103]",
+        "Text": "이 세상이 싫어, 지지가 않아... "
+    },
+    {
+        "Id": 8402,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4104]",
+        "Text": "♪♪♪"
+    },
+    {
+        "Id": 8403,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4105]",
+        "Text": "아빠가 좋아하던 커다란 꽃.<br>엄마가 좋아하던 새빨간 꽃.<br>분명 기뻐하실 거야.<br>잔뜩 칭찬해 주실 거야.<br>그렇게 믿는 나를 기다리고 있던 것은<br>생기 없는 부모님의 모습이었다."
+    },
+    {
+        "Id": 8404,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4106]",
+        "Text": "피어난 눈물빛 <br>꽃말은 추억 <br>져버린 보물 <br>사랑의 의미를 가르쳐줘 "
+    },
+    {
+        "Id": 8405,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4107]",
+        "Text": "터진 비눗방울 안타까워 <br>꿈은 언제까지나 꿈으로만..."
+    },
+    {
+        "Id": 8406,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4108]",
+        "Text": "아빠? 엄마? 이런 데서 자면 감기 걸려.<br>몸도 이렇게 차가워졌잖아.<br>어서 빨리 일어나... 이것 봐, 이렇게나 예쁜 꽃을 따왔어...<br>응? 그러니까 대답해 줘... 눈 좀 떠봐..."
+    },
+    {
+        "Id": 8407,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4109]",
+        "Text": "♪♪♪"
+    },
+    {
+        "Id": 8408,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4110]",
+        "Text": "정신이 들자 나는 아름다운 꽃에 싸여 있었다.<br>슬프도록 예쁜 애도의 꽃이<br>두 사람이 없는 세상을 멸망으로 몰아넣고 있었다.<br>그래도 눈물로 피는 꽃은 없다.<br>꽃이 피는 것은 언제나<br>누군가에게 사랑 받았을 때 뿐이니까."
+    },
+    {
+        "Id": 8409,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4111]",
+        "Text": "♪♪♪"
+    },
+    {
+        "Id": 8410,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4112]",
+        "Text": "분명 언제까지나 <br>심술궂고 아름다울 거야 <br>분명 언제까지나 <br>따뜻하고 차가울 거야 "
+    },
+    {
+        "Id": 8411,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP4113]",
+        "Text": "아무도 없는 집 안에서<br>이젠 돌아갈 수 없는 꿈만을 꾸고 있었다.<br>많은 꽃들과 아빠와 엄마.<br>만약 소원이 이루어진다면<br>다음엔 모두에게 사랑받는 꽃이 되고 싶어..."
+    },
+    {
+        "Id": 8439,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4101]",
+        "Text": "많은 꽃들과 아빠와 엄마.<br>단지 그것뿐이지만, 그것만으로도 나는 행복했다."
+    },
+    {
+        "Id": 8440,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4102]",
+        "Text": "Flowers<br>Double-edged beauty<br>Symbol of happiness and of sorrow<br>Petals over your body<br>Cover you and your loving memory"
+    },
+    {
+        "Id": 8441,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4103]",
+        "Text": "Even a world so wonderful<br>Oh, could be so cruel"
+    },
+    {
+        "Id": 8442,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4104]",
+        "Text": "♪♪♪"
+    },
+    {
+        "Id": 8443,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4105]",
+        "Text": "아빠가 좋아하던 커다란 꽃.<br>엄마가 좋아하던 새빨간 꽃.<br>분명 기뻐하실 거야.<br>잔뜩 칭찬해 주실 거야.<br>그렇게 믿는 나를 기다리고 있던 것은<br>생기 없는 부모님의 모습이었다."
+    },
+    {
+        "Id": 8444,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4106]",
+        "Text": "I would always remember<br>You taught me to be kind and to be true<br>Withered hopes for tomorrow<br>This makes me question if I have to"
+    },
+    {
+        "Id": 8445,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4107]",
+        "Text": "Should I just grieve and then move on?<br>Or fight now that you're gone?<br>I'm not afraid to break these walls<br>And to risk it all"
+    },
+    {
+        "Id": 8446,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4108]",
+        "Text": "아빠? 엄마? 이런 데서 자면 감기 걸려.<br>몸도 이렇게 차가워졌잖아.<br>어서 빨리 일어나... 이것 봐, 이렇게나 예쁜 꽃을 따왔어...<br>응? 그러니까 대답해 줘... 눈 좀 떠봐..."
+    },
+    {
+        "Id": 8447,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4109]",
+        "Text": "♪♪♪"
+    },
+    {
+        "Id": 8448,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4110]",
+        "Text": "정신이 들자 나는 아름다운 꽃에 싸여 있었다.<br>슬프도록 예쁜 애도의 꽃이<br>두 사람이 없는 세상을 멸망으로 몰아넣고 있었다.<br>그래도 눈물로 피는 꽃은 없다.<br>꽃이 피는 것은 언제나<br>누군가에게 사랑 받았을 때 뿐이니까."
+    },
+    {
+        "Id": 8449,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4111]",
+        "Text": "♪♪♪"
+    },
+    {
+        "Id": 8450,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4112]",
+        "Text": "As I let this gift blossom<br>I will forever be so hopeful<br>Now, I'll unleash my power<br>I will bloom like a beautiful flower"
+    },
+    {
+        "Id": 8451,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS4113]",
+        "Text": "아무도 없는 집 안에서<br>이젠 돌아갈 수 없는 꿈만을 꾸고 있었다.<br>많은 꽃들과 아빠와 엄마.<br>만약 소원이 이루어진다면<br>다음엔 모두에게 사랑받는 꽃이 되고 싶어..."
+    },
+    {
+        "Id": 8479,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP201]",
+        "Text": "저녁놀에 안녕<br>쓸쓸한 목소리가 메아리치며 피어나<br>지금도 옛날도 사람은 <br>노래하듯 기도하고 바치고 아뢰어"
+    },
+    {
+        "Id": 8480,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP202]",
+        "Text": "이 여행에 끝이 있다는 건 처음부터 알고 있었어.<br>언젠가 찾아올 그날을 위해<br>내 가방은 텅 비워둔 채였지."
+    },
+    {
+        "Id": 8481,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP203]",
+        "Text": "비 내리는 거리 <br>조금씩 조금씩 젖어 가는 마음<br>나는 지금 너와 함께 웃고 싶어"
+    },
+    {
+        "Id": 8482,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP204]",
+        "Text": "아침을 기다리며 넘기는 달력<br>내일이면 눈물도 멈추겠지<br>수없이 되뇌었어 <br>\"자유로워지면 구원받을 수 있어?\""
+    },
+    {
+        "Id": 8483,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP205]",
+        "Text": "영원토록 안녕<br>미련을 남긴 채 나아가네<br>걸음은 멈추지 않고<br>달빛이 비추는 곳으로"
+    },
+    {
+        "Id": 8484,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP206]",
+        "Text": "즐겁거나 슬픈 게 전부가 아니야.<br>처음 느끼는 감정들이 날 가득 채워 가.<br>무거워진 가방에 오히려 내 발걸음은 가벼워졌어."
+    },
+    {
+        "Id": 8485,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP207]",
+        "Text": "눈을 깜빡일 때마다 바뀌는 세계 빙그르르<br>오랜 시간이 지나면 모두 물거품이 되어"
+    },
+    {
+        "Id": 8486,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP208]",
+        "Text": "구름 사이사이 파랗게 개어가<br>볕 드는 방 언젠가 본 풍경"
+    },
+    {
+        "Id": 8487,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP209]",
+        "Text": "아침을 기다렸어 <br>드리우는 불안이 흘러넘쳐 밤에 숨었어<br>가슴속 어느 과거의 호박(琥珀)이 빛을 비추네"
+    },
+    {
+        "Id": 8488,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP210]",
+        "Text": "고향도 지키지 못한 내가 세계를 지킬 수 있을 리 없어.<br>그렇게 생각했는데 직접 보고 말았어."
+    },
+    {
+        "Id": 8489,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP211]",
+        "Text": "이 세계엔 수많은 기적이 넘치고 있다는걸.<br>소중한 사람을 위해 계속 기도하는 소망이,<br>사랑하는 사람을 위해 쥐어짠 용기가,<br>암흑마저 빛으로 바꾸지.<br>그것이 바로 세계를 구원하는 마법이야."
+    },
+    {
+        "Id": 8490,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP212]",
+        "Text": "꿈을 꾸고 있었어 <br>\"무서운 건 아무것도 없어\"<br>꿈을 꿰매어 이어서 <br>이제는 돌아가야 해 살아갈 곳으로"
+    },
+    {
+        "Id": 8491,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP213]",
+        "Text": "아득한 옛날에 안녕 <br>또다시 시작하는 땅을 박차고<br>너와 손을 맞잡고<br>인연을 맺어 가는 여행길은 계속 이어져가"
+    },
+    {
+        "Id": 8492,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP214]",
+        "Text": "♪♪♪"
+    },
+    {
+        "Id": 8493,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP215]",
+        "Text": "꽃보라 흩날리는<br>달빛이 비추는 곳으로<br>달빛이 비추는 곳으로"
+    },
+    {
+        "Id": 8494,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsJP216]",
+        "Text": "어느 틈엔가 내 가방은 가득 차 있었어.<br>하지만 괜찮아.<br>내 여행이 끝나는 순간 난 분명 혼자가 아닐 테니까."
+    },
+    {
+        "Id": 8495,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS201]",
+        "Text": "Saying goodbye to the sunset <br>Your sad melody echoes<br>through the darkest sky <br>Long, long ago, here now, and gone <br>People have lived, prayed, and sang a song  <br>with their fragile memories "
+    },
+    {
+        "Id": 8496,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS202]",
+        "Text": "이 여행에 끝이 있다는 건 처음부터 알고 있었어.<br>언젠가 찾아올 그날을 위해<br>내 가방은 텅 비워둔 채였지."
+    },
+    {
+        "Id": 8497,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS203]",
+        "Text": "The rain won't stop falling <br>Drizzling, blurred streets <br>My heart is soaking too <br>Can't tell how much I wish you were here <br>Wanna laugh with you right now "
+    },
+    {
+        "Id": 8498,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS204]",
+        "Text": "Waiting for sunrise<br>All day, you're on my mind <br>I don't know what to do <br>Tomorrow I won't be crying <br>I'm talking to myself again and again <br>If I'm free, will I be saved? "
+    },
+    {
+        "Id": 8499,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS205]",
+        "Text": "Now is the time to say goodbye <br>I must move forward <br>Knowing that I'm not ready for it <br>Let me believe that you'll be there <br>Let's go out to see the moonlight with me "
+    },
+    {
+        "Id": 8500,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS206]",
+        "Text": "즐겁거나 슬픈 게 전부가 아니야.<br>처음 느끼는 감정들이 날 가득 채워 가.<br>무거워진 가방에 오히려 내 발걸음은 가벼워졌어."
+    },
+    {
+        "Id": 8501,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS207]",
+        "Text": "Every time I blink, I see a new sight <br>It makes me feel dizzy <br>We will all disappear someday <br>Like the bubble blown away "
+    },
+    {
+        "Id": 8502,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS208]",
+        "Text": "Through the clouds, I see the sky <br>It's so blue, I felt a beauty <br>Sunlight shines into the room <br>I'm sure I've seen this view before "
+    },
+    {
+        "Id": 8503,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS209]",
+        "Text": "Waiting for sunrise <br>My fear never goes away <br>And still overflows <br>That’s why I hid in the night <br>The moments of precious<br>memories in my heart <br>appear in my dream "
+    },
+    {
+        "Id": 8504,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS210]",
+        "Text": "고향도 지키지 못한 내가 세계를 지킬 수 있을 리 없어.<br>그렇게 생각했는데 직접 보고 말았어."
+    },
+    {
+        "Id": 8505,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS211]",
+        "Text": "이 세계엔 수많은 기적이 넘치고 있다는걸.<br>소중한 사람을 위해 계속 기도하는 소망이,<br>사랑하는 사람을 위해 쥐어짠 용기가,<br>암흑마저 빛으로 바꾸지.<br>그것이 바로 세계를 구원하는 마법이야."
+    },
+    {
+        "Id": 8506,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS212]",
+        "Text": "I'm always dreaming in my dream <br>I'm talking to myself <br>\"Oh dear, there's nothing to fear\" <br>Still looking for a place where we live <br>I've got to get back <br>Shiny light pulls my hand and leads me "
+    },
+    {
+        "Id": 8507,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS213]",
+        "Text": "Now is the time to say goodbye <br>I am moving forward  <br>with the momentum of hope <br>Hold hands with you, I'll be okay <br>In this journey, we are still bonding  <br>our strength to be strong <br>Forevermore, forevermore "
+    },
+    {
+        "Id": 8508,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS214]",
+        "Text": "♪♪♪"
+    },
+    {
+        "Id": 8509,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS215]",
+        "Text": "Petals of wish pour down on us <br>Come with me, let's go to see the moonlight <br>Come with me, let's go to see the moonlight "
+    },
+    {
+        "Id": 8510,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[SongLyricsUS216]",
+        "Text": "어느 틈엔가 내 가방은 가득 차 있었어.<br>하지만 괜찮아.<br>내 여행이 끝나는 순간 난 분명 혼자가 아닐 테니까."
     },
     {
         "Id": 8511,
@@ -54355,6 +55279,76 @@
         "Text": "원했던 건, 이런 힘이 아니었어..."
     },
     {
+        "Id": 9161,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileLyricsJP61]",
+        "Text": "<size=25>≪Allure of the Dark≫</size><br>Song by Daoko<br><br>만약에 말이야 이제 와 내가 도망쳐 버리면 세계는 어찌 될까?<br>너와 둘이서 무너져 가는 세계 바라보고 싶어 서로 손 잡고<br>파멸의 문을 두드리면 모든 게 남김없이 소멸하겠지<br>언제부턴가 품고 있던 마음도 물거품 되어 사라져 가(ah)<br><br>아아 한 줄기 빛마저 집어삼킬 암흑 속에서<br>아직 어렴풋이 원래 내 모습 기억하지만<br>아아 빛을 아예 모르는 게 나았어<br><br>악마가 유혹해 비밀스레 속삭이며<br>내가 모르고 있던 또 다른 내 모습 알려주었지<br>'척박한 땅에 뿌려진 씨앗일수록<br> 꽃은 더 화려하게 피는 법이란다'<br><br>파멸의 종을 울리면 모든 생명은 태초로 돌아가겠지<br>언제부턴가 품고 있던 바람도 하늘 너머로 사라져 가(ah)<br><br>아아 한 줄기 빛마저 집어삼킬 암흑 속에서<br>잔상만이 이쪽을 바라보고 있어<br><br>굳게 지키리라 맹세했던 사명 신의 불꽃에 타버린 그림자<br>선인지 악인지 그런 건 누가 결정해?<br><br>아아 빛조차 망각해 버릴 칠흑 같은 밤<br>쏘아올린 섬광 밤하늘을 꿰뚫어<br>아아 한 줄기 빛마저 집어삼킬 암흑 속에서<br>아직 어렴풋이 원래의 내 모습 기억해<br>아아 꿈을 꾸고 있어 아주 상냥한 꿈을"
+    },
+    {
+        "Id": 9162,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileLyricsUS61]",
+        "Text": "<size=25><b>Allure of the Dark</b></size><br><br>If by chance I were to turn away and run away<br>From the path I embraced<br>Could the world still find its way?<br>You and I, side by side<br>In a world that's crumbling, we stand<br>I wish to gaze upon forevermore<br><br>Tapping the door of desolation's might<br>From now on, all fades from sight<br>Venturing into the unknown<br>Notes of longing, the dreams we held so tight<br>Now scatter like stardust, taking flight<br><br>Ah, light so frail in the depths<br>Swallowed by the void of night, I stand alone<br>Freedom's end takes its flight<br>Still I remember from the depths of my heart<br>If this light were not to be<br>We would wander free<br><br>Oh, demons tempt with sly allure<br>They whisper words so obscure<br>The me unknown, yet revealed<br>The hidden depths I'd rather not explore<br>Where seeds unfurl, roots entwine<br>Within the darkness, they unite<br>Flowers bloom emerged in radiant attire<br><br>Sounds of decay echo far and wide<br>Into the void, our spirits flow<br>Back to nothingness they go<br>Notes of longing, the dreams we held so tight<br>Now scatter like stardust, taking flight<br><br>Ah, light so frail in the depths<br>Swallowed by the void of night, I stand alone<br>Dreams of old, in hearts reside<br>To the next soul I flow<br><br>Bound by strength, to protect<br>A vow to uphold my fate<br>Who unleashed this fire's might<br>God's grace, or demon's embrace?<br>Black or white, true or false<br>I contemplate the core of me<br>Beyond the gates<br><br>As light ne'er touched this sphere<br>I wander in this void, where hope disappears<br>Doom's spark ignites, piercing night<br><br>Ah... The light, heaven's gate it defies<br>In desolate skies, dreams belied, I fly alone<br>Freedom's end takes its flight<br>Still I remember from the depths of my heart<br>Dreaming of joy, painfully bright<br>It fades into the night"
+    },
+    {
+        "Id": 9163,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileDescription61]",
+        "Text": "세계의 운명을 건 마지막 결전을 치른 후, 천사와 악마의 힘 모두를 손에 넣은 일리아. 하지만 이 때문에 천사로부터 받은 지나친 정의감은 옅어져 버렸다. 이제야 평범한 소녀로 돌아왔다고도 할 수 있지만, 그 이면으로 가혹한 운명을 살아온 흔적도 엿보인다."
+    },
+    {
+        "Id": 9164,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileVoiceJP61]",
+        "Text": "하나자와 카나"
+    },
+    {
+        "Id": 9165,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileVoiceUS61]",
+        "Text": "Erika Lynn Harlacher"
+    },
+    {
+        "Id": 9166,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileLamentJP61]",
+        "Text": "Allure of the Dark"
+    },
+    {
+        "Id": 9167,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileLamentUS61]",
+        "Text": "Allure of the Dark"
+    },
+    {
+        "Id": 9168,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileVocalJP61]",
+        "Text": "Daoko"
+    },
+    {
+        "Id": 9169,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileVocalUS61]",
+        "Text": ""
+    },
+    {
+        "Id": 9170,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterProfileGachaResultSubMessage61]",
+        "Text": "세계의 평화 같은 것보다, 나는..."
+    },
+    {
         "Id": 9171,
         "IsIgnore": false,
         "Memo": "",
@@ -57491,6 +58485,55 @@
         "Text": "몰살의 마녀는 최후의 순간,<br>나를 위해 그 힘을 썼다.<br><br>저주받은 힘일지라도<br>누군가를 생각하는 마음은 분명 인간이다.<br>그것이 '인간으로서 죽을 수 있다'라는 것.<br><br>그 사람이 남긴 꽃을 살며시 쓰다듬었다.<br>이것만 있다면 나도 죽을 수 있어...<br><br>하지만 지금은 아니야.<br><br>그 사람의 유지를 이어 나가자.<br>그것이야말로 내가<br>'인간이라는 증명'이 될 테니까.<br><br>꽃을 가슴에 꽂고, 나는 앞으로 나아갔다.<br><br>인간으로서 죽자. 그때까지는 살아가자.<br>그것이 그 사람의 바람이자...<br><br>내가 괴물이 아닌,<br>평범한 여자애로서 죽기 위한,<br>유일한 방법이니까."
     },
     {
+        "Id": 9963,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterStoryText6101]",
+        "Text": "프란 공령에서 꽃의 저주를 풀었을 때<br>위화감을 느꼈다.<br>그곳의 모든 저주를 풀었을 때,<br>비로소 그 정체를 눈치챘다.<br><br>저주는 풀린 게 아니었다.<br>그저 내 안에 가두었을 뿐.<br>모든 저주가 모인다면<br>분명 마지막엔, 나를....<br><br>세계를 멸망시키는 10의 저주를<br>단 한 명의 인간에게 가두는 건 불가능하다.<br>하지만 나에겐 한 가지<br>말하지 않은 사실이 있었다.<br><br>어릴 적 나는 기적의 아이라고 불렸다.<br>신의 힘을 가진 채 태어난 나는,<br>오직 단 한 번 신의 기적을 일으킬 수 있다면서.<br><br>물론 죽는 건 두려웠다.<br>하지만 내 목숨 하나로<br>세계를 구할 수 있단 사실만이,<br>조금이나마 위안이 됐다.<br>그래서 죽는 건 더 이상 두렵지 않았다.<br>이 힘을 쓰지 못한 채 죽는 것이 더 두려웠다."
+    },
+    {
+        "Id": 9964,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterStoryText6102]",
+        "Text": "세계를 구원하기 위한<br>고된 여정이 되리라고 생각했었다.<br>즐겁게 세계를 구원한다니, 천벌을 받을 거야.<br>괴롭고 힘들어야만 해...라고.<br><br>하지만 누구보다도 상냥한 그 사람은,<br>내게 생긴 변화를 눈치 채고 말았다.<br>홀로 감내할 줄로만 알았던 시련 속에서,<br>우린 어느새 서로를 의지하고 있었다.<br><br>고통은 절반이 되었고,<br>어느샌가 사라져 버렸다.<br>괴롭고 힘든 여정은<br>그 사람과 많은 동료들이 함께해 주었고,<br>즐겁고 신나는 여정으로 바뀌었다.<br><br>여행은 언젠가 끝나는 법.<br>분명 머리로는 이해하고 있었다.<br>그런데 지금은...<br><br>작별 인사도 전하지 못한 채,<br>여행은... 끝나려 하고 있었다."
+    },
+    {
+        "Id": 9965,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterStoryText6103]",
+        "Text": "거대한 동굴의 중심에 있는 봉인의 제단.<br>악마에게 몸을 빼앗긴 교황님을 구하고,<br>지팡이의 힘으로 마지막 남은 저주를 풀었다.<br>드디어 세계를 구원한 거야...!<br><br>...뭔가 이상해. 이렇게 허무하게 끝나다니.<br>설마 모든 저주가 풀리기를...<br>한 데 모이기를 기다렸다는 거야...?<br><br>세계에 단 10명 뿐인 클리파의 마녀는<br>모두 수호천사의 힘을 지니고 있다.<br><br>세계를 지켜야할 그 힘이<br>오히려 파괴의 힘으로 변해 버린 게<br>바로 '저주'다.<br>저주를 빼앗는 것은 곧<br>'세계를 지키는 힘'을 빼앗는 것...<br><br>흘러 넘치는 힘이<br>내 안에서 가시처럼 뻗어 나왔다.<br>교황님의 비장한 목소리가 울려 퍼졌다.<br><br>'11번째 저주라고...?!<br>그런 것이, 존재할 리가...!'<br><br>봉인의 제단이 무너지며,<br>'무언가'가... 내 안으로 비집고 들어왔다."
+    },
+    {
+        "Id": 9966,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterStoryText6104]",
+        "Text": "고대의 천사가 힘을 잃자 봉인이 풀렸고,<br>이제 악마의 왕이 이 땅에 강림하려 한다.<br>10의 저주가 모여 변해버린<br>나의 육신을 그릇 삼아.<br><br>그렇기에 악마는 교활했고, 또한 오만했다.<br><br>악마의 왕이 부활하려 한다.<br>10의 봉인이 풀리고,<br>11번째의 봉인이 남아있는 내 안에서.<br>이것은 악마의 계략과<br>천사의 함정으로 탄생한,<br>본디 존재할 리 없는 기적.<br>영혼을 감옥으로 바꾸는 검은 열쇠.<br><br>이제야 나는 이해했다.<br>신의 힘을 가진 나는,<br>오직 단 한 번 신의 기적을 일으킬 수 있었고...<br><br>그것은 바로 이 순간을 위한 것이었다."
+    },
+    {
+        "Id": 9967,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterStoryText6105]",
+        "Text": "먼 옛날, 악마의 왕은<br>세계를 멸망시키고자 했다.<br>그 힘은 막대해, 천사들은 악마의 왕을<br>봉인하는 것이 고작이었다.<br><br>그랬던 악마의 왕이 불완전한 상태로<br>지금 내 안에 들어와 있다.<br>지금이야말로,<br>이 목숨을 바쳐 세계를 구원할 때였다.<br><br>마지막으로 한번만 더, 그 사람을 봤다.<br>네가 있었기에 여기까지 올 수 있었어.<br>그래서 고마워. ...그럼 안녕.<br><br>새하얀 빛이 흘러넘쳤다.<br>오직 단 한 번의 기적으로 소원을 이룬다.<br>이 목숨으로 세계를 구원한다는,<br>마지막 소원을.<br><br>그런데....<br><br>어디서부터 잘못한 걸까...?<br>이렇게 될 거라는 건 각오하고 있었는데...<br>저기, 부탁이야... 부탁이니까...<br>도와줘...!<br><br>역시 즐겁게 세계를 구원하는 건 잘못이었어.<br>나는 최후의 최후에 이르러서,<br>세계의 평화를 바라지 않고...<br>단 한 번뿐인 기적으로, 나의 소원을 이루었다."
+    },
+    {
+        "Id": 9968,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterStoryText6106]",
+        "Text": "소원이 이루어졌고, 나는 살 수 있었다.<br>악마의 왕을 내 안에 남겨둔 채로.<br>지금은 힘을 억누르고 있지만,<br>언젠가 부활하면 나는<br>세계를 멸망시켜버릴거야...<br><br>이걸 막기 위해서는 세계의 가장 깊은 곳,<br>악마의 옥좌로 가야만 했다.<br>악마의 왕을 그곳에 봉인하기 위해.<br>또는 내 안에 든 채로... 죽이기 위해.<br><br>지금까지는 무섭지 않았다. 하지만...<br><br>아무것도 몰랐다면 망설임 없이<br>세계를 구원했을 텐데.<br>지금은 떨면서 여정을 이어 나간다.<br>마음이 무너지지 않게 필사적으로 웃으며.<br>하지만 언젠가는 한계가 찾아온다.<br><br>그때는, 내가 나로 있을 수 있을까...<br>악마의 옥좌에서, 나는 또 무엇을 바라는 걸까..."
+    },
+    {
+        "Id": 9969,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[CharacterStoryText6107]",
+        "Text": "내 안에 천사와 악마가 있다.<br>천사는 세계를 구원하라 말하고,<br>악마는 달콤하게 속삭인다.<br><br>'너'는 이미 세계를 포기했잖아.<br>진짜 소원을 알게 되었는데,<br>이제 와서 뭘 망설이는 거야?<br><br>그 사람은... 세계를 구원하려고 해.<br>그러니까 나도 그렇게 하겠어.<br>세계를 위해서가 아닌, 그 사람을 위해.<br><br>하지만 상냥한 그 사람은<br>분명 이렇게 말할 거야.<br>'세계보다도 너의 목숨이 소중해.'라며.<br><br>아아... 맞아. 그런 달콤한 말을 들으면,<br>나는 기뻐서 당장이라도<br>세계를 포기할지도 몰라.<br><br>왜냐하면 나한테는<br>말하지 않은 사실이 있는걸.<br>감춰져 있던 신의 힘. 있을 리 없는 존재이자,<br>바보 같은 선택을 한 0번째 클리파의 마녀.<br><br>그게 바로 나야"
+    },
+    {
         "Id": 9970,
         "IsIgnore": false,
         "Memo": "",
@@ -59463,6 +60506,13 @@
         "Memo": "",
         "StringKey": "[EquipmentName441]",
         "Text": "칠흑의 우상"
+    },
+    {
+        "Id": 10485,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[EquipmentName465]",
+        "Text": "연옥의 흑건"
     },
     {
         "Id": 10486,
@@ -71530,7 +72580,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[HelpMainText900]",
-        "Text": "■최애 캐릭터​<br>입수한 캐릭터는 최대 5명까지 최애 캐릭터로 설정할 수 있습니다.​<br>설정한 캐릭터는 마이페이지에 표시되며,​<br>마이페이지 BGM이 설정한 캐릭터의 라멘토가 됩니다."
+        "Text": "■최애 캐릭터​<br>입수한 캐릭터는 최대 5명까지 최애 캐릭터로 설정할 수 있습니다.​<br>설정한 캐릭터는 마이페이지에 표시되며,​<br>마이페이지 BGM이 설정한 캐릭터의 라멘토가 됩니다.<br><br>■모놀로그​<br>모놀로그 (♪) 가 표시된 캐릭터는 모놀로그 기능을 이용할 수 있습니다.​<br>이 기능은 해당 캐릭터의 대사와 라멘토를 함께 감상할 수 있습니다.​<br>모놀로그는 해당하는 캐릭터의 '마이페이지' 화면 오른쪽 위,​<br>또는 '캐릭터 정보' 화면 왼쪽 아래에 있는 버튼을 눌러 이용할 수 있습니다.​<br>※앞으로도 캐릭터들의 모놀로그를 추가해 나갈 예정입니다."
     },
     {
         "Id": 12467,
@@ -71810,7 +72860,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[HelpMainText2213]",
-        "Text": "■버프・약화 효과​<br>버프는 전투에 유리한 상태를 가리킵니다.​<br>약화 효과는 전투에 불리한 상태를 가리킵니다.​<br>약화 효과 부여는 '약화 효과 적중률'과 '약화 효과 내성률'에 따라 판정합니다.​<br>버프・약화 효과는 특정 스킬로 해제 혹은 이동할 수 있습니다.​<br><br>■효과 지속 턴​<br>버프・약화 효과에서 효과가 지속되는 턴 수가 지정되어 있다면, 그 턴 동안만 효과가 적용됩니다.​<br>효과가 지속되는 턴 수는 캐릭터 행동이 종료되는 시점에서 1턴 감소합니다.​<br>남은 턴 수가 0이 되면 해당 버프・약화 효과는 해제됩니다.​<br>효과 지속 턴 수의 증가・감소 효과를 지닌 스킬에 의해서도 턴 수가 증가・감소할 수 있습니다.​<br><br>■중첩​<br>버프・약화 효과는 예외적인 상황을 제외하고, 같은 종류의 효과가 중첩될 수 있습니다.​<br>아래의 경우는 예외적인 상황에 해당하여 중첩될 수 없습니다.​<br><br>[기절], [독], [출혈], [화상], [침식]은 각각 같은 종류의 효과가 중첩될 경우, 효과가 새로 적용됩니다.​<br>(효과가 새로 적용될 때는 효과가 지속되는 턴 수의 최대치와,​<br>효과 수치의 최대치를 이어받아 하나의 효과만 남습니다.)​<br><br>같은 캐릭터의 같은 버프・같은 약화 효과가 중첩될 경우, 스택을 제외하고 효과가 새로 적용됩니다.​<br><br>■스택​<br>횟수가 쌓일 때마다 효과가 증가하는 버프・약화 효과가 여기에 해당합니다.​<br>쌓인 횟수를 스택 수로 카운트하며, 쌓이는 횟수에는 상한이 있습니다.​<br>횟수가 쌓인 버프・약화 효과가 해제되면 스택 수는 0이 됩니다.​<br><br>■해제​<br>타겟의 버프 또는 약화 효과를 해제합니다.​<br>적의 버프를 해제할 때는 '약화 효과 적중률'과 '약화 효과 내성률'에 따라 판정합니다.​<br><br>■버프 이동​<br>적에게 걸려 있는 버프 해제에 성공하면, 그 효과를 자신에게 부여합니다.​<br>이동한 버프는 해당 스킬에 관한 조건이 변하더라도​<br>이동한 시점의 효과 수치에서 더 이상 바뀌지 않습니다.​<br>해제 불가인 버프는 이동할 수 없습니다.​<br><br>■약화 효과 이동​<br>자신에게 걸려 있는 약화 효과를 해제하고, 그 효과를 적에게 부여합니다.​<br>부여할 때 '약화 효과 적중률'과 '약화 효과 내성률'에 따라 판정합니다.​<br>[공명]과 해제 불가인 약화 효과 (길드 배틀의 디버프 등)는 이동할 수 없습니다.​<br><br>■해제 불가​<br>이 표시가 있는 버프・약화 효과는 아래와 같은 특성을 가집니다.​<br>타겟이 버프・약화 효과에 걸려 있지 않은 것으로 취급합니다.​<br>효과 해제, 지속 턴 증가 및 감소, 이동의 영향을 받지 않습니다.​<br>약화 효과 적중률, 약화 효과 내성률, 버프 무효, 약화 효과 무효의 영향을 받지 않습니다.​<br>배틀 중 해제 불가인 버프・약화 효과 아이콘은 일부를 제외하고 표시되지 않습니다.​"
+        "Text": "■버프・약화 효과​<br>버프는 전투에 유리한 상태를 가리킵니다.​<br>약화 효과는 전투에 불리한 상태를 가리킵니다.​<br>약화 효과 부여는 '약화 효과 적중률'과 '약화 효과 내성률'에 따라 판정합니다.​<br>버프・약화 효과는 특정 스킬로 해제 혹은 이동할 수 있습니다.​<br><br>■효과 지속 턴​<br>버프・약화 효과에서 효과가 지속되는 턴 수가 지정되어 있다면, 그 턴 동안만 효과가 적용됩니다.​<br>효과가 지속되는 턴 수는 캐릭터 행동이 종료되는 시점에서 1턴 감소합니다.​<br>남은 턴 수가 0이 되면 해당 버프・약화 효과는 해제됩니다.​<br>효과 지속 턴 수의 증가・감소 효과를 지닌 스킬에 의해서도 턴 수가 증가・감소할 수 있습니다.​<br><br>■중첩​<br>버프・약화 효과는 예외적인 상황을 제외하고, 같은 종류의 효과가 중첩될 수 있습니다.​<br>아래의 경우는 예외적인 상황에 해당하여 중첩될 수 없습니다.​<br><br>[기절], [독], [출혈], [화상], [침식]은 각각 같은 종류의 효과가 중첩될 경우, 효과가 새로 적용됩니다.​<br>(효과가 새로 적용될 때는 효과가 지속되는 턴 수의 최대치와,​<br>효과 수치의 최대치를 이어받아 하나의 효과만 남습니다.)​<br><br>같은 캐릭터의 같은 버프・같은 약화 효과가 중첩될 경우, 스택을 제외하고 효과가 새로 적용됩니다.​<br><br>■스택​<br>횟수가 쌓일 때마다 효과가 증가하는 버프・약화 효과가 여기에 해당합니다.​<br>쌓인 횟수를 스택 수로 카운트하며, 쌓이는 횟수에는 상한이 있습니다.​<br>횟수가 쌓인 버프・약화 효과가 해제되면 스택 수는 0이 됩니다.​<br><br>■해제​<br>타겟의 버프 또는 약화 효과를 해제합니다.​<br>적의 버프를 해제할 때는 '약화 효과 적중률'과 '약화 효과 내성률'에 따라 판정합니다.​<br><br>■버프 이동​<br>적에게 걸려 있는 버프 해제에 성공하면, 그 효과를 자신에게 부여합니다.​<br>이동한 버프는 해당 스킬에 관한 조건이 변하더라도​<br>이동한 시점의 효과 수치에서 더 이상 바뀌지 않습니다.​<br>[헌신] 및 해제 불가인 버프는 이동할 수 없습니다.​<br><br>■약화 효과 이동​<br>자신에게 걸려 있는 약화 효과를 해제하고, 그 효과를 적에게 부여합니다.​<br>부여할 때 '약화 효과 적중률'과 '약화 효과 내성률'에 따라 판정합니다.​<br>[공명]과 해제 불가인 약화 효과 (길드 배틀의 디버프 등)는 이동할 수 없습니다.​<br><br>■해제 불가​<br>이 표시가 있는 버프・약화 효과는 아래와 같은 특성을 가집니다.​<br>타겟이 버프・약화 효과에 걸려 있지 않은 것으로 취급합니다.​<br>효과 해제, 지속 턴 증가 및 감소, 이동의 영향을 받지 않습니다.​<br>약화 효과 적중률, 약화 효과 내성률, 버프 무효, 약화 효과 무효의 영향을 받지 않습니다.​<br>배틀 중 해제 불가인 버프・약화 효과 아이콘은 일부를 제외하고 표시되지 않습니다.​"
     },
     {
         "Id": 12507,
@@ -71824,7 +72874,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[HelpMainText2214]",
-        "Text": "■스테이터스 증가​<br>특정 스테이터스가 증가합니다.​<br>배틀 시작 시점의 스테이터스를 바탕으로 계산합니다.​<br><br>■적에게 입히는 대미지 증가​<br>물리/마법/직접 공격을 할 때 해당 공격으로 적에게 입히는 대미지가 증가합니다.​<br><br>■받는 대미지 감소​<br>물리/마법/직접 공격을 받을 때 해당 공격으로 받는 대미지가 감소합니다.​<br><br>■대미지 무효​<br>대미지를 받았을 때 대미지를 무효로 합니다.​<br><br>■다중 배리어​<br>대미지를 받았을 때 배리어 1겹을 소모해서 그 대미지를 무효로 합니다.​<br>[대미지 무효]와 중첩되어 있으면, [다중 배리어]를 소모하지 않습니다.​<br>[실드]와 중첩되어 있으면, [다중 배리어]를 우선하여 소모합니다.​<br><br>■실드​<br>대미지를 받았을 때 일정 대미지를 무효로 합니다.​<br>무효로 할 수 있는 대미지 이상으로 누적되면, [실드]는 사라지고 남은 대미지를 받습니다.​<br>[대미지 무효]와 중첩되어 있으면, [실드]를 소모하지 않습니다.​<br>[다중 배리어]와 중첩되어 있으면, [다중 배리어]를 우선하여 소모합니다.​<br><br>■약화 효과 무효​<br>약화 효과를 받지 않습니다.​<br>이미 걸려 있는 약화 효과는 무효가 되지 않습니다.​<br><br>■행동 방해 무효​<br>행동 방해 효과 및 해당 효과가 포함된 약화 효과를 받지 않습니다.​<br>행동 방해 효과로는 [기절], [수면], [혼란], [침묵] 4종류가 있습니다.​<br>이미 걸려 있는 행동 방해 효과는 무효가 되지 않습니다.​<br><br>■도발​<br>타겟이 무작위인 적의 물리/마법/직접 공격, 스킬을 [도발]이 걸린 캐릭터에게 유도합니다.​<br>타겟이 무작위가 아닌 적의 공격, 스킬은 유도하지 않습니다.​<br><br>■스텔스​<br>타겟이 1명인 적의 물리/마법/직접 공격, 스킬의 타겟으로 지정되지 않습니다.​<br>단, 정면의 적을 타겟으로 하는 공격, 스킬은 받습니다.​<br>생존 중인 모든 아군이 [스텔스] 또는 [투명] 둘 중 하나의 상태라면, [스텔스]는 무효가 됩니다.<br><br>■투명​<br>적과 아군의 모든 물리/마법/직접 공격, 스킬 타겟에서 제외됩니다.​​<br>생존 중인 모든 아군이 [투명] 상태라면, [투명]은 무효가 됩니다.<br><br>■○○ 반격​<br>물리/마법/직접 공격을 받으면 공격해 온 적에게 일정 확률로 특정 약화 효과를 부여합니다.​<br><br>■재생​<br>매 턴 행동 시작 시 일정한 양의 생명력을 회복합니다.​<br><br>■불사신​<br>받은 대미지가 현재 생명력을 넘는 경우, 생명력 1을 남기고 버팁니다.​<br>받은 대미지란, 물리/마법/직접 공격, [독] 등의 지속 대미지, [공명],​<br>'반격' 스테이터스로 인한 대미지를 가리킵니다.<br><br>■반격 변경​<br>적에게 물리/마법/직접 공격을 받았을 때, '반격' 스테이터스가 아닌,​<br>특정 적에게 지정된 대미지를 입힙니다.​<br>이때의 대미지는 '반격' 스테이터스의 영향을 받지 않습니다."
+        "Text": "■스테이터스 증가​<br>특정 스테이터스가 증가합니다.​<br>배틀 시작 시점의 스테이터스를 바탕으로 계산합니다.​<br><br>■적에게 입히는 대미지 증가​<br>물리/마법/직접 공격을 할 때 해당 공격으로 적에게 입히는 대미지가 증가합니다.​<br><br>■받는 대미지 감소​<br>물리/마법/직접 공격을 받을 때 해당 공격으로 받는 대미지가 감소합니다.​<br><br>■대미지 무효​<br>대미지를 받았을 때 대미지를 무효로 합니다.​<br><br>■다중 배리어​<br>대미지를 받았을 때 배리어 1겹을 소모해서 그 대미지를 무효로 합니다.​<br>[대미지 무효]와 중첩되어 있으면, [다중 배리어]를 소모하지 않습니다.​<br>[실드]와 중첩되어 있으면, [다중 배리어]를 우선하여 소모합니다.​<br><br>■실드​<br>대미지를 받았을 때 일정 대미지를 무효로 합니다.​<br>무효로 할 수 있는 대미지 이상으로 누적되면, [실드]는 사라지고 남은 대미지를 받습니다.​<br>[대미지 무효]와 중첩되어 있으면, [실드]를 소모하지 않습니다.​<br>[다중 배리어]와 중첩되어 있으면, [다중 배리어]를 우선하여 소모합니다.​<br><br>■약화 효과 무효​<br>약화 효과를 받지 않습니다.​<br>이미 걸려 있는 약화 효과는 무효가 되지 않습니다.​<br><br>■행동 방해 무효​<br>행동 방해 효과 및 해당 효과가 포함된 약화 효과를 받지 않습니다.​<br>행동 방해 효과로는 [기절], [수면], [혼란], [침묵] 4종류가 있습니다.​<br>이미 걸려 있는 행동 방해 효과는 무효가 되지 않습니다.​<br><br>■도발​<br>타겟이 무작위인 적의 물리/마법/직접 공격, 스킬을 [도발]이 걸린 캐릭터에게 유도합니다.​<br>타겟이 무작위가 아닌 적의 공격, 스킬은 유도하지 않습니다.​<br><br>■스텔스​<br>타겟이 1명인 적의 물리/마법/직접 공격, 스킬의 타겟으로 지정되지 않습니다.​<br>단, 정면의 적을 타겟으로 하는 공격, 스킬은 받습니다.​<br>생존 중인 모든 아군이 [스텔스] 또는 [투명] 둘 중 하나의 상태라면, [스텔스]는 무효가 됩니다.<br><br>■투명​<br>적과 아군의 모든 물리/마법/직접 공격, 스킬 타겟에서 제외됩니다.​​<br>생존 중인 모든 아군이 [투명] 상태라면, [투명]은 무효가 됩니다.<br><br>■○○ 반격​<br>물리/마법/직접 공격을 받으면 공격해 온 적에게 일정 확률로 특정 약화 효과를 부여합니다.​<br><br>■재생​<br>매 턴 행동 시작 시 일정한 양의 생명력을 회복합니다.​<br><br>■불사신​<br>받은 대미지가 현재 생명력을 넘는 경우, 생명력 1을 남기고 버팁니다.​<br>받은 대미지란, 물리/마법/직접 공격, [독] 등의 지속 대미지, [공명], [헌신]​,<br>'반격' 스테이터스로 인한 대미지를 가리킵니다.<br><br>■반격 변경​<br>적에게 물리/마법/직접 공격을 받았을 때, '반격' 스테이터스가 아닌,​<br>특정 적에게 지정된 대미지를 입힙니다.​<br>이때의 대미지는 '반격' 스테이터스의 영향을 받지 않습니다.<br><br>■헌신<br>타겟의 아군이 공격으로 받는 대미지의 일정 비율을, [헌신]에 걸려 있는 캐릭터가 대신 받습니다.​<br>[헌신]과 [공명]의 대미지가 동시에 발생했을 경우, 대미지를 합산하여 1회로 카운트합니다."
     },
     {
         "Id": 12509,
@@ -71838,7 +72888,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[HelpMainText2215]",
-        "Text": "■스테이터스 감소​<br>특정 스테이터스가 감소합니다.​<br>배틀 시작 시점의 스테이터스를 바탕으로 계산합니다.​<br><br>■입히는 대미지 감소​<br>물리/마법/직접 공격을 할 때 해당 공격으로 입히는 대미지가 감소합니다.​<br><br>■받는 대미지 증가​<br>물리/마법/직접 공격을 받을 때 해당 공격으로 받는 대미지가 증가합니다.​<br><br>■기절​<br>일반 공격 및 스킬을 사용할 수 없으며 턴 수만 경과합니다.​<br><br>■수면​<br>일반 공격 및 스킬을 사용할 수 없으며 턴 수만 경과합니다.​<br>턴 수 경과 외에 특정 조건이 충족되어도 해제됩니다.​<br><br>■혼란​<br>적과 아군 구분 없이 물리/마법/직접 공격의 타겟을 무작위로 지정합니다.​<br>공격력이 높은 적 등 타겟이 명시된 스킬일지라도 공격 대상을 무작위로 지정합니다.​<br>아군을 타겟으로 지정하는 스킬, 적과 아군을 동시에 지정하는 스킬은 ​<br>혼란의 영향을 받지 않습니다.​<br><br>■침묵​<br>스킬을 사용할 수 없으며 일반 공격만 합니다.​<br><br>■독・화상・출혈・침식​<br>매 턴 행동 시작 시 일정한 지속 대미지를 받습니다.​<br><br>[독]・[화상]은 현재 생명력의 일정 비율로 지속 대미지를 받습니다.​<br>이때 받는 대미지는 해당 효과에 걸려 있는 캐릭터의 공격력을 넘지 않습니다.​<br><br>[출혈]은 부여자 공격력의 일정 비율로 지속 대미지를 받습니다.​<br><br>[침식]은 해당 효과를 부여했을 때,​<br>해당 스킬로 입혔던 총 대미지의 일정 비율로 지속 대미지를 받습니다.​<br><br>■불치​<br>생명력을 회복할 수 없습니다.​<br>[재생], 회복, 생명력 흡수가 여기에 해당합니다.​<br><br>■버프 무효​<br>버프를 부여받을 수 없습니다.​<br>이미 부여받은 버프는 무효가 되지 않습니다.​<br>버프 무효일 때, 조건에 따라 수치가 바뀌는 버프 효과의 상승은 반영되지 않습니다.​<br>(예 : 배틀 시작 시 아군 전체의 공격력을 2% 증가시킨다.​<br>자신 이외의 아군의 생존자 1명당 증가량이 2% 커진다.)​<br>해제 불가인 버프는 버프 무효의 영향을 받지 않습니다.​<br><br>■구속​<br>회피할 수 없게 됩니다.​<br><br>■공명​<br>특정 조건에 해당하는 캐릭터가 받은 대미지의 일정 비율을, [공명]에 걸려 있는 캐릭터가 받습니다."
+        "Text": "■스테이터스 감소​<br>특정 스테이터스가 감소합니다.​<br>배틀 시작 시점의 스테이터스를 바탕으로 계산합니다.​<br><br>■입히는 대미지 감소​<br>물리/마법/직접 공격을 할 때 해당 공격으로 입히는 대미지가 감소합니다.​<br><br>■받는 대미지 증가​<br>물리/마법/직접 공격을 받을 때 해당 공격으로 받는 대미지가 증가합니다.​<br><br>■기절​<br>일반 공격 및 스킬을 사용할 수 없으며 턴 수만 경과합니다.​<br><br>■수면​<br>일반 공격 및 스킬을 사용할 수 없으며 턴 수만 경과합니다.​<br>턴 수 경과 외에 특정 조건이 충족되어도 해제됩니다.​<br><br>■혼란​<br>적과 아군 구분 없이 물리/마법/직접 공격의 타겟을 무작위로 지정합니다.​<br>공격력이 높은 적 등 타겟이 명시된 스킬일지라도 공격 대상을 무작위로 지정합니다.​<br>아군을 타겟으로 지정하는 스킬, 적과 아군을 동시에 지정하는 스킬은 ​<br>혼란의 영향을 받지 않습니다.​<br><br>■침묵​<br>스킬을 사용할 수 없으며 일반 공격만 합니다.​<br><br>■독・화상・출혈・침식​<br>매 턴 행동 시작 시 일정한 지속 대미지를 받습니다.​<br><br>[독]・[화상]은 현재 생명력의 일정 비율로 지속 대미지를 받습니다.​<br>이때 받는 대미지는 해당 효과에 걸려 있는 캐릭터의 공격력을 넘지 않습니다.​<br><br>[출혈]은 부여자 공격력의 일정 비율로 지속 대미지를 받습니다.​<br><br>[침식]은 해당 효과를 부여했을 때,​<br>해당 스킬로 입혔던 총 대미지의 일정 비율로 지속 대미지를 받습니다.​<br><br>■불치​<br>생명력을 회복할 수 없습니다.​<br>[재생], 회복, 생명력 흡수가 여기에 해당합니다.​<br><br>■버프 무효​<br>버프를 부여받을 수 없습니다.​<br>이미 부여받은 버프는 무효가 되지 않습니다.​<br>버프 무효일 때, 조건에 따라 수치가 바뀌는 버프 효과의 상승은 반영되지 않습니다.​<br>(예 : 배틀 시작 시 아군 전체의 공격력을 2% 증가시킨다.​<br>자신 이외의 아군의 생존자 1명당 증가량이 2% 커진다.)​<br>해제 불가인 버프는 버프 무효의 영향을 받지 않습니다.​<br><br>■구속​<br>회피할 수 없게 됩니다.​<br><br>■공명​<br>공격으로 대미지를 받으면 [공명]에 걸려 있는 다른 캐릭터도 그 대미지의 일정 비율을 받습니다.​<br>[헌신]과 [공명]의 대미지가 동시에 발생했을 경우, 대미지를 합산하여 1회로 카운트합니다."
     },
     {
         "Id": 12511,
@@ -71852,7 +72902,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[HelpMainText2216]",
-        "Text": "■회복​<br>일정한 양의 생명력을 회복합니다.​<br><br>■전투 불능​<br>생명력이 0으로 되면 전투 불능이 됩니다. 전투 불능인 캐릭터는 행동할 수 없습니다.​<br>전투 불능이 됐을 때, 해당 캐릭터에게 걸려 있는 버프・약화 효과는 모두 해제됩니다.​<br>스킬 쿨타임은 전투 불능이 되기 직전의 수치를 유지합니다.​<br><br>■스킬 쿨타임 증가・감소​<br>타겟의 스킬 쿨타임 턴 수를 증가, 감소시킵니다.​<br><br>■부활​<br>받은 대미지로 전투 불능이 됐을 때, 생명력을 회복하여 전투할 수 있는 상태로 되돌아옵니다.​<br>받은 대미지란, 물리/마법/직접 공격, [독] 등의 지속 대미지, [공명],​<br>'반격' 스테이터스로 인한 대미지를 가리킵니다.​<br><br>​■반드시 적중​<br>물리/마법/직접 공격이 반드시 적중합니다.​<br>이 효과는 적중률, 회피율의 영향을 받지 않습니다.​<br><br>■반드시 치명타 적중​<br>물리/마법/직접 공격이 적중한 경우, 반드시 치명타 적중합니다.​<br>이 효과는 치명타율, 치명타 내성률의 영향을 받지 않습니다.<br><br>■차단​<br>물리/마법/직접 공격, [공명], '반격' 스테이터스에 의한 대미지를 특정 비율로 낮춥니다.​<br>[독] 등의 지속 대미지에 의한 대미지는 낮추지 않습니다.​<br>[받는 대미지 증가/감소], [입히는 대미지 증가/감소] 효과는 차단에 의한​<br>대미지 감소 전에 계산합니다.​<br>[실드], [공명] 효과는 차단에 의한 대미지 감소 후에 계산합니다.<br><br>■생명력 1로 버틴다​<br>받은 대미지가 현재 생명력을 초과하는 경우 생명력 1을 남기고 버팁니다.​<br>받은 대미지란, 물리/마법/직접 공격, [독] 등의 지속 대미지, [공명],​<br>'반격' 스테이터스로 인한 대미지를 가리킵니다.​<br>이 효과는 해제나 이동의 영향을 받지 않습니다.​<br><br>■흡수​<br>적에게 특정 스테이터스를 감소시키는 약화 효과를 부여하고,​<br>스테이터스를 감소시킨 만큼 자신에게 버프로 부여합니다.​<br>약화 효과 부여에 실패했을 경우, 자신에게 버프를 부여하지 않습니다.​​<br><br>■일반 공격 강화​<br>일반 공격을 강화합니다. 무엇을 강화하는지는 스킬에 따라 다릅니다.​<br><br>■자신에게 ~% 대미지를 입힌다​<br>스킬을 사용할 때 자신의 생명력을 감소시킵니다.​<br>받는 대미지 증가 및 감소, [대미지 무효], [실드], [다중 배리어], [불사신],​<br>차단의 영향을 받지 않습니다.​<br><br>■반격​<br>적에게 물리/마법/직접 공격을 받았을 때, 받은 대미지에 따라 일정 비율로​<br>적에게 대미지를 입힙니다.​<br>'반격' 스테이터스에 의한 대미지는 [실드], [다중 배리어], [대미지 무효], [불사신],​<br>차단의 영향을 받습니다.​<br>'반격' 스테이터스로 입히는 대미지는 회피할 수 없으며, 공격 횟수로 카운트되지 않습니다.​<br>[독] 등의 지속 대미지나 [공명], 패시브 스킬에 의한 대미지로는 발동하지 않습니다.​<br>물리/마법/직접 공격이 적중했을 때만 발동하며, 공격을 회피하면 발동하지 않습니다.​<br><br>■생명력 흡수​<br>적에게 물리/마법/직접 공격을 했을 때, 입힌 대미지에 따라 일정 비율로​<br>자신의 생명력을 회복합니다.​<br>[실드], [다중 배리어], [대미지 무효], [불사신], 차단의 효과를 반영한 대미지에 대해​<br>회복량이 계산됩니다.​<br>[독] 등의 지속 대미지나 [공명], 패시브 스킬에 의한 대미지로는 발동하지 않습니다.​<br>물리/마법/직접 공격이 적중했을 때만 발동하며, 공격을 회피하면 발동하지 않습니다.​"
+        "Text": "■회복​<br>일정한 양의 생명력을 회복합니다.​<br><br>■전투 불능​<br>생명력이 0으로 되면 전투 불능이 됩니다. 전투 불능인 캐릭터는 행동할 수 없습니다.​<br>전투 불능이 됐을 때, 해당 캐릭터에게 걸려 있는 버프・약화 효과는 모두 해제됩니다.​<br>스킬 쿨타임은 전투 불능이 되기 직전의 수치를 유지합니다.​<br><br>■스킬 쿨타임 증가・감소​<br>타겟의 스킬 쿨타임 턴 수를 증가, 감소시킵니다.​<br><br>■부활​<br>받은 대미지로 전투 불능이 됐을 때, 생명력을 회복하여 전투할 수 있는 상태로 되돌아옵니다.​<br>받은 대미지란, 물리/마법/직접 공격, [독] 등의 지속 대미지, [공명],​ [헌신],<br>'반격' 스테이터스로 인한 대미지를 가리킵니다.​<br><br>​■반드시 적중​<br>물리/마법/직접 공격이 반드시 적중합니다.​<br>이 효과는 적중률, 회피율의 영향을 받지 않습니다.​<br><br>■반드시 치명타 적중​<br>물리/마법/직접 공격이 적중한 경우, 반드시 치명타 적중합니다.​<br>이 효과는 치명타율, 치명타 내성률의 영향을 받지 않습니다.<br><br>■차단​<br>물리/마법/직접 공격, [공명], [헌신], '반격' 스테이터스에 의한 대미지를 특정 비율로 낮춥니다.​<br>[독] 등의 지속 대미지에 의한 대미지는 낮추지 않습니다.​<br>[받는 대미지 증가/감소], [입히는 대미지 증가/감소] 효과는 차단에 의한​<br>대미지 감소 전에 계산합니다.​<br>[실드], [공명], [헌신] 효과는 차단에 의한 대미지 감소 후에 계산합니다.<br><br>■생명력 1로 버틴다​<br>받은 대미지가 현재 생명력을 초과하는 경우 생명력 1을 남기고 버팁니다.​<br>받은 대미지란, 물리/마법/직접 공격, [독] 등의 지속 대미지, [공명],​ [헌신],<br>'반격' 스테이터스로 인한 대미지를 가리킵니다.​<br>이 효과는 해제나 이동의 영향을 받지 않습니다.​<br><br>■흡수​<br>적에게 특정 스테이터스를 감소시키는 약화 효과를 부여하고,​<br>스테이터스를 감소시킨 만큼 자신에게 버프로 부여합니다.​<br>약화 효과 부여에 실패했을 경우, 자신에게 버프를 부여하지 않습니다.​​<br><br>■일반 공격 강화​<br>일반 공격을 강화합니다. 무엇을 강화하는지는 스킬에 따라 다릅니다.​<br><br>■자신에게 ~% 대미지를 입힌다​<br>스킬을 사용할 때 자신의 생명력을 감소시킵니다.​<br>받는 대미지 증가 및 감소, [대미지 무효], [실드], [다중 배리어], [불사신],​<br>차단의 영향을 받지 않습니다.​<br><br>■반격​<br>적에게 물리/마법/직접 공격을 받았을 때, 받은 대미지에 따라 일정 비율로​<br>적에게 대미지를 입힙니다.​<br>'반격' 스테이터스에 의한 대미지는 [실드], [다중 배리어], [대미지 무효], [불사신],​<br>차단의 영향을 받습니다.​<br>'반격' 스테이터스로 입히는 대미지는 회피할 수 없으며, 공격 횟수로 카운트되지 않습니다.​<br>[독] 등의 지속 대미지나 [공명], [헌신], 패시브 스킬에 의한 대미지로는 발동하지 않습니다.​<br>물리/마법/직접 공격이 적중했을 때만 발동하며, 공격을 회피하면 발동하지 않습니다.​<br><br>■생명력 흡수​<br>적에게 물리/마법/직접 공격을 했을 때, 입힌 대미지에 따라 일정 비율로​<br>자신의 생명력을 회복합니다.​<br>[실드], [다중 배리어], [대미지 무효], [불사신], 차단의 효과를 반영한 대미지에 대해​<br>회복량이 계산됩니다.​<br>[독] 등의 지속 대미지나 [공명], [헌신], 패시브 스킬에 의한 대미지로는 발동하지 않습니다.​<br>물리/마법/직접 공격이 적중했을 때만 발동하며, 공격을 회피하면 발동하지 않습니다.​"
     },
     {
         "Id": 12513,
@@ -72989,6 +74039,13 @@
         "Text": "한여름 밤의 방 (기간 한정)"
     },
     {
+        "Id": 12679,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[LocalRaidName111]",
+        "Text": "선악의 방 (기간 한정)"
+    },
+    {
         "Id": 12690,
         "IsIgnore": false,
         "Memo": "",
@@ -73896,560 +74953,560 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName123]",
-        "Text": "무구의 마장 Lv1까지 강화"
+        "Text": "무구 강화하기 (마장 Lv1까지)"
     },
     {
         "Id": 12820,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName124]",
-        "Text": "무구의 마장 Lv2까지 강화"
+        "Text": "무구 강화하기 (마장 Lv2까지)"
     },
     {
         "Id": 12821,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName125]",
-        "Text": "무구의 마장 Lv3까지 강화"
+        "Text": "무구 강화하기 (마장 Lv3까지)"
     },
     {
         "Id": 12822,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName126]",
-        "Text": "무구의 마장 Lv4까지 강화"
+        "Text": "무구 강화하기 (마장 Lv4까지)"
     },
     {
         "Id": 12823,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName127]",
-        "Text": "무구의 마장 Lv5까지 강화"
+        "Text": "무구 강화하기 (마장 Lv5까지)"
     },
     {
         "Id": 12824,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName128]",
-        "Text": "무구의 마장 Lv6까지 강화"
+        "Text": "무구 강화하기 (마장 Lv6까지)"
     },
     {
         "Id": 12825,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName129]",
-        "Text": "무구의 마장 Lv7까지 강화"
+        "Text": "무구 강화하기 (마장 Lv7까지)"
     },
     {
         "Id": 12826,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName130]",
-        "Text": "무구의 마장 Lv8까지 강화"
+        "Text": "무구 강화하기 (마장 Lv8까지)"
     },
     {
         "Id": 12827,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName131]",
-        "Text": "무구의 마장 Lv9까지 강화"
+        "Text": "무구 강화하기 (마장 Lv9까지)"
     },
     {
         "Id": 12828,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName132]",
-        "Text": "무구의 마장 Lv10까지 강화"
+        "Text": "무구 강화하기 (마장 Lv10까지)"
     },
     {
         "Id": 12829,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName133]",
-        "Text": "무구의 마장 Lv11까지 강화"
+        "Text": "무구 강화하기 (마장 Lv11까지)"
     },
     {
         "Id": 12830,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName134]",
-        "Text": "무구의 마장 Lv12까지 강화"
+        "Text": "무구 강화하기 (마장 Lv12까지)"
     },
     {
         "Id": 12831,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName135]",
-        "Text": "무구의 마장 Lv13까지 강화"
+        "Text": "무구 강화하기 (마장 Lv13까지)"
     },
     {
         "Id": 12832,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName136]",
-        "Text": "무구의 마장 Lv14까지 강화"
+        "Text": "무구 강화하기 (마장 Lv14까지)"
     },
     {
         "Id": 12833,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName137]",
-        "Text": "무구의 마장 Lv15까지 강화"
+        "Text": "무구 강화하기 (마장 Lv15까지)"
     },
     {
         "Id": 12834,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName138]",
-        "Text": "무구의 마장 Lv16까지 강화"
+        "Text": "무구 강화하기 (마장 Lv16까지)"
     },
     {
         "Id": 12835,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName139]",
-        "Text": "무구의 마장 Lv17까지 강화"
+        "Text": "무구 강화하기 (마장 Lv17까지)"
     },
     {
         "Id": 12836,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName140]",
-        "Text": "무구의 마장 Lv18까지 강화"
+        "Text": "무구 강화하기 (마장 Lv18까지)"
     },
     {
         "Id": 12837,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName141]",
-        "Text": "무구의 마장 Lv19까지 강화"
+        "Text": "무구 강화하기 (마장 Lv19까지)"
     },
     {
         "Id": 12838,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName142]",
-        "Text": "무구의 마장 Lv20까지 강화"
+        "Text": "무구 강화하기 (마장 Lv20까지)"
     },
     {
         "Id": 12839,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName143]",
-        "Text": "무구의 마장 Lv21까지 강화"
+        "Text": "무구 강화하기 (마장 Lv21까지)"
     },
     {
         "Id": 12840,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName144]",
-        "Text": "무구의 마장 Lv22까지 강화"
+        "Text": "무구 강화하기 (마장 Lv22까지)"
     },
     {
         "Id": 12841,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName145]",
-        "Text": "무구의 마장 Lv23까지 강화"
+        "Text": "무구 강화하기 (마장 Lv23까지)"
     },
     {
         "Id": 12842,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName146]",
-        "Text": "무구의 마장 Lv24까지 강화"
+        "Text": "무구 강화하기 (마장 Lv24까지)"
     },
     {
         "Id": 12843,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName147]",
-        "Text": "무구의 마장 Lv25까지 강화"
+        "Text": "무구 강화하기 (마장 Lv25까지)"
     },
     {
         "Id": 12844,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName148]",
-        "Text": "무구의 마장 Lv26까지 강화"
+        "Text": "무구 강화하기 (마장 Lv26까지)"
     },
     {
         "Id": 12845,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName149]",
-        "Text": "무구의 마장 Lv27까지 강화"
+        "Text": "무구 강화하기 (마장 Lv27까지)"
     },
     {
         "Id": 12846,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName150]",
-        "Text": "무구의 마장 Lv28까지 강화"
+        "Text": "무구 강화하기 (마장 Lv28까지)"
     },
     {
         "Id": 12847,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName151]",
-        "Text": "무구의 마장 Lv29까지 강화"
+        "Text": "무구 강화하기 (마장 Lv29까지)"
     },
     {
         "Id": 12848,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName152]",
-        "Text": "무구의 마장 Lv30까지 강화"
+        "Text": "무구 강화하기 (마장 Lv30까지)"
     },
     {
         "Id": 12849,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName153]",
-        "Text": "무구의 마장 Lv31까지 강화"
+        "Text": "무구 강화하기 (마장 Lv31까지)"
     },
     {
         "Id": 12850,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName154]",
-        "Text": "무구의 마장 Lv32까지 강화"
+        "Text": "무구 강화하기 (마장 Lv32까지)"
     },
     {
         "Id": 12851,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName155]",
-        "Text": "무구의 마장 Lv33까지 강화"
+        "Text": "무구 강화하기 (마장 Lv33까지)"
     },
     {
         "Id": 12852,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName156]",
-        "Text": "무구의 마장 Lv34까지 강화"
+        "Text": "무구 강화하기 (마장 Lv34까지)"
     },
     {
         "Id": 12853,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName157]",
-        "Text": "무구의 마장 Lv35까지 강화"
+        "Text": "무구 강화하기 (마장 Lv35까지)"
     },
     {
         "Id": 12854,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName158]",
-        "Text": "무구의 마장 Lv36까지 강화"
+        "Text": "무구 강화하기 (마장 Lv36까지)"
     },
     {
         "Id": 12855,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName159]",
-        "Text": "무구의 마장 Lv37까지 강화"
+        "Text": "무구 강화하기 (마장 Lv37까지)"
     },
     {
         "Id": 12856,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName160]",
-        "Text": "무구의 마장 Lv38까지 강화"
+        "Text": "무구 강화하기 (마장 Lv38까지)"
     },
     {
         "Id": 12857,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName161]",
-        "Text": "무구의 마장 Lv39까지 강화"
+        "Text": "무구 강화하기 (마장 Lv39까지)"
     },
     {
         "Id": 12858,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName162]",
-        "Text": "무구의 마장 Lv40까지 강화"
+        "Text": "무구 강화하기 (마장 Lv40까지)"
     },
     {
         "Id": 12859,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName163]",
-        "Text": "무구의 성장 Lv1까지 강화"
+        "Text": "무구 강화하기 (성장 Lv1까지)"
     },
     {
         "Id": 12860,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName164]",
-        "Text": "무구의 성장 Lv2까지 강화"
+        "Text": "무구 강화하기 (성장 Lv2까지)"
     },
     {
         "Id": 12861,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName165]",
-        "Text": "무구의 성장 Lv3까지 강화"
+        "Text": "무구 강화하기 (성장 Lv3까지)"
     },
     {
         "Id": 12862,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName166]",
-        "Text": "무구의 성장 Lv4까지 강화"
+        "Text": "무구 강화하기 (성장 Lv4까지)"
     },
     {
         "Id": 12863,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName167]",
-        "Text": "무구의 성장 Lv5까지 강화"
+        "Text": "무구 강화하기 (성장 Lv5까지)"
     },
     {
         "Id": 12864,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName168]",
-        "Text": "무구의 성장 Lv6까지 강화"
+        "Text": "무구 강화하기 (성장 Lv6까지)"
     },
     {
         "Id": 12865,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName169]",
-        "Text": "무구의 성장 Lv7까지 강화"
+        "Text": "무구 강화하기 (성장 Lv7까지)"
     },
     {
         "Id": 12866,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName170]",
-        "Text": "무구의 성장 Lv8까지 강화"
+        "Text": "무구 강화하기 (성장 Lv8까지)"
     },
     {
         "Id": 12867,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName171]",
-        "Text": "무구의 성장 Lv9까지 강화"
+        "Text": "무구 강화하기 (성장 Lv9까지)"
     },
     {
         "Id": 12868,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName172]",
-        "Text": "무구의 성장 Lv10까지 강화"
+        "Text": "무구 강화하기 (성장 Lv10까지)"
     },
     {
         "Id": 12869,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName173]",
-        "Text": "무구의 성장 Lv11까지 강화"
+        "Text": "무구 강화하기 (성장 Lv11까지)"
     },
     {
         "Id": 12870,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName174]",
-        "Text": "무구의 성장 Lv12까지 강화"
+        "Text": "무구 강화하기 (성장 Lv12까지)"
     },
     {
         "Id": 12871,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName175]",
-        "Text": "무구의 성장 Lv13까지 강화"
+        "Text": "무구 강화하기 (성장 Lv13까지)"
     },
     {
         "Id": 12872,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName176]",
-        "Text": "무구의 성장 Lv14까지 강화"
+        "Text": "무구 강화하기 (성장 Lv14까지)"
     },
     {
         "Id": 12873,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName177]",
-        "Text": "무구의 성장 Lv15까지 강화"
+        "Text": "무구 강화하기 (성장 Lv15까지)"
     },
     {
         "Id": 12874,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName178]",
-        "Text": "무구의 성장 Lv16까지 강화"
+        "Text": "무구 강화하기 (성장 Lv16까지)"
     },
     {
         "Id": 12875,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName179]",
-        "Text": "무구의 성장 Lv17까지 강화"
+        "Text": "무구 강화하기 (성장 Lv17까지)"
     },
     {
         "Id": 12876,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName180]",
-        "Text": "무구의 성장 Lv18까지 강화"
+        "Text": "무구 강화하기 (성장 Lv18까지)"
     },
     {
         "Id": 12877,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName181]",
-        "Text": "무구의 성장 Lv19까지 강화"
+        "Text": "무구 강화하기 (성장 Lv19까지)"
     },
     {
         "Id": 12878,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName182]",
-        "Text": "무구의 성장 Lv20까지 강화"
+        "Text": "무구 강화하기 (성장 Lv20까지)"
     },
     {
         "Id": 12879,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName183]",
-        "Text": "무구의 성장 Lv21까지 강화"
+        "Text": "무구 강화하기 (성장 Lv21까지)"
     },
     {
         "Id": 12880,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName184]",
-        "Text": "무구의 성장 Lv22까지 강화"
+        "Text": "무구 강화하기 (성장 Lv22까지)"
     },
     {
         "Id": 12881,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName185]",
-        "Text": "무구의 성장 Lv23까지 강화"
+        "Text": "무구 강화하기 (성장 Lv23까지)"
     },
     {
         "Id": 12882,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName186]",
-        "Text": "무구의 성장 Lv24까지 강화"
+        "Text": "무구 강화하기 (성장 Lv24까지)"
     },
     {
         "Id": 12883,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName187]",
-        "Text": "무구의 성장 Lv25까지 강화"
+        "Text": "무구 강화하기 (성장 Lv25까지)"
     },
     {
         "Id": 12884,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName188]",
-        "Text": "무구의 성장 Lv26까지 강화"
+        "Text": "무구 강화하기 (성장 Lv26까지)"
     },
     {
         "Id": 12885,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName189]",
-        "Text": "무구의 성장 Lv27까지 강화"
+        "Text": "무구 강화하기 (성장 Lv27까지)"
     },
     {
         "Id": 12886,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName190]",
-        "Text": "무구의 성장 Lv28까지 강화"
+        "Text": "무구 강화하기 (성장 Lv28까지)"
     },
     {
         "Id": 12887,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName191]",
-        "Text": "무구의 성장 Lv29까지 강화"
+        "Text": "무구 강화하기 (성장 Lv29까지)"
     },
     {
         "Id": 12888,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName192]",
-        "Text": "무구의 성장 Lv30까지 강화"
+        "Text": "무구 강화하기 (성장 Lv30까지)"
     },
     {
         "Id": 12889,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName193]",
-        "Text": "무구의 성장 Lv31까지 강화"
+        "Text": "무구 강화하기 (성장 Lv31까지)"
     },
     {
         "Id": 12890,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName194]",
-        "Text": "무구의 성장 Lv32까지 강화"
+        "Text": "무구 강화하기 (성장 Lv32까지)"
     },
     {
         "Id": 12891,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName195]",
-        "Text": "무구의 성장 Lv33까지 강화"
+        "Text": "무구 강화하기 (성장 Lv33까지)"
     },
     {
         "Id": 12892,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName196]",
-        "Text": "무구의 성장 Lv34까지 강화"
+        "Text": "무구 강화하기 (성장 Lv34까지)"
     },
     {
         "Id": 12893,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName197]",
-        "Text": "무구의 성장 Lv35까지 강화"
+        "Text": "무구 강화하기 (성장 Lv35까지)"
     },
     {
         "Id": 12894,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName198]",
-        "Text": "무구의 성장 Lv36까지 강화"
+        "Text": "무구 강화하기 (성장 Lv36까지)"
     },
     {
         "Id": 12895,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName199]",
-        "Text": "무구의 성장 Lv37까지 강화"
+        "Text": "무구 강화하기 (성장 Lv37까지)"
     },
     {
         "Id": 12896,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName200]",
-        "Text": "무구의 성장 Lv38까지 강화"
+        "Text": "무구 강화하기 (성장 Lv38까지)"
     },
     {
         "Id": 12897,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName201]",
-        "Text": "무구의 성장 Lv39까지 강화"
+        "Text": "무구 강화하기 (성장 Lv39까지)"
     },
     {
         "Id": 12898,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[MissionName202]",
-        "Text": "무구의 성장 Lv40까지 강화"
+        "Text": "무구 강화하기 (성장 Lv40까지)"
     },
     {
         "Id": 12899,
@@ -105158,7 +106215,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[TutorialTextBox1503]",
-        "Text": "나무의 힘이 가장 강해지는 특정 시간대에만 보상이 늘어나는 것<br>같은데 강력한 수호자가 지키고 있나 봐.<br>우리 힘만으로는 위험해. 다 함께 협력해서 도전하자."
+        "Text": "나무의 힘이 가장 강해지는 특정 시간대에만 보상이 늘어나는 것<br>같은데 강력한 수호자가 지키고 있는 것 같아.<br>우리 힘만으로는 위험해. 다 함께 협력해서 도전하자."
     },
     {
         "Id": 17325,
@@ -105256,7 +106313,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[TutorialTextBox2201]",
-        "Text": "룬은 마법의 힘을 결정화한 거라서 원재료의 힘에 따라 다양한 능력치가 상승해."
+        "Text": "룬은 마법의 힘을 결정화한 거라서<br>원재료의 힘에 따라 다양한 능력치가 상승해."
     },
     {
         "Id": 17339,
@@ -105270,14 +106327,14 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[TutorialTextBox2203]",
-        "Text": "선택한 룬을 장착하자.<br>슬롯을 가공한 다음부터는<br>룬을 자유롭게 장착하고 해제할 수 있어."
+        "Text": "선택한 룬을 장착하자. 슬롯을 가공한 다음부터는<br>룬을 자유롭게 장착하고 해제할 수 있어."
     },
     {
         "Id": 17341,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[TutorialTextBox2400]",
-        "Text": "이곳에서 캐릭터를 진화시킬 수 있나 봐. 레어리티를 올려서 더욱 강해질 수 있어."
+        "Text": "이곳에서 캐릭터를 진화시킬 수 있나 봐.<br>레어리티를 올려서 더욱 강해질 수 있어."
     },
     {
         "Id": 17342,
@@ -105291,7 +106348,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[TutorialTextBox2402]",
-        "Text": "진화하기 위해서는 동료들의 힘이 필요해. 조건에 맞는 캐릭터를 선택해 봐."
+        "Text": "진화하기 위해서는 동료들의 힘이 필요해.<br>조건에 맞는 캐릭터를 선택해 봐."
     },
     {
         "Id": 17344,
@@ -105347,7 +106404,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[TutorialTextBox2604]",
-        "Text": "거점에는 교회, 성, 신전이 있어. 중앙에 있는 신전의 보상이 가장 호화롭지."
+        "Text": "거점에는 교회, 성, 신전이 있어.<br>중앙에 있는 신전의 보상이 가장 호화롭지."
     },
     {
         "Id": 17352,
@@ -105389,7 +106446,7 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[TutorialTextBox3300]",
-        "Text": "이곳에서 신장 강화를 할 수 있나 봐. 성장과 마장의 힘을 무구에 부여할 수 있어."
+        "Text": "이곳에서 신장 강화를 할 수 있나 봐.<br>성장과 마장의 힘을 무구에 부여할 수 있어."
     },
     {
         "Id": 17358,
@@ -105403,14 +106460,14 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[TutorialTextBox3302]",
-        "Text": "성장이나 마장 효과를 가진 무구, 그리고 마장 향유가 재료로 쓰여."
+        "Text": "성장이나 마장 효과를 가진 무구,<br>그리고 마장 향유가 재료로 쓰여."
     },
     {
         "Id": 17360,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[TutorialTextBox3303]",
-        "Text": "이걸로 마장 레벨이 오를 거야. 부위에 따라 성장・마장 효과는 다르니까 다른 무구도 살펴보면 좋을 거야."
+        "Text": "이걸로 마장 레벨이 오를 거야.<br>부위에 따라 성장・마장 효과는 다르니까<br>다른 무구도 살펴보면 좋을 거야."
     },
     {
         "Id": 17361,
@@ -105424,14 +106481,14 @@
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[TutorialTextBox3401]",
-        "Text": "연마는 무구의 스테이터스 밸런스를 변경할 수 있어. 일단 한번 해 보자."
+        "Text": "연마는 무구의 스테이터스 밸런스를 변경할 수 있어.<br>일단 한번 해 보자."
     },
     {
         "Id": 17363,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[TutorialTextBox3402]",
-        "Text": "수치가 각각 변화했어. 캐릭터별 주요 스테이터스가 높아지도록 몇 번이고 도전해 보자."
+        "Text": "수치가 각각 변화했어.<br>캐릭터별 주요 스테이터스가  높아지도록 몇 번이고 도전해 보자."
     },
     {
         "Id": 17364,
@@ -115617,6 +116674,34 @@
         "Memo": "",
         "StringKey": "[GachaExplanation66]",
         "Text": "소피아 기간 한정 등장!"
+    },
+    {
+        "Id": 18865,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[GachaDetailDialogDetail67]",
+        "Text": "・다이아 또는 전용 티켓을 소모하여 이용할 수 있는 뽑기입니다.<br>・캐릭터만 출현합니다.<br>・99회 이내로 픽업 대상인［선악의 마녀］일리아이(가) 출현하지 않았을 경우, 100회째 뽑기 때 반드시［선악의 마녀］일리아 1명이 확정 출현합니다.<br>・확정 출현까지 현재 남은 횟수는【{0}/100】입니다.<br>・플래티넘 뽑기, 픽업 뽑기, 속성 뽑기의 누적 뽑기 횟수에 따라 횟수 보상으로 확정된 아이템을 획득할 수 있습니다.<br>※획득한 아이템은 바로 보유 수에 가산됩니다.<br>※아이템 보유 수가 상한에 도달했을 경우 선물함에서 확인할 수 있습니다.<br>・셀렉트 목록에 설정된 SR 캐릭터의 제공 비율이 높아집니다. SR 캐릭터 전체 제공 비율 자체는 변함이 없습니다. 상세 내용은 셀렉트 목록의 도움말에서 확인해 주세요."
+    },
+    {
+        "Id": 18866,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[GachaDetailDailogHeading67]",
+        "Text": "픽업 뽑기에는 픽업 대상 캐릭터가 새롭게 등장하며 다른 캐릭터보다 제공 비율이 높아집니다.<br>픽업 대상 캐릭터는 아래의「개별 제공 비율」을 확인해 주세요.<br>■개최 기간<br>{0}<br>■확정 출현이란?<br>픽업 뽑기에서 99회 이내로 픽업 대상인［선악의 마녀］일리아이(가) 출현하지 않았을 경우, 100회째 뽑기 때 반드시［선악의 마녀］일리아 1명이 확정 출현합니다.<br>■횟수 보상<br>플래티넘 뽑기, 속성 뽑기의 누적 뽑기 횟수에 따라 받을 수 있는「횟수 보상」에는 픽업 뽑기의 횟수도 포함해서 계산됩니다. <br>(즉, 다른 뽑기에서 누적된 횟수에 이어서 보상을 획득할 수 있습니다.)<br>■주의사항<br>［선악의 마녀］일리아은(는) 이후 일정 기간, 픽업 뽑기와 운명 뽑기 이외의 다른 뽑기에서는 출현하지 않습니다.<br>횟수 보상인 마녀의 초대장에서는［선악의 마녀］일리아을(를) 선택할 수 없습니다.<br>［선악의 마녀］일리아와 일리아는 별도의 캐릭터로 취급하며, 동일 파티 편성이 가능합니다."
+    },
+    {
+        "Id": 18867,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[GachaDetailDialogNotes67]",
+        "Text": "・뽑기 내용은 예고 없이 변경되는 경우가 있습니다.<br>・출현 캐릭터의 제공 비율은 캐릭터에 따라 달라집니다.<br>・각 제공 비율은 소수점 4자리를 반올림하여 표시하고 있으므로 합계값이 100%가 안 되는 경우가 있습니다.<br>・뽑기는 1회마다 제공 비율을 기준으로 추첨하고 있습니다. 그러므로 제공 비율이 2%인 캐릭터가 50회 중 1회 반드시 출현하는 것은 아닙니다.<br>・서버와의 통신 상태에 따라 뽑기 연출이 스킵되거나 뽑기 연출의 일부 또는 전부가 정상적으로 표시되지 않을 경우가 있지만, 캐릭터 추가는 정상적으로 완료됩니다. 캐릭터 목록을 확인해 주세요."
+    },
+    {
+        "Id": 18868,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[GachaExplanation67]",
+        "Text": "일리아 (선악) 기간 한정 등장!"
     },
     {
         "Id": 19121,
