@@ -64148,6 +64148,48 @@
         "Text": "사용하면【성스러운 창의 마녀】엘프린데의 픽업 뽑기를 1회 뽑을 수 있습니다.<br><color=#248CA7>주요 입수 방법 : 프리미엄 상점 (기간 한정)</color><br><color=#BE5742>※기간이 지나면 해당 아이템을 판매해서 플래티넘 뽑기 티켓 1장과 교환할 수 있습니다.</color>"
     },
     {
+        "Id": 11231,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemName106]",
+        "Text": "일리아 뽑기 티켓"
+    },
+    {
+        "Id": 11232,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemDisplayName106]",
+        "Text": "일리아 뽑기 티켓"
+    },
+    {
+        "Id": 11233,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemDescription106]",
+        "Text": "사용하면［선악의 마녀］일리아의 픽업 뽑기를 1회 뽑을 수 있습니다.<br><color=#248CA7>주요 입수 방법 : 프리미엄 상점 (기간 한정)</color><br><color=#BE5742>※기간이 지나면 해당 아이템을 판매해서 플래티넘 뽑기 티켓 1장과 교환할 수 있습니다.</color>"
+    },
+    {
+        "Id": 11234,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemName107]",
+        "Text": "금단의 과실"
+    },
+    {
+        "Id": 11235,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemDisplayName107]",
+        "Text": "금단의 과실"
+    },
+    {
+        "Id": 11236,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemDescription107]",
+        "Text": "열매를 따 먹고 지혜를 얻게 된 인간은 낙원을 떠났다. 꿀보다 더 달콤한 '무언가'를 알아버렸기에... 상점에서 다른 아이템과 교환할 수 있습니다.<br><color=#248CA7>주요 입수 방법 : 환영의 신전 (기간 한정), 일일 미션 (기간 한정), 프리미엄 상점 (기간 한정)</color>"
+    },
+    {
         "Id": 11366,
         "IsIgnore": false,
         "Memo": "",
@@ -104461,6 +104503,13 @@
         "Text": "미션을 클리어하면 해당하는 칸을 해방할 수 있습니다.<br>가로 또는 세로로 한 줄을 해방할 때마다 보상을 획득할 수 있습니다.<br>모든 칸을 해방하면 <color=#BE5742>한정 이벤트 회상</color>을 얻을 수 있습니다."
     },
     {
+        "Id": 17230,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialDescriptionMainText41]",
+        "Text": "퀘스트는 이벤트 개최 중 24시간 동안 개방되며, 승리하면 <color=#BE5742>이벤트 전용 아이템</color>을 획득할 수 있습니다.<br><color=#BE5742>이벤트 전용 아이템</color>은 <color=#BE5742>상점</color>에서 귀중한 아이템이나 캐릭터와 교환 가능합니다.<br><color=#BE5742>12:30~13:30</color>, <color=#BE5742>19:30~20:30 (서버 시간)</color> 사이에 도전하면 평소보다 더 많은 보상을 획득할 수 있습니다."
+    },
+    {
         "Id": 17231,
         "IsIgnore": false,
         "Memo": "",
@@ -105189,11 +105238,67 @@
         "Text": "목록은 매일 갱신되니까<br>자주 확인해 보는 게 좋을거야."
     },
     {
+        "Id": 17336,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2100]",
+        "Text": "이곳에서 무구 강화를 할 수 있나 봐. 바로 강화해 보자!"
+    },
+    {
+        "Id": 17337,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2200]",
+        "Text": "무구에 장착할 수 있는 룬이 있나 보네. 바로 장착해 보자!"
+    },
+    {
+        "Id": 17338,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2201]",
+        "Text": "룬은 마법의 힘을 결정화한 거라서 원재료의 힘에 따라 다양한 능력치가 상승해."
+    },
+    {
+        "Id": 17339,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2202]",
+        "Text": "룬을 장착하려면 장비에 슬롯 가공을 해야 해. 가공할 곳을 선택해 볼래?"
+    },
+    {
         "Id": 17340,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[TutorialTextBox2203]",
         "Text": "선택한 룬을 장착하자.<br>슬롯을 가공한 다음부터는<br>룬을 자유롭게 장착하고 해제할 수 있어."
+    },
+    {
+        "Id": 17341,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2400]",
+        "Text": "이곳에서 캐릭터를 진화시킬 수 있나 봐. 레어리티를 올려서 더욱 강해질 수 있어."
+    },
+    {
+        "Id": 17342,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2401]",
+        "Text": "진화시키고 싶은 캐릭터를 골라 봐."
+    },
+    {
+        "Id": 17343,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2402]",
+        "Text": "진화하기 위해서는 동료들의 힘이 필요해. 조건에 맞는 캐릭터를 선택해 봐."
+    },
+    {
+        "Id": 17344,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2403]",
+        "Text": "이걸로 진화할 수 있어. 바로 진화해 보자!"
     },
     {
         "Id": 17345,
@@ -105231,6 +105336,34 @@
         "Text": "선택받은 길드만 올 수 있으니 어느 길드든 강해 보이지만<br>우리라고 질 수는 없어!<br>우리 모두의 힘을 보여 줘야지!"
     },
     {
+        "Id": 17350,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2603]",
+        "Text": "공격해서 거점을 점령해 보자. 점령한 만큼 보상을 받을 수 있어."
+    },
+    {
+        "Id": 17351,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2604]",
+        "Text": "거점에는 교회, 성, 신전이 있어. 중앙에 있는 신전의 보상이 가장 호화롭지."
+    },
+    {
+        "Id": 17352,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2605]",
+        "Text": "이곳이 우리가 노려야 할 신전이야."
+    },
+    {
+        "Id": 17353,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2606]",
+        "Text": "거점을 터치해서 자세히 살펴보자."
+    },
+    {
         "Id": 17354,
         "IsIgnore": false,
         "Memo": "",
@@ -105250,6 +105383,55 @@
         "Memo": "",
         "StringKey": "[TutorialTextBox2702]",
         "Text": "하지만 우리라면 문제없어!<br>여기까지 함께 힘을 합쳐 왔는걸.<br>우리의 힘을 모두에게 보여 주자!"
+    },
+    {
+        "Id": 17357,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox3300]",
+        "Text": "이곳에서 신장 강화를 할 수 있나 봐. 성장과 마장의 힘을 무구에 부여할 수 있어."
+    },
+    {
+        "Id": 17358,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox3301]",
+        "Text": "신장 강화에 필요한 재료를 골라 봐."
+    },
+    {
+        "Id": 17359,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox3302]",
+        "Text": "성장이나 마장 효과를 가진 무구, 그리고 마장 향유가 재료로 쓰여."
+    },
+    {
+        "Id": 17360,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox3303]",
+        "Text": "이걸로 마장 레벨이 오를 거야. 부위에 따라 성장・마장 효과는 다르니까 다른 무구도 살펴보면 좋을 거야."
+    },
+    {
+        "Id": 17361,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox3400]",
+        "Text": "여기에서 무구를 연마할 수 있나 봐. 얼른 해 보자!"
+    },
+    {
+        "Id": 17362,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox3401]",
+        "Text": "연마는 무구의 스테이터스 밸런스를 변경할 수 있어. 일단 한번 해 보자."
+    },
+    {
+        "Id": 17363,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox3402]",
+        "Text": "수치가 각각 변화했어. 캐릭터별 주요 스테이터스가 높아지도록 몇 번이고 도전해 보자."
     },
     {
         "Id": 17364,

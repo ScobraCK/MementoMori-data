@@ -64148,6 +64148,48 @@
         "Text": ""
     },
     {
+        "Id": 11231,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemName106]",
+        "Text": ""
+    },
+    {
+        "Id": 11232,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemDisplayName106]",
+        "Text": ""
+    },
+    {
+        "Id": 11233,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemDescription106]",
+        "Text": ""
+    },
+    {
+        "Id": 11234,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemName107]",
+        "Text": ""
+    },
+    {
+        "Id": 11235,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemDisplayName107]",
+        "Text": ""
+    },
+    {
+        "Id": 11236,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemDescription107]",
+        "Text": ""
+    },
+    {
         "Id": 11366,
         "IsIgnore": false,
         "Memo": "",
@@ -104461,6 +104503,13 @@
         "Text": ""
     },
     {
+        "Id": 17230,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialDescriptionMainText41]",
+        "Text": ""
+    },
+    {
         "Id": 17231,
         "IsIgnore": false,
         "Memo": "",
@@ -105189,11 +105238,67 @@
         "Text": "Les articles de la boutique sont rafraîchis tous les jours,<br>alors je vous conseille d'y jeter un œil régulièrement."
     },
     {
+        "Id": 17336,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2100]",
+        "Text": "Ici, vous pouvez renforcer votre équipement.<br>Essayons sans attendre !"
+    },
+    {
+        "Id": 17337,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2200]",
+        "Text": "Vous possédez des runes assignables à votre équipement.<br>Essayons de les assigner de ce pas !"
+    },
+    {
+        "Id": 17338,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2201]",
+        "Text": "Les runes se forment avec de la magie cristallisée.<br>Selon l'origine de cette magie, les runes peuvent améliorer différents attributs."
+    },
+    {
+        "Id": 17339,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2202]",
+        "Text": "Vous avez besoin de créer un emplacement de rune<br>afin d'assigner une rune à l'équipement.<br>Allez-y, choisissez où créer votre emplacement."
+    },
+    {
         "Id": 17340,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[TutorialTextBox2203]",
         "Text": "Assignons à présent la rune que vous avez choisie.<br>Une fois un emplacement créé, il est possible d'y assigner<br>ou d'enlever les runes comme bon vous semble."
+    },
+    {
+        "Id": 17341,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2400]",
+        "Text": "Il est possible d'améliorer vos personnages ici.<br>Si vous augmentez leur rareté, ils deviendront encore plus forts."
+    },
+    {
+        "Id": 17342,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2401]",
+        "Text": "Choisissez le personnage que vous souhaitez améliorer."
+    },
+    {
+        "Id": 17343,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2402]",
+        "Text": "La puissance d'autres personnages est nécessaire pour l'amélioration.<br>Sélectionnez ceux qui répondent aux prérequis."
+    },
+    {
+        "Id": 17344,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2403]",
+        "Text": "À présent, nous pouvons faire une amélioration.<br>Essayons sans attendre !"
     },
     {
         "Id": 17345,
@@ -105231,6 +105336,34 @@
         "Text": "On dirait bien que seules des guildes de durs à cuir ont été choisies,<br>mais nous n'avons pas dit notre dernier mot.<br>Nous allons leur montrer de quel bois on se chauffe !"
     },
     {
+        "Id": 17350,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2603]",
+        "Text": "Nous allons passer à l'attaque. Seules les bases capturées nous rapporteront des récompenses."
+    },
+    {
+        "Id": 17351,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2604]",
+        "Text": "Nous pouvons attaquer les églises, les châteaux et les temples. Les meilleures récompenses se trouvent dans le temple au milieu de la carte."
+    },
+    {
+        "Id": 17352,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2605]",
+        "Text": "Nous devrions le cibler en priorité."
+    },
+    {
+        "Id": 17353,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2606]",
+        "Text": "Touchez la base afin de regarder à l'intérieur."
+    },
+    {
         "Id": 17354,
         "IsIgnore": false,
         "Memo": "",
@@ -105250,6 +105383,55 @@
         "Memo": "",
         "StringKey": "[TutorialTextBox2702]",
         "Text": "Pas de crainte à avoir.<br>Nous sommes parvenus jusqu'ici ensemble et<br>nous leur montrerons de quoi nous sommes capables !"
+    },
+    {
+        "Id": 17357,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox3300]",
+        "Text": "Vous êtes désormais capable de faire un renforcement sacré.<br>Cela vous permet de pourvoir votre équipement d'un niveau de sainteté et de malédiction."
+    },
+    {
+        "Id": 17358,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox3301]",
+        "Text": "Choisissez les matériaux nécessaires au renforcement sacré."
+    },
+    {
+        "Id": 17359,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox3302]",
+        "Text": "Vous pouvez utiliser du parfum de malédiction, ou encore de l'équipement possédant des effets de malédiction ou de sainteté."
+    },
+    {
+        "Id": 17360,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox3303]",
+        "Text": "Vous pouvez à présent faire un renforcement sacré.<br>Selon la partie du corps à équiper, les effets de sainteté et de malédiction varient.<br>N'hésitez à essayer sur d'autres éléments d'équipement."
+    },
+    {
+        "Id": 17361,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox3400]",
+        "Text": "C'est ici que vous pouvez affûter votre équipement.<br>Essayons de ce pas !"
+    },
+    {
+        "Id": 17362,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox3401]",
+        "Text": "L'affûtage permet de redistribuer les statistiques de l'équipement.<br>Que diriez-vous d'essayer ?"
+    },
+    {
+        "Id": 17363,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox3402]",
+        "Text": "Les valeurs ont été redistribuées.<br>N'hésitez pas à recourir plusieurs fois à l'affûtage afin que des statistiques spécifiques soient cohérentes avec la classe du personnage concerné."
     },
     {
         "Id": 17364,

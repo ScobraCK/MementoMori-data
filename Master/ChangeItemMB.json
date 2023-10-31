@@ -3998,5 +3998,37 @@
         "ItemId": 450,
         "ItemType": 16,
         "NeedCount": 1
+    },
+    {
+        "Id": 251,
+        "IsIgnore": null,
+        "Memo": "イリアガチャチケット",
+        "ChangeItems": [
+            {
+                "ItemCount": 1,
+                "ItemId": 2,
+                "ItemType": 16
+            }
+        ],
+        "ChangeItemType": 0,
+        "ItemId": 610,
+        "ItemType": 16,
+        "NeedCount": 1
+    },
+    {
+        "Id": 252,
+        "IsIgnore": null,
+        "Memo": "禁断の果実",
+        "ChangeItems": [
+            {
+                "ItemCount": 10000,
+                "ItemId": 1,
+                "ItemType": 3
+            }
+        ],
+        "ChangeItemType": 0,
+        "ItemId": 11,
+        "ItemType": 50,
+        "NeedCount": 1
     }
 ]

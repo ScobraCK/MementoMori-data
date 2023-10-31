@@ -64148,6 +64148,48 @@
         "Text": "使用すると【聖槍の魔女】エルフリンデのピックアップガチャを1回引くことができます。<br><color=#248CA7>主な入手方法：プレミアギフト（期間限定）</color><br><color=#BE5742>※期間を過ぎると売却してプラチナガチャチケット1枚と交換することができます</color>"
     },
     {
+        "Id": 11231,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemName106]",
+        "Text": "イリアガチャチケット"
+    },
+    {
+        "Id": 11232,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemDisplayName106]",
+        "Text": "イリアガチャチケット"
+    },
+    {
+        "Id": 11233,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemDescription106]",
+        "Text": "使用すると［神呪の魔女］イリアのピックアップガチャを1回引くことができます。<br><color=#248CA7>主な入手方法：プレミアギフト（期間限定）</color><br><color=#BE5742>※期間を過ぎると売却してプラチナガチャチケット1枚と交換することができます</color>"
+    },
+    {
+        "Id": 11234,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemName107]",
+        "Text": "禁断の果実"
+    },
+    {
+        "Id": 11235,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemDisplayName107]",
+        "Text": "禁断の果実"
+    },
+    {
+        "Id": 11236,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemDescription107]",
+        "Text": "知恵の実を食べた人間は楽園を去った。それは蜜よりも甘いものを知ったから──<br>ショップで他アイテムと交換することができます。<br><color=#248CA7>主な入手方法：幻影の神殿（期間限定）、デイリーミッション（期間限定）、プレミアギフト（期間限定）</color>"
+    },
+    {
         "Id": 11366,
         "IsIgnore": false,
         "Memo": "",
@@ -104461,6 +104503,13 @@
         "Text": "ミッションをクリアすると対応するパネルのマスを開放することができます。<br>縦横いずれかのラインが全て解放したマスで揃うと対応する宝箱から報酬を獲得できます。<br>全てのマスを解放すると<color=#BE5742>限定イベントパネル</color>を獲得できます。"
     },
     {
+        "Id": 17230,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialDescriptionMainText41]",
+        "Text": "イベント開催中は24時間クエストが解放され、勝利することで「<color=#BE5742>イベント専用アイテム</color>」が獲得できます。<br>「<color=#BE5742>イベント専用アイテム</color>」は<color=#BE5742>ショップ</color>で貴重なアイテムやキャラと交換可能です。<br>また12:30~13:30、19:30~20:30の期間に挑戦することで、通常より多く報酬を獲得できます。"
+    },
+    {
         "Id": 17231,
         "IsIgnore": false,
         "Memo": "",
@@ -105189,11 +105238,67 @@
         "Text": "ラインナップは毎日更新されるから、<br>こまめにチェックするといいかも。"
     },
     {
+        "Id": 17336,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2100]",
+        "Text": "ここから武具の強化ができるみたいだね。 さっそくやってみよう！"
+    },
+    {
+        "Id": 17337,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2200]",
+        "Text": "武具に装着できるルーンがあるみたいだね。さっそく付けてみよう。"
+    },
+    {
+        "Id": 17338,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2201]",
+        "Text": "ルーンは魔法の力を結晶化したもので、素（もと）となった力によって様々な能力が上がるんだ。"
+    },
+    {
+        "Id": 17339,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2202]",
+        "Text": "ルーンを装着するためには、装備品にスロット加工をする必要があるの。加工する箇所を選んでくれる？"
+    },
+    {
         "Id": 17340,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[TutorialTextBox2203]",
         "Text": "選んだルーンを装着しよう。<br>スロットを加工した後は、<br>ルーンの付け外しは自由に可能だよ。"
+    },
+    {
+        "Id": 17341,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2400]",
+        "Text": "ここでキャラの進化ができるみたい。 レアリティを上げるとさらに強くなれるよ。"
+    },
+    {
+        "Id": 17342,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2401]",
+        "Text": "進化させたいキャラを選んでね。"
+    },
+    {
+        "Id": 17343,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2402]",
+        "Text": "進化するには、仲間の力が必要なんだ。条件にあったキャラを選んでね。"
+    },
+    {
+        "Id": 17344,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2403]",
+        "Text": "これで進化できるよ。さっそく試してみよう！"
     },
     {
         "Id": 17345,
@@ -105231,6 +105336,34 @@
         "Text": "選ばれたギルドしか来れないからどこも強そうだけど、<br>私たちだって負けてないよ。<br>みんなの強さを、見せてあげなくちゃ！"
     },
     {
+        "Id": 17350,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2603]",
+        "Text": "拠点に攻撃を仕掛けて、占有しよう。占有した分だけ、報酬がもらえるよ。"
+    },
+    {
+        "Id": 17351,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2604]",
+        "Text": "拠点には、教会、城、神殿があるんだ。中央に配置された神殿の報酬が最も豪華だよ。"
+    },
+    {
+        "Id": 17352,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2605]",
+        "Text": "ここが目指すべき神殿だね。"
+    },
+    {
+        "Id": 17353,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2606]",
+        "Text": "拠点をタップして、くわしく見てみよう。"
+    },
+    {
         "Id": 17354,
         "IsIgnore": false,
         "Memo": "",
@@ -105250,6 +105383,55 @@
         "Memo": "",
         "StringKey": "[TutorialTextBox2702]",
         "Text": "だけど、私たちなら大丈夫だよね。<br>ここまで力を合わせて来たんだから。<br>私たちの強さ、みんなに見せてあげよう！"
+    },
+    {
+        "Id": 17357,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox3300]",
+        "Text": "ここから神装強化ができるみたい。 聖装と魔装の力を武具に与えることができるんだ。"
+    },
+    {
+        "Id": 17358,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox3301]",
+        "Text": "神装強化に必要な素材を選んでね。"
+    },
+    {
+        "Id": 17359,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox3302]",
+        "Text": "聖装や魔装効果を持った武具、魔装香油が素材になるよ。"
+    },
+    {
+        "Id": 17360,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox3303]",
+        "Text": "これで魔装レベルが上がるよ。 部位によって聖装・魔装効果は違うから、 他の武具でも試してみてね。"
+    },
+    {
+        "Id": 17361,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox3400]",
+        "Text": "ここで武具の研磨ができるみたい。さっそくやってみよう！"
+    },
+    {
+        "Id": 17362,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox3401]",
+        "Text": "研磨は武具のステータスバランスを変更できるよ。まずは一度試してみよう。"
+    },
+    {
+        "Id": 17363,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox3402]",
+        "Text": "数値がそれぞれ変化したね。キャラの得意ステータスが高くなるように何度も挑戦してみよう。"
     },
     {
         "Id": 17364,

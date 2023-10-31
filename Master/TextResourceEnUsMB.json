@@ -64148,6 +64148,48 @@
         "Text": "Use to Invoke 1 time in 【The Witch of Longinus】Elfriede’s Prayer of The Fleeting.<br><color=#248CA7>Main way to obtain: Premier Gifts (limited)</color><br><color=#BE5742>*When the Prayer of The Fleeting expires, this item can be sold in exchange for 1 Ticket of The Cursed.</color>"
     },
     {
+        "Id": 11231,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemName106]",
+        "Text": "Illya Prayer Ticket"
+    },
+    {
+        "Id": 11232,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemDisplayName106]",
+        "Text": "Illya Prayer Ticket"
+    },
+    {
+        "Id": 11233,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemDescription106]",
+        "Text": "Use to Invoke 1 time in [The Witch of God’s Curse] Illya’s Prayer of The Fleeting.<br><color=#248CA7>Main way to obtain: Premier Gifts (limited)</color><br><color=#BE5742>*When the Prayer of The Fleeting expires, this item can be sold in exchange for 1 Ticket of The Cursed.</color>"
+    },
+    {
+        "Id": 11234,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemName107]",
+        "Text": "Forbidden Fruit"
+    },
+    {
+        "Id": 11235,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemDisplayName107]",
+        "Text": "Forbidden Fruit"
+    },
+    {
+        "Id": 11236,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[ItemDescription107]",
+        "Text": "Those who ate the fruit of knowledge have left paradise. For they have learned that which is sweeter than honey. Use to exchange for other items at the Shop.<br><color=#248CA7>Main ways to obtain: Temple of Illusions (limited), Daily Missions (limited), Premier Gifts (limited)</color>"
+    },
+    {
         "Id": 11366,
         "IsIgnore": false,
         "Memo": "",
@@ -104461,6 +104503,13 @@
         "Text": "Clearing a mission will allow you to unlock its corresponding panel square.<br>When you complete unlocking all squares in a horizontal or vertical line,<br>you can obtain rewards from that line’s corresponding chest.<br>Unlocking every square will allow you to obtain a <color=#BE5742>limited event panel.</color>"
     },
     {
+        "Id": 17230,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialDescriptionMainText41]",
+        "Text": "While the event is underway, the Temple of Illusions will be open for 24 hours every day.<br>By beating the limited quests, you will obtain the <color=#BE5742>limited event item</color>, which can be exchanged at the <color=#BE5742>Shop</color> for amazing items and characters. Additionally, you will earn boosted rewards by challenging the Temple between <color=#BE5742>12:30~13:30</color> and <color=#BE5742>19:30~20:30 (Server Time).</color>"
+    },
+    {
         "Id": 17231,
         "IsIgnore": false,
         "Memo": "",
@@ -105189,11 +105238,67 @@
         "Text": "The variety of gear will be updated every day,<br>so you should probably check in frequently."
     },
     {
+        "Id": 17336,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2100]",
+        "Text": "Looks like you can upgrade your gear from here.<br>Let’s give it a try!"
+    },
+    {
+        "Id": 17337,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2200]",
+        "Text": "Looks like you have some runes that<br>you can mount onto your gear.<br>Let’s try and put them on."
+    },
+    {
+        "Id": 17338,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2201]",
+        "Text": "Runes are crystalized masses of magic power,<br>and they strengthen different abilities<br>depending on their source of power."
+    },
+    {
+        "Id": 17339,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2202]",
+        "Text": "To mount a rune, you need to<br>construct a slot onto your gear.<br>Can you select where you want to construct?"
+    },
+    {
         "Id": 17340,
         "IsIgnore": false,
         "Memo": "",
         "StringKey": "[TutorialTextBox2203]",
         "Text": "Now, let’s take the rune you chose and mount it.<br>After constructing a slot, you’re free to mount or<br>remove any rune from it as you please."
+    },
+    {
+        "Id": 17341,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2400]",
+        "Text": "Looks like you can awaken characters here.<br>If you raise our rarities, we’ll get even stronger."
+    },
+    {
+        "Id": 17342,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2401]",
+        "Text": "Go and select the character you want to awaken."
+    },
+    {
+        "Id": 17343,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2402]",
+        "Text": "Awakening needs the power of allies.<br>Next, select characters who meet the requirements."
+    },
+    {
+        "Id": 17344,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2403]",
+        "Text": "Now we can awaken this character.<br>Let’s try it out!"
     },
     {
         "Id": 17345,
@@ -105231,6 +105336,34 @@
         "Text": "Only the most superior of guilds can come,<br>hence why everyone looks so strong,<br>but that doesn’t mean we’ve been outmatched.<br>It’s time to show just how strong we really are!"
     },
     {
+        "Id": 17350,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2603]",
+        "Text": "Let’s launch attacks on bases and capture them.<br>We can earn rewards based on how many we’ve captured."
+    },
+    {
+        "Id": 17351,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2604]",
+        "Text": "Bases are comprised of churches, castles, and temples.<br>We’ll get the best rewards from the temple at the center of the map."
+    },
+    {
+        "Id": 17352,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2605]",
+        "Text": "Guess this is the temple we need to set our sights on."
+    },
+    {
+        "Id": 17353,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox2606]",
+        "Text": "Go ahead and tap Base to see more information about it."
+    },
+    {
         "Id": 17354,
         "IsIgnore": false,
         "Memo": "",
@@ -105250,6 +105383,55 @@
         "Memo": "",
         "StringKey": "[TutorialTextBox2702]",
         "Text": "But, we have nothing to worry about.<br>We’ve come this far by uniting our powers as one.<br>It’s time to show everyone just how strong we are!"
+    },
+    {
+        "Id": 17357,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox3300]",
+        "Text": "Looks like you can augment gear from here.<br>You can take holy and dark powers<br>and bestow them onto your gear."
+    },
+    {
+        "Id": 17358,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox3301]",
+        "Text": "Go and select the materials required for augmenting."
+    },
+    {
+        "Id": 17359,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox3302]",
+        "Text": "The materials you can use are gear that have<br>holy or dark effects, and Dark Perfume."
+    },
+    {
+        "Id": 17360,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox3303]",
+        "Text": "This will raise the gear’s Dark Lv.<br>A piece of gear’s holy and dark effects depend on<br>the body part it’s for, so try augmenting other gear, too."
+    },
+    {
+        "Id": 17361,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox3400]",
+        "Text": "Looks like you can reforge gear here.<br>Let’s give it a try!"
+    },
+    {
+        "Id": 17362,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox3401]",
+        "Text": "Reforging can rebalance a piece of gear’s stats.<br>Let’s test it out."
+    },
+    {
+        "Id": 17363,
+        "IsIgnore": false,
+        "Memo": "",
+        "StringKey": "[TutorialTextBox3402]",
+        "Text": "Now each stat’s numerical value has changed.<br>Let’s try reforging again and again so a character’s<br>unique type stat gets even stronger."
     },
     {
         "Id": 17364,
