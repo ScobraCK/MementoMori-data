@@ -25069,9 +25069,9 @@
     {
         "Id": 3830,
         "IsIgnore": false,
-        "Memo": "",
+        "Memo": null,
         "StringKey": "[PassiveSkillDescription610031]",
-        "Text": "“I thought I was ready...to give up my life and save the world. But, somewhere deep in my heart...” At the start of the battle, this skill grants [Devotion] to Illya (cannot be dispelled). [Devotion] makes Illya substitutively take 20% of the damage taken by another ally. If Illya or another ally is attacked, and the number of times Illya has taken damage from attacks is 10 or more, or if the number of allies other than Illya who are alive becomes 0, this skill’s [Devotion] is dispelled, and this skill grants [God’s Curse Unleashed] to Illya for 2 turns (cannot be dispelled). This skill activates only 1 time per battle."
+        "Text": "“I thought I was ready...to give up my life and save the world. But, somewhere deep in my heart...” At the start of the battle, this skill grants [Devotion] to Illya (cannot be dispelled). [Devotion] makes Illya substitutively take 20% of the damage taken by another ally (this damage counts as taking an attack). If an ally, including Illya, is attacked, and the total number of times an ally, including Illya, has taken attacks becomes 10 or more (for attacks that are dealt to multiple targets, each hit to an ally, including Illya, is counted), or if the number of allies other than Illya who are alive becomes 0, this skill’s [Devotion] is dispelled, and this skill grants [God’s Curse Unleashed] to Illya for 2 turns (cannot be dispelled). This skill activates only 1 time per battle."
     },
     {
         "Id": 3831,
@@ -25097,9 +25097,9 @@
     {
         "Id": 3834,
         "IsIgnore": false,
-        "Memo": "",
+        "Memo": null,
         "StringKey": "[PassiveSkillDescription610041]",
-        "Text": "This is the guardian angel that shouldn’t exist—the result of demons’ schemes and angels’ deception. If Illya or another ally is attacked, and the number of times Illya has taken damage from an enemy’s consecutive attacks this turn is 2 or more, the damage to Illya from that enemy’s attack is cut by 30%. When she takes damage that would reduce her HP to 0, she survives with 1 HP, and restores HP equal to 20% of her max HP to her. The effect that lets Illya survive with 1 HP activates only 1 time per battle."
+        "Text": "This is the guardian angel that shouldn’t exist—the result of demons’ schemes and angels’ deception. When an ally, including Illya, is attacked, the damage to Illya from that same enemy’s 2nd attack and onwards in the same turn is cut by 30% (for attacks that are dealt to multiple targets at the same time, they are counted as 1 attack regardless of how many times they deal damage). When she takes damage that would reduce her HP to 0, she survives with 1 HP, and restores HP equal to 20% of her max HP to her. The effect that lets Illya survive with 1 HP activates only 1 time per battle."
     },
     {
         "Id": 3835,
