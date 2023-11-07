@@ -1396,9 +1396,10 @@
     {
         "Id": 37,
         "IsIgnore": null,
-        "Memo": "神呪イリア②＋新規次キャラ仮入れ①（1108切替用）",
+        "Memo": "神呪イリア②＋シヴィ復刻①（1108切替用）",
         "CharacterIdList": [
             61,
+            52,
             5,
             6,
             7,
@@ -1424,11 +1425,49 @@
         ],
         "GachaSelectListType": 2,
         "NewCharacterIdList": [
-            61
+            61,
+            52
         ],
         "OrderNumber": 35,
         "StartTimeFixJST": "2023-11-08 14:30:00",
         "EndTimeFixJST": "2023-11-15 14:29:59"
+    },
+    {
+        "Id": 38,
+        "IsIgnore": null,
+        "Memo": "シヴィ復刻②＋新規次キャラ仮入れ①（1115切替用）",
+        "CharacterIdList": [
+            52,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "NewCharacterIdList": [
+            52
+        ],
+        "OrderNumber": 36,
+        "StartTimeFixJST": "2023-11-15 14:30:00",
+        "EndTimeFixJST": "2023-11-22 14:29:59"
     },
     {
         "Id": 10000,
