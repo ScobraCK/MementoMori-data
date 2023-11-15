@@ -8202,6 +8202,120 @@
         "RootActiveSkillId": 67002
     },
     {
+        "Id": 68001,
+        "IsIgnore": null,
+        "Memo": "フェーネSR:Lv1 行動を阻害するジャミング砲弾を敵の頭上で破裂させ、ランダムな敵5体に攻撃力×380%の物理攻撃を行う。充填された特殊金属片が周囲に降りそそぎ、40%の確率で2ターンの間対象の弱体効果命中率を50%減少させ『バフ無効』を付与する。これらは1つの弱体効果として扱う。/ Lv2 『弱体効果命中率減少』と『バフ無効』のターン数が4ターンになる。/ Lv3 『弱体効果命中率減少』と『バフ無効』を付与する確率が70%になる。/ Ex1 ジャミング砲弾を強化する。物理攻撃のダメージが攻撃力×480%になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription680011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    68001001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription680012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    68001201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription680013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    68001301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription680014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    68001501
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName68001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 68001
+    },
+    {
+        "Id": 68002,
+        "IsIgnore": null,
+        "Memo": "フェーネSR:Lv1 悪魔の体を内側から破壊する特殊弾頭砲弾で、脅威認定した敵を狙い撃つ。HP割合が最も高い敵に攻撃力×580%の物理攻撃を行い、40%の確率で2ターンの間対象に『浸食』を付与する。毎ターン行動開始時にこのスキルの総与ダメージ×40%のダメージを与える。バトル中このスキルを使うのが2回目以降の場合、物理攻撃のダメージが2倍になる。/ Lv2 『浸食』のターン数が4ターンになる。/ Lv3 『浸食』を付与する確率が70%になる。/ Lv4 物理攻撃のダメージが攻撃力×680%になる。/ Ex3 魔力浸透砲弾を強化する。『浸食』のダメージがスキルの総与ダメージ×50%になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription680021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    68002001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription680022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    68002201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription680023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    68002301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription680024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    68002401
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription680025]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    68002501
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName68002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 68002
+    },
+    {
         "Id": 70001,
         "IsIgnore": null,
         "Memo": "水着サブリナSR:Lv1 「水天貫け！」息をつく暇も与えない素早い突きで、ランダムな敵4体に攻撃力×350%の物理攻撃を行う。さらに吹き荒れる涼風が、敵の意識を奪う──物理攻撃の対象のうちHP割合が最も高い敵に1ターンの間『気絶』を付与する（物理攻撃の対象が全員戦闘不能になっている場合発動しない）。/ Lv2\\n 『気絶』のターン数が2ターンになる。/ Lv3 \\nさらに物理攻撃の前に4ターンの間対象のクリティカル耐性率を40%減少させる。/ Ex1 蒼穹のテンペストを強化する。物理攻撃の対象がランダムな敵5体になる。/ Ex3 蒼穹のテンペストを強化する。物理攻撃のダメージが攻撃力×400%になる。",
@@ -17805,6 +17919,120 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 67002
+    },
+    {
+        "Id": 550468001,
+        "IsIgnore": null,
+        "Memo": null,
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550468001001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550468001201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550468001301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550468001501
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName68001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 68001
+    },
+    {
+        "Id": 550468002,
+        "IsIgnore": null,
+        "Memo": null,
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550468002001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550468002201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550468002301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550468002401
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": null,
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550468002501
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName68002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 68002
     },
     {
         "Id": 550470001,

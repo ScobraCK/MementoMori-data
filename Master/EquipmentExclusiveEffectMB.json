@@ -6283,5 +6283,139 @@
             }
         ],
         "CharacterId": 61
+    },
+    {
+        "Id": 295,
+        "IsIgnore": null,
+        "Memo": "フェーネSSR180",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 68
+    },
+    {
+        "Id": 296,
+        "IsIgnore": null,
+        "Memo": "フェーネSSR200",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 600.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1300.0
+            }
+        ],
+        "CharacterId": 68
+    },
+    {
+        "Id": 297,
+        "IsIgnore": null,
+        "Memo": "フェーネSSR220",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 650.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1400.0
+            },
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "CharacterId": 68
+    },
+    {
+        "Id": 298,
+        "IsIgnore": null,
+        "Memo": "フェーネSSR240",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "CharacterId": 68
+    },
+    {
+        "Id": 299,
+        "IsIgnore": null,
+        "Memo": "フェーネUR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 750.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1600.0
+            },
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 900.0
+            }
+        ],
+        "CharacterId": 68
+    },
+    {
+        "Id": 300,
+        "IsIgnore": null,
+        "Memo": "フェーネLR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 1000.0
+            }
+        ],
+        "CharacterId": 68
     }
 ]

@@ -1435,8 +1435,9 @@
     {
         "Id": 38,
         "IsIgnore": null,
-        "Memo": "シヴィ復刻②＋新規次キャラ仮入れ①（1115切替用）",
+        "Memo": "シヴィ復刻②＋フェーネ①（1115切替用）",
         "CharacterIdList": [
+            68,
             52,
             5,
             6,
@@ -1463,11 +1464,49 @@
         ],
         "GachaSelectListType": 2,
         "NewCharacterIdList": [
+            68,
             52
         ],
         "OrderNumber": 36,
         "StartTimeFixJST": "2023-11-15 14:30:00",
         "EndTimeFixJST": "2023-11-22 14:29:59"
+    },
+    {
+        "Id": 39,
+        "IsIgnore": null,
+        "Memo": "フェーネ②＋新規次キャラ仮入れ①（1122切替用）",
+        "CharacterIdList": [
+            68,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "NewCharacterIdList": [
+            68
+        ],
+        "OrderNumber": 37,
+        "StartTimeFixJST": "2023-11-22 14:30:00",
+        "EndTimeFixJST": "2023-11-30 14:29:59"
     },
     {
         "Id": 10000,
