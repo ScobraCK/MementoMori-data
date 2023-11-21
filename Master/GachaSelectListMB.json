@@ -1474,9 +1474,10 @@
     {
         "Id": 39,
         "IsIgnore": null,
-        "Memo": "フェーネ②＋新規次キャラ仮入れ①（1122切替用）",
+        "Memo": "フェーネ②＋ケルベロス復刻①（1122切替用）",
         "CharacterIdList": [
             68,
+            43,
             5,
             6,
             7,
@@ -1502,11 +1503,49 @@
         ],
         "GachaSelectListType": 2,
         "NewCharacterIdList": [
-            68
+            68,
+            43
         ],
         "OrderNumber": 37,
         "StartTimeFixJST": "2023-11-22 14:30:00",
         "EndTimeFixJST": "2023-11-30 14:29:59"
+    },
+    {
+        "Id": 40,
+        "IsIgnore": null,
+        "Memo": "ケルベロス復刻②・新規仮データ(1130切替用)",
+        "CharacterIdList": [
+            43,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "NewCharacterIdList": [
+            43
+        ],
+        "OrderNumber": 38,
+        "StartTimeFixJST": "2023-11-30 14:30:00",
+        "EndTimeFixJST": "2023-12-07 14:29:59"
     },
     {
         "Id": 10000,
