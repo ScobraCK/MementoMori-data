@@ -8783,6 +8783,157 @@
         "RootActiveSkillId": 72002
     },
     {
+        "Id": 73001,
+        "IsIgnore": null,
+        "Memo": "聖夜アモールSR:Lv1 「愛を届けるからね……」ランダムな敵5体に攻撃力×180%の物理攻撃を行い、2ターンの間自身以外のスピードが最も高い味方のクリティカル率を30%増加させる。/ Lv2 さらに自身の物理攻撃でクリティカルヒットが1回以上発生した場合、味方に付与する『クリティカル率増加』の増加量が5%大きくなる。自身の物理攻撃でクリティカルヒットした回数1回につき増加量が5%大きくなる（合計で最大55%まで）。/ Lv3 さらに物理攻撃の前に2ターンの間自身のクリティカル率が30%増加する。/ Ex1 聖なる夜の贈り物を強化する。物理攻撃後の『クリティカル率増加』の対象が自身以外のスピードが高い味方3体になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription730011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    73001002,
+                    73001003
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription730012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    73001002,
+                    73001203
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription730013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    73001301,
+                    73001002,
+                    73001203
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription730014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    73001301,
+                    73001002,
+                    73001403
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName73001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 73001
+    },
+    {
+        "Id": 73002,
+        "IsIgnore": null,
+        "Memo": "聖夜アモールSR:Lv1 「王子様を傷つける奴は許さない……！」HP割合が最も高い敵に2回攻撃力×240%の物理攻撃を行う。ただしHP割合の判定は攻撃1回ごとに行う。このスキルで敵を戦闘不能にできなかった場合、このスキルを再発動する（再発動は1回まで）。/ Lv2 さらに自身のHP割合が50%以下の場合、物理攻撃のダメージが1.5倍になる。/ Lv3 物理攻撃の回数が3回になる。/ Lv4 自身のHP割合が50％以下の場合で得られる物理攻撃のダメージ上昇量が2倍になる。/ Ex3 運命の赤い茨を強化する。物理攻撃のダメージが攻撃力×340%になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription730021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    73002001,
+                    73002002,
+                    73002003,
+                    73002002,
+                    73002002,
+                    73002004
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription730022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    73002201,
+                    73002202,
+                    73002003,
+                    73002202,
+                    73002202,
+                    73002004
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription730023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    73002201,
+                    73002202,
+                    73002202,
+                    73002003,
+                    73002202,
+                    73002202,
+                    73002202,
+                    73002004
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription730024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    73002401,
+                    73002402,
+                    73002402,
+                    73002003,
+                    73002402,
+                    73002402,
+                    73002402,
+                    73002004
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription730025]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    73002501,
+                    73002502,
+                    73002502,
+                    73002003,
+                    73002502,
+                    73002502,
+                    73002502,
+                    73002004
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName73002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 73002
+    },
+    {
         "Id": 550109001,
         "IsIgnore": null,
         "Memo": "ギルドレイド通常ソーニャSR：ソーニャSR:旋風の如き素早い急襲。HPが最も低い敵に攻撃力×800％の物理攻撃を行う。弱った敵にも容赦しないヴァイキングの本能により、敵のHP割合が40％以下の場合、この攻撃は必ずクリティカルヒットする。／さらに自身の腕力×400％の直接攻撃を行う。／追加攻撃のダメージが腕力×600%になる。／さらにこのスキルで敵を戦闘不能にした場合、このスキルを再発動する。",
@@ -18500,6 +18651,157 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 72002
+    },
+    {
+        "Id": 550473001,
+        "IsIgnore": null,
+        "Memo": null,
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550473001002,
+                    550473001003
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550473001002,
+                    550473001203
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550473001301,
+                    550473001002,
+                    550473001203
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550473001301,
+                    550473001002,
+                    550473001403
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName73001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 73001
+    },
+    {
+        "Id": 550473002,
+        "IsIgnore": null,
+        "Memo": null,
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550473002001,
+                    550473002002,
+                    550473002003,
+                    550473002002,
+                    550473002002,
+                    550473002004
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550473002201,
+                    550473002202,
+                    550473002003,
+                    550473002202,
+                    550473002202,
+                    550473002004
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550473002201,
+                    550473002202,
+                    550473002202,
+                    550473002003,
+                    550473002202,
+                    550473002202,
+                    550473002202,
+                    550473002004
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550473002401,
+                    550473002402,
+                    550473002402,
+                    550473002003,
+                    550473002402,
+                    550473002402,
+                    550473002402,
+                    550473002004
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": null,
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550473002501,
+                    550473002502,
+                    550473002502,
+                    550473002003,
+                    550473002502,
+                    550473002502,
+                    550473002502,
+                    550473002004
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName73002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 73002
     },
     {
         "Id": 980000001,

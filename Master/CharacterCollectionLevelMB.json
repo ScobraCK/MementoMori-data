@@ -4885,5 +4885,160 @@
         "CharacterRarityFlags": 131072,
         "CollectionId": 33,
         "CollectionLevel": 7
+    },
+    {
+        "Id": 3401,
+        "IsIgnore": null,
+        "Memo": "コマ・ベレニケの恋路(聖夜アモール,アモール)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 3,
+                "Value": 30.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 8,
+        "CollectionId": 34,
+        "CollectionLevel": 1
+    },
+    {
+        "Id": 3402,
+        "IsIgnore": null,
+        "Memo": "コマ・ベレニケの恋路(聖夜アモール,アモール)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 2,
+                "ChangeParameterType": 3,
+                "Value": 30.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 3,
+                "Value": 70.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 128,
+        "CollectionId": 34,
+        "CollectionLevel": 2
+    },
+    {
+        "Id": 3403,
+        "IsIgnore": null,
+        "Memo": "コマ・ベレニケの恋路(聖夜アモール,アモール)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 2,
+                "ChangeParameterType": 3,
+                "Value": 30.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 3,
+                "Value": 70.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 512,
+        "CollectionId": 34,
+        "CollectionLevel": 3
+    },
+    {
+        "Id": 3404,
+        "IsIgnore": null,
+        "Memo": "コマ・ベレニケの恋路(聖夜アモール,アモール)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 2,
+                "ChangeParameterType": 3,
+                "Value": 30.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 3,
+                "Value": 70.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 16384,
+        "CollectionId": 34,
+        "CollectionLevel": 4
+    },
+    {
+        "Id": 3405,
+        "IsIgnore": null,
+        "Memo": "コマ・ベレニケの恋路(聖夜アモール,アモール)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 2,
+                "ChangeParameterType": 3,
+                "Value": 31.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 3,
+                "Value": 75.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 32768,
+        "CollectionId": 34,
+        "CollectionLevel": 5
+    },
+    {
+        "Id": 3406,
+        "IsIgnore": null,
+        "Memo": "コマ・ベレニケの恋路(聖夜アモール,アモール)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 2,
+                "ChangeParameterType": 3,
+                "Value": 32.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 3,
+                "Value": 80.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 65536,
+        "CollectionId": 34,
+        "CollectionLevel": 6
+    },
+    {
+        "Id": 3407,
+        "IsIgnore": null,
+        "Memo": "コマ・ベレニケの恋路(聖夜アモール,アモール)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 2,
+                "ChangeParameterType": 3,
+                "Value": 33.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 3,
+                "Value": 85.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 131072,
+        "CollectionId": 34,
+        "CollectionLevel": 7
     }
 ]

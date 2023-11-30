@@ -6417,5 +6417,134 @@
             }
         ],
         "CharacterId": 68
+    },
+    {
+        "Id": 301,
+        "IsIgnore": null,
+        "Memo": "聖夜アモールSSR180",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 73
+    },
+    {
+        "Id": 302,
+        "IsIgnore": null,
+        "Memo": "聖夜アモールSSR200",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1300.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 600.0
+            }
+        ],
+        "CharacterId": 73
+    },
+    {
+        "Id": 303,
+        "IsIgnore": null,
+        "Memo": "聖夜アモールSSR220",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1400.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            },
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            }
+        ],
+        "CharacterId": 73
+    },
+    {
+        "Id": 304,
+        "IsIgnore": null,
+        "Memo": "聖夜アモールSSR240",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            },
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            }
+        ],
+        "CharacterId": 73
+    },
+    {
+        "Id": 305,
+        "IsIgnore": null,
+        "Memo": "聖夜アモールUR",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1600.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 900.0
+            },
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 2000.0
+            }
+        ],
+        "CharacterId": 73
+    },
+    {
+        "Id": 306,
+        "IsIgnore": null,
+        "Memo": "聖夜アモールLR",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 1000.0
+            },
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 2200.0
+            }
+        ],
+        "CharacterId": 73
     }
 ]
