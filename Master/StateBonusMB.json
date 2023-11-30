@@ -26,12 +26,12 @@
     {
         "Id": 3,
         "IsIgnore": null,
-        "Memo": null,
+        "Memo": "3か国目クリア時　曜日ボーナス解放",
         "DungeonCoinBonusPercent": 0,
         "GuildCoinBonusPercent": 0,
-        "IsActiveWeeklyBonus": false,
+        "IsActiveWeeklyBonus": true,
         "ItemIconInfo": null,
-        "StateBonusNameTextKey": null,
+        "StateBonusNameTextKey": "[StateBonusName1]",
         "StateBonusNumberTextKey": null,
         "TotalActivityMedalRewardBonusList": null
     },
@@ -43,26 +43,14 @@
         "GuildCoinBonusPercent": 0,
         "IsActiveWeeklyBonus": true,
         "ItemIconInfo": null,
-        "StateBonusNameTextKey": "[StateBonusName1]",
+        "StateBonusNameTextKey": null,
         "StateBonusNumberTextKey": null,
         "TotalActivityMedalRewardBonusList": null
     },
     {
         "Id": 5,
         "IsIgnore": null,
-        "Memo": null,
-        "DungeonCoinBonusPercent": 0,
-        "GuildCoinBonusPercent": 0,
-        "IsActiveWeeklyBonus": true,
-        "ItemIconInfo": null,
-        "StateBonusNameTextKey": null,
-        "StateBonusNumberTextKey": null,
-        "TotalActivityMedalRewardBonusList": null
-    },
-    {
-        "Id": 6,
-        "IsIgnore": null,
-        "Memo": null,
+        "Memo": "5か国目クリア時　時空コインボーナス",
         "DungeonCoinBonusPercent": 15,
         "GuildCoinBonusPercent": 0,
         "IsActiveWeeklyBonus": true,
@@ -75,9 +63,9 @@
         "TotalActivityMedalRewardBonusList": null
     },
     {
-        "Id": 7,
+        "Id": 6,
         "IsIgnore": null,
-        "Memo": null,
+        "Memo": "6か国目クリア時　ギルドコインボーナス",
         "DungeonCoinBonusPercent": 15,
         "GuildCoinBonusPercent": 15,
         "IsActiveWeeklyBonus": true,
@@ -90,9 +78,9 @@
         "TotalActivityMedalRewardBonusList": null
     },
     {
-        "Id": 8,
+        "Id": 7,
         "IsIgnore": null,
-        "Memo": null,
+        "Memo": "7か国目クリア時　デイリー経験珠2時間分追加",
         "DungeonCoinBonusPercent": 15,
         "GuildCoinBonusPercent": 15,
         "IsActiveWeeklyBonus": true,
@@ -119,9 +107,9 @@
         ]
     },
     {
-        "Id": 9,
+        "Id": 8,
         "IsIgnore": null,
-        "Memo": null,
+        "Memo": "8か国目クリア時　デイリー潜在宝珠2時間分追加",
         "DungeonCoinBonusPercent": 15,
         "GuildCoinBonusPercent": 15,
         "IsActiveWeeklyBonus": true,
@@ -130,6 +118,45 @@
             "ItemType": 10
         },
         "StateBonusNameTextKey": "[StateBonusName5]",
+        "StateBonusNumberTextKey": null,
+        "TotalActivityMedalRewardBonusList": [
+            {
+                "BonusRewardList": [
+                    {
+                        "Item": {
+                            "ItemCount": 1,
+                            "ItemId": 7,
+                            "ItemType": 10
+                        },
+                        "RarityFlags": 0
+                    }
+                ],
+                "TotalActivityMedalRewardId": 3
+            },
+            {
+                "BonusRewardList": [
+                    {
+                        "Item": {
+                            "ItemCount": 1,
+                            "ItemId": 12,
+                            "ItemType": 10
+                        },
+                        "RarityFlags": 0
+                    }
+                ],
+                "TotalActivityMedalRewardId": 5
+            }
+        ]
+    },
+    {
+        "Id": 9,
+        "IsIgnore": null,
+        "Memo": null,
+        "DungeonCoinBonusPercent": 15,
+        "GuildCoinBonusPercent": 15,
+        "IsActiveWeeklyBonus": true,
+        "ItemIconInfo": null,
+        "StateBonusNameTextKey": null,
         "StateBonusNumberTextKey": null,
         "TotalActivityMedalRewardBonusList": [
             {

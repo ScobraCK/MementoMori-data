@@ -30,18 +30,18 @@
         "TutorialDescriptionId": 0
     },
     {
-        "Id": 300,
+        "Id": 400,
         "IsIgnore": null,
-        "Memo": "マイページ - ランキングDLG",
+        "Memo": "マイページ - プレイヤーランキングDLG",
         "HelpPartInfoList": [
             {
-                "HeadLine": "[HelpHeadLine300]",
-                "MainText": "[HelpMainText300]",
+                "HeadLine": "[HelpHeadLine400]",
+                "MainText": "[HelpMainText400]",
                 "HelpParameterType": 0
             },
             {
-                "HeadLine": "[HelpHeadLine301]",
-                "MainText": "[HelpMainText301]",
+                "HeadLine": "[HelpHeadLine401]",
+                "MainText": "[HelpMainText401]",
                 "HelpParameterType": 0
             }
         ],
@@ -50,18 +50,18 @@
         "TutorialDescriptionId": 0
     },
     {
-        "Id": 400,
+        "Id": 410,
         "IsIgnore": null,
-        "Memo": "マイページ - プレイヤーランキングDLG",
+        "Memo": "マイページ - プレイヤーランキングDLG(属性の塔解放後)",
         "HelpPartInfoList": [
             {
-                "HeadLine": "[HelpHeadLine300]",
-                "MainText": "[HelpMainText300]",
+                "HeadLine": "[HelpHeadLine410]",
+                "MainText": "[HelpMainText410]",
                 "HelpParameterType": 0
             },
             {
-                "HeadLine": "[HelpHeadLine301]",
-                "MainText": "[HelpMainText301]",
+                "HeadLine": "[HelpHeadLine401]",
+                "MainText": "[HelpMainText401]",
                 "HelpParameterType": 0
             }
         ],
@@ -75,13 +75,23 @@
         "Memo": "マイページ - ギルドランキングDLG",
         "HelpPartInfoList": [
             {
-                "HeadLine": "[HelpHeadLine300]",
-                "MainText": "[HelpMainText300]",
+                "HeadLine": "[HelpHeadLine500]",
+                "MainText": "[HelpMainText500]",
                 "HelpParameterType": 0
-            },
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 510,
+        "IsIgnore": null,
+        "Memo": "マイページ - ギルドランキングDLG(属性の塔解放後)",
+        "HelpPartInfoList": [
             {
-                "HeadLine": "[HelpHeadLine301]",
-                "MainText": "[HelpMainText301]",
+                "HeadLine": "[HelpHeadLine500]",
+                "MainText": "[HelpMainText500]",
                 "HelpParameterType": 0
             }
         ],
@@ -1242,6 +1252,26 @@
             {
                 "HeadLine": "[HelpHeadLine5700]",
                 "MainText": "[HelpMainText5700]",
+                "HelpParameterType": 0
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 5800,
+        "IsIgnore": null,
+        "Memo": "マイページ - 属性の塔ランキングDLG(属性の塔解放後)",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine410]",
+                "MainText": "[HelpMainText410]",
+                "HelpParameterType": 0
+            },
+            {
+                "HeadLine": "[HelpHeadLine401]",
+                "MainText": "[HelpMainText401]",
                 "HelpParameterType": 0
             }
         ],
