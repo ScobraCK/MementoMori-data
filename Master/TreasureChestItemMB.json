@@ -2349,6 +2349,74 @@
         "TreasureChestItemListType": 1
     },
     {
+        "Id": 98,
+        "IsIgnore": null,
+        "Memo": "アダマンタイトの原石Lv510",
+        "FixItemList": null,
+        "LotteryRewardId": 0,
+        "SelectItemList": [
+            {
+                "SelectItem": {
+                    "ItemCount": 1,
+                    "ItemId": 10510,
+                    "ItemType": 9
+                },
+                "SacredTreasureType": 0
+            },
+            {
+                "SelectItem": {
+                    "ItemCount": 1,
+                    "ItemId": 20510,
+                    "ItemType": 9
+                },
+                "SacredTreasureType": 0
+            },
+            {
+                "SelectItem": {
+                    "ItemCount": 1,
+                    "ItemId": 30510,
+                    "ItemType": 9
+                },
+                "SacredTreasureType": 0
+            }
+        ],
+        "TreasureChestItemListType": 3
+    },
+    {
+        "Id": 99,
+        "IsIgnore": null,
+        "Memo": "アダマンタイトの原石Lv520",
+        "FixItemList": null,
+        "LotteryRewardId": 0,
+        "SelectItemList": [
+            {
+                "SelectItem": {
+                    "ItemCount": 1,
+                    "ItemId": 10520,
+                    "ItemType": 9
+                },
+                "SacredTreasureType": 0
+            },
+            {
+                "SelectItem": {
+                    "ItemCount": 1,
+                    "ItemId": 20520,
+                    "ItemType": 9
+                },
+                "SacredTreasureType": 0
+            },
+            {
+                "SelectItem": {
+                    "ItemCount": 1,
+                    "ItemId": 30520,
+                    "ItemType": 9
+                },
+                "SacredTreasureType": 0
+            }
+        ],
+        "TreasureChestItemListType": 3
+    },
+    {
         "Id": 999,
         "IsIgnore": null,
         "Memo": "運命ガチャ毎回報酬（潜在宝珠50＋精錬水50）、本番データ（削除禁止）",

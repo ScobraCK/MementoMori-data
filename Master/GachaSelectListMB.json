@@ -1591,8 +1591,9 @@
     {
         "Id": 42,
         "IsIgnore": null,
-        "Memo": "アーティ復刻②＋新規次キャラ仮入れ①（1213切替用）",
+        "Memo": "アーティ復刻②＋聖夜トロポン①（1213切替用）",
         "CharacterIdList": [
+            74,
             58,
             5,
             6,
@@ -1619,11 +1620,49 @@
         ],
         "GachaSelectListType": 2,
         "NewCharacterIdList": [
+            74,
             58
         ],
         "OrderNumber": 40,
         "StartTimeFixJST": "2023-12-13 14:30:00",
         "EndTimeFixJST": "2023-12-20 14:29:59"
+    },
+    {
+        "Id": 43,
+        "IsIgnore": null,
+        "Memo": "聖夜トロポン②＋次キャラ仮入れ①（1220切替用）",
+        "CharacterIdList": [
+            74,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "NewCharacterIdList": [
+            74
+        ],
+        "OrderNumber": 41,
+        "StartTimeFixJST": "2023-12-20 14:30:00",
+        "EndTimeFixJST": "2023-12-26 14:29:59"
     },
     {
         "Id": 10000,

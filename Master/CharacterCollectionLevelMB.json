@@ -5040,5 +5040,160 @@
         "CharacterRarityFlags": 131072,
         "CollectionId": 34,
         "CollectionLevel": 7
+    },
+    {
+        "Id": 3501,
+        "IsIgnore": null,
+        "Memo": "ホロロギウムの奇跡(聖夜トロポン,トロポン)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 100.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 8,
+        "CollectionId": 35,
+        "CollectionLevel": 1
+    },
+    {
+        "Id": 3502,
+        "IsIgnore": null,
+        "Memo": "ホロロギウムの奇跡(聖夜トロポン,トロポン)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 3,
+                "Value": 30.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 500.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 128,
+        "CollectionId": 35,
+        "CollectionLevel": 2
+    },
+    {
+        "Id": 3503,
+        "IsIgnore": null,
+        "Memo": "ホロロギウムの奇跡(聖夜トロポン,トロポン)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 3,
+                "Value": 30.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 500.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 512,
+        "CollectionId": 35,
+        "CollectionLevel": 3
+    },
+    {
+        "Id": 3504,
+        "IsIgnore": null,
+        "Memo": "ホロロギウムの奇跡(聖夜トロポン,トロポン)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 3,
+                "Value": 30.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 500.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 16384,
+        "CollectionId": 35,
+        "CollectionLevel": 4
+    },
+    {
+        "Id": 3505,
+        "IsIgnore": null,
+        "Memo": "ホロロギウムの奇跡(聖夜トロポン,トロポン)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 3,
+                "Value": 31.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 510.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 32768,
+        "CollectionId": 35,
+        "CollectionLevel": 5
+    },
+    {
+        "Id": 3506,
+        "IsIgnore": null,
+        "Memo": "ホロロギウムの奇跡(聖夜トロポン,トロポン)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 3,
+                "Value": 32.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 520.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 65536,
+        "CollectionId": 35,
+        "CollectionLevel": 6
+    },
+    {
+        "Id": 3507,
+        "IsIgnore": null,
+        "Memo": "ホロロギウムの奇跡(聖夜トロポン,トロポン)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 3,
+                "Value": 33.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 530.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 131072,
+        "CollectionId": 35,
+        "CollectionLevel": 7
     }
 ]

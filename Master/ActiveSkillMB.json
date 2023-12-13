@@ -8934,6 +8934,137 @@
         "RootActiveSkillId": 73002
     },
     {
+        "Id": 74001,
+        "IsIgnore": null,
+        "Memo": "聖夜トロポンSR:Lv1 「やっちゃうぞー！」時空を繋ぐ穴から飛び出した星が敵に降り注ぎ、現在HPが最も高い敵の攻撃力と防御力をそれぞれ15％吸収し、2ターンの間自身に加える（弱体効果命中の判定はそれぞれ別で行われる）。それは聖なる夜の奇跡か、トリックか――その後対象に対象の現在HP×10％の直接攻撃を行う。この直接攻撃はクリティカルヒットせず、直接攻撃のダメージは吸収後の自身の攻撃力×500%を超えない。/ Lv2 直接攻撃のダメージが対象の現在HP×15％になる。/ Lv3 さらに自身に2ターンの間このスキルの総与ダメージ×50％の『シールド』を付与する。/ Ex1 ミラクルスターを強化する。攻撃力と防御力の吸収量がそれぞれ35％になる。/ Ex2 ミラクルスターを強化する。直接攻撃のダメージが対象の現在HP×20％になる。/ Ex3 ミラクルスターを強化する。『シールド』の大きさがこのスキルの総与ダメージ×100％になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription740011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    74001001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription740012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    74001201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription740013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    74001201,
+                    74001302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription740014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    74001401,
+                    74001302
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription740015]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 256,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    74001501,
+                    74001302
+                ]
+            },
+            {
+                "OrderNumber": 6,
+                "DescriptionKey": "[ActiveSkillDescription740016]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    74001501,
+                    74001602
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName74001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 74001
+    },
+    {
+        "Id": 74002,
+        "IsIgnore": null,
+        "Memo": "聖夜トロポンSR:Lv1 時空を超えた魔法が穴から飛び出す。右かと思ったら左、上かと思ったら斜め横、どこから何が飛び出すか分からない――ランダムな敵5体に攻撃力×250％の魔法攻撃を行い、10％の確率で対象に1ターンの間『気絶』を付与する。/ Lv2 さらにこのスキルで敵を戦闘不能にできなかった場合、自身が付帯しているバフ全てのターン数を1増加させる。このスキルによる攻撃時に聖夜の祈りの効果で自身に新たにバフが付与される場合、そのバフも対象となる。/ Lv3 魔法攻撃のダメージが攻撃力×340％になる。/ Lv4 『気絶』を付与する確率が20％になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription740021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    74002001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription740022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    74002001,
+                    74002202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription740023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    74002301,
+                    74002202
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription740024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    74002401,
+                    74002202
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName74002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 74002
+    },
+    {
         "Id": 550109001,
         "IsIgnore": null,
         "Memo": "ギルドレイド通常ソーニャSR：ソーニャSR:旋風の如き素早い急襲。HPが最も低い敵に攻撃力×800％の物理攻撃を行う。弱った敵にも容赦しないヴァイキングの本能により、敵のHP割合が40％以下の場合、この攻撃は必ずクリティカルヒットする。／さらに自身の腕力×400％の直接攻撃を行う。／追加攻撃のダメージが腕力×600%になる。／さらにこのスキルで敵を戦闘不能にした場合、このスキルを再発動する。",
@@ -9314,6 +9445,51 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 70002
+    },
+    {
+        "Id": 550274001,
+        "IsIgnore": null,
+        "Memo": "ギルドレイド聖夜トロポン1",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription740013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550274001201
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName74001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 74001
+    },
+    {
+        "Id": 550274002,
+        "IsIgnore": null,
+        "Memo": "ギルドレイド聖夜トロポン2",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription740022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    74002001,
+                    74002202
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName74002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 74002
     },
     {
         "Id": 550344001,
@@ -18802,6 +18978,137 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 73002
+    },
+    {
+        "Id": 550474001,
+        "IsIgnore": null,
+        "Memo": null,
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550474001001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550474001201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550474001201,
+                    550474001302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550474001401,
+                    550474001302
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": null,
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 256,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550474001501,
+                    550474001302
+                ]
+            },
+            {
+                "OrderNumber": 6,
+                "DescriptionKey": null,
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550474001501,
+                    550474001602
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName74001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 74001
+    },
+    {
+        "Id": 550474002,
+        "IsIgnore": null,
+        "Memo": null,
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550474002001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550474002001,
+                    550474002202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550474002301,
+                    550474002202
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550474002401,
+                    550474002202
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName74002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 74002
     },
     {
         "Id": 980000001,

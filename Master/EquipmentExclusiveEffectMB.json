@@ -6546,5 +6546,134 @@
             }
         ],
         "CharacterId": 73
+    },
+    {
+        "Id": 307,
+        "IsIgnore": null,
+        "Memo": "聖夜トロポンSSR180",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 74
+    },
+    {
+        "Id": 308,
+        "IsIgnore": null,
+        "Memo": "聖夜トロポンSSR200",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1300.0
+            },
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 600.0
+            }
+        ],
+        "CharacterId": 74
+    },
+    {
+        "Id": 309,
+        "IsIgnore": null,
+        "Memo": "聖夜トロポンSSR220",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1400.0
+            },
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            },
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "CharacterId": 74
+    },
+    {
+        "Id": 310,
+        "IsIgnore": null,
+        "Memo": "聖夜トロポンSSR240",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            },
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "CharacterId": 74
+    },
+    {
+        "Id": 311,
+        "IsIgnore": null,
+        "Memo": "聖夜トロポンUR",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1600.0
+            },
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 900.0
+            },
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 900.0
+            }
+        ],
+        "CharacterId": 74
+    },
+    {
+        "Id": 312,
+        "IsIgnore": null,
+        "Memo": "聖夜トロポンLR",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 1000.0
+            },
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 1000.0
+            }
+        ],
+        "CharacterId": 74
     }
 ]
