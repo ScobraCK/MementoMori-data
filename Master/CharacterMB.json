@@ -3103,6 +3103,58 @@
         "StartTimeFixJST": "2023-09-29 15:00:00"
     },
     {
+        "Id": 66,
+        "IsIgnore": null,
+        "Memo": "[黒鎧の従者]アイリス",
+        "ActiveSkillIds": [
+            66001,
+            66002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 85,
+            "Health": 66,
+            "Intelligence": 85,
+            "Muscle": 105
+        },
+        "BaseParameterGrossCoefficient": 341,
+        "CharacterType": 2,
+        "ElementType": 4,
+        "InitialBattleParameter": {
+            "AttackPower": 3,
+            "Avoidance": 0,
+            "Critical": -4,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 1,
+            "DamageReflect": 0,
+            "DebuffHit": 0,
+            "DebuffResist": 0,
+            "Defense": 10,
+            "DefensePenetration": 0,
+            "Hit": 0,
+            "HP": 0,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": 0,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 0,
+            "Speed": 2933
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 1,
+        "Name2Key": "[CharacterSubName66]",
+        "NameKey": "[CharacterName66]",
+        "NormalSkillId": 101,
+        "PassiveSkillIds": [
+            66003,
+            66004
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2023-12-26 15:00:00"
+    },
+    {
         "Id": 67,
         "IsIgnore": null,
         "Memo": "リシェス",

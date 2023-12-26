@@ -2417,6 +2417,74 @@
         "TreasureChestItemListType": 3
     },
     {
+        "Id": 100,
+        "IsIgnore": null,
+        "Memo": "ニューイヤーボックス（2024）",
+        "FixItemList": null,
+        "LotteryRewardId": 0,
+        "SelectItemList": [
+            {
+                "SelectItem": {
+                    "ItemCount": 1,
+                    "ItemId": 13,
+                    "ItemType": 10
+                },
+                "SacredTreasureType": 0
+            },
+            {
+                "SelectItem": {
+                    "ItemCount": 1,
+                    "ItemId": 8,
+                    "ItemType": 10
+                },
+                "SacredTreasureType": 0
+            },
+            {
+                "SelectItem": {
+                    "ItemCount": 1,
+                    "ItemId": 5,
+                    "ItemType": 10
+                },
+                "SacredTreasureType": 0
+            }
+        ],
+        "TreasureChestItemListType": 3
+    },
+    {
+        "Id": 101,
+        "IsIgnore": null,
+        "Memo": "新年のチケットケース（2024）",
+        "FixItemList": null,
+        "LotteryRewardId": 0,
+        "SelectItemList": [
+            {
+                "SelectItem": {
+                    "ItemCount": 5,
+                    "ItemId": 3,
+                    "ItemType": 16
+                },
+                "SacredTreasureType": 0
+            },
+            {
+                "SelectItem": {
+                    "ItemCount": 5,
+                    "ItemId": 1,
+                    "ItemType": 16
+                },
+                "SacredTreasureType": 0
+            },
+            {
+                "SelectItem": {
+                    "ItemCount": 60,
+                    "ItemId": 4,
+                    "ItemType": 13
+                },
+                "SacredTreasureType": 0
+            }
+        ],
+        "TreasureChestItemListType": 3
+    },
+    {
         "Id": 999,
         "IsIgnore": null,
         "Memo": "運命ガチャ毎回報酬（潜在宝珠50＋精錬水50）、本番データ（削除禁止）",
