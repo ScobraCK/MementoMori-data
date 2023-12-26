@@ -885,6 +885,36 @@
         "TutorialId": 0
     },
     {
+        "Id": 240,
+        "IsIgnore": null,
+        "Memo": "累計貢献メダル宝箱報酬一括受取解放テキスト",
+        "AssetPath": null,
+        "DescriptionKey": null,
+        "GuideDescriptionKey": null,
+        "GuideOrderNumber": 0,
+        "IsActiveGuide": false,
+        "OpenCommandType": 240,
+        "OpenContentType": 1,
+        "OpenContentValue": 252,
+        "ToastKey": "[OpenContentToast240]",
+        "TutorialId": 0
+    },
+    {
+        "Id": 241,
+        "IsIgnore": null,
+        "Memo": "累計貢献メダル宝箱報酬一括受取",
+        "AssetPath": null,
+        "DescriptionKey": null,
+        "GuideDescriptionKey": null,
+        "GuideOrderNumber": 0,
+        "IsActiveGuide": false,
+        "OpenCommandType": 241,
+        "OpenContentType": 1,
+        "OpenContentValue": 280,
+        "ToastKey": "[OpenContentToast241]",
+        "TutorialId": 0
+    },
+    {
         "Id": 1000,
         "IsIgnore": null,
         "Memo": "装備固定",

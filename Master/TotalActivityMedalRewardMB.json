@@ -4,6 +4,7 @@
         "IsIgnore": null,
         "Memo": null,
         "MissionGroupType": 1,
+        "Value": 0,
         "RequiredActivityMedalCount": 20,
         "RewardList": [
             {
@@ -49,6 +50,7 @@
         "IsIgnore": null,
         "Memo": null,
         "MissionGroupType": 1,
+        "Value": 0,
         "RequiredActivityMedalCount": 40,
         "RewardList": [
             {
@@ -85,6 +87,7 @@
         "IsIgnore": null,
         "Memo": null,
         "MissionGroupType": 1,
+        "Value": 0,
         "RequiredActivityMedalCount": 60,
         "RewardList": [
             {
@@ -130,6 +133,7 @@
         "IsIgnore": null,
         "Memo": null,
         "MissionGroupType": 1,
+        "Value": 0,
         "RequiredActivityMedalCount": 80,
         "RewardList": [
             {
@@ -158,6 +162,7 @@
         "IsIgnore": null,
         "Memo": null,
         "MissionGroupType": 1,
+        "Value": 0,
         "RequiredActivityMedalCount": 100,
         "RewardList": [
             {
@@ -195,6 +200,7 @@
         "IsIgnore": null,
         "Memo": null,
         "MissionGroupType": 2,
+        "Value": 0,
         "RequiredActivityMedalCount": 20,
         "RewardList": [
             {
@@ -231,6 +237,7 @@
         "IsIgnore": null,
         "Memo": null,
         "MissionGroupType": 2,
+        "Value": 0,
         "RequiredActivityMedalCount": 40,
         "RewardList": [
             {
@@ -267,6 +274,7 @@
         "IsIgnore": null,
         "Memo": null,
         "MissionGroupType": 2,
+        "Value": 0,
         "RequiredActivityMedalCount": 60,
         "RewardList": [
             {
@@ -311,6 +319,7 @@
         "IsIgnore": null,
         "Memo": null,
         "MissionGroupType": 2,
+        "Value": 0,
         "RequiredActivityMedalCount": 80,
         "RewardList": [
             {
@@ -347,6 +356,7 @@
         "IsIgnore": null,
         "Memo": null,
         "MissionGroupType": 2,
+        "Value": 0,
         "RequiredActivityMedalCount": 100,
         "RewardList": [
             {
@@ -378,6 +388,156 @@
                     "ItemCount": 400,
                     "ItemId": 4,
                     "ItemType": 28
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "EventStartTime": null,
+        "EventEndTime": null,
+        "EventMissionRewardList": null
+    },
+    {
+        "Id": 9901,
+        "IsIgnore": null,
+        "Memo": "ギルドミッション1(ギルドLv制限なし)",
+        "MissionGroupType": 10,
+        "Value": 0,
+        "RequiredActivityMedalCount": 1000,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 3,
+                    "ItemId": 1,
+                    "ItemType": 19
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "EventStartTime": null,
+        "EventEndTime": null,
+        "EventMissionRewardList": null
+    },
+    {
+        "Id": 9902,
+        "IsIgnore": null,
+        "Memo": "ギルドミッション2(ギルドLv制限なし)",
+        "MissionGroupType": 10,
+        "Value": 0,
+        "RequiredActivityMedalCount": 1500,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 30,
+                    "ItemId": 27,
+                    "ItemType": 17
+                },
+                "RarityFlags": 0
+            },
+            {
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 18,
+                    "ItemType": 10
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "EventStartTime": null,
+        "EventEndTime": null,
+        "EventMissionRewardList": null
+    },
+    {
+        "Id": 9903,
+        "IsIgnore": null,
+        "Memo": "ギルドミッション3(ギルドLv制限なし)",
+        "MissionGroupType": 10,
+        "Value": 0,
+        "RequiredActivityMedalCount": 2000,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 300,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            },
+            {
+                "Item": {
+                    "ItemCount": 10,
+                    "ItemId": 28,
+                    "ItemType": 17
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "EventStartTime": null,
+        "EventEndTime": null,
+        "EventMissionRewardList": null
+    },
+    {
+        "Id": 9904,
+        "IsIgnore": null,
+        "Memo": "ギルドミッション4(ギルドLv6以上)",
+        "MissionGroupType": 10,
+        "Value": 6,
+        "RequiredActivityMedalCount": 3000,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 3,
+                    "ItemId": 2,
+                    "ItemType": 16
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "EventStartTime": null,
+        "EventEndTime": null,
+        "EventMissionRewardList": null
+    },
+    {
+        "Id": 9905,
+        "IsIgnore": null,
+        "Memo": "ギルドミッション5(ギルドLv11以上)",
+        "MissionGroupType": 10,
+        "Value": 11,
+        "RequiredActivityMedalCount": 3500,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 3,
+                    "ItemId": 1,
+                    "ItemType": 20
+                },
+                "RarityFlags": 0
+            },
+            {
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 5,
+                    "ItemType": 10
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "EventStartTime": null,
+        "EventEndTime": null,
+        "EventMissionRewardList": null
+    },
+    {
+        "Id": 9906,
+        "IsIgnore": null,
+        "Memo": "ギルドミッション6(ギルドLv16以上)",
+        "MissionGroupType": 10,
+        "Value": 16,
+        "RequiredActivityMedalCount": 4000,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 300,
+                    "ItemId": 12,
+                    "ItemType": 13
                 },
                 "RarityFlags": 0
             }
