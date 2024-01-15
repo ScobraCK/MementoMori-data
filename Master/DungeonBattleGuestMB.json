@@ -418,9 +418,9 @@
         "IsIgnore": null,
         "Memo": "Ａ.Ａ.",
         "CharacterId": 48,
-        "IsPickup": true,
-        "EndTimeFixJST": "2024-01-09 14:29:59",
-        "StartTimeFixJST": "2023-12-20 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 48,
@@ -436,9 +436,9 @@
         "IsIgnore": null,
         "Memo": "ウィーラ",
         "CharacterId": 53,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2024-01-29 14:29:59",
+        "StartTimeFixJST": "2024-01-15 14:30:00"
     },
     {
         "Id": 50,
@@ -598,9 +598,9 @@
         "IsIgnore": null,
         "Memo": "聖夜トロポン",
         "CharacterId": 74,
-        "IsPickup": true,
-        "EndTimeFixJST": "2023-12-26 14:29:59",
-        "StartTimeFixJST": "2023-12-13 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 68,
@@ -610,5 +610,14 @@
         "IsPickup": true,
         "EndTimeFixJST": "2024-01-15 14:29:59",
         "StartTimeFixJST": "2023-12-26 14:30:00"
+    },
+    {
+        "Id": 69,
+        "IsIgnore": null,
+        "Memo": "ギルウィアル",
+        "CharacterId": 64,
+        "IsPickup": true,
+        "EndTimeFixJST": "2024-01-31 14:29:59",
+        "StartTimeFixJST": "2024-01-15 14:30:00"
     }
 ]

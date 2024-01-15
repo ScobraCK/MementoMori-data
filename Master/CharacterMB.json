@@ -3103,6 +3103,58 @@
         "StartTimeFixJST": "2023-09-29 15:00:00"
     },
     {
+        "Id": 64,
+        "IsIgnore": null,
+        "Memo": "ギルウィアル",
+        "ActiveSkillIds": [
+            64001,
+            64002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 80,
+            "Health": 70,
+            "Intelligence": 103,
+            "Muscle": 79
+        },
+        "BaseParameterGrossCoefficient": 332,
+        "CharacterType": 0,
+        "ElementType": 1,
+        "InitialBattleParameter": {
+            "AttackPower": -2,
+            "Avoidance": 0,
+            "Critical": 0,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 1,
+            "DamageEnhance": 0,
+            "DamageReflect": 0,
+            "DebuffHit": 5,
+            "DebuffResist": 0,
+            "Defense": 6,
+            "DefensePenetration": 0,
+            "Hit": 0,
+            "HP": 0,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": 0,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 0,
+            "Speed": 3269
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 4,
+        "Name2Key": null,
+        "NameKey": "[CharacterName64]",
+        "NormalSkillId": 102,
+        "PassiveSkillIds": [
+            64003,
+            64004
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2024-1-15 15:00:00"
+    },
+    {
         "Id": 66,
         "IsIgnore": null,
         "Memo": "[黒鎧の従者]アイリス",

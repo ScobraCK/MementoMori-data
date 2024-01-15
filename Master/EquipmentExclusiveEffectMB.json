@@ -6804,5 +6804,139 @@
             }
         ],
         "CharacterId": 66
+    },
+    {
+        "Id": 319,
+        "IsIgnore": null,
+        "Memo": "ギルウィアルSSR180",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 2,
+                "Value": 550.0
+            }
+        ],
+        "BattleParameterChangeInfoList": null,
+        "CharacterId": 64
+    },
+    {
+        "Id": 320,
+        "IsIgnore": null,
+        "Memo": "ギルウィアルSSR200",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 2,
+                "Value": 600.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 600.0
+            }
+        ],
+        "CharacterId": 64
+    },
+    {
+        "Id": 321,
+        "IsIgnore": null,
+        "Memo": "ギルウィアルSSR220",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 2,
+                "Value": 650.0
+            },
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 650.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "CharacterId": 64
+    },
+    {
+        "Id": 322,
+        "IsIgnore": null,
+        "Memo": "ギルウィアルSSR240",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            },
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "CharacterId": 64
+    },
+    {
+        "Id": 323,
+        "IsIgnore": null,
+        "Memo": "ギルウィアルUR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 2,
+                "Value": 750.0
+            },
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 750.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 900.0
+            }
+        ],
+        "CharacterId": 64
+    },
+    {
+        "Id": 324,
+        "IsIgnore": null,
+        "Memo": "ギルウィアルLR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            },
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 1000.0
+            }
+        ],
+        "CharacterId": 64
     }
 ]
