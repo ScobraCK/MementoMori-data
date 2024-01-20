@@ -1788,10 +1788,11 @@
     {
         "Id": 47,
         "IsIgnore": null,
-        "Memo": "ギルウィアル②＋ウィーラ復刻②＋次キャラ仮入れ①（0122切替用）",
+        "Memo": "ギルウィアル②＋ウィーラ復刻②＋オフィーリア①（0122切替用）",
         "CharacterIdList": [
             64,
             53,
+            49,
             5,
             6,
             7,
@@ -1818,7 +1819,8 @@
         "GachaSelectListType": 2,
         "NewCharacterIdList": [
             64,
-            53
+            53,
+            49
         ],
         "OrderNumber": 45,
         "StartTimeFixJST": "2024-01-22 14:30:00",
@@ -1827,9 +1829,10 @@
     {
         "Id": 48,
         "IsIgnore": null,
-        "Memo": "ギルウィアル③＋次キャラ仮入れ②（0129切替用）",
+        "Memo": "ギルウィアル③＋オフィーリア②＋次キャラ仮入れ①（0129切替用）",
         "CharacterIdList": [
             64,
+            49,
             5,
             6,
             7,
@@ -1855,11 +1858,49 @@
         ],
         "GachaSelectListType": 2,
         "NewCharacterIdList": [
-            64
+            64,
+            49
         ],
         "OrderNumber": 46,
         "StartTimeFixJST": "2024-01-29 14:30:00",
         "EndTimeFixJST": "2024-01-31 14:29:59"
+    },
+    {
+        "Id": 49,
+        "IsIgnore": null,
+        "Memo": "オフィーリア③＋次キャラ仮入れ①（0131切替用）",
+        "CharacterIdList": [
+            49,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "NewCharacterIdList": [
+            49
+        ],
+        "OrderNumber": 47,
+        "StartTimeFixJST": "2024-01-31 14:30:00",
+        "EndTimeFixJST": "2024-02-07 14:29:59"
     },
     {
         "Id": 10000,
@@ -1911,5 +1952,22 @@
         "OrderNumber": 3,
         "StartTimeFixJST": "2023-12-26 16:30:00",
         "EndTimeFixJST": "2024-01-09 14:29:59"
+    },
+    {
+        "Id": 10040,
+        "IsIgnore": null,
+        "Memo": "星の導き4回ガチャ_フォルティナ・ベル（ 1/22 14:30 ~ 02/07 14:29 ）",
+        "CharacterIdList": [
+            42,
+            19
+        ],
+        "GachaSelectListType": 3,
+        "NewCharacterIdList": [
+            42,
+            19
+        ],
+        "OrderNumber": 4,
+        "StartTimeFixJST": "2024-01-22 14:30:00",
+        "EndTimeFixJST": "2024-02-07 14:29:59"
     }
 ]
