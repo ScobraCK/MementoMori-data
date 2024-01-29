@@ -4078,5 +4078,21 @@
         "ItemId": 14,
         "ItemType": 50,
         "NeedCount": 1
+    },
+    {
+        "Id": 256,
+        "IsIgnore": null,
+        "Memo": "継承の秘伝書",
+        "ChangeItems": [
+            {
+                "ItemCount": 10000,
+                "ItemId": 1,
+                "ItemType": 3
+            }
+        ],
+        "ChangeItemType": 0,
+        "ItemId": 15,
+        "ItemType": 50,
+        "NeedCount": 1
     }
 ]
