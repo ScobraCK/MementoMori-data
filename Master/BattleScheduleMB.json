@@ -158,5 +158,37 @@
         "BattleScheduleType": 1,
         "MaxQuestId": 820,
         "StartTimeFixJST": "2023-12-13 15:00:00"
+    },
+    {
+        "Id": 21,
+        "IsIgnore": null,
+        "Memo": "藍の塔ステージ追加（601~900）",
+        "BattleScheduleType": 3,
+        "MaxQuestId": 20900,
+        "StartTimeFixJST": "2024-01-31 15:00:00"
+    },
+    {
+        "Id": 22,
+        "IsIgnore": null,
+        "Memo": "紅の塔ステージ追加（601~900）",
+        "BattleScheduleType": 4,
+        "MaxQuestId": 30900,
+        "StartTimeFixJST": "2024-01-31 15:00:00"
+    },
+    {
+        "Id": 23,
+        "IsIgnore": null,
+        "Memo": "翠の塔ステージ追加（601~900）",
+        "BattleScheduleType": 5,
+        "MaxQuestId": 40900,
+        "StartTimeFixJST": "2024-01-31 15:00:00"
+    },
+    {
+        "Id": 24,
+        "IsIgnore": null,
+        "Memo": "黄の塔ステージ追加（601~900）",
+        "BattleScheduleType": 6,
+        "MaxQuestId": 50900,
+        "StartTimeFixJST": "2024-01-31 15:00:00"
     }
 ]

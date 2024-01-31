@@ -1868,8 +1868,9 @@
     {
         "Id": 49,
         "IsIgnore": null,
-        "Memo": "オフィーリア③＋次キャラ仮入れ①（0131切替用）",
+        "Memo": "オフィーリア③＋クラウディア①（0131切替用）",
         "CharacterIdList": [
+            56,
             49,
             5,
             6,
@@ -1896,11 +1897,49 @@
         ],
         "GachaSelectListType": 2,
         "NewCharacterIdList": [
+            56,
             49
         ],
         "OrderNumber": 47,
         "StartTimeFixJST": "2024-01-31 14:30:00",
         "EndTimeFixJST": "2024-02-07 14:29:59"
+    },
+    {
+        "Id": 50,
+        "IsIgnore": null,
+        "Memo": "クラウディア②＋次キャラ仮入れ①（0207切替用）",
+        "CharacterIdList": [
+            56,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "NewCharacterIdList": [
+            56
+        ],
+        "OrderNumber": 48,
+        "StartTimeFixJST": "2024-02-07 14:30:00",
+        "EndTimeFixJST": "2024-02-15 14:29:59"
     },
     {
         "Id": 10000,

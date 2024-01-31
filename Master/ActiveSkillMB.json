@@ -7416,6 +7416,135 @@
         "RootActiveSkillId": 55002
     },
     {
+        "Id": 56001,
+        "IsIgnore": null,
+        "Memo": "クラウディアSR:Lv1 その斬撃は怒り狂う龍神が如く──ランダムな敵に2回攻撃力×600％の物理攻撃を行う。零れ落ちた砂時計は止まらない。それなら最後の一粒が落ちるまで戦い続ける──自身のHPが少なくなるほど物理攻撃のダメージが大きくなる（最大攻撃力×1350％まで）。ただしHP割合の判定は攻撃1回ごとに行う。/ Lv2 さらに自身のHPをこのスキルの総与ダメージ×5％回復する。/ Lv3 物理攻撃のダメージが攻撃力×800％になる（最大攻撃力×1800％まで）。/ Ex1 双剣流奥義暴れ竜！！を強化する。HPの回復量がこのスキルの総与ダメージ×15％になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription560011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    56001001,
+                    56001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription560012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    56001001,
+                    56001002,
+                    56001203
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription560013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    56001301,
+                    56001302,
+                    56001203
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription560014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    56001301,
+                    56001302,
+                    56001403
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName56001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 56001
+    },
+    {
+        "Id": 56002,
+        "IsIgnore": null,
+        "Memo": "クラウディアSR:Lv1 「まだ倒れるわけにはいかないんだ！」自身のHP割合が50％未満の場合、2ターンの間攻撃力が最も高い敵の回避率を50％減少させ、『気絶』を付与する。これらは1つの弱体効果として扱う。「夕闇に散れ、双龍斬！」その後その敵に対して、弱体効果付与の有無に関わらず、攻撃力×500％の物理攻撃を行う。自身が『決死』を付帯している場合、自身のHPをこのスキルの総与ダメージ×15%回復する。/ Lv2 さらに自身が『決死』を付帯していない場合、物理攻撃のダメージが2倍になる。/ Lv3 さらにこのスキルで敵を戦闘不能にできなかった場合、HP回復の前に弱体効果付与と物理攻撃を再発動する（再発動は1回まで）。/ Lv4 物理攻撃のダメージが攻撃力×900％になる。/ Ex3 秘剣・双龍斬！！を強化する。物理攻撃のダメージが攻撃力×1000％になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription560021]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    56002001,
+                    56002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription560022]",
+                "CharacterLevel": 41,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    56002201,
+                    56002002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription560023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    56002201,
+                    56002304,
+                    56002002
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription560024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    56002401,
+                    56002404,
+                    56002002
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription560025]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    56002501,
+                    56002504,
+                    56002002
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName56002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 56002
+    },
+    {
         "Id": 57001,
         "IsIgnore": null,
         "Memo": "ステラSR:Lv1 「闇の支配者たる我が命じる……滅びよ！」自作の呪文で、HP割合が低い敵2体に攻撃力×300%の物理攻撃を行い、20%の確率で1ターンの間対象に『沈黙』を付与する。「倒れてください倒れてください倒れてください……」言霊の力が敵の行動を食い止める呪いとなり、対象の腕力が自身よりも低い場合、『沈黙』を付与する確率が40%になる。/ Lv2 物理攻撃のダメージが攻撃力×400%になる。/ Lv3 このスキルの対象がHP割合が低い敵3体になる。/ Ex1 カオス・スペルを強化する。『沈黙』を付与する確率が40%、対象の腕力が自身よりも低い場合80%になる。",
@@ -17719,6 +17848,135 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 55002
+    },
+    {
+        "Id": 550456001,
+        "IsIgnore": null,
+        "Memo": null,
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550456001001,
+                    550456001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550456001001,
+                    550456001002,
+                    550456001203
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550456001301,
+                    550456001302,
+                    550456001203
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550456001301,
+                    550456001302,
+                    550456001403
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName56001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 56001
+    },
+    {
+        "Id": 550456002,
+        "IsIgnore": null,
+        "Memo": null,
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550456002001,
+                    550456002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 41,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550456002201,
+                    550456002002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550456002201,
+                    550456002304,
+                    550456002002
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550456002401,
+                    550456002404,
+                    550456002002
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": null,
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550456002501,
+                    550456002504,
+                    550456002002
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName56002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 56002
     },
     {
         "Id": 550457001,

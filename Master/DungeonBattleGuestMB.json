@@ -490,9 +490,9 @@
         "IsIgnore": null,
         "Memo": "リシェス",
         "CharacterId": 67,
-        "IsPickup": true,
-        "EndTimeFixJST": "2024-01-22 14:29:59",
-        "StartTimeFixJST": "2024-01-09 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 56,
@@ -619,5 +619,14 @@
         "IsPickup": true,
         "EndTimeFixJST": "2024-01-31 14:29:59",
         "StartTimeFixJST": "2024-01-15 14:30:00"
+    },
+    {
+        "Id": 70,
+        "IsIgnore": null,
+        "Memo": "クラウディア",
+        "CharacterId": 56,
+        "IsPickup": true,
+        "EndTimeFixJST": "2024-02-15 14:29:59",
+        "StartTimeFixJST": "2024-01-31 14:30:00"
     }
 ]
