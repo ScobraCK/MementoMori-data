@@ -3553,5 +3553,35 @@
                 "ItemType": 1
             }
         ]
+    },
+    {
+        "Id": 238,
+        "IsIgnore": null,
+        "Memo": "メインクエスト30-40クリア",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey238]",
+        "RankingDataType": 3,
+        "RequireValue": 860,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
+    },
+    {
+        "Id": 239,
+        "IsIgnore": null,
+        "Memo": "メインクエスト31-40クリア",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey239]",
+        "RankingDataType": 3,
+        "RequireValue": 900,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
     }
 ]

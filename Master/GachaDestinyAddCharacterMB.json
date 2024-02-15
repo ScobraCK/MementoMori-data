@@ -385,5 +385,23 @@
         "GachaAddCharacterType": 2,
         "StartGachaSelectListId": 50,
         "EndGachaSelectListId": 51
+    },
+    {
+        "Id": 44,
+        "IsIgnore": null,
+        "Memo": "リズ追加",
+        "CharacterId": 84,
+        "GachaAddCharacterType": 2,
+        "StartGachaSelectListId": 51,
+        "EndGachaSelectListId": 54
+    },
+    {
+        "Id": 45,
+        "IsIgnore": null,
+        "Memo": "レア追加",
+        "CharacterId": 55,
+        "GachaAddCharacterType": 2,
+        "StartGachaSelectListId": 51,
+        "EndGachaSelectListId": 52
     }
 ]
