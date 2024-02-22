@@ -39412,7 +39412,7 @@
         "IsIgnore": null,
         "Memo": "パネル(汎用2枚版)_シート1_洞窟でソーサラー3人以上で10回勝利",
         "AchievementType": 10010334,
-        "DescriptionKey": null,
+        "DescriptionKey": "",
         "MissionType": 901,
         "NameKey": "[PanelMissionName1316]",
         "OpeningPeriod": 0,
@@ -39446,7 +39446,7 @@
         "IsIgnore": null,
         "Memo": "パネル(汎用2枚版)_シート1_武具の強化レベルを30にする",
         "AchievementType": 7011200,
-        "DescriptionKey": null,
+        "DescriptionKey": "",
         "MissionType": 901,
         "NameKey": "[PanelMissionName1317]",
         "OpeningPeriod": 0,
@@ -39480,7 +39480,7 @@
         "IsIgnore": null,
         "Memo": "パネル(汎用2枚版)_シート2_貢献メダル1000枚",
         "AchievementType": 1010400,
-        "DescriptionKey": null,
+        "DescriptionKey": "",
         "MissionType": 902,
         "NameKey": "[PanelMissionName1176]",
         "OpeningPeriod": 0,
@@ -39514,7 +39514,7 @@
         "IsIgnore": null,
         "Memo": "パネル(汎用2枚版)_シート2_高速バトル10回",
         "AchievementType": 9020100,
-        "DescriptionKey": null,
+        "DescriptionKey": "",
         "MissionType": 902,
         "NameKey": "[PanelMissionName1177]",
         "OpeningPeriod": 0,
@@ -39522,17 +39522,17 @@
         "RewardList": [
             {
                 "Item": {
-                    "ItemCount": 40,
-                    "ItemId": 27,
-                    "ItemType": 17
+                    "ItemCount": 1,
+                    "ItemId": 2003,
+                    "ItemType": 31
                 },
                 "RarityFlags": 0
             },
             {
                 "Item": {
-                    "ItemCount": 1,
-                    "ItemId": 2003,
-                    "ItemType": 31
+                    "ItemCount": 40,
+                    "ItemId": 27,
+                    "ItemType": 17
                 },
                 "RarityFlags": 0
             }
@@ -39548,7 +39548,7 @@
         "IsIgnore": null,
         "Memo": "パネル(汎用2枚版)_シート2_7日ログイン",
         "AchievementType": 100,
-        "DescriptionKey": null,
+        "DescriptionKey": "",
         "MissionType": 902,
         "NameKey": "[PanelMissionName1175]",
         "OpeningPeriod": 0,
@@ -39582,7 +39582,7 @@
         "IsIgnore": null,
         "Memo": "パネル(汎用2枚版)_シート2_神殿で紅属性3人以上で10回勝利",
         "AchievementType": 13010232,
-        "DescriptionKey": null,
+        "DescriptionKey": "",
         "MissionType": 902,
         "NameKey": "[PanelMissionName1321]",
         "OpeningPeriod": 0,
@@ -39590,17 +39590,17 @@
         "RewardList": [
             {
                 "Item": {
-                    "ItemCount": 30,
-                    "ItemId": 4,
-                    "ItemType": 13
+                    "ItemCount": 1,
+                    "ItemId": 2006,
+                    "ItemType": 31
                 },
                 "RarityFlags": 0
             },
             {
                 "Item": {
-                    "ItemCount": 1,
-                    "ItemId": 2006,
-                    "ItemType": 31
+                    "ItemCount": 30,
+                    "ItemId": 4,
+                    "ItemType": 13
                 },
                 "RarityFlags": 0
             }

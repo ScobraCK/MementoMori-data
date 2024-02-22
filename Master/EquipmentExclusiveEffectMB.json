@@ -7201,5 +7201,139 @@
             }
         ],
         "CharacterId": 84
+    },
+    {
+        "Id": 337,
+        "IsIgnore": null,
+        "Memo": "マチルダSSR180",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 2,
+                "Value": 550.0
+            }
+        ],
+        "BattleParameterChangeInfoList": null,
+        "CharacterId": 85
+    },
+    {
+        "Id": 338,
+        "IsIgnore": null,
+        "Memo": "マチルダSSR200",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 2,
+                "Value": 600.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 85
+    },
+    {
+        "Id": 339,
+        "IsIgnore": null,
+        "Memo": "マチルダSSR220",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 2,
+                "Value": 650.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "CharacterId": 85
+    },
+    {
+        "Id": 340,
+        "IsIgnore": null,
+        "Memo": "マチルダSSR240",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "CharacterId": 85
+    },
+    {
+        "Id": 341,
+        "IsIgnore": null,
+        "Memo": "マチルダUR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 2,
+                "Value": 750.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 2000.0
+            },
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 900.0
+            }
+        ],
+        "CharacterId": 85
+    },
+    {
+        "Id": 342,
+        "IsIgnore": null,
+        "Memo": "マチルダLR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 2200.0
+            },
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 1000.0
+            }
+        ],
+        "CharacterId": 85
     }
 ]

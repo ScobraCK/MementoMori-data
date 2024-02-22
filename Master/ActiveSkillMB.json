@@ -9923,6 +9923,142 @@
         "RootActiveSkillId": 84002
     },
     {
+        "Id": 85001,
+        "IsIgnore": null,
+        "Memo": "マチルダSR:Lv1 「私も一緒に戦ってあげる、光栄に思いなさいっ」1ターンの間自身と自身以外の攻撃力が最も高い味方の、攻撃力とクリティカル率と命中率をそれぞれ20%増加させる（解除不可）。「誰よ、今チビって言ったの！？」その後攻撃力が最も高い敵に攻撃力×380%の魔法攻撃を行う。/ Lv2 さらにバフを付与する対象がマチルダ厳選バナナで付与したバフを付帯している場合そのバフを解除し、このスキルで付与するバフのターン数が4ターンになる。/ Lv3 魔法攻撃のダメージが攻撃力×680%になる。/ Ex1 ジョバリの女王を強化する。攻撃力とクリティカル率と命中率の増加量がそれぞれ50%になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription850011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    85001001,
+                    85001002,
+                    85001003
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription850012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    85001201,
+                    85001202,
+                    85001003
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription850013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    85001201,
+                    85001202,
+                    85001303
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription850014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    85001401,
+                    85001402,
+                    85001303
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName85001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 85001
+    },
+    {
+        "Id": 85002,
+        "IsIgnore": null,
+        "Memo": "マチルダSR:Lv1 「絶対に負けないんだから！」少女は立ち向かう、一族の命運を背負う者として――防御力が高い敵2体に攻撃力×340%の魔法攻撃を行う。/ Lv2 さらに魔法攻撃の後に自身のHP割合が50%以上の場合、防御力が低い敵2体に攻撃力×340%の魔法攻撃を行う。/ Lv3 さらに最初の魔法攻撃の後に自身のHP割合が50%未満の場合、2回目の魔法攻撃の代わりに自身と自身以外の攻撃力が最も高い味方のHPを自身の攻撃力×50%回復する。/ Lv4 さらにバトル中このスキルの自身と味方のHPを回復する効果を使うのが1回目の場合、HPの回復量が自身の攻撃力×100%になる。/ Ex3 小さな勇気を強化する。最初の魔法攻撃と2回目の魔法攻撃のダメージがそれぞれ攻撃力×380%になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription850021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    85002001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription850022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    85002001,
+                    85002202,
+                    85002203
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription850023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    85002001,
+                    85002202,
+                    85002203,
+                    85002304,
+                    85002305
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription850024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    85002001,
+                    85002202,
+                    85002203,
+                    85002404,
+                    85002405
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription850025]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    85002501,
+                    85002202,
+                    85002503,
+                    85002404,
+                    85002405
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName85002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 85002
+    },
+    {
         "Id": 550109001,
         "IsIgnore": null,
         "Memo": "ギルドレイド通常ソーニャSR：ソーニャSR:旋風の如き素早い急襲。HPが最も低い敵に攻撃力×800％の物理攻撃を行う。弱った敵にも容赦しないヴァイキングの本能により、敵のHP割合が40％以下の場合、この攻撃は必ずクリティカルヒットする。／さらに自身の腕力×400％の直接攻撃を行う。／追加攻撃のダメージが腕力×600%になる。／さらにこのスキルで敵を戦闘不能にした場合、このスキルを再発動する。",
@@ -20825,6 +20961,142 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 84002
+    },
+    {
+        "Id": 550485001,
+        "IsIgnore": null,
+        "Memo": null,
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550485001001,
+                    550485001002,
+                    550485001003
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550485001201,
+                    550485001202,
+                    550485001003
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550485001201,
+                    550485001202,
+                    550485001303
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550485001401,
+                    550485001402,
+                    550485001303
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName85001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 85001
+    },
+    {
+        "Id": 550485002,
+        "IsIgnore": null,
+        "Memo": null,
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550485002001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550485002001,
+                    550485002202,
+                    550485002203
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550485002001,
+                    550485002202,
+                    550485002203,
+                    550485002304,
+                    550485002305
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550485002001,
+                    550485002202,
+                    550485002203,
+                    550485002404,
+                    550485002405
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": null,
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550485002501,
+                    550485002202,
+                    550485002503,
+                    550485002404,
+                    550485002405
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName85002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 85002
     },
     {
         "Id": 980000001,
