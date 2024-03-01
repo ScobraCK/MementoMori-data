@@ -68,5 +68,35 @@
         "ViewTransitionType": 4,
         "OpenCommandType": 3,
         "BattleType": 0
+    },
+    {
+        "Id": 8,
+        "IsIgnore": null,
+        "Memo": "開花ボーナスのLvを上げる",
+        "MessageKey": "[TipDescription8]",
+        "IconId": 8,
+        "ViewTransitionType": 5,
+        "OpenCommandType": 0,
+        "BattleType": 12
+    },
+    {
+        "Id": 9,
+        "IsIgnore": null,
+        "Memo": "キャラのレベルを上げる（ギルドツリー用） ",
+        "MessageKey": "[TipDescription1]",
+        "IconId": 1,
+        "ViewTransitionType": 0,
+        "OpenCommandType": 0,
+        "BattleType": 12
+    },
+    {
+        "Id": 10,
+        "IsIgnore": null,
+        "Memo": "パーティ編成を見直す（ギルドツリー用）",
+        "MessageKey": "[TipDescription3]",
+        "IconId": 3,
+        "ViewTransitionType": 2,
+        "OpenCommandType": 0,
+        "BattleType": 12
     }
 ]

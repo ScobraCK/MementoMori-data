@@ -780,6 +780,12 @@
         "ErrorMessageType": 2
     },
     {
+        "Id": 121007,
+        "IsIgnore": null,
+        "Memo": "時空の洞窟の敵データがありません",
+        "ErrorMessageType": 2
+    },
+    {
         "Id": 122001,
         "IsIgnore": null,
         "Memo": null,
@@ -1017,6 +1023,18 @@
         "Id": 122075,
         "IsIgnore": null,
         "Memo": "バトル報酬が存在しません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 122076,
+        "IsIgnore": null,
+        "Memo": "時空の洞窟をスキップできません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 122077,
+        "IsIgnore": null,
+        "Memo": "移動先のマスがありません",
         "ErrorMessageType": 2
     },
     {
@@ -2226,6 +2244,12 @@
         "ErrorMessageType": 2
     },
     {
+        "Id": 232048,
+        "IsIgnore": null,
+        "Memo": "選択されたキャラ数が登録可能数を上回っています",
+        "ErrorMessageType": 3
+    },
+    {
         "Id": 241000,
         "IsIgnore": null,
         "Memo": null,
@@ -2886,6 +2910,12 @@
         "ErrorMessageType": 2
     },
     {
+        "Id": 271002,
+        "IsIgnore": null,
+        "Memo": "ギルドのデータが見つかりません",
+        "ErrorMessageType": 2
+    },
+    {
         "Id": 272000,
         "IsIgnore": null,
         "Memo": null,
@@ -2914,6 +2944,60 @@
         "IsIgnore": null,
         "Memo": "チャット禁止中です",
         "ErrorMessageType": 3
+    },
+    {
+        "Id": 272005,
+        "IsIgnore": null,
+        "Memo": "ギルドに所属していません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 272006,
+        "IsIgnore": null,
+        "Memo": "指定したチャットのデータがありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 272007,
+        "IsIgnore": null,
+        "Memo": "自分の投稿ではありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 272008,
+        "IsIgnore": null,
+        "Memo": "無効な選択です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 272009,
+        "IsIgnore": null,
+        "Memo": "リアクションができないメッセージです",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 272010,
+        "IsIgnore": null,
+        "Memo": "既にアナウンス一覧に登録されています",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 272011,
+        "IsIgnore": null,
+        "Memo": "この機能はマスターかサブマスターのみ実行できます",
+        "ErrorMessageType": 3
+    },
+    {
+        "Id": 272012,
+        "IsIgnore": null,
+        "Memo": "アナウンス一覧への登録上限数を超えています",
+        "ErrorMessageType": 3
+    },
+    {
+        "Id": 272013,
+        "IsIgnore": null,
+        "Memo": "登録の処理中です",
+        "ErrorMessageType": 2
     },
     {
         "Id": 282001,
@@ -3603,6 +3687,204 @@
         "Id": 402005,
         "IsIgnore": null,
         "Memo": null,
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 410000,
+        "IsIgnore": null,
+        "Memo": "ギルドツリーのデータがありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 410001,
+        "IsIgnore": null,
+        "Memo": "キャラのデータがありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 410002,
+        "IsIgnore": null,
+        "Memo": "ギルドのデータがありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 410003,
+        "IsIgnore": null,
+        "Memo": "プレイヤーデータがありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 410004,
+        "IsIgnore": null,
+        "Memo": "ギルドツリーのデータがありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 410005,
+        "IsIgnore": null,
+        "Memo": "前回勝利時のデータがありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 410006,
+        "IsIgnore": null,
+        "Memo": "ギルドのデータが見つかりません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 412000,
+        "IsIgnore": null,
+        "Memo": "ギルドツリー開催期間外です",
+        "ErrorMessageType": 3
+    },
+    {
+        "Id": 412001,
+        "IsIgnore": null,
+        "Memo": "ギルドに所属していません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 412002,
+        "IsIgnore": null,
+        "Memo": "残り回数が足りません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 412003,
+        "IsIgnore": null,
+        "Memo": "存在しないキャラが含まれています",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 412004,
+        "IsIgnore": null,
+        "Memo": "不正な入力です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 412005,
+        "IsIgnore": null,
+        "Memo": "未所持のキャラが含まれています",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 412006,
+        "IsIgnore": null,
+        "Memo": "必要なキャラ数を満たしていません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 412007,
+        "IsIgnore": null,
+        "Memo": "日付が変わるまで使用できません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 412008,
+        "IsIgnore": null,
+        "Memo": "クリア済みの階です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 412009,
+        "IsIgnore": null,
+        "Memo": "不正な難易度が選択されています",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 412100,
+        "IsIgnore": null,
+        "Memo": "不正な入力です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 412101,
+        "IsIgnore": null,
+        "Memo": "次のLvのデータが存在しません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 412102,
+        "IsIgnore": null,
+        "Memo": "強化に失敗しました",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 412103,
+        "IsIgnore": null,
+        "Memo": "条件を満たしていないため強化できません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 412104,
+        "IsIgnore": null,
+        "Memo": "強化上限に達しています",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 412105,
+        "IsIgnore": null,
+        "Memo": "登録していないキャラが含まれています",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 412106,
+        "IsIgnore": null,
+        "Memo": "他のプレイヤーのバトルが終了していません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 412107,
+        "IsIgnore": null,
+        "Memo": "ギルド全体で1日に挑戦できる回数を超過しています",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 412108,
+        "IsIgnore": null,
+        "Memo": "ギルドに加入した日はギルドツリーに参加できません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 412109,
+        "IsIgnore": null,
+        "Memo": "プレイヤーデータが見つかりません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 412110,
+        "IsIgnore": null,
+        "Memo": "クリア済みの階です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 412200,
+        "IsIgnore": null,
+        "Memo": "クリアしていない階の報酬は受け取れません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 412201,
+        "IsIgnore": null,
+        "Memo": "既に受取済みです",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 412202,
+        "IsIgnore": null,
+        "Memo": "イベント終了後にギルドに加入したため、到達報酬は受け取れません",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 421000,
+        "IsIgnore": null,
+        "Memo": "個別通知のデータがありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 421001,
+        "IsIgnore": null,
+        "Memo": "個別通知のデータがありません",
         "ErrorMessageType": 2
     },
     {

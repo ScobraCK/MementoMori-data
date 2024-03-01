@@ -2028,10 +2028,12 @@
     {
         "Id": 53,
         "IsIgnore": null,
-        "Memo": "リズ③＋マチルダ②＋次キャラ仮入れ①（0229切替用）",
+        "Memo": "リズ③＋マチルダ②＋ユニ①＋ステラ復刻①（0229切替用）",
         "CharacterIdList": [
             85,
             84,
+            76,
+            57,
             5,
             6,
             7,
@@ -2058,19 +2060,23 @@
         "GachaSelectListType": 2,
         "NewCharacterIdList": [
             85,
-            84
+            84,
+            76,
+            57
         ],
         "OrderNumber": 51,
-        "StartTimeFixJST": "2024-02-29 14:30:00",
+        "StartTimeFixJST": "2024-02-29 16:30:00",
         "EndTimeFixJST": "2024-03-07 14:29:59"
     },
     {
         "Id": 54,
         "IsIgnore": null,
-        "Memo": "リズ④＋マチルダ③＋次キャラ仮入れ①（0307切替用）",
+        "Memo": "リズ④＋マチルダ③＋ユニ②＋ステラ復刻②＋仮①（0307切替用）",
         "CharacterIdList": [
             85,
             84,
+            76,
+            57,
             5,
             6,
             7,
@@ -2097,11 +2103,56 @@
         "GachaSelectListType": 2,
         "NewCharacterIdList": [
             85,
-            84
+            84,
+            76,
+            57
         ],
         "OrderNumber": 52,
         "StartTimeFixJST": "2024-03-07 14:30:00",
         "EndTimeFixJST": "2024-03-08 14:29:59"
+    },
+    {
+        "Id": 55,
+        "IsIgnore": null,
+        "Memo": "リズ⑤＋マチルダ④＋ユニ③＋ステラ復刻③＋仮②（0308切替用）",
+        "CharacterIdList": [
+            85,
+            84,
+            76,
+            57,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "NewCharacterIdList": [
+            85,
+            84,
+            76,
+            57
+        ],
+        "OrderNumber": 53,
+        "StartTimeFixJST": "2024-03-08 14:30:00",
+        "EndTimeFixJST": "2024-03-14 14:29:59"
     },
     {
         "Id": 10000,

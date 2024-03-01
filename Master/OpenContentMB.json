@@ -765,6 +765,21 @@
         "TutorialId": 0
     },
     {
+        "Id": 52,
+        "IsIgnore": null,
+        "Memo": "時空の洞窟 スキップ(17-20)",
+        "AssetPath": "Prefabs/CommonParts/PartsCommonContentReleaseEffect",
+        "DescriptionKey": "",
+        "GuideDescriptionKey": "",
+        "GuideOrderNumber": 0,
+        "IsActiveGuide": false,
+        "OpenCommandType": 52,
+        "OpenContentType": 1,
+        "OpenContentValue": 440,
+        "ToastKey": "",
+        "TutorialId": 0
+    },
+    {
         "Id": 80,
         "IsIgnore": null,
         "Memo": "レベルリンク(Rank30)",
@@ -912,6 +927,21 @@
         "OpenContentType": 1,
         "OpenContentValue": 280,
         "ToastKey": "[OpenContentToast241]",
+        "TutorialId": 0
+    },
+    {
+        "Id": 260,
+        "IsIgnore": null,
+        "Memo": "ゴールド交換",
+        "AssetPath": "Prefabs/CommonParts/PartsCommonContentReleaseEffect",
+        "DescriptionKey": "",
+        "GuideDescriptionKey": "",
+        "GuideOrderNumber": 0,
+        "IsActiveGuide": false,
+        "OpenCommandType": 260,
+        "OpenContentType": 1,
+        "OpenContentValue": 9999,
+        "ToastKey": "[OpenContentToast260]",
         "TutorialId": 0
     },
     {
