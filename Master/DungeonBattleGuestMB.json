@@ -634,18 +634,18 @@
         "IsIgnore": null,
         "Memo": "リズ",
         "CharacterId": 84,
-        "IsPickup": true,
-        "EndTimeFixJST": "2024-03-08 14:29:59",
-        "StartTimeFixJST": "2024-02-15 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 72,
         "IsIgnore": null,
         "Memo": "マチルダ",
         "CharacterId": 85,
-        "IsPickup": true,
-        "EndTimeFixJST": "2024-03-08 14:29:59",
-        "StartTimeFixJST": "2024-02-22 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 73,
@@ -655,5 +655,14 @@
         "IsPickup": true,
         "EndTimeFixJST": "2024-03-14 14:29:59",
         "StartTimeFixJST": "2024-02-29 14:30:00"
+    },
+    {
+        "Id": 74,
+        "IsIgnore": null,
+        "Memo": "パラデア",
+        "CharacterId": 63,
+        "IsPickup": true,
+        "EndTimeFixJST": "2024-03-29 14:29:59",
+        "StartTimeFixJST": "2024-03-14 15:00:00"
     }
 ]

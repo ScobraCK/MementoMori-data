@@ -2157,8 +2157,9 @@
     {
         "Id": 56,
         "IsIgnore": null,
-        "Memo": "ルサールカ復刻②＋仮追加①（0314切替用）",
+        "Memo": "ルサールカ復刻②＋パラデア①（0314切替用）",
         "CharacterIdList": [
+            63,
             44,
             5,
             6,
@@ -2185,11 +2186,49 @@
         ],
         "GachaSelectListType": 2,
         "NewCharacterIdList": [
+            63,
             44
         ],
         "OrderNumber": 54,
-        "StartTimeFixJST": "2024-03-14 14:30:00",
+        "StartTimeFixJST": "2024-03-14 15:00:00",
         "EndTimeFixJST": "2024-03-22 14:29:59"
+    },
+    {
+        "Id": 57,
+        "IsIgnore": null,
+        "Memo": "パラデア②＋次キャラ仮入れ仮①（0322切替用）",
+        "CharacterIdList": [
+            63,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "NewCharacterIdList": [
+            63
+        ],
+        "OrderNumber": 55,
+        "StartTimeFixJST": "2024-03-22 14:30:00",
+        "EndTimeFixJST": "2024-03-29 14:29:59"
     },
     {
         "Id": 10000,
@@ -2258,5 +2297,22 @@
         "OrderNumber": 4,
         "StartTimeFixJST": "2024-01-22 14:30:00",
         "EndTimeFixJST": "2024-02-07 14:29:59"
+    },
+    {
+        "Id": 10050,
+        "IsIgnore": null,
+        "Memo": "星の導き5回ガチャ_ケルベロス・ソフィア（ 3/14 16:30 ~ 3/29 14:29 ）",
+        "CharacterIdList": [
+            43,
+            51
+        ],
+        "GachaSelectListType": 3,
+        "NewCharacterIdList": [
+            43,
+            51
+        ],
+        "OrderNumber": 5,
+        "StartTimeFixJST": "2024-03-14 15:00:00",
+        "EndTimeFixJST": "2024-03-29 14:29:59"
     }
 ]

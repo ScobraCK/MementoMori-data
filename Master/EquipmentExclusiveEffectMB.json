@@ -7469,5 +7469,138 @@
             }
         ],
         "CharacterId": 76
+    },
+    {
+        "Id": 349,
+        "IsIgnore": null,
+        "Memo": "パラデアSSR180",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 63
+    },
+    {
+        "Id": 350,
+        "IsIgnore": null,
+        "Memo": "パラデアSSR200",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1300.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 600.0
+            }
+        ],
+        "CharacterId": 63
+    },
+    {
+        "Id": 351,
+        "IsIgnore": null,
+        "Memo": "パラデアSSR220",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 650.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1400.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "CharacterId": 63
+    },
+    {
+        "Id": 352,
+        "IsIgnore": null,
+        "Memo": "パラデアSSR240",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "CharacterId": 63
+    },
+    {
+        "Id": 353,
+        "IsIgnore": null,
+        "Memo": "パラデアUR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 750.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1600.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 900.0
+            }
+        ],
+        "CharacterId": 63
+    },
+    {
+        "Id": 354,
+        "IsIgnore": null,
+        "Memo": "パラデアLR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 1000.0
+            }
+        ],
+        "CharacterId": 63
     }
 ]
