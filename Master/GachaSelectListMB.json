@@ -2196,9 +2196,10 @@
     {
         "Id": 57,
         "IsIgnore": null,
-        "Memo": "パラデア②＋次キャラ仮入れ仮①（0322切替用）",
+        "Memo": "パラデア②＋プリシラ復刻①（0322切替用）",
         "CharacterIdList": [
             63,
+            62,
             5,
             6,
             7,
@@ -2224,11 +2225,49 @@
         ],
         "GachaSelectListType": 2,
         "NewCharacterIdList": [
-            63
+            63,
+            62
         ],
         "OrderNumber": 55,
         "StartTimeFixJST": "2024-03-22 14:30:00",
         "EndTimeFixJST": "2024-03-29 14:29:59"
+    },
+    {
+        "Id": 58,
+        "IsIgnore": null,
+        "Memo": "プリシラ復刻②＋次キャラ仮入れ仮①（0329切替用）",
+        "CharacterIdList": [
+            62,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "NewCharacterIdList": [
+            62
+        ],
+        "OrderNumber": 56,
+        "StartTimeFixJST": "2024-03-29 14:30:00",
+        "EndTimeFixJST": "2024-04-08 14:29:59"
     },
     {
         "Id": 10000,
