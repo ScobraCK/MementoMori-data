@@ -10526,5 +10526,21 @@
         "ItemId": 630,
         "ItemType": 16,
         "NeedCount": 1
+    },
+    {
+        "Id": 675,
+        "IsIgnore": null,
+        "Memo": "妹からの手紙",
+        "ChangeItems": [
+            {
+                "ItemCount": 10000,
+                "ItemId": 1,
+                "ItemType": 3
+            }
+        ],
+        "ChangeItemType": 0,
+        "ItemId": 16,
+        "ItemType": 50,
+        "NeedCount": 1
     }
 ]
