@@ -2248,5 +2248,26 @@
         "TreasureChestLotteryType": 0,
         "EndTime": null,
         "StartTime": null
+    },
+    {
+        "Id": 10001,
+        "IsIgnore": null,
+        "Memo": "リズ補填SR心片",
+        "ChestKeyItemId": 0,
+        "DescriptionKey": "魔女の心片（リズ）を60個集めると、リズピックアップガチャの抽選確率にしたがってキャラが1体獲得できます。\nただし回数報酬及びガチャ回数による確定出現機能は考慮されません。またセレクトリストも考慮しません。\n2024-04-26 23:59:59 まで",
+        "DisplayNameKey": "魔女の心片（リズ）",
+        "IconId": 71,
+        "ItemRarityFlags": 128,
+        "MaxItemCount": 0,
+        "MinOpenCount": 60,
+        "NameKey": "魔女の心片（リズ）",
+        "SecondaryFrameNum": 0,
+        "SecondaryFrameType": 0,
+        "TreasureChestItemIdList": [
+            10001
+        ],
+        "TreasureChestLotteryType": 0,
+        "EndTime": "",
+        "StartTime": ""
     }
 ]
