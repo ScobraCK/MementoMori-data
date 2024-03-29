@@ -2998,6 +2998,58 @@
         "StartTimeFixJST": "2023-05-31 15:00:00"
     },
     {
+        "Id": 59,
+        "IsIgnore": null,
+        "Memo": "エイル",
+        "ActiveSkillIds": [
+            59001,
+            59002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 103,
+            "Health": 70,
+            "Intelligence": 79,
+            "Muscle": 90
+        },
+        "BaseParameterGrossCoefficient": 342,
+        "CharacterType": 0,
+        "ElementType": 1,
+        "InitialBattleParameter": {
+            "AttackPower": 5,
+            "Avoidance": 0,
+            "Critical": 0,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 0,
+            "DamageReflect": 0,
+            "DebuffHit": 1,
+            "DebuffResist": 0,
+            "Defense": 7,
+            "DefensePenetration": 0,
+            "Hit": 0,
+            "HP": -3,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": 0,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 0,
+            "Speed": 2892
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 2,
+        "Name2Key": null,
+        "NameKey": "[CharacterName59]",
+        "NormalSkillId": 101,
+        "PassiveSkillIds": [
+            59003,
+            59004
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2024-03-29 15:00:00"
+    },
+    {
         "Id": 60,
         "IsIgnore": null,
         "Memo": "フィアー",

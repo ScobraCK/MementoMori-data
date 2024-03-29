@@ -3583,5 +3583,95 @@
                 "ItemType": 1
             }
         ]
+    },
+    {
+        "Id": 242,
+        "IsIgnore": null,
+        "Memo": "プレイヤーランク475到達",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey242]",
+        "RankingDataType": 2,
+        "RequireValue": 475,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
+    },
+    {
+        "Id": 243,
+        "IsIgnore": null,
+        "Memo": "プレイヤーランク500到達",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey243]",
+        "RankingDataType": 2,
+        "RequireValue": 500,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
+    },
+    {
+        "Id": 244,
+        "IsIgnore": null,
+        "Memo": "プレイヤーランク525到達",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey244]",
+        "RankingDataType": 2,
+        "RequireValue": 525,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
+    },
+    {
+        "Id": 245,
+        "IsIgnore": null,
+        "Memo": "プレイヤーランク550到達",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey245]",
+        "RankingDataType": 2,
+        "RequireValue": 550,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
+    },
+    {
+        "Id": 246,
+        "IsIgnore": null,
+        "Memo": "プレイヤーランク575到達",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey246]",
+        "RankingDataType": 2,
+        "RequireValue": 575,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
+    },
+    {
+        "Id": 247,
+        "IsIgnore": null,
+        "Memo": "プレイヤーランク600到達",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey247]",
+        "RankingDataType": 2,
+        "RequireValue": 600,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
     }
 ]

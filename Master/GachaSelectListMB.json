@@ -2235,8 +2235,10 @@
     {
         "Id": 58,
         "IsIgnore": null,
-        "Memo": "プリシラ復刻②＋次キャラ仮入れ仮①（0329切替用）",
+        "Memo": "エイル①＋シフォン復刻 ①＋プリシラ復刻②（0329切替用）",
         "CharacterIdList": [
+            59,
+            54,
             62,
             5,
             6,
@@ -2263,11 +2265,52 @@
         ],
         "GachaSelectListType": 2,
         "NewCharacterIdList": [
+            59,
+            54,
             62
         ],
-        "OrderNumber": 56,
+        "OrderNumber": 57,
         "StartTimeFixJST": "2024-03-29 14:30:00",
         "EndTimeFixJST": "2024-04-08 14:29:59"
+    },
+    {
+        "Id": 59,
+        "IsIgnore": null,
+        "Memo": "エイル②＋シフォン復刻②＋次キャラ仮入れ仮①（0408切替用）",
+        "CharacterIdList": [
+            59,
+            54,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "NewCharacterIdList": [
+            59,
+            54
+        ],
+        "OrderNumber": 58,
+        "StartTimeFixJST": "2024-04-08 14:30:00",
+        "EndTimeFixJST": "2024-04-15 14:29:59"
     },
     {
         "Id": 10000,

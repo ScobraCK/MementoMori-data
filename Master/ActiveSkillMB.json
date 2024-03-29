@@ -7799,6 +7799,172 @@
         "RootActiveSkillId": 58002
     },
     {
+        "Id": 59001,
+        "IsIgnore": null,
+        "Memo": "エイルSR:Lv1 大型の獣も昏倒させる狩猟用麻酔弾で敵を狙い撃つ。正面の敵とそれに隣接する敵1体に攻撃力×580％の物理攻撃を行う。50％の確率で2ターンの間対象のクリティカル耐性率を40%減少させ、『睡眠』を付与する。これらは一つの弱体効果として扱われ、対象が攻撃を受けたとき解除される。/ Lv2 『クリティカル耐性率減少』と『睡眠』を付与する確率が70％になる。/ Lv3 物理攻撃のダメージが攻撃力×880％になる。/ Ex1 狩猟用麻酔弾を強化する。スキル1の対象が正面の敵とそれに隣接する敵2体になる。/ Ex3 狩猟用麻酔弾を強化する。物理攻撃のダメージが攻撃力×980％になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription590011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    59001001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription590012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    59001201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription590013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    59001301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription590014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    59001401
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription590015]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    59001501
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName59001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 59001
+    },
+    {
+        "Id": 59002,
+        "IsIgnore": null,
+        "Memo": "エイルSR:Lv1 獲物の足を止めて、急所を狙う。最も基本にして、最も効果的な狩りの手法。それが獣であれ、魔女であれ……。行動阻害効果を付帯している敵が1体以上いる場合に発動。行動阻害効果を付帯している敵全体に攻撃力×480％の物理攻撃を行う（対象は最大5体まで。対象が5体より多くいる場合、そのうち5体をランダムに選択する）。発動条件を満たさない場合通常攻撃を行う。/ Lv2 さらに対象に1ターンの間『出血』を付与する。毎ターン行動開始時に自身の攻撃力×50％のダメージを与える。/ Lv3 物理攻撃が必ず命中するようになる。/ Lv4 物理攻撃のダメージが攻撃力×880％になる。/ Ex2 銀の魔弾を強化する。『出血』のターン数が2ターンになる。",
+        "ActiveSkillConditions": "self.BattleUnitEnemyGroup.BattleUnits.Count(u => u.BattleActor.EffectManager.ConfuseActionDebuffGroupCount() > 0 && u.BattleActor.EffectManager.CountEffectGroupsByEffectType(2008) == 0 ) > 0 || ( self.BattleUnitEnemyGroup.AliveCount == self.BattleUnitEnemyGroup.BattleUnits.Count(u => u.BattleActor.EffectManager.CountEffectGroupsByEffectType(2008) > 0 ) ) && self.BattleUnitEnemyGroup.BattleUnits.Count(u => u.BattleActor.EffectManager.ConfuseActionDebuffGroupCount() > 0 ) > 0",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription590021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    59002001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription590022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    59002201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription590023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    59002301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription590024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    59002401
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription590025]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 256,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    59002501
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName59002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 59002
+    },
+    {
+        "Id": 59101,
+        "IsIgnore": null,
+        "Memo": "*",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "*",
+                "CharacterLevel": 61,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    59101001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "*",
+                "CharacterLevel": 141,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    59101201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "*",
+                "CharacterLevel": 221,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    59101301
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName59101]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 0,
+        "RootActiveSkillId": 59101
+    },
+    {
         "Id": 60001,
         "IsIgnore": null,
         "Memo": "フィアーSR:Lv1 命の呪いは、時として他者から奪い自らの命に変える。2ターンの間自身のHPドレインが20%増加し、ランダムな敵3体に攻撃力×380%の物理攻撃を行う。/ Lv2 『HPドレイン増加』のターン数が4ターンになり、増加量が40%になる。/ Lv3 物理攻撃のダメージが攻撃力×480%になる。/ Ex1 ライフスティールを強化する。ライフスティールの対象がランダムな敵5体になる。",
@@ -10341,6 +10507,50 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 55002
+    },
+    {
+        "Id": 550259001,
+        "IsIgnore": null,
+        "Memo": "ギルドレイドエイル1",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription590013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    59001301
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName59001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 59001
+    },
+    {
+        "Id": 550259002,
+        "IsIgnore": null,
+        "Memo": "ギルドレイドエイル2",
+        "ActiveSkillConditions": "self.BattleUnitEnemyGroup.BattleUnits.Count(u => u.BattleActor.EffectManager.ConfuseActionDebuffGroupCount() > 0 && u.BattleActor.EffectManager.CountEffectGroupsByEffectType(2008) == 0 ) > 0 || ( self.BattleUnitEnemyGroup.AliveCount == self.BattleUnitEnemyGroup.BattleUnits.Count(u => u.BattleActor.EffectManager.CountEffectGroupsByEffectType(2008) > 0 ) ) && self.BattleUnitEnemyGroup.BattleUnits.Count(u => u.BattleActor.EffectManager.ConfuseActionDebuffGroupCount() > 0 ) > 0",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription590024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    59002401
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName59002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 59002
     },
     {
         "Id": 550262001,
@@ -18837,6 +19047,172 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 58002
+    },
+    {
+        "Id": 550459001,
+        "IsIgnore": null,
+        "Memo": null,
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550459001001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550459001201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550459001301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550459001401
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": null,
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550459001501
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName59001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 59001
+    },
+    {
+        "Id": 550459002,
+        "IsIgnore": null,
+        "Memo": null,
+        "ActiveSkillConditions": "self.BattleUnitEnemyGroup.BattleUnits.Count(u => u.BattleActor.EffectManager.ConfuseActionDebuffGroupCount() > 0 && u.BattleActor.EffectManager.CountEffectGroupsByEffectType(2008) == 0 ) > 0 || ( self.BattleUnitEnemyGroup.AliveCount == self.BattleUnitEnemyGroup.BattleUnits.Count(u => u.BattleActor.EffectManager.CountEffectGroupsByEffectType(2008) > 0 ) ) && self.BattleUnitEnemyGroup.BattleUnits.Count(u => u.BattleActor.EffectManager.ConfuseActionDebuffGroupCount() > 0 ) > 0",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550459002001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550459002201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550459002301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550459002401
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": null,
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 256,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550459002501
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName59002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 59002
+    },
+    {
+        "Id": 550459101,
+        "IsIgnore": null,
+        "Memo": null,
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 61,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550459101001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 141,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550459101201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 221,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550459101301
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName59101]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 0,
+        "RootActiveSkillId": 59101
     },
     {
         "Id": 550460001,
