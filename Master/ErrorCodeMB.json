@@ -3888,6 +3888,36 @@
         "ErrorMessageType": 2
     },
     {
+        "Id": 431000,
+        "IsIgnore": null,
+        "Memo": "データがありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 432000,
+        "IsIgnore": null,
+        "Memo": "開催期間外です",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 432001,
+        "IsIgnore": null,
+        "Memo": "リクエストが不正です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 432002,
+        "IsIgnore": null,
+        "Memo": "データが不正です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 432003,
+        "IsIgnore": null,
+        "Memo": "本日の残り錬成可能個数を超過しています",
+        "ErrorMessageType": 2
+    },
+    {
         "Id": 602004,
         "IsIgnore": null,
         "Memo": null,
@@ -3969,6 +3999,18 @@
         "Id": 602020,
         "IsIgnore": null,
         "Memo": null,
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 602021,
+        "IsIgnore": null,
+        "Memo": "錬金工房が解放されていません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 602022,
+        "IsIgnore": null,
+        "Memo": "不正なリクエストです",
         "ErrorMessageType": 2
     },
     {
@@ -4398,6 +4440,12 @@
         "ErrorMessageType": 2
     },
     {
+        "Id": 900318,
+        "IsIgnore": null,
+        "Memo": "GlobalGvgでキャラクターのキャッシュデータが存在しないためパーティ追加に失敗しました",
+        "ErrorMessageType": 2
+    },
+    {
         "Id": 1000000,
         "IsIgnore": null,
         "Memo": null,
@@ -4545,6 +4593,12 @@
         "Id": 1002016,
         "IsIgnore": null,
         "Memo": null,
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 1002017,
+        "IsIgnore": null,
+        "Memo": "キャラクターのキャッシュデータが存在しないためパーティの配置に失敗しました",
         "ErrorMessageType": 2
     },
     {

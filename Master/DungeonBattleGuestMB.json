@@ -553,9 +553,9 @@
         "IsIgnore": null,
         "Memo": "プリシラ",
         "CharacterId": 62,
-        "IsPickup": true,
-        "EndTimeFixJST": "2024-04-08 14:29:59",
-        "StartTimeFixJST": "2024-03-22 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 63,
@@ -673,5 +673,14 @@
         "IsPickup": true,
         "EndTimeFixJST": "2024-04-15 14:29:59",
         "StartTimeFixJST": "2024-03-29 16:30:00"
+    },
+    {
+        "Id": 76,
+        "IsIgnore": null,
+        "Memo": "モルガナ",
+        "CharacterId": 75,
+        "IsPickup": true,
+        "EndTimeFixJST": "2024-04-30 14:29:59",
+        "StartTimeFixJST": "2024-04-15 14:30:00"
     }
 ]

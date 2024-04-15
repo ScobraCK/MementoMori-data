@@ -616,5 +616,211 @@
         "EndTime": "2024-03-14 03:59:59",
         "StartTime": "2024-02-15 04:00:00",
         "StartEndTimeZoneType": 0
+    },
+    {
+        "Id": 4,
+        "IsIgnore": null,
+        "Memo": "202403使徒ロザリー",
+        "CampaignTitleKey": "[PanelMissionTitle4]",
+        "DelayDays": 10,
+        "ForceStartTime": "2024-05-10 04:00:00",
+        "PanelMissionSheetInfoList": [
+            {
+                "BingoRewardInfoList": [
+                    {
+                        "BingoType": 1,
+                        "RewardItemList": [
+                            {
+                                "ItemCount": 10,
+                                "ItemId": 2,
+                                "ItemType": 18
+                            },
+                            {
+                                "ItemCount": 10,
+                                "ItemId": 28,
+                                "ItemType": 17
+                            }
+                        ]
+                    },
+                    {
+                        "BingoType": 2,
+                        "RewardItemList": [
+                            {
+                                "ItemCount": 5,
+                                "ItemId": 2,
+                                "ItemType": 16
+                            }
+                        ]
+                    },
+                    {
+                        "BingoType": 3,
+                        "RewardItemList": [
+                            {
+                                "ItemCount": 300,
+                                "ItemId": 1,
+                                "ItemType": 1
+                            },
+                            {
+                                "ItemCount": 20,
+                                "ItemId": 27,
+                                "ItemType": 17
+                            }
+                        ]
+                    },
+                    {
+                        "BingoType": 4,
+                        "RewardItemList": [
+                            {
+                                "ItemCount": 300,
+                                "ItemId": 1,
+                                "ItemType": 1
+                            },
+                            {
+                                "ItemCount": 1,
+                                "ItemId": 12,
+                                "ItemType": 10
+                            }
+                        ]
+                    },
+                    {
+                        "BingoType": 5,
+                        "RewardItemList": [
+                            {
+                                "ItemCount": 2,
+                                "ItemId": 14,
+                                "ItemType": 10
+                            }
+                        ]
+                    },
+                    {
+                        "BingoType": 6,
+                        "RewardItemList": [
+                            {
+                                "ItemCount": 20,
+                                "ItemId": 1,
+                                "ItemType": 18
+                            },
+                            {
+                                "ItemCount": 10,
+                                "ItemId": 28,
+                                "ItemType": 17
+                            }
+                        ]
+                    }
+                ],
+                "MissionIdList": [
+                    1165,
+                    1344,
+                    1345,
+                    1346,
+                    1347,
+                    1348,
+                    1171,
+                    1317,
+                    1173
+                ],
+                "PanelMBId": 10007,
+                "SheetNo": 1,
+                "X": 0.0,
+                "Y": 0.0
+            },
+            {
+                "BingoRewardInfoList": [
+                    {
+                        "BingoType": 1,
+                        "RewardItemList": [
+                            {
+                                "ItemCount": 2,
+                                "ItemId": 14,
+                                "ItemType": 10
+                            }
+                        ]
+                    },
+                    {
+                        "BingoType": 2,
+                        "RewardItemList": [
+                            {
+                                "ItemCount": 300,
+                                "ItemId": 1,
+                                "ItemType": 1
+                            },
+                            {
+                                "ItemCount": 1,
+                                "ItemId": 12,
+                                "ItemType": 10
+                            }
+                        ]
+                    },
+                    {
+                        "BingoType": 3,
+                        "RewardItemList": [
+                            {
+                                "ItemCount": 300,
+                                "ItemId": 1,
+                                "ItemType": 1
+                            },
+                            {
+                                "ItemCount": 20,
+                                "ItemId": 27,
+                                "ItemType": 17
+                            }
+                        ]
+                    },
+                    {
+                        "BingoType": 4,
+                        "RewardItemList": [
+                            {
+                                "ItemCount": 10,
+                                "ItemId": 6,
+                                "ItemType": 17
+                            }
+                        ]
+                    },
+                    {
+                        "BingoType": 5,
+                        "RewardItemList": [
+                            {
+                                "ItemCount": 5,
+                                "ItemId": 2,
+                                "ItemType": 16
+                            }
+                        ]
+                    },
+                    {
+                        "BingoType": 6,
+                        "RewardItemList": [
+                            {
+                                "ItemCount": 5,
+                                "ItemId": 3,
+                                "ItemType": 18
+                            },
+                            {
+                                "ItemCount": 10,
+                                "ItemId": 28,
+                                "ItemType": 17
+                            }
+                        ]
+                    }
+                ],
+                "MissionIdList": [
+                    1174,
+                    1318,
+                    1319,
+                    1320,
+                    1178,
+                    1179,
+                    1180,
+                    1181,
+                    1182
+                ],
+                "PanelMBId": 10008,
+                "SheetNo": 2,
+                "X": 0.0,
+                "Y": 0.0
+            }
+        ],
+        "EndTime": "2024-05-20 03:59:59",
+        "StartTime": "2024-04-15 04:00:00",
+        "StartEndTimeZoneType": 0
     }
 ]

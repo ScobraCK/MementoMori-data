@@ -1378,5 +1378,20 @@
         "HelpTitle": "[HelpTitleKey]",
         "IsDisplayed": true,
         "TutorialDescriptionId": 0
+    },
+    {
+        "Id": 6300,
+        "IsIgnore": null,
+        "Memo": "ゴールド交換",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine6300]",
+                "MainText": "[HelpMainText6300]",
+                "HelpParameterType": 0
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 30
     }
 ]
