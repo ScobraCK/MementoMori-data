@@ -2356,9 +2356,10 @@
     {
         "Id": 61,
         "IsIgnore": null,
-        "Memo": "モルガナ②＋次キャラ仮入れ仮①（0422切替用）",
+        "Memo": "モルガナ②＋エルフリンデ復刻①（0422切替用）",
         "CharacterIdList": [
             75,
+            45,
             5,
             6,
             7,
@@ -2384,7 +2385,8 @@
         ],
         "GachaSelectListType": 2,
         "NewCharacterIdList": [
-            75
+            75,
+            45
         ],
         "OrderNumber": 61,
         "StartTimeFixJST": "2024-04-22 14:30:00",
@@ -2393,9 +2395,10 @@
     {
         "Id": 62,
         "IsIgnore": null,
-        "Memo": "モルガナ③＋次キャラ仮入れ仮②（0426切替用）",
+        "Memo": "モルガナ③＋エルフリンデ復刻②＋次キャラ仮入れ仮①（0426切替用）",
         "CharacterIdList": [
             75,
+            45,
             5,
             6,
             7,
@@ -2421,11 +2424,49 @@
         ],
         "GachaSelectListType": 2,
         "NewCharacterIdList": [
-            75
+            75,
+            45
         ],
         "OrderNumber": 62,
         "StartTimeFixJST": "2024-04-26 16:30:00",
         "EndTimeFixJST": "2024-04-30 14:29:59"
+    },
+    {
+        "Id": 63,
+        "IsIgnore": null,
+        "Memo": "エルフリンデ復刻②＋次キャラ仮入れ仮①（0430切替用）",
+        "CharacterIdList": [
+            45,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "NewCharacterIdList": [
+            45
+        ],
+        "OrderNumber": 63,
+        "StartTimeFixJST": "2024-04-30 16:30:00",
+        "EndTimeFixJST": "2024-05-08 14:29:59"
     },
     {
         "Id": 10000,
