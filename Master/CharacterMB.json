@@ -3936,5 +3936,58 @@
         "RequireFragmentCount": 60,
         "EndTimeFixJST": "2100-12-31 23:59:59",
         "StartTimeFixJST": "2024-2-22 15:00:00"
+    },
+    {
+        "Id": 88,
+        "IsIgnore": null,
+        "Memo": "使徒ロザリー",
+        "ActiveSkillIds": [
+            88001,
+            88002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 80,
+            "Health": 97,
+            "Intelligence": 90,
+            "Muscle": 80
+        },
+        "BaseParameterGrossCoefficient": 347,
+        "CharacterType": 2,
+        "ElementType": 5,
+        "InitialBattleParameter": {
+            "AttackPower": -5,
+            "Avoidance": 1,
+            "Critical": 0,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 0,
+            "DamageReflect": 0,
+            "DebuffHit": 0,
+            "DebuffResist": 0,
+            "Defense": 7,
+            "DefensePenetration": 0,
+            "Hit": 0,
+            "HP": 3,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": 5,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": -1,
+            "Speed": 2646
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 4,
+        "Name2Key": "[CharacterSubName88]",
+        "NameKey": "[CharacterName88]",
+        "NormalSkillId": 102,
+        "PassiveSkillIds": [
+            88003,
+            88004,
+            88005
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2024-04-26 15:00:00"
     }
 ]

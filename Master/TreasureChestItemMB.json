@@ -2757,6 +2757,32 @@
         "TreasureChestItemListType": 3
     },
     {
+        "Id": 110,
+        "IsIgnore": null,
+        "Memo": "願い星のチケットケース",
+        "FixItemList": null,
+        "LotteryRewardId": 0,
+        "SelectItemList": [
+            {
+                "SelectItem": {
+                    "ItemCount": 3,
+                    "ItemId": 10,
+                    "ItemType": 16
+                },
+                "SacredTreasureType": 0
+            },
+            {
+                "SelectItem": {
+                    "ItemCount": 5,
+                    "ItemId": 2,
+                    "ItemType": 16
+                },
+                "SacredTreasureType": 0
+            }
+        ],
+        "TreasureChestItemListType": 3
+    },
+    {
         "Id": 999,
         "IsIgnore": null,
         "Memo": "運命ガチャ毎回報酬（潜在宝珠50＋精錬水50）、本番データ（削除禁止）",

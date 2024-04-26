@@ -16415,6 +16415,511 @@
         ]
     },
     {
+        "Id": 8800120101,
+        "IsIgnore": null,
+        "Memo": "被ダメージが10%増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800120101]",
+        "IconId": 88001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800120101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8800130101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8800120101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 8800130101,
+        "IsIgnore": null,
+        "Memo": "被ダメージが10%増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800130101]",
+        "IconId": 88001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800130101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8800130101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8800120101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 8800200101,
+        "IsIgnore": null,
+        "Memo": "*『スキル2強化』を付与する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800200101]",
+        "IconId": 88002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800200101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8800200102,
+        "IsIgnore": null,
+        "Memo": "*『スキル2強化』を解除する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800200102]",
+        "IconId": 88002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800200102]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8800200401,
+        "IsIgnore": null,
+        "Memo": "*『記憶』と『スキル2強化』を解除する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800200401]",
+        "IconId": 88002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800200401]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8800200701,
+        "IsIgnore": null,
+        "Memo": "*スキルクールタイムカウントを1減少させる。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800200701]",
+        "IconId": 88002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800200701]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8800220702,
+        "IsIgnore": null,
+        "Memo": "攻撃力がステータス増減前の付与者の最大HP×10%分増加する（解除不可）。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800220702]",
+        "IconId": 88002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800220702]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8800230701,
+        "IsIgnore": null,
+        "Memo": "*スキルクールタイムカウントを2減少させる。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800230701]",
+        "IconId": 88002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800230701]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8800300101,
+        "IsIgnore": null,
+        "Memo": "[記憶]スタック数が15になるとエンジェルレイの代わりにソウルサクリファイスを発動する（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300101]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8800300301,
+        "IsIgnore": null,
+        "Memo": "*『記憶』のスタック数が1増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300301]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300301]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8800300302,
+        "IsIgnore": null,
+        "Memo": "*『記憶』のスタック数が2増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300302]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300302]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8800300303,
+        "IsIgnore": null,
+        "Memo": "*『記憶』のスタック数が3増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300303]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300303]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8800300304,
+        "IsIgnore": null,
+        "Memo": "*『記憶』のスタック数が4増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300304]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300304]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8800300305,
+        "IsIgnore": null,
+        "Memo": "*『記憶』のスタック数が5増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300305]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300305]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8800300306,
+        "IsIgnore": null,
+        "Memo": "*『記憶』のスタック数が6増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300306]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300306]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8800300307,
+        "IsIgnore": null,
+        "Memo": "*『記憶』のスタック数が7増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300307]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300307]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8800300308,
+        "IsIgnore": null,
+        "Memo": "*『記憶』のスタック数が8増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300308]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300308]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8800300309,
+        "IsIgnore": null,
+        "Memo": "*『記憶』のスタック数が9増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300309]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300309]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8800300310,
+        "IsIgnore": null,
+        "Memo": "*『記憶』のスタック数が10増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300310]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300310]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8800300311,
+        "IsIgnore": null,
+        "Memo": "*『記憶』のスタック数が11増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300311]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300311]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8800300312,
+        "IsIgnore": null,
+        "Memo": "*『記憶』のスタック数が12増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300312]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300312]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8800300313,
+        "IsIgnore": null,
+        "Memo": "*『記憶』のスタック数が13増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300313]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300313]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8800300314,
+        "IsIgnore": null,
+        "Memo": "*『記憶』のスタック数が14増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300314]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300314]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8800300315,
+        "IsIgnore": null,
+        "Memo": "*『記憶』のスタック数が15増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300315]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300315]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8800300316,
+        "IsIgnore": null,
+        "Memo": "攻撃力がステータス増減前の自身の最大HP×10%分増加する（解除不可）。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300316]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300316]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8800300317,
+        "IsIgnore": null,
+        "Memo": "*[印]",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300317]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300317]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8800320201,
+        "IsIgnore": null,
+        "Memo": "*『記憶』のスタック数が3増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800320201]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800320201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8800330318,
+        "IsIgnore": null,
+        "Memo": "*弱体効果を2つ解除する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800330318]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800330318]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8800330319,
+        "IsIgnore": null,
+        "Memo": "[シールド] ステータス増減前の最大HP×80%分のダメージを代わりに受ける（解除不可）。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800330319]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800330319]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8800400101,
+        "IsIgnore": null,
+        "Memo": "[結界] 最大HP×20%を超えた分のダメージをステータス増減前の付与者の最大HP×20%分遮断する（解除不可）。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800400101]",
+        "IconId": 88004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800400101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8800440101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8800420101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 8800400101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 8800420101,
+        "IsIgnore": null,
+        "Memo": "[結界] 最大HP×20%を超えた分のダメージをステータス増減前の付与者の最大HP×20%分遮断する（解除不可）。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800420101]",
+        "IconId": 88004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800420101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8800440101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8800420101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 8800400101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 8800440101,
+        "IsIgnore": null,
+        "Memo": "[結界] 最大HP×20%を超えた分のダメージをステータス増減前の付与者の最大HP×50%分遮断する（解除不可）。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800440101]",
+        "IconId": 88004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800440101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8800440101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8800420101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 8800400101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
         "Id": 5504600400101,
         "IsIgnore": null,
         "Memo": "アムレートSR　誓いを果たす者  :*",
@@ -35693,6 +36198,511 @@
             {
                 "EffectGroupId": 55048500300101,
                 "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 55048800120101,
+        "IsIgnore": null,
+        "Memo": "被ダメージが10%増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800120101]",
+        "IconId": 88001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800120101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55048800130101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55048800120101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 55048800130101,
+        "IsIgnore": null,
+        "Memo": "被ダメージが10%増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800130101]",
+        "IconId": 88001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800130101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55048800130101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55048800120101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 55048800200101,
+        "IsIgnore": null,
+        "Memo": "*『スキル2強化』を付与する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800200101]",
+        "IconId": 88002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800200101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55048800200102,
+        "IsIgnore": null,
+        "Memo": "*『スキル2強化』を解除する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800200102]",
+        "IconId": 88002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800200102]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55048800200401,
+        "IsIgnore": null,
+        "Memo": "*『記憶』と『スキル2強化』を解除する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800200401]",
+        "IconId": 88002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800200401]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55048800200701,
+        "IsIgnore": null,
+        "Memo": "*スキルクールタイムカウントを1減少させる。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800200701]",
+        "IconId": 88002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800200701]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55048800220702,
+        "IsIgnore": null,
+        "Memo": "攻撃力がステータス増減前の付与者の最大HP×10%分増加する（解除不可）。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800220702]",
+        "IconId": 88002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800220702]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55048800230701,
+        "IsIgnore": null,
+        "Memo": "*スキルクールタイムカウントを2減少させる。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800230701]",
+        "IconId": 88002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800230701]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55048800300101,
+        "IsIgnore": null,
+        "Memo": "[記憶]スタック数が15になるとエンジェルレイの代わりにソウルサクリファイスを発動する（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300101]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55048800300301,
+        "IsIgnore": null,
+        "Memo": "*『記憶』のスタック数が1増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300301]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300301]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55048800300302,
+        "IsIgnore": null,
+        "Memo": "*『記憶』のスタック数が2増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300302]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300302]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55048800300303,
+        "IsIgnore": null,
+        "Memo": "*『記憶』のスタック数が3増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300303]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300303]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55048800300304,
+        "IsIgnore": null,
+        "Memo": "*『記憶』のスタック数が4増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300304]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300304]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55048800300305,
+        "IsIgnore": null,
+        "Memo": "*『記憶』のスタック数が5増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300305]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300305]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55048800300306,
+        "IsIgnore": null,
+        "Memo": "*『記憶』のスタック数が6増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300306]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300306]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55048800300307,
+        "IsIgnore": null,
+        "Memo": "*『記憶』のスタック数が7増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300307]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300307]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55048800300308,
+        "IsIgnore": null,
+        "Memo": "*『記憶』のスタック数が8増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300308]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300308]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55048800300309,
+        "IsIgnore": null,
+        "Memo": "*『記憶』のスタック数が9増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300309]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300309]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55048800300310,
+        "IsIgnore": null,
+        "Memo": "*『記憶』のスタック数が10増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300310]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300310]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55048800300311,
+        "IsIgnore": null,
+        "Memo": "*『記憶』のスタック数が11増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300311]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300311]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55048800300312,
+        "IsIgnore": null,
+        "Memo": "*『記憶』のスタック数が12増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300312]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300312]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55048800300313,
+        "IsIgnore": null,
+        "Memo": "*『記憶』のスタック数が13増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300313]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300313]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55048800300314,
+        "IsIgnore": null,
+        "Memo": "*『記憶』のスタック数が14増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300314]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300314]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55048800300315,
+        "IsIgnore": null,
+        "Memo": "*『記憶』のスタック数が15増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300315]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300315]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55048800300316,
+        "IsIgnore": null,
+        "Memo": "攻撃力がステータス増減前の自身の最大HP×10%分増加する（解除不可）。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300316]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300316]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55048800300317,
+        "IsIgnore": null,
+        "Memo": "*[印]",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800300317]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800300317]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55048800320201,
+        "IsIgnore": null,
+        "Memo": "*『記憶』のスタック数が3増加する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800320201]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800320201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55048800330318,
+        "IsIgnore": null,
+        "Memo": "*弱体効果を2つ解除する。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800330318]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800330318]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55048800330319,
+        "IsIgnore": null,
+        "Memo": "[シールド] ステータス増減前の最大HP×80%分のダメージを代わりに受ける（解除不可）。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800330319]",
+        "IconId": 88003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800330319]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55048800400101,
+        "IsIgnore": null,
+        "Memo": "[結界] 最大HP×20%を超えた分のダメージをステータス増減前の付与者の最大HP×20%分遮断する（解除不可）。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800400101]",
+        "IconId": 88004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800400101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55048800440101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55048800420101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 55048800400101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 55048800420101,
+        "IsIgnore": null,
+        "Memo": "[結界] 最大HP×20%を超えた分のダメージをステータス増減前の付与者の最大HP×20%分遮断する（解除不可）。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800420101]",
+        "IconId": 88004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800420101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55048800440101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55048800420101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 55048800400101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 55048800440101,
+        "IsIgnore": null,
+        "Memo": "[結界] 最大HP×20%を超えた分のダメージをステータス増減前の付与者の最大HP×50%分遮断する（解除不可）。",
+        "CasterIconId": 88,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8800440101]",
+        "IconId": 88004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8800440101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55048800440101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55048800420101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 55048800400101,
+                "OrderNumber": 3
             }
         ]
     }

@@ -535,9 +535,9 @@
         "IsIgnore": null,
         "Memo": "アームストロング",
         "CharacterId": 50,
-        "IsPickup": true,
-        "EndTimeFixJST": "2024-04-22 14:29:59",
-        "StartTimeFixJST": "2024-04-08 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 61,
@@ -682,5 +682,14 @@
         "IsPickup": true,
         "EndTimeFixJST": "2024-04-30 14:29:59",
         "StartTimeFixJST": "2024-04-15 14:30:00"
+    },
+    {
+        "Id": 77,
+        "IsIgnore": null,
+        "Memo": "使徒ロザリー",
+        "CharacterId": 88,
+        "IsPickup": true,
+        "EndTimeFixJST": "2024-05-20 14:29:59",
+        "StartTimeFixJST": "2024-04-26 14:30:00"
     }
 ]
