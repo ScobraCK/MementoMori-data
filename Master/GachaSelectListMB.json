@@ -2475,9 +2475,10 @@
     {
         "Id": 64,
         "IsIgnore": null,
-        "Memo": "使徒ロザリー③＋次キャラ仮入れ仮①（0508切替用）",
+        "Memo": "使徒ロザリー③＋シヴィ復刻①（0508切替用）",
         "CharacterIdList": [
             88,
+            52,
             5,
             6,
             7,
@@ -2503,7 +2504,8 @@
         ],
         "GachaSelectListType": 2,
         "NewCharacterIdList": [
-            88
+            88,
+            25
         ],
         "OrderNumber": 64,
         "StartTimeFixJST": "2024-05-08 14:30:00",
@@ -2512,9 +2514,10 @@
     {
         "Id": 65,
         "IsIgnore": null,
-        "Memo": "使徒ロザリー④＋次キャラ仮入れ仮①（0515切替用）",
+        "Memo": "使徒ロザリー④＋シヴィ復刻②＋次キャラ仮入れ①（0515切替用）",
         "CharacterIdList": [
             88,
+            52,
             5,
             6,
             7,
@@ -2540,11 +2543,12 @@
         ],
         "GachaSelectListType": 2,
         "NewCharacterIdList": [
-            88
+            88,
+            25
         ],
         "OrderNumber": 65,
         "StartTimeFixJST": "2024-05-15 16:30:00",
-        "EndTimeFixJST": "2024-05-20 14:29:59"
+        "EndTimeFixJST": "2024-05-23 14:29:59"
     },
     {
         "Id": 10000,
