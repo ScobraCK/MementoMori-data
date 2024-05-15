@@ -3833,6 +3833,58 @@
         "StartTimeFixJST": "2024-02-29 15:00:00"
     },
     {
+        "Id": 78,
+        "IsIgnore": null,
+        "Memo": "アサヒ",
+        "ActiveSkillIds": [
+            78001,
+            78002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 102,
+            "Health": 65,
+            "Intelligence": 77,
+            "Muscle": 91
+        },
+        "BaseParameterGrossCoefficient": 335,
+        "CharacterType": 0,
+        "ElementType": 4,
+        "InitialBattleParameter": {
+            "AttackPower": 5,
+            "Avoidance": 0,
+            "Critical": 0,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 0,
+            "DamageReflect": 0,
+            "DebuffHit": 0,
+            "DebuffResist": 0,
+            "Defense": 10,
+            "DefensePenetration": 0,
+            "Hit": -3,
+            "HP": -3,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": 0,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 1,
+            "Speed": 3044
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 2,
+        "Name2Key": null,
+        "NameKey": "[CharacterName78]",
+        "NormalSkillId": 101,
+        "PassiveSkillIds": [
+            78003,
+            78004
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2024-05-15 15:00:00"
+    },
+    {
         "Id": 84,
         "IsIgnore": null,
         "Memo": "リズ",

@@ -2514,9 +2514,11 @@
     {
         "Id": 65,
         "IsIgnore": null,
-        "Memo": "使徒ロザリー④＋シヴィ復刻②＋次キャラ仮入れ①（0515切替用）",
+        "Memo": "アサヒ①＋使徒ロザリー④＋フェーネ復刻①＋シヴィ復刻②（0515切替用）",
         "CharacterIdList": [
             88,
+            78,
+            68,
             52,
             5,
             6,
@@ -2544,11 +2546,93 @@
         "GachaSelectListType": 2,
         "NewCharacterIdList": [
             88,
-            25
+            78,
+            68,
+            52
         ],
         "OrderNumber": 65,
-        "StartTimeFixJST": "2024-05-15 16:30:00",
+        "StartTimeFixJST": "2024-05-15 17:30:00",
+        "EndTimeFixJST": "2024-05-20 14:29:59"
+    },
+    {
+        "Id": 66,
+        "IsIgnore": null,
+        "Memo": "アサヒ②＋フェーネ復刻②＋シヴィ復刻③（0520切替用）",
+        "CharacterIdList": [
+            78,
+            68,
+            52,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "NewCharacterIdList": [
+            78,
+            68,
+            52
+        ],
+        "OrderNumber": 66,
+        "StartTimeFixJST": "2024-05-20 14:30:00",
         "EndTimeFixJST": "2024-05-23 14:29:59"
+    },
+    {
+        "Id": 67,
+        "IsIgnore": null,
+        "Memo": "アサヒ③＋フェーネ復刻③＋次キャラ仮入れ仮①（0523切替用）",
+        "CharacterIdList": [
+            78,
+            68,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "NewCharacterIdList": [
+            78,
+            68
+        ],
+        "OrderNumber": 67,
+        "StartTimeFixJST": "2024-05-23 14:30:00",
+        "EndTimeFixJST": "2024-05-31 14:29:59"
     },
     {
         "Id": 10000,
@@ -2651,5 +2735,22 @@
         "OrderNumber": 5,
         "StartTimeFixJST": "2024-04-15 16:30:00",
         "EndTimeFixJST": "2024-05-10 14:29:59"
+    },
+    {
+        "Id": 10070,
+        "IsIgnore": null,
+        "Memo": "星の導き7回ガチャ_カロル・ルーク（5/15 17:30 ~ 6/07 14:29 ）",
+        "CharacterIdList": [
+            40,
+            30
+        ],
+        "GachaSelectListType": 3,
+        "NewCharacterIdList": [
+            40,
+            30
+        ],
+        "OrderNumber": 7,
+        "StartTimeFixJST": "2024-05-15 17:30:00",
+        "EndTimeFixJST": "2024-06-07 14:29:59"
     }
 ]

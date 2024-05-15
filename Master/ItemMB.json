@@ -2981,5 +2981,43 @@
         "SortOrder": 0,
         "StartTime": "2024-04-26 04:00:00",
         "TransferSpotId": 95
+    },
+    {
+        "Id": 160,
+        "IsIgnore": null,
+        "Memo": "ダイヤ（有償）APK",
+        "DescriptionKey": "[ItemDescription2]",
+        "DisplayName": "[ItemDisplayName2]",
+        "EndTime": null,
+        "ItemId": 7,
+        "ItemRarityFlags": 0,
+        "ItemType": 2,
+        "MaxItemCount": 0,
+        "NameKey": "[ItemName2]",
+        "IconId": 9,
+        "SecondaryFrameNum": 0,
+        "SecondaryFrameType": 0,
+        "SortOrder": 0,
+        "StartTime": null,
+        "TransferSpotId": 0
+    },
+    {
+        "Id": 161,
+        "IsIgnore": null,
+        "Memo": "Stripeクーポン（UI表示用）",
+        "DescriptionKey": "[ItemDescriptionApkCoupon]",
+        "DisplayName": "[ItemDisplayNameApkCoupon]",
+        "EndTime": null,
+        "ItemId": 1,
+        "ItemRarityFlags": 0,
+        "ItemType": 1001,
+        "MaxItemCount": 0,
+        "NameKey": "[ItemNameApkCoupon]",
+        "IconId": 149,
+        "SecondaryFrameNum": 0,
+        "SecondaryFrameType": 0,
+        "SortOrder": 0,
+        "StartTime": null,
+        "TransferSpotId": 0
     }
 ]
