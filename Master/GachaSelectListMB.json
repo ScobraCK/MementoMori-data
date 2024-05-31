@@ -2639,8 +2639,9 @@
     {
         "Id": 68,
         "IsIgnore": null,
-        "Memo": "神呪イリア復刻②＋次キャラ仮入れ仮①（0531切替用）",
+        "Memo": "アレクサンドラ①＋神呪イリア復刻②（0531切替用）",
         "CharacterIdList": [
+            82,
             61,
             5,
             6,
@@ -2667,11 +2668,49 @@
         ],
         "GachaSelectListType": 2,
         "NewCharacterIdList": [
+            82,
             61
         ],
         "OrderNumber": 68,
-        "StartTimeFixJST": "2024-05-31 16:30:00",
+        "StartTimeFixJST": "2024-05-31 15:00:00",
         "EndTimeFixJST": "2024-06-07 14:29:59"
+    },
+    {
+        "Id": 69,
+        "IsIgnore": null,
+        "Memo": "アレクサンドラ②＋次キャラ仮入れ仮①（0607切替用）",
+        "CharacterIdList": [
+            82,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "NewCharacterIdList": [
+            82
+        ],
+        "OrderNumber": 69,
+        "StartTimeFixJST": "2024-06-07 14:30:00",
+        "EndTimeFixJST": "2024-06-14 14:29:59"
     },
     {
         "Id": 10000,

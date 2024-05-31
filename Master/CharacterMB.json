@@ -3309,7 +3309,7 @@
         "RarityFlags": 8,
         "RequireFragmentCount": 60,
         "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2024-1-15 15:00:00"
+        "StartTimeFixJST": "2024-01-15 15:00:00"
     },
     {
         "Id": 66,
@@ -3885,6 +3885,59 @@
         "StartTimeFixJST": "2024-05-15 15:00:00"
     },
     {
+        "Id": 82,
+        "IsIgnore": null,
+        "Memo": "アレクサンドラ",
+        "ActiveSkillIds": [
+            82001,
+            82002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 85,
+            "Health": 62,
+            "Intelligence": 85,
+            "Muscle": 103
+        },
+        "BaseParameterGrossCoefficient": 335,
+        "CharacterType": 0,
+        "ElementType": 3,
+        "InitialBattleParameter": {
+            "AttackPower": 5,
+            "Avoidance": 0,
+            "Critical": -3,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 1,
+            "DamageReflect": 0,
+            "DebuffHit": 0,
+            "DebuffResist": 0,
+            "Defense": 10,
+            "DefensePenetration": 0,
+            "Hit": 0,
+            "HP": -3,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": 0,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 0,
+            "Speed": 3051
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 1,
+        "Name2Key": null,
+        "NameKey": "[CharacterName82]",
+        "NormalSkillId": 101,
+        "PassiveSkillIds": [
+            82003,
+            82004,
+            82005
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2024-05-31 15:00:00"
+    },
+    {
         "Id": 84,
         "IsIgnore": null,
         "Memo": "リズ",
@@ -3935,7 +3988,7 @@
         "RarityFlags": 8,
         "RequireFragmentCount": 60,
         "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2024-2-15 15:00:00"
+        "StartTimeFixJST": "2024-02-15 15:00:00"
     },
     {
         "Id": 85,
@@ -3987,7 +4040,7 @@
         "RarityFlags": 8,
         "RequireFragmentCount": 60,
         "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2024-2-22 15:00:00"
+        "StartTimeFixJST": "2024-02-22 15:00:00"
     },
     {
         "Id": 88,

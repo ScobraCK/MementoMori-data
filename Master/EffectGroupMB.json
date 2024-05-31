@@ -16076,6 +16076,196 @@
         ]
     },
     {
+        "Id": 8200120102,
+        "IsIgnore": null,
+        "Memo": "[出血] 毎ターン付与者の攻撃力×{0}%のダメージを受ける。",
+        "CasterIconId": 82,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8200120102]",
+        "IconId": 82001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8200120102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8200130102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8200120102,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 8200130102,
+        "IsIgnore": null,
+        "Memo": "[出血] 毎ターン付与者の攻撃力×{0}%のダメージを受ける。",
+        "CasterIconId": 82,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8200130102]",
+        "IconId": 82001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8200130102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8200130102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8200120102,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 8200300101,
+        "IsIgnore": null,
+        "Memo": "[守護騎士]攻撃力がこのバフを付帯するまでに受けた自身の総被ダメージ×3%分増加し、命中率が80%増加する（攻撃力の増加量は最大でステータス増減前の自身の攻撃力×60%まで）（解除不可）。",
+        "CasterIconId": 82,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8200300101]",
+        "IconId": 82003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8200300101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8200320101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8200300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 8200320101,
+        "IsIgnore": null,
+        "Memo": "[守護騎士]攻撃力がこのバフを付帯するまでに受けた自身の総被ダメージ×5%分増加し、命中率が80%増加する（攻撃力の増加量は最大でステータス増減前の自身の攻撃力×100%まで）（解除不可）。",
+        "CasterIconId": 82,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8200320101]",
+        "IconId": 82003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8200320101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8200320101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8200300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 8200330102,
+        "IsIgnore": null,
+        "Memo": "*スキルクールタイムカウントを0にする。",
+        "CasterIconId": 82,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8200330102]",
+        "IconId": 82003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8200330102]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8200400101,
+        "IsIgnore": null,
+        "Memo": "*[印]",
+        "CasterIconId": 82,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8200400101]",
+        "IconId": 82004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8200400101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8200400102,
+        "IsIgnore": null,
+        "Memo": "*印のスタック数が1増加する。",
+        "CasterIconId": 82,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8200400102]",
+        "IconId": 82004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8200400102]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8200400103,
+        "IsIgnore": null,
+        "Memo": "*印のスタック数が2増加する。",
+        "CasterIconId": 82,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8200400103]",
+        "IconId": 82004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8200400103]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8200400202,
+        "IsIgnore": null,
+        "Memo": "*[印2]",
+        "CasterIconId": 82,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8200400202]",
+        "IconId": 82004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8200400202]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8200400301,
+        "IsIgnore": null,
+        "Memo": "*[印2解除]",
+        "CasterIconId": 82,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8200400301]",
+        "IconId": 82004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8200400301]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8200500101,
+        "IsIgnore": null,
+        "Memo": "HPドレインが40%増加する（解除不可）。",
+        "CasterIconId": 82,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8200500101]",
+        "IconId": 1,
+        "IconType": 4,
+        "NameKey": "[EffectGroupName8200500101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 8400200102,
         "IsIgnore": null,
         "Memo": "[気絶] 行動不能になる。",
@@ -36005,6 +36195,196 @@
                 "OrderNumber": 2
             }
         ]
+    },
+    {
+        "Id": 55048200120102,
+        "IsIgnore": null,
+        "Memo": "[出血] 毎ターン付与者の攻撃力×{0}%のダメージを受ける。",
+        "CasterIconId": 82,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8200120102]",
+        "IconId": 82001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8200120102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55048200130102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55048200120102,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 55048200130102,
+        "IsIgnore": null,
+        "Memo": "[出血] 毎ターン付与者の攻撃力×{0}%のダメージを受ける。",
+        "CasterIconId": 82,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8200130102]",
+        "IconId": 82001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8200130102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55048200130102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55048200120102,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 55048200300101,
+        "IsIgnore": null,
+        "Memo": "[守護騎士]攻撃力がこのバフを付帯するまでに受けた自身の総被ダメージ×3%分増加し、命中率が80%増加する（攻撃力の増加量は最大でステータス増減前の自身の攻撃力×60%まで）（解除不可）。",
+        "CasterIconId": 82,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8200300101]",
+        "IconId": 82003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8200300101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55048200320101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55048200300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 55048200320101,
+        "IsIgnore": null,
+        "Memo": "[守護騎士]攻撃力がこのバフを付帯するまでに受けた自身の総被ダメージ×5%分増加し、命中率が80%増加する（攻撃力の増加量は最大でステータス増減前の自身の攻撃力×100%まで）（解除不可）。",
+        "CasterIconId": 82,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8200320101]",
+        "IconId": 82003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8200320101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55048200320101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55048200300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 55048200330102,
+        "IsIgnore": null,
+        "Memo": "*スキルクールタイムカウントを0にする。",
+        "CasterIconId": 82,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8200330102]",
+        "IconId": 82003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8200330102]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55048200400101,
+        "IsIgnore": null,
+        "Memo": "*[印]",
+        "CasterIconId": 82,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8200400101]",
+        "IconId": 82004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8200400101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55048200400102,
+        "IsIgnore": null,
+        "Memo": "*印のスタック数が1増加する。",
+        "CasterIconId": 82,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8200400102]",
+        "IconId": 82004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8200400102]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55048200400103,
+        "IsIgnore": null,
+        "Memo": "*印のスタック数が2増加する。",
+        "CasterIconId": 82,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8200400103]",
+        "IconId": 82004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8200400103]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55048200400202,
+        "IsIgnore": null,
+        "Memo": "*[印2]",
+        "CasterIconId": 82,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8200400202]",
+        "IconId": 82004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8200400202]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55048200400301,
+        "IsIgnore": null,
+        "Memo": "*[印2解除]",
+        "CasterIconId": 82,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8200400301]",
+        "IconId": 82004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8200400301]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55048200500101,
+        "IsIgnore": null,
+        "Memo": "HPドレインが40%増加する（解除不可）。",
+        "CasterIconId": 82,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8200500101]",
+        "IconId": 1,
+        "IconType": 4,
+        "NameKey": "[EffectGroupName8200500101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
     },
     {
         "Id": 55048400200102,
