@@ -2746,9 +2746,10 @@
     {
         "Id": 69,
         "IsIgnore": null,
-        "Memo": "アレクサンドラ②＋次キャラ仮入れ仮①（0607切替用）",
+        "Memo": "アレクサンドラ②＋アーティ復刻①（0607切替用）",
         "CharacterIdList": [
             82,
+            58,
             5,
             6,
             7,
@@ -2775,11 +2776,50 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            82
+            82,
+            58
         ],
         "OrderNumber": 69,
         "StartTimeFixJST": "2024-06-07 14:30:00",
         "EndTimeFixJST": "2024-06-14 14:29:59"
+    },
+    {
+        "Id": 70,
+        "IsIgnore": null,
+        "Memo": "アーティ復刻②＋次キャラ仮入れ仮①（0614切替用）",
+        "CharacterIdList": [
+            58,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            58
+        ],
+        "OrderNumber": 68,
+        "StartTimeFixJST": "2024-06-14 16:30:00",
+        "EndTimeFixJST": "2024-06-21 14:29:59"
     },
     {
         "Id": 10000,
@@ -2906,5 +2946,23 @@
         "OrderNumber": 7,
         "StartTimeFixJST": "2024-05-15 17:30:00",
         "EndTimeFixJST": "2024-06-07 14:29:59"
+    },
+    {
+        "Id": 10080,
+        "IsIgnore": null,
+        "Memo": "星の導き8回ガチャ_Ａ.Ａ.・ウィーラ（6/07 14:30 ~ 6/28 14:29 ）",
+        "CharacterIdList": [
+            48,
+            53
+        ],
+        "GachaSelectListType": 3,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            48,
+            53
+        ],
+        "OrderNumber": 7,
+        "StartTimeFixJST": "2024-06-07 14:30:00",
+        "EndTimeFixJST": "2024-06-28 14:29:59"
     }
 ]
