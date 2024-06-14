@@ -490,9 +490,9 @@
         "IsIgnore": null,
         "Memo": "リシェス",
         "CharacterId": 67,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2024-06-28 14:29:59",
+        "StartTimeFixJST": "2024-06-14 14:30:00"
     },
     {
         "Id": 56,
@@ -571,9 +571,9 @@
         "IsIgnore": null,
         "Memo": "神呪イリア",
         "CharacterId": 61,
-        "IsPickup": true,
-        "EndTimeFixJST": "2024-06-07 14:29:59",
-        "StartTimeFixJST": "2024-05-23 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 65,
@@ -709,5 +709,14 @@
         "IsPickup": true,
         "EndTimeFixJST": "2024-06-14 14:29:59",
         "StartTimeFixJST": "2024-05-31 14:30:00"
+    },
+    {
+        "Id": 80,
+        "IsIgnore": null,
+        "Memo": "ミナシュマリ",
+        "CharacterId": 77,
+        "IsPickup": true,
+        "EndTimeFixJST": "2024-06-28 14:29:59",
+        "StartTimeFixJST": "2024-06-14 14:30:00"
     }
 ]

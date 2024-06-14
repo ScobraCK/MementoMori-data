@@ -8260,5 +8260,134 @@
             }
         ],
         "CharacterId": 82
+    },
+    {
+        "Id": 385,
+        "IsIgnore": null,
+        "Memo": "ミナシュマリSSR180",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 77
+    },
+    {
+        "Id": 386,
+        "IsIgnore": null,
+        "Memo": "ミナシュマリSSR200",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1300.0
+            },
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 2,
+                "Value": 300.0
+            }
+        ],
+        "CharacterId": 77
+    },
+    {
+        "Id": 387,
+        "IsIgnore": null,
+        "Memo": "ミナシュマリSSR220",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1400.0
+            },
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 2,
+                "Value": 350.0
+            },
+            {
+                "BattleParameterType": 8,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "CharacterId": 77
+    },
+    {
+        "Id": 388,
+        "IsIgnore": null,
+        "Memo": "ミナシュマリSSR240",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 2,
+                "Value": 400.0
+            },
+            {
+                "BattleParameterType": 8,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "CharacterId": 77
+    },
+    {
+        "Id": 389,
+        "IsIgnore": null,
+        "Memo": "ミナシュマリUR",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1600.0
+            },
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 2,
+                "Value": 450.0
+            },
+            {
+                "BattleParameterType": 8,
+                "ChangeParameterType": 2,
+                "Value": 900.0
+            }
+        ],
+        "CharacterId": 77
+    },
+    {
+        "Id": 390,
+        "IsIgnore": null,
+        "Memo": "ミナシュマリLR",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 2,
+                "Value": 500.0
+            },
+            {
+                "BattleParameterType": 8,
+                "ChangeParameterType": 2,
+                "Value": 1000.0
+            }
+        ],
+        "CharacterId": 77
     }
 ]

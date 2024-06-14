@@ -2786,8 +2786,10 @@
     {
         "Id": 70,
         "IsIgnore": null,
-        "Memo": "アーティ復刻②＋次キャラ仮入れ仮①（0614切替用）",
+        "Memo": "アーティ復刻②＋ミナシュマリ①＋リシェス復刻①（0614切替用）",
         "CharacterIdList": [
+            77,
+            67,
             58,
             5,
             6,
@@ -2815,11 +2817,53 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
+            77,
+            67,
             58
         ],
-        "OrderNumber": 68,
-        "StartTimeFixJST": "2024-06-14 16:30:00",
+        "OrderNumber": 70,
+        "StartTimeFixJST": "2024-06-14 15:00:00",
         "EndTimeFixJST": "2024-06-21 14:29:59"
+    },
+    {
+        "Id": 71,
+        "IsIgnore": null,
+        "Memo": "ミナシュマリ②＋リシェス復刻②＋次キャラ仮入れ仮①（0621切替用）",
+        "CharacterIdList": [
+            77,
+            67,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            77,
+            67
+        ],
+        "OrderNumber": 71,
+        "StartTimeFixJST": "2024-06-21 14:30:00",
+        "EndTimeFixJST": "2024-06-28 14:29:59"
     },
     {
         "Id": 10000,
