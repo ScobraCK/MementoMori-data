@@ -41964,5 +41964,31 @@
         "TransitionDestination": 1101,
         "EndTime": "2100-01-01 00:00:00",
         "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1413,
+        "IsIgnore": null,
+        "Memo": "新キャラ_楽曲再生画面に移動する",
+        "AchievementType": 22010100,
+        "DescriptionKey": null,
+        "MissionType": 5,
+        "NameKey": "[NewCharacterMissionName1413]",
+        "OpeningPeriod": 0,
+        "RequireValue": 1,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 500,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 1,
+        "TransitionDestination": 2201,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
     }
 ]

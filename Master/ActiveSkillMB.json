@@ -9081,6 +9081,124 @@
         "RootActiveSkillId": 68002
     },
     {
+        "Id": 69001,
+        "IsIgnore": null,
+        "Memo": "カグヤSR:Lv1 「妾のために励むのじゃ」夢幻の霧から生まれし月光が味方に降り注ぎ、2ターンの間味方全体のクリティカル率を20%増加させる。夢のような美しい風景に心を奪われた時、幻が悪夢となって襲いかかる。その後ランダムな敵5体に攻撃力×280%の魔法攻撃を行う。/ Lv2 さらに魔法攻撃の前に2ターンの間味方全体のクリティカルダメージを20%増加させる。/ Lv3 魔法攻撃のダメージが攻撃力×380%になる。/ Ex1 鏡花水月を強化する。『クリティカル率増加』と『クリティカルダメージ増加』のターン数がそれぞれ4ターンになる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription690011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    69001001,
+                    69001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription690012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    69001201,
+                    69001002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription690013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    69001201,
+                    69001302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription690014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    69001401,
+                    69001302
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName69001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 69001
+    },
+    {
+        "Id": 69002,
+        "IsIgnore": null,
+        "Memo": "カグヤSR:Lv1 「醒めぬ夢に堕ちるがいい」夢幻の霧が敵を惑わし、ランダムな敵4体に攻撃力×420%の魔法攻撃を行う。/ Lv2 このスキルの対象がランダムな敵5体になる。/ Lv3 さらに魔法攻撃の前に対象が弱体効果を付帯している場合、魔法攻撃のダメージが1.5倍になる。/ Lv4 魔法攻撃のダメージが攻撃力×560%になる。/ Ex3 胡蝶之夢を強化する。魔法攻撃のダメージが攻撃力×620%になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription690021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    69002001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription690022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    69002201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription690023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    69002301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription690024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    69002401
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription690025]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    69002501
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName69002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 69002
+    },
+    {
         "Id": 70001,
         "IsIgnore": null,
         "Memo": "水着サブリナSR:Lv1 「水天貫け！」息をつく暇も与えない素早い突きで、ランダムな敵4体に攻撃力×350%の物理攻撃を行う。さらに吹き荒れる涼風が、敵の意識を奪う──物理攻撃の対象のうちHP割合が最も高い敵に1ターンの間『気絶』を付与する（物理攻撃の対象が全員戦闘不能になっている場合発動しない）。/ Lv2\\n 『気絶』のターン数が2ターンになる。/ Lv3 \\nさらに物理攻撃の前に4ターンの間対象のクリティカル耐性率を40%減少させる。/ Ex1 蒼穹のテンペストを強化する。物理攻撃の対象がランダムな敵5体になる。/ Ex3 蒼穹のテンペストを強化する。物理攻撃のダメージが攻撃力×400%になる。",
@@ -10117,6 +10235,120 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 76002
+    },
+    {
+        "Id": 77001,
+        "IsIgnore": null,
+        "Memo": "ミナシュマリSR:Lv1 ランダムな敵3体に攻撃力×450％の物理攻撃を行う。 /Lv2 さらに対象のタイプがスナイパーの場合、物理攻撃のダメージが1.5倍になり、必ず命中するようになる。 /Lv3 さらに対象のタイプがスナイパー以外の場合、70%の確率で2ターンの間対象のスピードを15%減少させる。 /Ex1 スキル1を強化する。物理攻撃のダメージが攻撃力×600%になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription770011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    77001001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription770012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    77001201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription770013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    77001301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription770014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    77001401
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName77001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 77001
+    },
+    {
+        "Id": 77002,
+        "IsIgnore": null,
+        "Memo": "ミナシュマリSR:Lv1 ランダムな敵2体に攻撃力×540％の物理攻撃を行う。このスキルを発動するまでに自身と味方が攻撃を受けた回数1回につき物理攻撃のダメージが攻撃力×10%大きくなる（最大攻撃力×740%まで）（ただし複数体を対象とする攻撃は攻撃を受けた自身と味方の数分カウントされる）。 /Lv2 このスキルを発動するまでに自身と味方が攻撃を受けた回数1回につき増加するダメージが攻撃力×20%になる（最大攻撃力×940%まで）。 /Lv3 このスキルの対象がランダムな敵3体になる。/Lv4 物理攻撃のダメージが攻撃力×640%になる（最大攻撃力×1040%まで）。  /Ex3 スキル2を強化する。物理攻撃のダメージが攻撃力×700%になる（最大攻撃力×1100%まで）。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription770021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    77002001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription770022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    77002201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription770023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    77002301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription770024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    77002401
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription770025]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    77002501
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName77002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 77002
     },
     {
         "Id": 78001,
@@ -21088,6 +21320,124 @@
         "RootActiveSkillId": 68002
     },
     {
+        "Id": 550469001,
+        "IsIgnore": null,
+        "Memo": null,
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550469001001,
+                    550469001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550469001201,
+                    550469001002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550469001201,
+                    550469001302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550469001401,
+                    550469001302
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName69001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 69001
+    },
+    {
+        "Id": 550469002,
+        "IsIgnore": null,
+        "Memo": null,
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550469002001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550469002201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550469002301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550469002401
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": null,
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550469002501
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName69002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 69002
+    },
+    {
         "Id": 550470001,
         "IsIgnore": null,
         "Memo": "",
@@ -22124,6 +22474,120 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 76002
+    },
+    {
+        "Id": 550477001,
+        "IsIgnore": null,
+        "Memo": "",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550477001001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550477001201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550477001301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550477001401
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName77001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 77001
+    },
+    {
+        "Id": 550477002,
+        "IsIgnore": null,
+        "Memo": "",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550477002001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550477002201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550477002301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550477002401
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": null,
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550477002501
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName77002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 77002
     },
     {
         "Id": 550478001,
