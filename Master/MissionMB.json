@@ -41186,6 +41186,578 @@
         "StartTime": "2024-03-29 00:00:00"
     },
     {
+        "Id": 1361,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト34章をクリアする",
+        "AchievementType": 9010500,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionName1361]",
+        "OpeningPeriod": 0,
+        "RequireValue": 34,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 14,
+                    "ItemId": 4,
+                    "ItemType": 16
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 6,
+        "SortOrderB": 14,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1362,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト35章をクリアする",
+        "AchievementType": 9010500,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionName1362]",
+        "OpeningPeriod": 0,
+        "RequireValue": 35,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 14,
+                    "ItemId": 4,
+                    "ItemType": 16
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 6,
+        "SortOrderB": 14,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1363,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト34-4をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 984,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1364,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト34-8をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 988,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1365,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト34-12をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 992,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1366,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト34-16をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 996,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1367,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト34-20をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 1000,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 300,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1368,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト34-24をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 1004,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1369,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト34-28をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 1008,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1370,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト34-32をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 1012,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1371,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト34-36をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 1016,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1372,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト34-40をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 1020,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 300,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1373,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト35-6をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 1026,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1374,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト35-12をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 1032,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1375,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト35-18をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 1038,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1376,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト35-24をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 1044,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1377,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト35-30をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 1050,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 300,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1378,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト35-36をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 1056,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1379,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト35-42をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 1062,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1380,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト35-48をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 1068,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1381,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト35-54をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 1074,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1382,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト35-60をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 1080,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 300,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
         "Id": 1383,
         "IsIgnore": null,
         "Memo": "メイン_無窮の塔で1210階をクリアする",
