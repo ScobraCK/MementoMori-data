@@ -2828,10 +2828,11 @@
     {
         "Id": 71,
         "IsIgnore": null,
-        "Memo": "ミナシュマリ②＋リシェス復刻②＋次キャラ仮入れ仮①（0621切替用）",
+        "Memo": "ミナシュマリ②＋リシェス復刻②＋黒鎧アイリス①（0621切替用）",
         "CharacterIdList": [
             77,
             67,
+            66,
             5,
             6,
             7,
@@ -2859,11 +2860,50 @@
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
             77,
-            67
+            67,
+            66
         ],
-        "OrderNumber": 69,
+        "OrderNumber": 71,
         "StartTimeFixJST": "2024-06-21 14:30:00",
         "EndTimeFixJST": "2024-06-28 14:29:59"
+    },
+    {
+        "Id": 72,
+        "IsIgnore": null,
+        "Memo": "黒鎧アイリス②＋次キャラ仮入れ仮①（0628切替用）",
+        "CharacterIdList": [
+            66,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            66
+        ],
+        "OrderNumber": 72,
+        "StartTimeFixJST": "2024-06-28 16:30:00",
+        "EndTimeFixJST": "2024-07-08 14:29:59"
     },
     {
         "Id": 10000,
