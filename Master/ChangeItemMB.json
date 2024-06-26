@@ -10846,5 +10846,37 @@
         "ItemId": 18,
         "ItemType": 50,
         "NeedCount": 1
+    },
+    {
+        "Id": 695,
+        "IsIgnore": null,
+        "Memo": "折居人形",
+        "ChangeItems": [
+            {
+                "ItemCount": 10000,
+                "ItemId": 1,
+                "ItemType": 3
+            }
+        ],
+        "ChangeItemType": 0,
+        "ItemId": 19,
+        "ItemType": 50,
+        "NeedCount": 1
+    },
+    {
+        "Id": 696,
+        "IsIgnore": null,
+        "Memo": "カグヤガチャチケット",
+        "ChangeItems": [
+            {
+                "ItemCount": 1,
+                "ItemId": 2,
+                "ItemType": 16
+            }
+        ],
+        "ChangeItemType": 0,
+        "ItemId": 690,
+        "ItemType": 16,
+        "NeedCount": 1
     }
 ]
