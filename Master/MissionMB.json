@@ -15015,7 +15015,7 @@
         "SortOrderB": 14,
         "TransitionDestination": 901,
         "EndTime": "2100-01-01 00:00:00",
-        "StartTime": "2100-01-01 00:00:00"
+        "StartTime": "2020-01-01 00:00:00"
     },
     {
         "Id": 502,
@@ -15049,7 +15049,7 @@
         "SortOrderB": 14,
         "TransitionDestination": 901,
         "EndTime": "2100-01-01 00:00:00",
-        "StartTime": "2100-01-01 00:00:00"
+        "StartTime": "2020-01-01 00:00:00"
     },
     {
         "Id": 503,
@@ -31536,6 +31536,188 @@
         "SortOrderA": 1,
         "SortOrderB": 1,
         "TransitionDestination": 0,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1038,
+        "IsIgnore": null,
+        "Memo": "メイン_全ての属性の塔で300階をクリアする",
+        "AchievementType": 11010200,
+        "DescriptionKey": "[OpenContentToast15]",
+        "MissionType": 0,
+        "NameKey": "[MissionName1038]",
+        "OpeningPeriod": 0,
+        "RequireValue": 300,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 7,
+                    "ItemType": 16
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 18,
+        "SortOrderB": 25,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1039,
+        "IsIgnore": null,
+        "Memo": "メイン_全ての属性の塔で350階をクリアする",
+        "AchievementType": 11010200,
+        "DescriptionKey": "[OpenContentToast15]",
+        "MissionType": 0,
+        "NameKey": "[MissionName1039]",
+        "OpeningPeriod": 0,
+        "RequireValue": 350,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 7,
+                    "ItemType": 16
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 18,
+        "SortOrderB": 25,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1040,
+        "IsIgnore": null,
+        "Memo": "メイン_全ての属性の塔で400階をクリアする",
+        "AchievementType": 11010200,
+        "DescriptionKey": "[OpenContentToast15]",
+        "MissionType": 0,
+        "NameKey": "[MissionName1040]",
+        "OpeningPeriod": 0,
+        "RequireValue": 400,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 7,
+                    "ItemType": 16
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 18,
+        "SortOrderB": 25,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1041,
+        "IsIgnore": null,
+        "Memo": "メイン_全ての属性の塔で450階をクリアする",
+        "AchievementType": 11010200,
+        "DescriptionKey": "[OpenContentToast15]",
+        "MissionType": 0,
+        "NameKey": "[MissionName1041]",
+        "OpeningPeriod": 0,
+        "RequireValue": 450,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 7,
+                    "ItemType": 16
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 18,
+        "SortOrderB": 25,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1042,
+        "IsIgnore": null,
+        "Memo": "メイン_全ての属性の塔で500階をクリアする",
+        "AchievementType": 11010200,
+        "DescriptionKey": "[OpenContentToast15]",
+        "MissionType": 0,
+        "NameKey": "[MissionName1042]",
+        "OpeningPeriod": 0,
+        "RequireValue": 500,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 7,
+                    "ItemType": 16
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 18,
+        "SortOrderB": 25,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1043,
+        "IsIgnore": null,
+        "Memo": "メイン_全ての属性の塔で550階をクリアする",
+        "AchievementType": 11010200,
+        "DescriptionKey": "[OpenContentToast15]",
+        "MissionType": 0,
+        "NameKey": "[MissionName1043]",
+        "OpeningPeriod": 0,
+        "RequireValue": 550,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 7,
+                    "ItemType": 16
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 18,
+        "SortOrderB": 25,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1044,
+        "IsIgnore": null,
+        "Memo": "メイン_全ての属性の塔で600階をクリアする",
+        "AchievementType": 11010200,
+        "DescriptionKey": "[OpenContentToast15]",
+        "MissionType": 0,
+        "NameKey": "[MissionName1044]",
+        "OpeningPeriod": 0,
+        "RequireValue": 600,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 7,
+                    "ItemType": 16
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 18,
+        "SortOrderB": 25,
+        "TransitionDestination": 1101,
         "EndTime": "2100-01-01 00:00:00",
         "StartTime": "2020-01-01 00:00:00"
     }
