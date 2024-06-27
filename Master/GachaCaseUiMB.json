@@ -3996,5 +3996,110 @@
         },
         "TitleColorType": 1,
         "AddRewardItems": null
+    },
+    {
+        "Id": 39,
+        "IsIgnore": null,
+        "Memo": "ソフィア復刻キャラガチャ 04/07 14:30 ~ 04/21 14:29",
+        "Banner": {
+            "enUS": "Prayer of<br><size=24>The Fleeting</size>",
+            "jaJP": "ピックアップ<br>ガチャ",
+            "koKR": "<size=35>픽업</size><br>뽑기",
+            "zhTW": "<size=23>PICK UP</size><br>召喚"
+        },
+        "BannerImageNumber": 22,
+        "CustomTextLayout": {
+            "enUS": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 22,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#846E2DFF",
+                "BannerPositionX": -39.0,
+                "BannerPositionY": 0.0,
+                "TitleFontSize": 45
+            },
+            "jaJP": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 24,
+                "BannerLetterSpacing": -4.0,
+                "BannerLineSpacing": 0.5,
+                "BannerOutlineColor": "#846E2DFF",
+                "BannerPositionX": -46.0,
+                "BannerPositionY": 0.0,
+                "TitleFontSize": 45
+            },
+            "koKR": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 1.2999999523162842,
+                "BannerOutlineColor": "#846E2DFF",
+                "BannerPositionX": -51.0,
+                "BannerPositionY": 0.0,
+                "TitleFontSize": 45
+            },
+            "zhTW": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 26,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.5,
+                "BannerOutlineColor": "#846E2DFF",
+                "BannerPositionX": -52.79999923706055,
+                "BannerPositionY": 0.0,
+                "TitleFontSize": 45
+            }
+        },
+        "DetailDialogDetail": {
+            "enUS": "・You can use Diamonds to Invoke.<br>・Only characters will appear.<br>・If Sophia does not appear after you Invoke 99 consecutive times, Sophia is guaranteed to appear on the 100th Invoke.<br>・Your pull count for the guaranteed appearance is currently【{0}/100】.<br>・You are guaranteed to obtain a bonus reward based on your total pull count from the Prayer of The Cursed, Prayer of The Fleeting, and Prayer of Souls.<br>*The bonus reward will be sent directly to your Item Box.<br>*If your Item Box is full, the bonus reward will be sent to your Presents Box.<br>・The pull rates of SR characters set in your Wish List will be higher. The pull rates of all SR characters will not be changed. Please check Help on the Wish List screen for more details.",
+            "jaJP": "・ダイヤを消費して、利用できるガチャです。<br>・キャラのみ出現します。<br>・99回連続でピックアップ対象の「ソフィア」が出現しなかった場合、100回目に「ソフィア」が必ず１体確定出現します。<br>・確定出現までの現在の回数は【{0}/100】です。<br>・プラチナガチャ、ピックアップガチャ、属性ガチャの累計ガチャ回数によって、回数報酬で確定のアイテムが獲得できます。<br>※獲得したアイテムは、直接所持数に加算されます<br>※アイテムの所持数が上限に達している場合、プレゼントボックスに送られます<br>・セレクトリストに設定されたSRキャラの提供割合が高くなります。SRキャラ全体の提供割合自体は変わりません。詳細はセレクトリストのヘルプをご確認ください。",
+            "koKR": "・다이아을 소모하여 이용할 수 있는 뽑기입니다.<br>・캐릭터만 출현합니다.<br>・99회 이내로 픽업 대상인 소피아이(가) 출현하지 않았을 경우, 100회째 뽑기 때 반드시 소피아 1명이 확정 출현합니다.<br>・확정 출현까지 현재 남은 횟수는【{0}/100】입니다.<br>・플래티넘 뽑기, 픽업 뽑기, 속성 뽑기의 누적 뽑기 횟수에 따라 횟수 보상으로 확정된 아이템을 획득할 수 있습니다.<br>※획득한 아이템은 바로 보유 수에 가산됩니다.<br>※아이템 보유 수가 상한에 도달했을 경우 선물함에서 확인할 수 있습니다.<br>・셀렉트 목록에 설정된 SR 캐릭터의 제공 비율이 높아집니다. SR 캐릭터 전체 제공 비율 자체는 변함이 없습니다. 상세 내용은 셀렉트 목록의 도움말에서 확인해 주세요.",
+            "zhTW": "．可使用鑽石進行召喚。<br>．召喚對象：角色<br>．如果連續99次沒有召喚出精選角色蘇菲亞，第100次召喚時則必定出現。<br>．保底進度：【{0}/100】<br>．可根據白金召喚、PICK UP召喚與屬性召喚的累計召喚次數，獲得對應的道具作為次數獎勵。<br>※獲得的道具將自動加入持有數量中。<br>※超過持有數量上限的道具將寄送到禮物箱。<br>．放入許願池的SR角色的出現機率將獲得提升（不會影響SR角色的總出現率)。詳情請見許願池的指南。"
+        },
+        "DetailDialogHeading": {
+            "enUS": "In this Invocation, a limited-time character will return with a higher pull rate than other characters’.<br>Please check [Individual Pull Rates] for the limited-time character below.<br>■Duration<br>{0}<br><br>■Guaranteed Appearance<br>If Sophia does not appear after you Invoke in the Prayer of The Fleeting 99 times, Sophia is guaranteed to appear on the 100th Invoke.<br><br>■Bonus Rewards<br>You will receive Bonus Rewards according to the number of times you Invoke. The number of times you Invoke in the Prayer of The Fleeting will be added to your numbers from both the Prayer of The Cursed and the Prayer of Souls, so your cumulative total of these Invocations will allow you to claim your rewards.<br><br>■Warning<br>For a set amount of time, Sophia will only appear in the Prayer of The Fleeting. She will not be selectable when using the Witch’s Invitation obtained from Bonus Rewards, so please be careful.",
+            "jaJP": "ピックアップガチャにはピックアップ対象キャラが復刻し、他のキャラより提供割合がアップします。<br>ピックアップ対象キャラは以下「個別提供割合」をご確認ください。<br>■開催期間<br>{0}<br>■確定出現機能<br>ピックアップガチャにおいて、99回以内にピックアップ対象の「ソフィア」が出現しなかった場合、100回目のガチャ実行時に必ず「ソフィア」が１体確定出現します。<br>■回数報酬<br>プラチナガチャ、属性ガチャの累積ガチャ回数に応じてもらえる「回数報酬」にピックアップガチャの回数分も加算されます。他ガチャの累積回数の続きから報酬を受け取ることができます。<br>■注意事項<br>「ソフィア」は一定期間、ピックアップガチャ以外から出現しません。<br>「回数報酬」の「魔女の招待状」の選択対象外となりますのでご注意ください。",
+            "koKR": "이번 픽업 뽑기에는 과거 픽업 대상 캐릭터가 재등장하며 다른 캐릭터보다 제공 비율이 높아집니다.<br>픽업 대상 캐릭터는 아래의「개별 제공 비율」을 확인해 주세요.<br>■개최 기간<br>{0}<br>■확정 출현이란?<br>픽업 뽑기에서 99회 이내로 픽업 대상인 소피아이(가) 출현하지 않았을 경우, 100회째 뽑기 때 반드시 소피아 1명이 확정 출현합니다.<br>■횟수 보상<br>플래티넘 뽑기, 속성 뽑기의 누적 뽑기 횟수에 따라 받을 수 있는「횟수 보상」에는 픽업 뽑기의 횟수도 포함해서 계산됩니다. <br>(즉, 다른 뽑기에서 누적된 횟수에 이어서 보상을 획득할 수 있습니다.)<br>■주의사항<br>소피아은(는) 이후 일정 기간, 픽업 뽑기 이외의 다른 뽑기에서는 출현하지 않습니다.<br>횟수 보상인 마녀의 초대장에서는 소피아을(를) 선택할 수 없습니다.",
+            "zhTW": "精選角色再度登場。在PICK UP召喚中，精選角色的出現機率將大幅提升。<br>精選角色請見下方的「個別出現機率」。<br>■開放期間<br>{0}<br>■保底機制<br>在PICK UP召喚中，如果連續99次沒有召喚出精選角色蘇菲亞，第100次召喚時則必定出現。<br>■次數獎勵<br>PICK UP召喚次數可累加到白金召喚、屬性召喚目前的累計召喚次數中，並根據累計召喚次數獲得對應的道具作為次數獎勵。<br>■注意事項<br>蘇菲亞在一定期間內，無法從PICK UP召喚以外的管道取得。<br>請注意：次數獎勵「魔女的邀請函」的邀請名單中不包含蘇菲亞。"
+        },
+        "DetailDialogNotes": {
+            "enUS": "・This Invocation’s content may be changed without prior notice.<br>・Pull rates vary depending on the character.<br>・Each displayed pull rate is rounded up to the 4th decimal place, so the combined value may not equal 100%.<br>・There will be a lottery based on the pull rates of each consecutive pull, so it is not guaranteed that a character with a 2% pull rate will appear 1 time out of 50 pulls.<br>・The Invocation sequence may be skipped, or not display normally, in part or in full, due to communication issues with the server, etc., but characters will be obtained normally. Please check your roster.",
+            "jaJP": "・ガチャの内容は予告なく変更する場合があります。<br>・出現するキャラの提供割合は、キャラによって異なります。<br>・各提供割合は小数第4位を四捨五入して表示しているため、合計値が100%にならない場合があります。<br>・ガチャは1回ごとに提供割合に基づいて抽選を行います。そのため、提供割合が2％のキャラが、50回中1回必ず出現するわけではありません。<br>・サーバーとの通信状況等によっては、ガチャ演出がスキップされたり、ガチャ演出の一部または全部が正常に表示されないことがありますが、キャラの追加は正常に完了しております。キャラ一覧をご確認ください。",
+            "koKR": "・뽑기 내용은 예고 없이 변경되는 경우가 있습니다.<br>・출현 캐릭터의 제공 비율은 캐릭터에 따라 달라집니다.<br>・각 제공 비율은 소수점 4자리를 반올림하여 표시하고 있으므로 합계값이 100%가 안 되는 경우가 있습니다.<br>・뽑기는 1회마다 제공 비율을 기준으로 추첨하고 있습니다. 그러므로 제공 비율이 2%인 캐릭터가 50회 중 1회 반드시 출현하는 것은 아닙니다.<br>・서버와의 통신 상태에 따라 뽑기 연출이 스킵되거나 뽑기 연출의 일부 또는 전부가 정상적으로 표시되지 않을 경우가 있지만, 캐릭터 추가는 정상적으로 완료됩니다. 캐릭터 목록을 확인해 주세요.",
+            "zhTW": "．召喚內容可能不經預告逕行調整。<br>．角色的出現機率因角色而異。<br>．出現機率標示至小數點後四位（四捨五入），故合計可能不等於100%。<br>．每一次都將按照以上所示的出現機率逐次進行抽選，故不代表在50次抽選中保證可獲得出現機率為2%的項目。<br>．召喚時的動畫演出可能因為伺服器連線狀況等原因無法完整播放或直接跳過。角色的發送將正常執行不受影響，請前往「持有角色」進行確認。"
+        },
+        "DetailURL": null,
+        "EquipmentPictureBookTabIndex": 0,
+        "Explanation": {
+            "enUS": "Sophia is here for a limited time!",
+            "jaJP": "ソフィアが期間限定で登場",
+            "koKR": "소피아 기간 한정 등장!",
+            "zhTW": "「蘇菲亞」限時登場"
+        },
+        "GachaBonusGaugeType": 0,
+        "GachaButtonMessage": null,
+        "HeaderItem1": {
+            "ItemCount": 1,
+            "ItemId": 1,
+            "ItemType": 1
+        },
+        "HeaderItem2": null,
+        "HeaderItem3": null,
+        "IsLotteryViewShowBonusItem": true,
+        "Name": {
+            "enUS": "Prayer of The Fleeting",
+            "jaJP": "ピックアップガチャ",
+            "koKR": "픽업 뽑기",
+            "zhTW": "PICK UP召喚"
+        },
+        "PickUpCharacterId": 51,
+        "TimeFormat": {
+            "enUS": "Ends in: {0}",
+            "jaJP": "終了まで{0}",
+            "koKR": "종료까지 {0}",
+            "zhTW": "倒數計時 {0}"
+        },
+        "TitleColorType": 1,
+        "AddRewardItems": null
     }
 ]
