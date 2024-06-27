@@ -19762,7 +19762,7 @@
         "RewardList": [
             {
                 "Item": {
-                    "ItemCount": 10,
+                    "ItemCount": 100,
                     "ItemId": 1,
                     "ItemType": 1
                 },
@@ -19770,7 +19770,7 @@
             },
             {
                 "Item": {
-                    "ItemCount": 10,
+                    "ItemCount": 1,
                     "ItemId": 15,
                     "ItemType": 10
                 },
@@ -19778,7 +19778,7 @@
             },
             {
                 "Item": {
-                    "ItemCount": 10,
+                    "ItemCount": 1,
                     "ItemId": 10,
                     "ItemType": 10
                 },
@@ -20632,45 +20632,71 @@
         "StartTime": "2020-01-01 00:00:00"
     },
     {
-        "Id": 673,
+        "Id": 674,
         "IsIgnore": null,
-        "Memo": "復帰_1500個貢献メダルを獲得する",
-        "AchievementType": 1010100,
+        "Memo": "初_時空の洞窟バグ補填用① 戦闘力",
+        "AchievementType": 7011000,
         "DescriptionKey": null,
-        "MissionType": 402,
-        "NameKey": "[MissionName673]",
-        "OpeningPeriod": 0,
-        "RequireValue": 1500,
+        "MissionType": 311,
+        "NameKey": "[MissionName674]",
+        "OpeningPeriod": 1,
+        "RequireValue": 1,
         "RewardList": [
             {
                 "Item": {
-                    "ItemCount": 4,
-                    "ItemId": 19,
-                    "ItemType": 10
+                    "ItemCount": 1500000,
+                    "ItemId": 1,
+                    "ItemType": 3
                 },
                 "RarityFlags": 0
             },
             {
                 "Item": {
-                    "ItemCount": 2500,
-                    "ItemId": 14,
+                    "ItemCount": 12500,
+                    "ItemId": 13,
                     "ItemType": 13
-                },
-                "RarityFlags": 0
-            },
-            {
-                "Item": {
-                    "ItemCount": 3,
-                    "ItemId": 2,
-                    "ItemType": 16
                 },
                 "RarityFlags": 0
             }
         ],
         "SortOrderA": 1,
         "SortOrderB": 1,
-        "TransitionDestination": 101,
-        "EndTime": "2100-01-01 00:00:00",
+        "TransitionDestination": 701,
+        "EndTime": "2022-11-3 03:59:59",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 675,
+        "IsIgnore": null,
+        "Memo": "初_時空の洞窟バグ補填用② 戦闘力",
+        "AchievementType": 7011000,
+        "DescriptionKey": null,
+        "MissionType": 311,
+        "NameKey": "[MissionName675]",
+        "OpeningPeriod": 1,
+        "RequireValue": 2,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 2000000,
+                    "ItemId": 1,
+                    "ItemType": 3
+                },
+                "RarityFlags": 0
+            },
+            {
+                "Item": {
+                    "ItemCount": 15000,
+                    "ItemId": 13,
+                    "ItemType": 13
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 1,
+        "TransitionDestination": 701,
+        "EndTime": "2022-11-3 03:59:59",
         "StartTime": "2020-01-01 00:00:00"
     }
 ]

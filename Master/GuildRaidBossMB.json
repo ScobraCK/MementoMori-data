@@ -241,16 +241,15 @@
     {
         "Id": 2,
         "IsIgnore": null,
-        "Memo": "ギルドレイド解放ルーク",
+        "Memo": "イベント版_解放ヴァルリーデ（旧：ギルドレイド解放ルーク）",
         "ActiveSkillIds": [
-            30001,
-            30002
+            47002
         ],
         "BaseParameter": {
             "Energy": 14567,
             "Health": 17111,
             "Intelligence": 14549,
-            "Muscle": 40000
+            "Muscle": 17111
         },
         "BattleParameter": {
             "AttackPower": 20841,
@@ -271,11 +270,11 @@
             "MagicDamageRelax": 600000,
             "PhysicalCriticalDamageRelax": 0,
             "PhysicalDamageRelax": 600000,
-            "Speed": 2600
+            "Speed": 2883
         },
         "BattlePower": 2657353,
         "CharacterRarityFlags": 16,
-        "ElementType": 3,
+        "ElementType": 6,
         "EnemyRank": 240,
         "GuildDamageBar": [
             {
@@ -373,7 +372,7 @@
         ],
         "GuildRaidBossType": 1,
         "JobFlags": 1,
-        "NameKey": "[CharacterName30]",
+        "NameKey": "[GuildRaidBossName1]",
         "NormalDamageBar": [
             {
                 "DamageBarCount": 1,
@@ -470,12 +469,11 @@
         ],
         "NormalSkillId": 101,
         "PassiveSkillIds": [
-            30003,
             550230001,
             550230002
         ],
-        "ReleasableGuildFame": 10000,
-        "UnitIconId": 30,
+        "ReleasableGuildFame": 3000,
+        "UnitIconId": 47,
         "UnitIconType": 0
     }
 ]

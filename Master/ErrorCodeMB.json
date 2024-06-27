@@ -102,6 +102,12 @@
         "ErrorMessageType": 2
     },
     {
+        "Id": 10010,
+        "IsIgnore": null,
+        "Memo": null,
+        "ErrorMessageType": 2
+    },
+    {
         "Id": 10101,
         "IsIgnore": null,
         "Memo": null,
@@ -1002,6 +1008,12 @@
         "ErrorMessageType": 3
     },
     {
+        "Id": 132013,
+        "IsIgnore": null,
+        "Memo": "バトルログの有効期限が切れています",
+        "ErrorMessageType": 3
+    },
+    {
         "Id": 141000,
         "IsIgnore": null,
         "Memo": null,
@@ -1497,7 +1509,7 @@
         "Id": 191000,
         "IsIgnore": null,
         "Memo": null,
-        "ErrorMessageType": 2
+        "ErrorMessageType": 1
     },
     {
         "Id": 191001,
@@ -2061,13 +2073,13 @@
         "Id": 242016,
         "IsIgnore": null,
         "Memo": null,
-        "ErrorMessageType": 2
+        "ErrorMessageType": 3
     },
     {
         "Id": 242017,
         "IsIgnore": null,
         "Memo": null,
-        "ErrorMessageType": 2
+        "ErrorMessageType": 3
     },
     {
         "Id": 251000,
@@ -2085,7 +2097,7 @@
         "Id": 251002,
         "IsIgnore": null,
         "Memo": "ギルドから除名されました",
-        "ErrorMessageType": 3
+        "ErrorMessageType": 1
     },
     {
         "Id": 251003,

@@ -78,7 +78,7 @@
     {
         "Id": 4003,
         "IsIgnore": null,
-        "Memo": "ロキR:自分の運命は自分で決める。自らの意思で戦車のカードを引き、自身のスピードが10％増加する。／さらに自身のクリティカルが10％増加する。",
+        "Memo": "ロキR:自分の運命は自分で決める。自らの意思で戦車のカードを引き、自身のスピードが10％増加する。／さらに自身のクリティカルが10％増加する。 ※パッシブトリガー28（バトル開始時）用",
         "NameKey": "[PassiveSkillName4003]",
         "PassiveSkillInfos": [
             {
@@ -88,6 +88,12 @@
                 "EquipmentRarityFlags": 0,
                 "BlessingItemId": 0,
                 "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 28,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "SubSetSkillId": 4003001
+                    },
                     {
                         "PassiveTrigger": 1,
                         "SkillCoolTime": 0,
@@ -103,6 +109,12 @@
                 "EquipmentRarityFlags": 0,
                 "BlessingItemId": 0,
                 "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 28,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "SubSetSkillId": 4003201
+                    },
                     {
                         "PassiveTrigger": 1,
                         "SkillCoolTime": 0,
@@ -2753,7 +2765,7 @@
     {
         "Id": 36003,
         "IsIgnore": null,
-        "Memo": "トロポンSR:哀しい現実を包み込む優しい嘘で、自身の最大HPが20％増加する。／最大HPの増加量が40％になる。／さらに自身のスピードが20％増加する。",
+        "Memo": "トロポンSR:哀しい現実を包み込む優しい嘘で、自身の最大HPが20％増加する。／最大HPの増加量が40％になる。／さらに自身のスピードが20％増加する。※パッシブトリガー28（バトル開始時）用",
         "NameKey": "[PassiveSkillName36003]",
         "PassiveSkillInfos": [
             {
@@ -2763,6 +2775,12 @@
                 "EquipmentRarityFlags": 0,
                 "BlessingItemId": 0,
                 "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 28,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 36003001
+                    },
                     {
                         "PassiveTrigger": 1,
                         "SkillCoolTime": 0,
@@ -2779,6 +2797,12 @@
                 "BlessingItemId": 0,
                 "PassiveSubSetSkillInfos": [
                     {
+                        "PassiveTrigger": 28,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 36003201
+                    },
+                    {
                         "PassiveTrigger": 1,
                         "SkillCoolTime": 0,
                         "SkillMaxCoolTime": 0,
@@ -2793,6 +2817,12 @@
                 "EquipmentRarityFlags": 0,
                 "BlessingItemId": 0,
                 "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 28,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 36003301
+                    },
                     {
                         "PassiveTrigger": 1,
                         "SkillCoolTime": 0,
@@ -3071,7 +3101,7 @@
     {
         "Id": 39003,
         "IsIgnore": null,
-        "Memo": "プリマヴェーラSR:歌は心、祈るように歌えば届く。味方全体の攻撃力を生存している味方の数×5％増加させる。／さらに味方全体のスピードを生存している味方の数×5％増加させる。／攻撃力とスピードの増加量が7％になる。",
+        "Memo": "プリマヴェーラSR:歌は心、祈るように歌えば届く。味方全体の攻撃力を生存している味方の数×5％増加させる。／さらに味方全体のスピードを生存している味方の数×5％増加させる。／攻撃力とスピードの増加量が7％になる。※パッシブトリガー28（バトル開始時）用",
         "NameKey": "[PassiveSkillName39003]",
         "PassiveSkillInfos": [
             {
@@ -3081,6 +3111,12 @@
                 "EquipmentRarityFlags": 0,
                 "BlessingItemId": 0,
                 "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 28,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 39003001
+                    },
                     {
                         "PassiveTrigger": 1,
                         "SkillCoolTime": 0,
@@ -3097,6 +3133,12 @@
                 "BlessingItemId": 0,
                 "PassiveSubSetSkillInfos": [
                     {
+                        "PassiveTrigger": 28,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 39003201
+                    },
+                    {
                         "PassiveTrigger": 1,
                         "SkillCoolTime": 0,
                         "SkillMaxCoolTime": 0,
@@ -3111,6 +3153,12 @@
                 "EquipmentRarityFlags": 0,
                 "BlessingItemId": 0,
                 "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 28,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 39003301
+                    },
                     {
                         "PassiveTrigger": 1,
                         "SkillCoolTime": 0,
@@ -4660,7 +4708,7 @@
                 "BlessingItemId": 0,
                 "PassiveSubSetSkillInfos": [
                     {
-                        "PassiveTrigger": 1,
+                        "PassiveTrigger": 28,
                         "SkillCoolTime": 0,
                         "SkillMaxCoolTime": 9999,
                         "SubSetSkillId": 500000017001
@@ -5615,7 +5663,7 @@
                 "BlessingItemId": 0,
                 "PassiveSubSetSkillInfos": [
                     {
-                        "PassiveTrigger": 1,
+                        "PassiveTrigger": 28,
                         "SkillCoolTime": 0,
                         "SkillMaxCoolTime": 9999,
                         "SubSetSkillId": 500000058001
@@ -5638,7 +5686,7 @@
                 "BlessingItemId": 0,
                 "PassiveSubSetSkillInfos": [
                     {
-                        "PassiveTrigger": 1,
+                        "PassiveTrigger": 28,
                         "SkillCoolTime": 0,
                         "SkillMaxCoolTime": 9999,
                         "SubSetSkillId": 500000059001
@@ -5661,7 +5709,7 @@
                 "BlessingItemId": 0,
                 "PassiveSubSetSkillInfos": [
                     {
-                        "PassiveTrigger": 1,
+                        "PassiveTrigger": 28,
                         "SkillCoolTime": 0,
                         "SkillMaxCoolTime": 9999,
                         "SubSetSkillId": 500000060001
@@ -6512,6 +6560,21 @@
                 "BlessingItemId": 0,
                 "PassiveSubSetSkillInfos": [
                     {
+                        "PassiveTrigger": 28,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 550000003001
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
                         "PassiveTrigger": 1,
                         "SkillCoolTime": 0,
                         "SkillMaxCoolTime": 0,
@@ -6527,6 +6590,21 @@
         "Memo": "ギルドバトル連戦デバフ（防衛側）:\\nデバフ量 = GvG累計撃殺数×0.3%分 （GvG累計撃殺数の最大 = 100）　＜スピード＞\\nデバフ量＝GvG累計撃殺数×0.8%分（GvG累計撃殺数の最大値＝100）​＜攻撃力＞、\\nデバフ量＝GvG累計撃殺数×2.5%分（GvG累計撃殺数の最大値＝40）​＜防御力・物理防御力・魔法防御力＞\\nデバフ量＝GvG累計撃殺数×0.5%分 （GvG累計撃殺数の最大値=100）＜クリティカル率＞\\nデバフ量＝GvG累計撃殺数×0.5%分 （GvG累計撃殺数の最大値=100）＜弱体効果命中率＞\\nデバフ量＝GvG累計撃殺数×1%分 （GvG累計撃殺数の最大値=100）＜回避率＞\\nデバフ量＝GvG累計撃殺数×0.5%分 （GvG累計撃殺数の最大値=100）＜弱体効果耐性率＞",
         "NameKey": null,
         "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 28,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 550000004001
+                    }
+                ]
+            },
             {
                 "OrderNumber": 1,
                 "DescriptionKey": null,
@@ -6723,6 +6801,274 @@
                         "SkillCoolTime": 0,
                         "SkillMaxCoolTime": 9999,
                         "SubSetSkillId": 550230002001
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 550304003,
+        "IsIgnore": null,
+        "Memo": "ロキR:自分の運命は自分で決める。自らの意思で戦車のカードを引き、自身のスピードが10％増加する。／さらに自身のクリティカルが10％増加する。※ボスバトル用1ターン目は発動しない。",
+        "NameKey": "[PassiveSkillName4003]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[PassiveSkillDescription40031]",
+                "CharacterLevel": 41,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "SubSetSkillId": 4003001
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[PassiveSkillDescription40032]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "SubSetSkillId": 4003201
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 550336003,
+        "IsIgnore": null,
+        "Memo": "トロポンSR:哀しい現実を包み込む優しい嘘で、自身の最大HPが20％増加する。／最大HPの増加量が40％になる。／さらに自身のスピードが20％増加する。※ボスバトル用1ターン目は発動しない。",
+        "NameKey": "[PassiveSkillName36003]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[PassiveSkillDescription360031]",
+                "CharacterLevel": 41,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 36003001
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[PassiveSkillDescription360032]",
+                "CharacterLevel": 121,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 36003201
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[PassiveSkillDescription360033]",
+                "CharacterLevel": 201,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 36003301
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 550339003,
+        "IsIgnore": null,
+        "Memo": "プリマヴェーラSR:歌は心、祈るように歌えば届く。味方全体の攻撃力を生存している味方の数×5％増加させる。／さらに味方全体のスピードを生存している味方の数×5％増加させる。／攻撃力とスピードの増加量が7％になる。※ボスバトル用1ターン目は発動しない。",
+        "NameKey": "[PassiveSkillName39003]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[PassiveSkillDescription390031]",
+                "CharacterLevel": 41,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 39003001
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[PassiveSkillDescription390032]",
+                "CharacterLevel": 121,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 39003201
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[PassiveSkillDescription390033]",
+                "CharacterLevel": 201,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 39003301
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 550347003,
+        "IsIgnore": null,
+        "Memo": "【劫火の魔女】\\nヴァルリーデSR:悲劇を繰り返したくないと願う心が力を与える。自身の残りHP割合が高いほど自身の攻撃力が増加する。（最大50％）／攻撃力の増加が最大60％までになる。／攻撃力の増加が最大70％までになる。",
+        "NameKey": "[PassiveSkillName47003]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[PassiveSkillDescription470031]",
+                "CharacterLevel": 41,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 550347003001
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[PassiveSkillDescription470032]",
+                "CharacterLevel": 121,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 550347003201
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[PassiveSkillDescription470033]",
+                "CharacterLevel": 201,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 550347003301
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 550347004,
+        "IsIgnore": null,
+        "Memo": "【劫火の魔女】\\nヴァルリーデSR:思い出すのは、炎の中の記憶。自身を魔女に変えた黒い炎が、引く事を許さない。\\n自身が攻撃を受けたとき残りHPが40％以下になると自身に『劫火の魔女』を付与する。『劫火の魔女』は自身の受けるダメージを20％減少、毎ターン行動開始時10％HP回復する。さらにバフ解除の効果で解除できず、3ターン経過または自身の残りHP割合が90％以上に達すると解除される。／『劫火の魔女』の毎ターン行動開始時のHP回復量が15％になる。／『劫火の魔女』の受けるダメージの減少量が30％になる。",
+        "NameKey": "[PassiveSkillName47004]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[PassiveSkillDescription470041]",
+                "CharacterLevel": 61,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 8,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 550347004001
+                    },
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 550347004002
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[PassiveSkillDescription470042]",
+                "CharacterLevel": 141,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 8,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 550347004201
+                    },
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 550347004202
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[PassiveSkillDescription470043]",
+                "CharacterLevel": 221,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 8,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 550347004301
+                    },
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 550347004302
                     }
                 ]
             }

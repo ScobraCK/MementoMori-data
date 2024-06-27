@@ -1685,7 +1685,7 @@
         "IsIgnore": null,
         "Memo": "スタートダッシュガチャ",
         "Banner": {
-            "enUS": "Prayer of<br><size=26>Begginnings</size>",
+            "enUS": "Prayer of<br><size=26>Beginnings</size>",
             "jaJP": "スタート<br>ダッシュ<br>ガチャ",
             "koKR": "<size=26>스타트 대시</size><br>뽑기",
             "zhTW": "新手衝刺<br>召喚"
@@ -1740,10 +1740,10 @@
             "zhTW": "．可使用專用票券進行召喚。<br>．召喚對象：角色<br>．第10次召喚時保證獲得SR角色。<br>．放入許願池的SR角色的出現機率將獲得提升（不會影響SR角色的總出現率)。詳情請見許願池的指南。"
         },
         "DetailDialogHeading": {
-            "enUS": "This Invocation is only available for 7 days.<br>1 or more SR characters are guaranteed to appear.<br>■Period Available<br>For 7 days after starting the game.",
-            "jaJP": "7日間限定のガチャです。<br>SRキャラ1体以上が確定で出現します。<br>■開催期間<br>ゲームを開始してから7日間",
-            "koKR": "7일간 한정 뽑기입니다.<br>SR 캐릭터 1명 이상이 확정 출현합니다. <br>■개최 기간<br>게임 개시 후 7일간",
-            "zhTW": "為期7天的限定召喚。<br>保證獲得至少1名SR角色。<br>■活動期間<br>開始遊戲後7天內"
+            "enUS": "This Invocation is only available for 9 days.<br>1 or more SR characters are guaranteed to appear.<br>■Period Available<br>For 9 days after starting the game.<br>*The ticket needed to Invoke in this Invocation—the Ticket of Beginnings—is only available for purchase for 7 days after starting the game, so please be careful.",
+            "jaJP": "9日間限定のガチャです。<br>SRキャラ1体以上が確定で出現します。<br>■開催期間<br>ゲームを開始してから9日間<br>※専用チケットの購入はゲームを開始してから7日間限定になりますのでご注意ください",
+            "koKR": "9일간 한정 뽑기입니다.<br>SR 캐릭터 1명 이상이 확정 출현합니다. <br>■개최 기간<br>게임 개시 후 9일간<br>※전용 뽑기의 티켓은 게임 시작 후 7일간 한정으로 구매하실 수 있으니 주의해 주세요.",
+            "zhTW": "為期9天的限定召喚。<br>保證獲得至少1名SR角色。<br>■活動期間<br>開始遊戲後9天內<br>※請注意：專用票券的購買期間為開始遊戲後7天內。"
         },
         "DetailDialogNotes": {
             "enUS": "・This Invocation’s content may be changed without prior notice.<br>・Pull rates vary depending on the character.<br>・Each displayed pull rate is rounded up to the 4th decimal place, so the combined value may not equal 100%.<br>・There will be a lottery based on the pull rates of each consecutive pull, so it is not guaranteed that a character with a 1% pull rate will appear 1 time out of 100 pulls.<br>・The Invocation sequence may be skipped, or not display normally, in part or in full, due to communication issues with the server, etc., but characters will be obtained normally. Please check your roster.",
@@ -1781,7 +1781,12 @@
             "zhTW": "新手衝刺召喚"
         },
         "PickUpCharacterId": 0,
-        "TimeFormat": null,
+        "TimeFormat": {
+            "enUS": "Ends in: {0}",
+            "jaJP": "終了まで{0}",
+            "koKR": "종료까지 {0}",
+            "zhTW": "倒數計時 {0}"
+        },
         "TitleColorType": 0,
         "AddRewardItems": null
     },
@@ -1969,12 +1974,7 @@
             "zhTW": "可召喚稀有度N～SR的角色"
         },
         "GachaBonusGaugeType": 0,
-        "GachaButtonMessage": {
-            "enUS": "1 SR Guaranteed",
-            "jaJP": "SR1体以上確定",
-            "koKR": "SR 1명 이상 확정!",
-            "zhTW": "保證獲得至少1名SR角色"
-        },
+        "GachaButtonMessage": null,
         "HeaderItem1": {
             "ItemCount": 1,
             "ItemId": 1,
@@ -2058,16 +2058,16 @@
             "zhTW": "．可使用鑽石進行召喚。<br>．召喚對象：角色<br>．可根據白金召喚、PICK UP召喚與屬性召喚的累計召喚次數，獲得對應的道具作為次數獎勵。<br>※獲得的道具將自動加入持有數量中。<br>※超過持有數量上限的道具將寄送到禮物箱。<br>．放入許願池的SR角色的出現機率將獲得提升（不會影響SR角色的總出現率)。詳情請見許願池的指南。"
         },
         "DetailDialogHeading": {
-            "enUS": "In this Invocation, a limited-time character will debut with a higher pull rate than other characters’.<br>You can also obtain a bonus reward according to your total pull count.<br>Please check [Individual Pull Rates] for the limited-time character below.<br>*The limited-time character may appear again in the future.<br>■Period Available<br>{0}",
-            "jaJP": "ピックアップガチャにはピックアップ対象キャラが新登場し、他のキャラより提供割合がアップします。<br>また累計ガチャ回数によって、回数報酬でアイテムも獲得できます。<br>ピックアップ対象キャラは以下「個別提供割合」をご確認ください。<br>※ピックアップ対象キャラは今後再登場する場合があります<br>■開催期間<br>{0}",
-            "koKR": "픽업 뽑기에는 픽업 대상 캐릭터가 새롭게 등장하며 다른 캐릭터보다 제공 비율이 높아집니다.<br>누적 뽑기 횟수에 따라 횟수 보상으로 아이템도 획득할 수 있습니다.<br>픽업 대상 캐릭터는 아래의 「개별 제공 비율」을 확인해 주세요.<br>※픽업 대상 캐릭터 추후 재등장할 경우가 있습니다.<br>■개최 기간<br>{0}<br>",
-            "zhTW": "全新精選角色登場。在PICK UP召喚中，精選角色的出現機率將大幅提升，<br>並可根據累計召喚次數獲得道具作為次數獎勵。<br>精選角色請見下方的「個別出現機率」。<br>※精選角色今後可能再次登場。<br>■活動期間<br>{0}"
+            "enUS": "In this Invocation, a limited-time character will debut with a higher pull rate than other characters’.<br>Please check [Individual Pull Rates] for the limited-time character below.<br><br>■Period Available<br>{0}<br><br>■Guaranteed Appearance<br>If【The Witch of Sacred Swords】Fortina does not appear after you Invoke in the Prayer of The Fleeting 99 times,【The Witch of Sacred Swords】Fortina is guaranteed to appear on the 100th Invoke.<br><br>■Bonus Rewards<br>You will receive Bonus Rewards according to the number of times you Invoke. The number of times you Invoke in the Prayer of The Fleeting will be added to your numbers from both the Prayer of The Cursed and the Prayer of Souls, so your cumulative total of these Invocations will allow you to claim your rewards.<br><br>■Warning<br>For a set amount of time,【The Witch of Sacred Swords】Fortina will only appear in the Prayer of The Fleeting. She will not be selectable when using the Witch’s Invitation obtained from Bonus Rewards, so please be careful.",
+            "jaJP": "ピックアップガチャにはピックアップ対象キャラが新登場し、他のキャラより提供割合がアップします。<br>ピックアップ対象キャラは以下「個別提供割合」をご確認ください。<br><br>■開催期間<br>{0}<br><br>■確定出現機能<br>ピックアップガチャにおいて、99回以内にピックアップ対象の「【聖剣の魔女】フォルティナ」が出現しなかった場合、100回目のガチャ実行時に必ず「【聖剣の魔女】フォルティナ」が１体確定で出現します。<br><br>■回数報酬<br>プラチナガチャ、属性ガチャの累積ガチャ回数に応じてもらえる「回数報酬」にピックアップガチャの回数分も加算されます。他ガチャの累積回数の続きから報酬を受け取ることができます。<br><br>■注意事項<br>「【聖剣の魔女】フォルティナ」は一定期間、ピックアップガチャ以外から出現しません。<br>「回数報酬」の「魔女の招待状」からも対象外となりますのでご注意ください。",
+            "koKR": "픽업 뽑기에는 픽업 대상 캐릭터가 새롭게 등장하며 다른 캐릭터보다 제공 비율이 높아집니다.<br>픽업 대상 캐릭터는 아래의 「개별 제공 비율」을 확인해 주세요.<br><br>■개최 기간<br>{0}<br><br>■확정 출현이란?<br>픽업 뽑기에서 99회 이내로 픽업 대상인【성스러운 검의 마녀】포르티나가 출현하지 않았을 경우, 100회째 뽑기 때 반드시【성스러운 검의 마녀】포르티나가 1명이 확정 출현합니다.<br><br>■횟수 보상<br>플래티넘 뽑기, 속성 뽑기의 누적 뽑기 횟수에 따라 받을 수 있는 「횟수 보상」에는 픽업 뽑기의 횟수도 포함해서 계산됩니다. <br>(즉, 다른 뽑기에서 누적된 횟수에 이어서 보상을 획득할 수 있습니다.)<br><br>■주의사항<br>【성스러운 검의 마녀】포르티나는 이후 일정 기간, 픽업 뽑기 이외의 다른 뽑기에서는 출현하지 않습니다.<br>횟수 보상인 마녀의 초대장에서는 【성스러운 검의 마녀】포르티나를 선택할 수 없습니다.",
+            "zhTW": "全新精選角色登場。在PICK UP召喚中，精選角色的出現機率將大幅提升。<br>精選角色請見下方的「個別出現機率」。<br><br>■活動期間<br>{0}<br><br>■保底機制<br>在PICK UP召喚中，如果連續99次沒有召喚出精選角色【聖劍魔女】福爾蒂娜，第100次召喚時則必定出現。<br><br>■次數獎勵<br>PICK UP召喚次數可累加到白金召喚、屬性召喚目前的累計召喚次數中，並根據累計召喚次數獲得對應的道具作為次數獎勵。<br><br>■注意事項<br>【聖劍魔女】福爾蒂娜在一定期間內，無法從PICK UP召喚以外的管道取得。<br>請注意：次數獎勵「魔女的邀請函」的邀請名單中不包含【聖劍魔女】福爾蒂娜。"
         },
         "DetailDialogNotes": {
-            "enUS": "・This Invocation’s content may be changed without prior notice.<br>・Pull rates vary depending on the character.<br>・Each displayed pull rate is rounded up to the 4th decimal place, so the combined value may not equal 100%.<br>・There will be a lottery based on the pull rates of each consecutive pull, so it is not guaranteed that a character with a 1% pull rate will appear 1 time out of 100 pulls.<br>・The Invocation sequence may be skipped, or not display normally, in part or in full, due to communication issues with the server, etc., but characters will be obtained normally. Please check your roster.",
-            "jaJP": "・ガチャの内容は予告なく変更する場合があります。<br>・出現するキャラの提供割合は、キャラによって異なります。<br>・各提供割合は小数第4位を四捨五入して表示しているため、合計値が100%にならない場合があります。<br>・ガチャは1回ごとに提供割合に基づいて抽選を行います。そのため、提供割合が1％のキャラが、100回中1回必ず出現するわけではありません。<br>・サーバーとの通信状況等によっては、ガチャ演出がスキップされたり、ガチャ演出の一部または全部が正常に表示されないことがありますが、キャラの追加は正常に完了しております。キャラ一覧をご確認ください。",
-            "koKR": "・뽑기 내용은 예고 없이 변경되는 경우가 있습니다.<br>・출현 캐릭터의 제공 비율은 캐릭터에 따라 달라집니다.<br>・각 제공 비율은 소수점 4자리를 반올림하여 표시하고 있으므로 합계값이 100%가 안 되는 경우가 있습니다.<br>・뽑기는 1회마다 제공 비율을 기준으로 추첨하고 있습니다. 그러므로 제공 비율이 1%인 캐릭터가 100회 중 1회 반드시 출현하지 않습니다.<br>・서버와의 통신 상태에 따라 뽑기 연출이 스킵되거나 뽑기 연출의 일부 또는 전부가 정상적으로 표시되지 않을 경우가 있지만, 캐릭터 추가는 정상적으로 완료됩니다. 캐릭터 목록을 확인해 주세요.",
-            "zhTW": "．召喚內容可能不經預告逕行調整。<br>．角色的出現機率因角色而異。<br>．出現機率標示至小數點後四位（四捨五入），故合計可能不等於100%。<br>．每一次都將按照以上所示的出現機率逐次進行抽選，故不代表在100次抽選中保證可獲得出現機率為1%的項目。<br>．召喚時的動畫演出可能因為伺服器連線狀況等原因無法完整播放或直接跳過。角色的發送將正常執行不受影響，請前往「持有角色」進行確認。"
+            "enUS": "・This Invocation’s content may be changed without prior notice.<br>・Pull rates vary depending on the character.<br>・Each displayed pull rate is rounded up to the 4th decimal place, so the combined value may not equal 100%.<br>・There will be a lottery based on the pull rates of each consecutive pull, so it is not guaranteed that a character with a 2% pull rate will appear 1 time out of 50 pulls.<br>・The Invocation sequence may be skipped, or not display normally, in part or in full, due to communication issues with the server, etc., but characters will be obtained normally. Please check your roster.",
+            "jaJP": "・ガチャの内容は予告なく変更する場合があります。<br>・出現するキャラの提供割合は、キャラによって異なります。<br>・各提供割合は小数第4位を四捨五入して表示しているため、合計値が100%にならない場合があります。<br>・ガチャは1回ごとに提供割合に基づいて抽選を行います。そのため、提供割合が2％のキャラが、50回中1回必ず出現するわけではありません。<br>・サーバーとの通信状況等によっては、ガチャ演出がスキップされたり、ガチャ演出の一部または全部が正常に表示されないことがありますが、キャラの追加は正常に完了しております。キャラ一覧をご確認ください。",
+            "koKR": "・뽑기 내용은 예고 없이 변경되는 경우가 있습니다.<br>・출현 캐릭터의 제공 비율은 캐릭터에 따라 달라집니다.<br>・각 제공 비율은 소수점 4자리를 반올림하여 표시하고 있으므로 합계값이 100%가 안 되는 경우가 있습니다.<br>・뽑기는 1회마다 제공 비율을 기준으로 추첨하고 있습니다. 그러므로 제공 비율이 2%인 캐릭터가 50회 중 1회 반드시 출현하는 것은 아닙니다.<br>・서버와의 통신 상태에 따라 뽑기 연출이 스킵되거나 뽑기 연출의 일부 또는 전부가 정상적으로 표시되지 않을 경우가 있지만, 캐릭터 추가는 정상적으로 완료됩니다. 캐릭터 목록을 확인해 주세요.",
+            "zhTW": "．召喚內容可能不經預告逕行調整。<br>．角色的出現機率因角色而異。<br>．出現機率標示至小數點後四位（四捨五入），故合計可能不等於100%。<br>．每一次都將按照以上所示的出現機率逐次進行抽選，故不代表在50次抽選中保證可獲得出現機率為2%的項目。<br>．召喚時的動畫演出可能因為伺服器連線狀況等原因無法完整播放或直接跳過。角色的發送將正常執行不受影響，請前往「持有角色」進行確認。"
         },
         "DetailURL": null,
         "EquipmentPictureBookTabIndex": 0,
@@ -2113,7 +2113,7 @@
             "koKR": "<size=35>픽업</size><br>뽑기",
             "zhTW": "<size=23>PICK UP</size><br>召喚"
         },
-        "BannerImageNumber": 16,
+        "BannerImageNumber": 17,
         "CustomTextLayout": {
             "enUS": {
                 "BannerAlignment": 4,
@@ -2163,24 +2163,24 @@
             "zhTW": "．可使用鑽石進行召喚。<br>．召喚對象：角色<br>．可根據白金召喚、PICK UP召喚與屬性召喚的累計召喚次數，獲得對應的道具作為次數獎勵。<br>※獲得的道具將自動加入持有數量中。<br>※超過持有數量上限的道具將寄送到禮物箱。<br>．放入許願池的SR角色的出現機率將獲得提升（不會影響SR角色的總出現率)。詳情請見許願池的指南。"
         },
         "DetailDialogHeading": {
-            "enUS": "In this Invocation, a limited-time character will debut with a higher pull rate than other characters’.<br>You can also obtain a bonus reward according to your total pull count.<br>Please check [Individual Pull Rates] for the limited-time character below.<br>*The limited-time character may appear again in the future.<br>■Period Available<br>{0}",
-            "jaJP": "ピックアップガチャにはピックアップ対象キャラが新登場し、他のキャラより提供割合がアップします。<br>また累計ガチャ回数によって、回数報酬でアイテムも獲得できます。<br>ピックアップ対象キャラは以下「個別提供割合」をご確認ください。<br>※ピックアップ対象キャラは今後再登場する場合があります<br>■開催期間<br>{0}",
-            "koKR": "픽업 뽑기에는 픽업 대상 캐릭터가 새롭게 등장하며 다른 캐릭터보다 제공 비율이 높아집니다.<br>누적 뽑기 횟수에 따라 횟수 보상으로 아이템도 획득할 수 있습니다.<br>픽업 대상 캐릭터는 아래의 「개별 제공 비율」을 확인해 주세요.<br>※픽업 대상 캐릭터 추후 재등장할 경우가 있습니다.<br>■개최 기간<br>{0}<br>",
-            "zhTW": "全新精選角色登場。在PICK UP召喚中，精選角色的出現機率將大幅提升，<br>並可根據累計召喚次數獲得道具作為次數獎勵。<br>精選角色請見下方的「個別出現機率」。<br>※精選角色今後可能再次登場。<br>■活動期間<br>{0}"
+            "enUS": "In this Invocation, a limited-time character will debut with a higher pull rate than other characters’.<br>Please check [Individual Pull Rates] for the limited-time character below.<br>■Period Available<br>{0}<br>■Guaranteed Appearance<br>If Belle does not appear after you Invoke in the Prayer of The Fleeting 99 times, Belle is guaranteed to appear on the 100th Invoke.<br><br>■Bonus Rewards<br>You will receive Bonus Rewards according to the number of times you Invoke. The number of times you Invoke in the Prayer of The Fleeting will be added to your numbers from both the Prayer of The Cursed and the Prayer of Souls, so your cumulative total of these Invocations will allow you to claim your rewards.<br><br>■Warning<br>For a set amount of time, Belle will only appear in the Prayer of The Fleeting. She will not be selectable when using the Witch’s Invitation obtained from Bonus Rewards, so please be careful.",
+            "jaJP": "ピックアップガチャにはピックアップ対象キャラが新登場し、他のキャラより提供割合がアップします。<br>ピックアップ対象キャラは以下「個別提供割合」をご確認ください。<br>■開催期間<br>{0}<br>■確定出現機能<br>ピックアップガチャにおいて、99回以内にピックアップ対象の「ベル」が出現しなかった場合、100回目のガチャ実行時に必ず「ベル」が１体確定出現します。<br>■回数報酬<br>プラチナガチャ、属性ガチャの累積ガチャ回数に応じてもらえる「回数報酬」にピックアップガチャの回数分も加算されます。他ガチャの累積回数の続きから報酬を受け取ることができます。<br>■注意事項<br>「ベル」は一定期間、ピックアップガチャ以外から出現しません。<br>「回数報酬」の「魔女の招待状」の選択対象外となりますのでご注意ください。",
+            "koKR": "픽업 뽑기에는 픽업 대상 캐릭터가 새롭게 등장하며 다른 캐릭터보다 제공 비율이 높아집니다.<br>픽업 대상 캐릭터는 아래의 「개별 제공 비율」을 확인해 주세요.<br>■개최 기간<br>{0}<br>■확정 출현이란?<br>픽업 뽑기에서 99회 이내로 픽업 대상인 「벨」이 출현하지 않았을 경우, 100회째 뽑기 때 반드시 「벨」 1명이 확정 출현합니다.<br>■횟수 보상<br>플래티넘 뽑기, 속성 뽑기의 누적 뽑기 횟수에 따라 받을 수 있는 「횟수 보상」에는 픽업 뽑기의 횟수도 포함해서 계산됩니다. <br>(즉, 다른 뽑기에서 누적된 횟수에 이어서 보상을 획득할 수 있습니다.)<br>■주의사항<br>「벨」은 이후 일정 기간, 픽업 뽑기 이외의 다른 뽑기에서는 출현하지 않습니다.<br>횟수 보상인 마녀의 초대장에서는 「벨」을 선택할 수 없습니다.",
+            "zhTW": "全新精選角色登場。在PICK UP召喚中，精選角色的出現機率將大幅提升。<br>精選角色請見下方的「個別出現機率」。<br>■活動期間<br>{0}<br>■保底機制<br>在PICK UP召喚中，如果連續99次沒有召喚出精選角色貝爾，第100次召喚時則必定出現。<br>■次數獎勵<br>PICK UP召喚次數可累加到白金召喚、屬性召喚目前的累計召喚次數中，並根據累計召喚次數獲得對應的道具作為次數獎勵。<br>■注意事項<br>貝爾在一定期間內，無法從PICK UP召喚以外的管道取得。<br>請注意：次數獎勵「魔女的邀請函」的邀請名單中不包含貝爾。"
         },
         "DetailDialogNotes": {
-            "enUS": "・This Invocation’s content may be changed without prior notice.<br>・Pull rates vary depending on the character.<br>・Each displayed pull rate is rounded up to the 4th decimal place, so the combined value may not equal 100%.<br>・There will be a lottery based on the pull rates of each consecutive pull, so it is not guaranteed that a character with a 1% pull rate will appear 1 time out of 100 pulls.<br>・The Invocation sequence may be skipped, or not display normally, in part or in full, due to communication issues with the server, etc., but characters will be obtained normally. Please check your roster.",
-            "jaJP": "・ガチャの内容は予告なく変更する場合があります。<br>・出現するキャラの提供割合は、キャラによって異なります。<br>・各提供割合は小数第4位を四捨五入して表示しているため、合計値が100%にならない場合があります。<br>・ガチャは1回ごとに提供割合に基づいて抽選を行います。そのため、提供割合が1％のキャラが、100回中1回必ず出現するわけではありません。<br>・サーバーとの通信状況等によっては、ガチャ演出がスキップされたり、ガチャ演出の一部または全部が正常に表示されないことがありますが、キャラの追加は正常に完了しております。キャラ一覧をご確認ください。",
-            "koKR": "・뽑기 내용은 예고 없이 변경되는 경우가 있습니다.<br>・출현 캐릭터의 제공 비율은 캐릭터에 따라 달라집니다.<br>・각 제공 비율은 소수점 4자리를 반올림하여 표시하고 있으므로 합계값이 100%가 안 되는 경우가 있습니다.<br>・뽑기는 1회마다 제공 비율을 기준으로 추첨하고 있습니다. 그러므로 제공 비율이 1%인 캐릭터가 100회 중 1회 반드시 출현하지 않습니다.<br>・서버와의 통신 상태에 따라 뽑기 연출이 스킵되거나 뽑기 연출의 일부 또는 전부가 정상적으로 표시되지 않을 경우가 있지만, 캐릭터 추가는 정상적으로 완료됩니다. 캐릭터 목록을 확인해 주세요.",
-            "zhTW": "．召喚內容可能不經預告逕行調整。<br>．角色的出現機率因角色而異。<br>．出現機率標示至小數點後四位（四捨五入），故合計可能不等於100%。<br>．每一次都將按照以上所示的出現機率逐次進行抽選，故不代表在100次抽選中保證可獲得出現機率為1%的項目。<br>．召喚時的動畫演出可能因為伺服器連線狀況等原因無法完整播放或直接跳過。角色的發送將正常執行不受影響，請前往「持有角色」進行確認。"
+            "enUS": "・This Invocation’s content may be changed without prior notice.<br>・Pull rates vary depending on the character.<br>・Each displayed pull rate is rounded up to the 4th decimal place, so the combined value may not equal 100%.<br>・There will be a lottery based on the pull rates of each consecutive pull, so it is not guaranteed that a character with a 2% pull rate will appear 1 time out of 50 pulls.<br>・The Invocation sequence may be skipped, or not display normally, in part or in full, due to communication issues with the server, etc., but characters will be obtained normally. Please check your roster.",
+            "jaJP": "・ガチャの内容は予告なく変更する場合があります。<br>・出現するキャラの提供割合は、キャラによって異なります。<br>・各提供割合は小数第4位を四捨五入して表示しているため、合計値が100%にならない場合があります。<br>・ガチャは1回ごとに提供割合に基づいて抽選を行います。そのため、提供割合が2％のキャラが、50回中1回必ず出現するわけではありません。<br>・サーバーとの通信状況等によっては、ガチャ演出がスキップされたり、ガチャ演出の一部または全部が正常に表示されないことがありますが、キャラの追加は正常に完了しております。キャラ一覧をご確認ください。",
+            "koKR": "・뽑기 내용은 예고 없이 변경되는 경우가 있습니다.<br>・출현 캐릭터의 제공 비율은 캐릭터에 따라 달라집니다.<br>・각 제공 비율은 소수점 4자리를 반올림하여 표시하고 있으므로 합계값이 100%가 안 되는 경우가 있습니다.<br>・뽑기는 1회마다 제공 비율을 기준으로 추첨하고 있습니다. 그러므로 제공 비율이 2%인 캐릭터가 50회 중 1회 반드시 출현하는 것은 아닙니다.<br>・서버와의 통신 상태에 따라 뽑기 연출이 스킵되거나 뽑기 연출의 일부 또는 전부가 정상적으로 표시되지 않을 경우가 있지만, 캐릭터 추가는 정상적으로 완료됩니다. 캐릭터 목록을 확인해 주세요.",
+            "zhTW": "．召喚內容可能不經預告逕行調整。<br>．角色的出現機率因角色而異。<br>．出現機率標示至小數點後四位（四捨五入），故合計可能不等於100%。<br>．每一次都將按照以上所示的出現機率逐次進行抽選，故不代表在50次抽選中保證可獲得出現機率為2%的項目。<br>．召喚時的動畫演出可能因為伺服器連線狀況等原因無法完整播放或直接跳過。角色的發送將正常執行不受影響，請前往「持有角色」進行確認。"
         },
         "DetailURL": null,
         "EquipmentPictureBookTabIndex": 0,
         "Explanation": {
-            "enUS": "Fortina is here for a limited time!",
+            "enUS": "Belle is here for a limited time!",
             "jaJP": "ベルが期間限定で登場",
-            "koKR": "포르티나 기간 한정 등장!",
-            "zhTW": "「福爾蒂娜」限時登場"
+            "koKR": "벨 기간 한정 등장!",
+            "zhTW": "「貝爾」限時登場"
         },
         "GachaBonusGaugeType": 0,
         "GachaButtonMessage": null,
@@ -2218,7 +2218,7 @@
             "koKR": "<size=35>픽업</size><br>뽑기",
             "zhTW": "<size=23>PICK UP</size><br>召喚"
         },
-        "BannerImageNumber": 16,
+        "BannerImageNumber": 12,
         "CustomTextLayout": {
             "enUS": {
                 "BannerAlignment": 4,
@@ -2268,24 +2268,24 @@
             "zhTW": "．可使用鑽石進行召喚。<br>．召喚對象：角色<br>．可根據白金召喚、PICK UP召喚與屬性召喚的累計召喚次數，獲得對應的道具作為次數獎勵。<br>※獲得的道具將自動加入持有數量中。<br>※超過持有數量上限的道具將寄送到禮物箱。<br>．放入許願池的SR角色的出現機率將獲得提升（不會影響SR角色的總出現率)。詳情請見許願池的指南。"
         },
         "DetailDialogHeading": {
-            "enUS": "In this Invocation, a limited-time character will debut with a higher pull rate than other characters’.<br>You can also obtain a bonus reward according to your total pull count.<br>Please check [Individual Pull Rates] for the limited-time character below.<br>*The limited-time character may appear again in the future.<br>■Period Available<br>{0}",
-            "jaJP": "ピックアップガチャにはピックアップ対象キャラが新登場し、他のキャラより提供割合がアップします。<br>また累計ガチャ回数によって、回数報酬でアイテムも獲得できます。<br>ピックアップ対象キャラは以下「個別提供割合」をご確認ください。<br>※ピックアップ対象キャラは今後再登場する場合があります<br>■開催期間<br>{0}",
-            "koKR": "픽업 뽑기에는 픽업 대상 캐릭터가 새롭게 등장하며 다른 캐릭터보다 제공 비율이 높아집니다.<br>누적 뽑기 횟수에 따라 횟수 보상으로 아이템도 획득할 수 있습니다.<br>픽업 대상 캐릭터는 아래의 「개별 제공 비율」을 확인해 주세요.<br>※픽업 대상 캐릭터 추후 재등장할 경우가 있습니다.<br>■개최 기간<br>{0}<br>",
-            "zhTW": "全新精選角色登場。在PICK UP召喚中，精選角色的出現機率將大幅提升，<br>並可根據累計召喚次數獲得道具作為次數獎勵。<br>精選角色請見下方的「個別出現機率」。<br>※精選角色今後可能再次登場。<br>■活動期間<br>{0}"
+            "enUS": "In this Invocation, a limited-time character will debut with a higher pull rate than other characters’.<br>Please check [Individual Pull Rates] for the limited-time character below.<br>■Period Available<br>{0}<br>■Guaranteed Appearance<br>If【The Witch of Conflagration】Valeriede does not appear after you Invoke in the Prayer of The Fleeting 99 times,【The Witch of Conflagration】Valeriede is guaranteed to appear on the 100th Invoke.<br><br>■Bonus Rewards<br>You will receive Bonus Rewards according to the number of times you Invoke. The number of times you Invoke in the Prayer of The Fleeting will be added to your numbers from both the Prayer of The Cursed and the Prayer of Souls, so your cumulative total of these Invocations will allow you to claim your rewards.<br><br>■Warning<br>For a set amount of time,【The Witch of Conflagration】Valeriede will only appear in the Prayer of The Fleeting. She will not be selectable when using the Witch’s Invitation obtained from Bonus Rewards, so please be careful.",
+            "jaJP": "ピックアップガチャにはピックアップ対象キャラが新登場し、他のキャラより提供割合がアップします。<br>ピックアップ対象キャラは以下「個別提供割合」をご確認ください。<br>■開催期間<br>{0}<br>■確定出現機能<br>ピックアップガチャにおいて、99回以内にピックアップ対象の「【劫火の魔女】ヴァルリーデ」が出現しなかった場合、100回目のガチャ実行時に必ず「【劫火の魔女】ヴァルリーデ」が１体確定出現します。<br>■回数報酬<br>プラチナガチャ、属性ガチャの累積ガチャ回数に応じてもらえる「回数報酬」にピックアップガチャの回数分も加算されます。他ガチャの累積回数の続きから報酬を受け取ることができます。<br>■注意事項<br>「【劫火の魔女】ヴァルリーデ」は一定期間、ピックアップガチャ以外から出現しません。<br>「回数報酬」の「魔女の招待状」の選択対象外となりますのでご注意ください。",
+            "koKR": "픽업 뽑기에는 픽업 대상 캐릭터가 새롭게 등장하며 다른 캐릭터보다 제공 비율이 높아집니다.<br>픽업 대상 캐릭터는 아래의 「개별 제공 비율」을 확인해 주세요.<br>■개최 기간<br>{0}<br>■확정 출현이란?<br>픽업 뽑기에서 99회 이내로 픽업 대상인 【겁화의 마녀】발리데이 출현하지 않았을 경우, 100회째 뽑기 때 반드시 【겁화의 마녀】발리데 1명이 확정 출현합니다.<br>■횟수 보상<br>플래티넘 뽑기, 속성 뽑기의 누적 뽑기 횟수에 따라 받을 수 있는 「횟수 보상」에는 픽업 뽑기의 횟수도 포함해서 계산됩니다. <br>(즉, 다른 뽑기에서 누적된 횟수에 이어서 보상을 획득할 수 있습니다.)<br>■주의사항<br>【겁화의 마녀】발리데은 이후 일정 기간, 픽업 뽑기 이외의 다른 뽑기에서는 출현하지 않습니다.<br>횟수 보상인 마녀의 초대장에서는 【겁화의 마녀】발리데을 선택할 수 없습니다.",
+            "zhTW": "全新精選角色登場。在PICK UP召喚中，精選角色的出現機率將大幅提升。<br>精選角色請見下方的「個別出現機率」。<br>■活動期間<br>{0}<br>■保底機制<br>在PICK UP召喚中，如果連續99次沒有召喚出精選角色【劫火魔女】瓦爾麗黛，第100次召喚時則必定出現。<br>■次數獎勵<br>PICK UP召喚次數可累加到白金召喚、屬性召喚目前的累計召喚次數中，並根據累計召喚次數獲得對應的道具作為次數獎勵。<br>■注意事項<br>【劫火魔女】瓦爾麗黛在一定期間內，無法從PICK UP召喚以外的管道取得。<br>請注意：次數獎勵「魔女的邀請函」的邀請名單中不包含【劫火魔女】瓦爾麗黛。"
         },
         "DetailDialogNotes": {
-            "enUS": "・This Invocation’s content may be changed without prior notice.<br>・Pull rates vary depending on the character.<br>・Each displayed pull rate is rounded up to the 4th decimal place, so the combined value may not equal 100%.<br>・There will be a lottery based on the pull rates of each consecutive pull, so it is not guaranteed that a character with a 1% pull rate will appear 1 time out of 100 pulls.<br>・The Invocation sequence may be skipped, or not display normally, in part or in full, due to communication issues with the server, etc., but characters will be obtained normally. Please check your roster.",
-            "jaJP": "・ガチャの内容は予告なく変更する場合があります。<br>・出現するキャラの提供割合は、キャラによって異なります。<br>・各提供割合は小数第4位を四捨五入して表示しているため、合計値が100%にならない場合があります。<br>・ガチャは1回ごとに提供割合に基づいて抽選を行います。そのため、提供割合が1％のキャラが、100回中1回必ず出現するわけではありません。<br>・サーバーとの通信状況等によっては、ガチャ演出がスキップされたり、ガチャ演出の一部または全部が正常に表示されないことがありますが、キャラの追加は正常に完了しております。キャラ一覧をご確認ください。",
-            "koKR": "・뽑기 내용은 예고 없이 변경되는 경우가 있습니다.<br>・출현 캐릭터의 제공 비율은 캐릭터에 따라 달라집니다.<br>・각 제공 비율은 소수점 4자리를 반올림하여 표시하고 있으므로 합계값이 100%가 안 되는 경우가 있습니다.<br>・뽑기는 1회마다 제공 비율을 기준으로 추첨하고 있습니다. 그러므로 제공 비율이 1%인 캐릭터가 100회 중 1회 반드시 출현하지 않습니다.<br>・서버와의 통신 상태에 따라 뽑기 연출이 스킵되거나 뽑기 연출의 일부 또는 전부가 정상적으로 표시되지 않을 경우가 있지만, 캐릭터 추가는 정상적으로 완료됩니다. 캐릭터 목록을 확인해 주세요.",
-            "zhTW": "．召喚內容可能不經預告逕行調整。<br>．角色的出現機率因角色而異。<br>．出現機率標示至小數點後四位（四捨五入），故合計可能不等於100%。<br>．每一次都將按照以上所示的出現機率逐次進行抽選，故不代表在100次抽選中保證可獲得出現機率為1%的項目。<br>．召喚時的動畫演出可能因為伺服器連線狀況等原因無法完整播放或直接跳過。角色的發送將正常執行不受影響，請前往「持有角色」進行確認。"
+            "enUS": "・This Invocation’s content may be changed without prior notice.<br>・Pull rates vary depending on the character.<br>・Each displayed pull rate is rounded up to the 4th decimal place, so the combined value may not equal 100%.<br>・There will be a lottery based on the pull rates of each consecutive pull, so it is not guaranteed that a character with a 2% pull rate will appear 1 time out of 50 pulls.<br>・The Invocation sequence may be skipped, or not display normally, in part or in full, due to communication issues with the server, etc., but characters will be obtained normally. Please check your roster.",
+            "jaJP": "・ガチャの内容は予告なく変更する場合があります。<br>・出現するキャラの提供割合は、キャラによって異なります。<br>・各提供割合は小数第4位を四捨五入して表示しているため、合計値が100%にならない場合があります。<br>・ガチャは1回ごとに提供割合に基づいて抽選を行います。そのため、提供割合が2％のキャラが、50回中1回必ず出現するわけではありません。<br>・サーバーとの通信状況等によっては、ガチャ演出がスキップされたり、ガチャ演出の一部または全部が正常に表示されないことがありますが、キャラの追加は正常に完了しております。キャラ一覧をご確認ください。",
+            "koKR": "・뽑기 내용은 예고 없이 변경되는 경우가 있습니다.<br>・출현 캐릭터의 제공 비율은 캐릭터에 따라 달라집니다.<br>・각 제공 비율은 소수점 4자리를 반올림하여 표시하고 있으므로 합계값이 100%가 안 되는 경우가 있습니다.<br>・뽑기는 1회마다 제공 비율을 기준으로 추첨하고 있습니다. 그러므로 제공 비율이 2%인 캐릭터가 50회 중 1회 반드시 출현하는 것은 아닙니다.<br>・서버와의 통신 상태에 따라 뽑기 연출이 스킵되거나 뽑기 연출의 일부 또는 전부가 정상적으로 표시되지 않을 경우가 있지만, 캐릭터 추가는 정상적으로 완료됩니다. 캐릭터 목록을 확인해 주세요.",
+            "zhTW": "．召喚內容可能不經預告逕行調整。<br>．角色的出現機率因角色而異。<br>．出現機率標示至小數點後四位（四捨五入），故合計可能不等於100%。<br>．每一次都將按照以上所示的出現機率逐次進行抽選，故不代表在50次抽選中保證可獲得出現機率為2%的項目。<br>．召喚時的動畫演出可能因為伺服器連線狀況等原因無法完整播放或直接跳過。角色的發送將正常執行不受影響，請前往「持有角色」進行確認。"
         },
         "DetailURL": null,
         "EquipmentPictureBookTabIndex": 0,
         "Explanation": {
-            "enUS": "Fortina is here for a limited time!",
+            "enUS": "Valeriede is here for a limited time!",
             "jaJP": "ヴァルリーデが期間限定で登場",
-            "koKR": "포르티나 기간 한정 등장!",
-            "zhTW": "「福爾蒂娜」限時登場"
+            "koKR": "발리데 기간 한정 등장!",
+            "zhTW": "「瓦爾麗黛」限時登場"
         },
         "GachaBonusGaugeType": 0,
         "GachaButtonMessage": null,
