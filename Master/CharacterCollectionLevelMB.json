@@ -2167,5 +2167,132 @@
         "CharacterRarityFlags": 65536,
         "CollectionId": 17,
         "CollectionLevel": 6
+    },
+    {
+        "Id": 109,
+        "IsIgnore": null,
+        "Memo": "フェリスの洞察(リシェス,ディアン)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 6,
+                "ChangeParameterType": 3,
+                "Value": 25.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 8,
+        "CollectionId": 19,
+        "CollectionLevel": 1
+    },
+    {
+        "Id": 110,
+        "IsIgnore": null,
+        "Memo": "フェリスの洞察(リシェス,ディアン)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 6,
+                "ChangeParameterType": 3,
+                "Value": 50.0
+            },
+            {
+                "BattleParameterType": 3,
+                "ChangeParameterType": 2,
+                "Value": 200.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 128,
+        "CollectionId": 19,
+        "CollectionLevel": 2
+    },
+    {
+        "Id": 111,
+        "IsIgnore": null,
+        "Memo": "フェリスの洞察(リシェス,ディアン)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 6,
+                "ChangeParameterType": 3,
+                "Value": 50.0
+            },
+            {
+                "BattleParameterType": 3,
+                "ChangeParameterType": 2,
+                "Value": 200.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 512,
+        "CollectionId": 19,
+        "CollectionLevel": 3
+    },
+    {
+        "Id": 112,
+        "IsIgnore": null,
+        "Memo": "フェリスの洞察(リシェス,ディアン)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 6,
+                "ChangeParameterType": 3,
+                "Value": 50.0
+            },
+            {
+                "BattleParameterType": 3,
+                "ChangeParameterType": 2,
+                "Value": 200.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 16384,
+        "CollectionId": 19,
+        "CollectionLevel": 4
+    },
+    {
+        "Id": 113,
+        "IsIgnore": null,
+        "Memo": "フェリスの洞察(リシェス,ディアン)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 6,
+                "ChangeParameterType": 3,
+                "Value": 51.0
+            },
+            {
+                "BattleParameterType": 3,
+                "ChangeParameterType": 2,
+                "Value": 210.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 32768,
+        "CollectionId": 19,
+        "CollectionLevel": 5
+    },
+    {
+        "Id": 114,
+        "IsIgnore": null,
+        "Memo": "フェリスの洞察(リシェス,ディアン)",
+        "BaseParameterChangeInfos": null,
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 6,
+                "ChangeParameterType": 3,
+                "Value": 52.0
+            },
+            {
+                "BattleParameterType": 3,
+                "ChangeParameterType": 2,
+                "Value": 220.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 65536,
+        "CollectionId": 19,
+        "CollectionLevel": 6
     }
 ]

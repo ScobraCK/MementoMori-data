@@ -5235,5 +5235,138 @@
             }
         ],
         "CharacterId": 58
+    },
+    {
+        "Id": 241,
+        "IsIgnore": null,
+        "Memo": "リシェスSSR180",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 67
+    },
+    {
+        "Id": 242,
+        "IsIgnore": null,
+        "Memo": "リシェスSSR200",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1300.0
+            },
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 600.0
+            }
+        ],
+        "CharacterId": 67
+    },
+    {
+        "Id": 243,
+        "IsIgnore": null,
+        "Memo": "リシェスSSR220",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 650.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1400.0
+            },
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "CharacterId": 67
+    },
+    {
+        "Id": 244,
+        "IsIgnore": null,
+        "Memo": "リシェスSSR240",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "CharacterId": 67
+    },
+    {
+        "Id": 245,
+        "IsIgnore": null,
+        "Memo": "リシェスUR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 750.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1600.0
+            },
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 900.0
+            }
+        ],
+        "CharacterId": 67
+    },
+    {
+        "Id": 246,
+        "IsIgnore": null,
+        "Memo": "リシェスLR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 1000.0
+            }
+        ],
+        "CharacterId": 67
     }
 ]

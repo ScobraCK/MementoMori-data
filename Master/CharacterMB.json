@@ -2885,5 +2885,57 @@
         "RequireFragmentCount": 60,
         "EndTimeFixJST": "2100-12-31 23:59:59",
         "StartTimeFixJST": "2023-05-31 15:00:00"
+    },
+    {
+        "Id": 67,
+        "IsIgnore": null,
+        "Memo": "リシェス",
+        "ActiveSkillIds": [
+            67001,
+            67002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 77,
+            "Health": 78,
+            "Intelligence": 79,
+            "Muscle": 91
+        },
+        "BaseParameterGrossCoefficient": 325,
+        "CharacterType": 0,
+        "ElementType": 4,
+        "InitialBattleParameter": {
+            "AttackPower": 0,
+            "Avoidance": 0,
+            "Critical": 0,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 0,
+            "DamageReflect": 0,
+            "DebuffHit": 0,
+            "DebuffResist": 0,
+            "Defense": 12,
+            "DefensePenetration": 0,
+            "Hit": 0,
+            "HP": 5,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": -3,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 0,
+            "Speed": 3596
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 1,
+        "Name2Key": null,
+        "NameKey": "[CharacterName67]",
+        "NormalSkillId": 101,
+        "PassiveSkillIds": [
+            67003,
+            67004
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2023-06-14 15:00:00"
     }
 ]
