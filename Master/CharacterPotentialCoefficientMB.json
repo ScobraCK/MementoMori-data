@@ -1,6 +1,6 @@
 [
     {
-        "Id": 1,
+        "Id": 101,
         "IsIgnore": null,
         "Memo": "初期N/N",
         "InitialRarityFlags": 1,
@@ -11,7 +11,7 @@
         "RarityFlags": 1
     },
     {
-        "Id": 2,
+        "Id": 102,
         "IsIgnore": null,
         "Memo": "初期N/R",
         "InitialRarityFlags": 1,
@@ -22,7 +22,7 @@
         "RarityFlags": 2
     },
     {
-        "Id": 3,
+        "Id": 103,
         "IsIgnore": null,
         "Memo": "初期N/R+",
         "InitialRarityFlags": 1,
@@ -33,7 +33,7 @@
         "RarityFlags": 4
     },
     {
-        "Id": 4,
+        "Id": 104,
         "IsIgnore": null,
         "Memo": "初期N/SR",
         "InitialRarityFlags": 1,
@@ -44,7 +44,7 @@
         "RarityFlags": 8
     },
     {
-        "Id": 5,
+        "Id": 105,
         "IsIgnore": null,
         "Memo": "初期N/SR+",
         "InitialRarityFlags": 1,
@@ -55,7 +55,7 @@
         "RarityFlags": 16
     },
     {
-        "Id": 6,
+        "Id": 106,
         "IsIgnore": null,
         "Memo": "初期N/SSR",
         "InitialRarityFlags": 1,
@@ -66,7 +66,7 @@
         "RarityFlags": 32
     },
     {
-        "Id": 7,
+        "Id": 107,
         "IsIgnore": null,
         "Memo": "初期N/SSR+",
         "InitialRarityFlags": 1,
@@ -77,7 +77,7 @@
         "RarityFlags": 64
     },
     {
-        "Id": 8,
+        "Id": 108,
         "IsIgnore": null,
         "Memo": "初期N/UR",
         "InitialRarityFlags": 1,
@@ -88,7 +88,7 @@
         "RarityFlags": 128
     },
     {
-        "Id": 9,
+        "Id": 109,
         "IsIgnore": null,
         "Memo": "初期N/UR+",
         "InitialRarityFlags": 1,
@@ -99,7 +99,7 @@
         "RarityFlags": 256
     },
     {
-        "Id": 10,
+        "Id": 110,
         "IsIgnore": null,
         "Memo": "初期N/LR",
         "InitialRarityFlags": 1,
@@ -110,7 +110,7 @@
         "RarityFlags": 512
     },
     {
-        "Id": 11,
+        "Id": 111,
         "IsIgnore": null,
         "Memo": "初期N/LR1",
         "InitialRarityFlags": 1,
@@ -121,7 +121,7 @@
         "RarityFlags": 1024
     },
     {
-        "Id": 12,
+        "Id": 112,
         "IsIgnore": null,
         "Memo": "初期N/LR2",
         "InitialRarityFlags": 1,
@@ -132,7 +132,7 @@
         "RarityFlags": 2048
     },
     {
-        "Id": 13,
+        "Id": 113,
         "IsIgnore": null,
         "Memo": "初期N/LR3",
         "InitialRarityFlags": 1,
@@ -143,7 +143,7 @@
         "RarityFlags": 4096
     },
     {
-        "Id": 14,
+        "Id": 114,
         "IsIgnore": null,
         "Memo": "初期N/LR4",
         "InitialRarityFlags": 1,
@@ -154,7 +154,7 @@
         "RarityFlags": 8192
     },
     {
-        "Id": 15,
+        "Id": 115,
         "IsIgnore": null,
         "Memo": "初期N/LR5",
         "InitialRarityFlags": 1,
@@ -165,7 +165,7 @@
         "RarityFlags": 16384
     },
     {
-        "Id": 16,
+        "Id": 116,
         "IsIgnore": null,
         "Memo": "初期N/LR6",
         "InitialRarityFlags": 1,
@@ -176,7 +176,7 @@
         "RarityFlags": 32768
     },
     {
-        "Id": 17,
+        "Id": 117,
         "IsIgnore": null,
         "Memo": "初期N/LR7",
         "InitialRarityFlags": 1,
@@ -187,7 +187,18 @@
         "RarityFlags": 65536
     },
     {
-        "Id": 18,
+        "Id": 118,
+        "IsIgnore": null,
+        "Memo": "初期N/LR8",
+        "InitialRarityFlags": 1,
+        "RarityCoefficientInfo": {
+            "m": 3.1025922866,
+            "b": 18632
+        },
+        "RarityFlags": 131072
+    },
+    {
+        "Id": 201,
         "IsIgnore": null,
         "Memo": "初期R,R/N",
         "InitialRarityFlags": 2,
@@ -198,7 +209,7 @@
         "RarityFlags": 1
     },
     {
-        "Id": 19,
+        "Id": 202,
         "IsIgnore": null,
         "Memo": "初期R,R/R",
         "InitialRarityFlags": 2,
@@ -209,7 +220,7 @@
         "RarityFlags": 2
     },
     {
-        "Id": 20,
+        "Id": 203,
         "IsIgnore": null,
         "Memo": "初期R,R/R+",
         "InitialRarityFlags": 2,
@@ -220,7 +231,7 @@
         "RarityFlags": 4
     },
     {
-        "Id": 21,
+        "Id": 204,
         "IsIgnore": null,
         "Memo": "初期R,R/SR",
         "InitialRarityFlags": 2,
@@ -231,7 +242,7 @@
         "RarityFlags": 8
     },
     {
-        "Id": 22,
+        "Id": 205,
         "IsIgnore": null,
         "Memo": "初期R,R/SR+",
         "InitialRarityFlags": 2,
@@ -242,7 +253,7 @@
         "RarityFlags": 16
     },
     {
-        "Id": 23,
+        "Id": 206,
         "IsIgnore": null,
         "Memo": "初期R,R/SSR",
         "InitialRarityFlags": 2,
@@ -253,7 +264,7 @@
         "RarityFlags": 32
     },
     {
-        "Id": 24,
+        "Id": 207,
         "IsIgnore": null,
         "Memo": "初期R,R/SSR+",
         "InitialRarityFlags": 2,
@@ -264,7 +275,7 @@
         "RarityFlags": 64
     },
     {
-        "Id": 25,
+        "Id": 208,
         "IsIgnore": null,
         "Memo": "初期R,R/UR",
         "InitialRarityFlags": 2,
@@ -275,7 +286,7 @@
         "RarityFlags": 128
     },
     {
-        "Id": 26,
+        "Id": 209,
         "IsIgnore": null,
         "Memo": "初期R,R/UR+",
         "InitialRarityFlags": 2,
@@ -286,7 +297,7 @@
         "RarityFlags": 256
     },
     {
-        "Id": 27,
+        "Id": 210,
         "IsIgnore": null,
         "Memo": "初期R,R/LR",
         "InitialRarityFlags": 2,
@@ -297,7 +308,7 @@
         "RarityFlags": 512
     },
     {
-        "Id": 28,
+        "Id": 211,
         "IsIgnore": null,
         "Memo": "初期R,R/LR1",
         "InitialRarityFlags": 2,
@@ -308,7 +319,7 @@
         "RarityFlags": 1024
     },
     {
-        "Id": 29,
+        "Id": 212,
         "IsIgnore": null,
         "Memo": "初期R,R/LR2",
         "InitialRarityFlags": 2,
@@ -319,7 +330,7 @@
         "RarityFlags": 2048
     },
     {
-        "Id": 30,
+        "Id": 213,
         "IsIgnore": null,
         "Memo": "初期R,R/LR3",
         "InitialRarityFlags": 2,
@@ -330,7 +341,7 @@
         "RarityFlags": 4096
     },
     {
-        "Id": 31,
+        "Id": 214,
         "IsIgnore": null,
         "Memo": "初期R,R/LR4",
         "InitialRarityFlags": 2,
@@ -341,7 +352,7 @@
         "RarityFlags": 8192
     },
     {
-        "Id": 32,
+        "Id": 215,
         "IsIgnore": null,
         "Memo": "初期R,R/LR5",
         "InitialRarityFlags": 2,
@@ -352,7 +363,7 @@
         "RarityFlags": 16384
     },
     {
-        "Id": 33,
+        "Id": 216,
         "IsIgnore": null,
         "Memo": "初期R,R/LR6",
         "InitialRarityFlags": 2,
@@ -363,7 +374,7 @@
         "RarityFlags": 32768
     },
     {
-        "Id": 34,
+        "Id": 217,
         "IsIgnore": null,
         "Memo": "初期R,R/LR7",
         "InitialRarityFlags": 2,
@@ -374,18 +385,29 @@
         "RarityFlags": 65536
     },
     {
-        "Id": 35,
+        "Id": 218,
+        "IsIgnore": null,
+        "Memo": "初期R,R/LR8",
+        "InitialRarityFlags": 2,
+        "RarityCoefficientInfo": {
+            "m": 3.1025922866,
+            "b": 18632
+        },
+        "RarityFlags": 131072
+    },
+    {
+        "Id": 801,
         "IsIgnore": null,
         "Memo": "初期SR/N",
         "InitialRarityFlags": 8,
         "RarityCoefficientInfo": {
-            "m": 0.875,
+            "m": 0.82875,
             "b": 0
         },
         "RarityFlags": 1
     },
     {
-        "Id": 36,
+        "Id": 802,
         "IsIgnore": null,
         "Memo": "初期SR/R",
         "InitialRarityFlags": 8,
@@ -396,7 +418,7 @@
         "RarityFlags": 2
     },
     {
-        "Id": 37,
+        "Id": 803,
         "IsIgnore": null,
         "Memo": "初期SR/R+",
         "InitialRarityFlags": 8,
@@ -407,7 +429,7 @@
         "RarityFlags": 4
     },
     {
-        "Id": 38,
+        "Id": 804,
         "IsIgnore": null,
         "Memo": "初期SR/SR",
         "InitialRarityFlags": 8,
@@ -418,7 +440,7 @@
         "RarityFlags": 8
     },
     {
-        "Id": 39,
+        "Id": 805,
         "IsIgnore": null,
         "Memo": "初期SR/SR+",
         "InitialRarityFlags": 8,
@@ -429,7 +451,7 @@
         "RarityFlags": 16
     },
     {
-        "Id": 40,
+        "Id": 806,
         "IsIgnore": null,
         "Memo": "初期SR/SSR",
         "InitialRarityFlags": 8,
@@ -440,7 +462,7 @@
         "RarityFlags": 32
     },
     {
-        "Id": 41,
+        "Id": 807,
         "IsIgnore": null,
         "Memo": "初期SR/SSR+",
         "InitialRarityFlags": 8,
@@ -451,7 +473,7 @@
         "RarityFlags": 64
     },
     {
-        "Id": 42,
+        "Id": 808,
         "IsIgnore": null,
         "Memo": "初期SR/UR",
         "InitialRarityFlags": 8,
@@ -462,7 +484,7 @@
         "RarityFlags": 128
     },
     {
-        "Id": 43,
+        "Id": 809,
         "IsIgnore": null,
         "Memo": "初期SR/UR+",
         "InitialRarityFlags": 8,
@@ -473,7 +495,7 @@
         "RarityFlags": 256
     },
     {
-        "Id": 44,
+        "Id": 810,
         "IsIgnore": null,
         "Memo": "初期SR/LR",
         "InitialRarityFlags": 8,
@@ -484,7 +506,7 @@
         "RarityFlags": 512
     },
     {
-        "Id": 45,
+        "Id": 811,
         "IsIgnore": null,
         "Memo": "初期SR/LR1",
         "InitialRarityFlags": 8,
@@ -495,7 +517,7 @@
         "RarityFlags": 1024
     },
     {
-        "Id": 46,
+        "Id": 812,
         "IsIgnore": null,
         "Memo": "初期SR/LR2",
         "InitialRarityFlags": 8,
@@ -506,7 +528,7 @@
         "RarityFlags": 2048
     },
     {
-        "Id": 47,
+        "Id": 813,
         "IsIgnore": null,
         "Memo": "初期SR/LR3",
         "InitialRarityFlags": 8,
@@ -517,7 +539,7 @@
         "RarityFlags": 4096
     },
     {
-        "Id": 48,
+        "Id": 814,
         "IsIgnore": null,
         "Memo": "初期SR/LR4",
         "InitialRarityFlags": 8,
@@ -528,7 +550,7 @@
         "RarityFlags": 8192
     },
     {
-        "Id": 49,
+        "Id": 815,
         "IsIgnore": null,
         "Memo": "初期SR/LR5",
         "InitialRarityFlags": 8,
@@ -539,7 +561,7 @@
         "RarityFlags": 16384
     },
     {
-        "Id": 50,
+        "Id": 816,
         "IsIgnore": null,
         "Memo": "初期SR/LR6",
         "InitialRarityFlags": 8,
@@ -550,7 +572,7 @@
         "RarityFlags": 32768
     },
     {
-        "Id": 51,
+        "Id": 817,
         "IsIgnore": null,
         "Memo": "初期SR/LR7",
         "InitialRarityFlags": 8,
@@ -559,5 +581,16 @@
             "b": 18743
         },
         "RarityFlags": 65536
+    },
+    {
+        "Id": 818,
+        "IsIgnore": null,
+        "Memo": "初期SR/LR8",
+        "InitialRarityFlags": 8,
+        "RarityCoefficientInfo": {
+            "m": 3.182145935,
+            "b": 19110
+        },
+        "RarityFlags": 131072
     }
 ]
