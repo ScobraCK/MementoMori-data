@@ -2574,5 +2574,56 @@
         "RequireFragmentCount": 60,
         "EndTimeFixJST": "2100-12-31 23:59:59",
         "StartTimeFixJST": "2023-01-31 15:00:00"
+    },
+    {
+        "Id": 53,
+        "IsIgnore": null,
+        "Memo": "ウィーラ",
+        "ActiveSkillIds": [
+            53001,
+            53002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 86,
+            "Health": 96,
+            "Intelligence": 78,
+            "Muscle": 62
+        },
+        "BaseParameterGrossCoefficient": 322,
+        "ElementType": 4,
+        "InitialBattleParameter": {
+            "AttackPower": 3,
+            "Avoidance": 0,
+            "Critical": 0,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 0,
+            "DamageReflect": 0,
+            "DebuffHit": 4,
+            "DebuffResist": 0,
+            "Defense": 7,
+            "DefensePenetration": 0,
+            "Hit": 0,
+            "HP": 0,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": 0,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 0,
+            "Speed": 3654
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 4,
+        "Name2Key": null,
+        "NameKey": "[CharacterName53]",
+        "NormalSkillId": 102,
+        "PassiveSkillIds": [
+            53003,
+            53004
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2023-03-16 15:00:00"
     }
 ]

@@ -9167,7 +9167,7 @@
     {
         "Id": 48,
         "IsIgnore": null,
-        "Memo": "145~151日目",
+        "Memo": "145~152日目",
         "MaxBattleCount": 3,
         "LocalRaidQuestIdGroups": [
             {
@@ -9362,7 +9362,7 @@
     {
         "Id": 49,
         "IsIgnore": null,
-        "Memo": "Pln1環境用EndTime10000倍",
+        "Memo": "152~159日目",
         "MaxBattleCount": 3,
         "LocalRaidQuestIdGroups": [
             {
@@ -9553,5 +9553,5075 @@
         ],
         "LocalRaidLevel": 49,
         "OverDayFromCreateWorldTime": 152
+    },
+    {
+        "Id": 50,
+        "IsIgnore": null,
+        "Memo": "159~166日目",
+        "MaxBattleCount": 3,
+        "LocalRaidQuestIdGroups": [
+            {
+                "LocalRaidQuestGroupType": 1,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105001,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105002,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205001,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205002,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305001,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305002,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 2,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105003,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105004,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105005,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205003,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205004,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205005,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305003,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305004,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305005,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 3,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105006,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105007,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205006,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205007,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305006,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305007,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405006,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405007,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505006,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505007,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 4,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105008,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105009,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205008,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205009,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305008,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305009,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405008,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405009,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505008,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505009,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 5,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105010,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205010,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305010,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405010,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505010,
+                        "LotteryWeight": 1
+                    }
+                ]
+            }
+        ],
+        "LocalRaidLevel": 50,
+        "OverDayFromCreateWorldTime": 159
+    },
+    {
+        "Id": 51,
+        "IsIgnore": null,
+        "Memo": "166~173日目",
+        "MaxBattleCount": 3,
+        "LocalRaidQuestIdGroups": [
+            {
+                "LocalRaidQuestGroupType": 1,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105101,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105102,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205101,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205102,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305101,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305102,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 2,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105103,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105104,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105105,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205103,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205104,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205105,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305103,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305104,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305105,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 3,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105106,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105107,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205106,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205107,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305106,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305107,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405106,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405107,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505106,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505107,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 4,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105108,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105109,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205108,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205109,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305108,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305109,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405108,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405109,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505108,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505109,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 5,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105110,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205110,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305110,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405110,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505110,
+                        "LotteryWeight": 1
+                    }
+                ]
+            }
+        ],
+        "LocalRaidLevel": 51,
+        "OverDayFromCreateWorldTime": 166
+    },
+    {
+        "Id": 52,
+        "IsIgnore": null,
+        "Memo": "173~180日目",
+        "MaxBattleCount": 3,
+        "LocalRaidQuestIdGroups": [
+            {
+                "LocalRaidQuestGroupType": 1,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105201,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105202,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205201,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205202,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305201,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305202,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 2,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105203,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105204,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105205,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205203,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205204,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205205,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305203,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305204,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305205,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 3,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105206,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105207,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205206,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205207,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305206,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305207,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405206,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405207,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505206,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505207,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 4,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105208,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105209,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205208,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205209,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305208,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305209,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405208,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405209,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505208,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505209,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 5,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105210,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205210,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305210,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405210,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505210,
+                        "LotteryWeight": 1
+                    }
+                ]
+            }
+        ],
+        "LocalRaidLevel": 52,
+        "OverDayFromCreateWorldTime": 173
+    },
+    {
+        "Id": 53,
+        "IsIgnore": null,
+        "Memo": "180~187日目",
+        "MaxBattleCount": 3,
+        "LocalRaidQuestIdGroups": [
+            {
+                "LocalRaidQuestGroupType": 1,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105301,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105302,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205301,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205302,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305301,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305302,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 2,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105303,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105304,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105305,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205303,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205304,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205305,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305303,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305304,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305305,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 3,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105306,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105307,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205306,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205307,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305306,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305307,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405306,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405307,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505306,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505307,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 4,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105308,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105309,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205308,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205309,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305308,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305309,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405308,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405309,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505308,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505309,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 5,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105310,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205310,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305310,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405310,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505310,
+                        "LotteryWeight": 1
+                    }
+                ]
+            }
+        ],
+        "LocalRaidLevel": 53,
+        "OverDayFromCreateWorldTime": 180
+    },
+    {
+        "Id": 54,
+        "IsIgnore": null,
+        "Memo": "187~194日目",
+        "MaxBattleCount": 3,
+        "LocalRaidQuestIdGroups": [
+            {
+                "LocalRaidQuestGroupType": 1,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105401,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105402,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205401,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205402,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305401,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305402,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 2,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105403,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105404,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105405,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205403,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205404,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205405,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305403,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305404,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305405,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 3,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105406,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105407,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205406,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205407,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305406,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305407,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405406,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405407,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505406,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505407,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 4,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105408,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105409,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205408,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205409,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305408,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305409,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405408,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405409,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505408,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505409,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 5,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105410,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205410,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305410,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405410,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505410,
+                        "LotteryWeight": 1
+                    }
+                ]
+            }
+        ],
+        "LocalRaidLevel": 54,
+        "OverDayFromCreateWorldTime": 187
+    },
+    {
+        "Id": 55,
+        "IsIgnore": null,
+        "Memo": "194~201日目",
+        "MaxBattleCount": 3,
+        "LocalRaidQuestIdGroups": [
+            {
+                "LocalRaidQuestGroupType": 1,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105501,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105502,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205501,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205502,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305501,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305502,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 2,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105503,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105504,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105505,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205503,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205504,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205505,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305503,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305504,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305505,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 3,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105506,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105507,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205506,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205507,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305506,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305507,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405506,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405507,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505506,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505507,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 4,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105508,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105509,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205508,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205509,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305508,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305509,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405508,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405509,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505508,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505509,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 5,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105510,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205510,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305510,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405510,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505510,
+                        "LotteryWeight": 1
+                    }
+                ]
+            }
+        ],
+        "LocalRaidLevel": 55,
+        "OverDayFromCreateWorldTime": 194
+    },
+    {
+        "Id": 56,
+        "IsIgnore": null,
+        "Memo": "201~208日目",
+        "MaxBattleCount": 3,
+        "LocalRaidQuestIdGroups": [
+            {
+                "LocalRaidQuestGroupType": 1,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105601,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105602,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205601,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205602,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305601,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305602,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 2,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105603,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105604,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105605,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205603,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205604,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205605,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305603,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305604,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305605,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 3,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105606,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105607,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205606,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205607,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305606,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305607,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405606,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405607,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505606,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505607,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 4,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105608,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105609,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205608,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205609,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305608,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305609,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405608,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405609,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505608,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505609,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 5,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105610,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205610,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305610,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405610,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505610,
+                        "LotteryWeight": 1
+                    }
+                ]
+            }
+        ],
+        "LocalRaidLevel": 56,
+        "OverDayFromCreateWorldTime": 201
+    },
+    {
+        "Id": 57,
+        "IsIgnore": null,
+        "Memo": "208~215日目",
+        "MaxBattleCount": 3,
+        "LocalRaidQuestIdGroups": [
+            {
+                "LocalRaidQuestGroupType": 1,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105701,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105702,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205701,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205702,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305701,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305702,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 2,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105703,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105704,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105705,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205703,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205704,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205705,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305703,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305704,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305705,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 3,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105706,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105707,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205706,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205707,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305706,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305707,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405706,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405707,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505706,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505707,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 4,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105708,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105709,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205708,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205709,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305708,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305709,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405708,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405709,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505708,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505709,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 5,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105710,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205710,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305710,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405710,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505710,
+                        "LotteryWeight": 1
+                    }
+                ]
+            }
+        ],
+        "LocalRaidLevel": 57,
+        "OverDayFromCreateWorldTime": 208
+    },
+    {
+        "Id": 58,
+        "IsIgnore": null,
+        "Memo": "215~222日目",
+        "MaxBattleCount": 3,
+        "LocalRaidQuestIdGroups": [
+            {
+                "LocalRaidQuestGroupType": 1,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105801,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105802,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205801,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205802,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305801,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305802,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 2,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105803,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105804,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105805,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205803,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205804,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205805,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305803,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305804,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305805,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 3,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105806,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105807,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205806,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205807,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305806,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305807,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405806,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405807,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505806,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505807,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 4,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105808,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105809,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205808,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205809,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305808,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305809,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405808,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405809,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505808,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505809,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 5,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105810,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205810,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305810,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405810,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505810,
+                        "LotteryWeight": 1
+                    }
+                ]
+            }
+        ],
+        "LocalRaidLevel": 58,
+        "OverDayFromCreateWorldTime": 215
+    },
+    {
+        "Id": 59,
+        "IsIgnore": null,
+        "Memo": "222~229日目",
+        "MaxBattleCount": 3,
+        "LocalRaidQuestIdGroups": [
+            {
+                "LocalRaidQuestGroupType": 1,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105901,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105902,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205901,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205902,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305901,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305902,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 2,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105903,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105904,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105905,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205903,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205904,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205905,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305903,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305904,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305905,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 3,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105906,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105907,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205906,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205907,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305906,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305907,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405906,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405907,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505906,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505907,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 4,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105908,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 105909,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205908,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205909,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305908,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305909,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405908,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405909,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505908,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505909,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 5,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 105910,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 205910,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 305910,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 405910,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 505910,
+                        "LotteryWeight": 1
+                    }
+                ]
+            }
+        ],
+        "LocalRaidLevel": 59,
+        "OverDayFromCreateWorldTime": 222
+    },
+    {
+        "Id": 60,
+        "IsIgnore": null,
+        "Memo": "229~236日目",
+        "MaxBattleCount": 3,
+        "LocalRaidQuestIdGroups": [
+            {
+                "LocalRaidQuestGroupType": 1,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106001,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106002,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206001,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206002,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306001,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306002,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 2,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106003,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106004,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106005,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206003,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206004,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206005,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306003,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306004,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306005,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 3,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106006,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106007,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206006,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206007,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306006,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306007,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406006,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406007,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506006,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506007,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 4,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106008,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106009,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206008,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206009,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306008,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306009,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406008,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406009,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506008,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506009,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 5,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106010,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206010,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306010,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406010,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506010,
+                        "LotteryWeight": 1
+                    }
+                ]
+            }
+        ],
+        "LocalRaidLevel": 60,
+        "OverDayFromCreateWorldTime": 229
+    },
+    {
+        "Id": 61,
+        "IsIgnore": null,
+        "Memo": "236~243日目",
+        "MaxBattleCount": 3,
+        "LocalRaidQuestIdGroups": [
+            {
+                "LocalRaidQuestGroupType": 1,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106101,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106102,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206101,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206102,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306101,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306102,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 2,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106103,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106104,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106105,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206103,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206104,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206105,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306103,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306104,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306105,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 3,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106106,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106107,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206106,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206107,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306106,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306107,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406106,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406107,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506106,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506107,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 4,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106108,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106109,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206108,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206109,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306108,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306109,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406108,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406109,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506108,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506109,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 5,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106110,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206110,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306110,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406110,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506110,
+                        "LotteryWeight": 1
+                    }
+                ]
+            }
+        ],
+        "LocalRaidLevel": 61,
+        "OverDayFromCreateWorldTime": 236
+    },
+    {
+        "Id": 62,
+        "IsIgnore": null,
+        "Memo": "243~250日目",
+        "MaxBattleCount": 3,
+        "LocalRaidQuestIdGroups": [
+            {
+                "LocalRaidQuestGroupType": 1,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106201,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106202,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206201,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206202,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306201,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306202,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 2,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106203,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106204,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106205,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206203,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206204,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206205,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306203,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306204,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306205,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 3,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106206,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106207,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206206,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206207,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306206,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306207,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406206,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406207,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506206,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506207,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 4,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106208,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106209,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206208,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206209,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306208,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306209,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406208,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406209,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506208,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506209,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 5,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106210,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206210,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306210,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406210,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506210,
+                        "LotteryWeight": 1
+                    }
+                ]
+            }
+        ],
+        "LocalRaidLevel": 62,
+        "OverDayFromCreateWorldTime": 243
+    },
+    {
+        "Id": 63,
+        "IsIgnore": null,
+        "Memo": "250~257日目",
+        "MaxBattleCount": 3,
+        "LocalRaidQuestIdGroups": [
+            {
+                "LocalRaidQuestGroupType": 1,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106301,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106302,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206301,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206302,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306301,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306302,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 2,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106303,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106304,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106305,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206303,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206304,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206305,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306303,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306304,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306305,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 3,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106306,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106307,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206306,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206307,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306306,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306307,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406306,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406307,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506306,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506307,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 4,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106308,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106309,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206308,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206309,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306308,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306309,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406308,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406309,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506308,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506309,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 5,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106310,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206310,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306310,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406310,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506310,
+                        "LotteryWeight": 1
+                    }
+                ]
+            }
+        ],
+        "LocalRaidLevel": 63,
+        "OverDayFromCreateWorldTime": 250
+    },
+    {
+        "Id": 64,
+        "IsIgnore": null,
+        "Memo": "257~264日目",
+        "MaxBattleCount": 3,
+        "LocalRaidQuestIdGroups": [
+            {
+                "LocalRaidQuestGroupType": 1,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106401,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106402,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206401,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206402,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306401,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306402,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 2,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106403,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106404,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106405,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206403,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206404,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206405,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306403,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306404,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306405,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 3,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106406,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106407,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206406,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206407,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306406,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306407,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406406,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406407,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506406,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506407,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 4,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106408,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106409,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206408,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206409,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306408,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306409,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406408,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406409,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506408,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506409,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 5,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106410,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206410,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306410,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406410,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506410,
+                        "LotteryWeight": 1
+                    }
+                ]
+            }
+        ],
+        "LocalRaidLevel": 64,
+        "OverDayFromCreateWorldTime": 257
+    },
+    {
+        "Id": 65,
+        "IsIgnore": null,
+        "Memo": "264~271日目",
+        "MaxBattleCount": 3,
+        "LocalRaidQuestIdGroups": [
+            {
+                "LocalRaidQuestGroupType": 1,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106501,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106502,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206501,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206502,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306501,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306502,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 2,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106503,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106504,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106505,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206503,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206504,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206505,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306503,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306504,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306505,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 3,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106506,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106507,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206506,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206507,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306506,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306507,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406506,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406507,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506506,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506507,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 4,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106508,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106509,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206508,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206509,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306508,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306509,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406508,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406509,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506508,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506509,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 5,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106510,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206510,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306510,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406510,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506510,
+                        "LotteryWeight": 1
+                    }
+                ]
+            }
+        ],
+        "LocalRaidLevel": 65,
+        "OverDayFromCreateWorldTime": 264
+    },
+    {
+        "Id": 66,
+        "IsIgnore": null,
+        "Memo": "271~278日目",
+        "MaxBattleCount": 3,
+        "LocalRaidQuestIdGroups": [
+            {
+                "LocalRaidQuestGroupType": 1,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106601,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106602,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206601,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206602,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306601,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306602,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 2,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106603,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106604,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106605,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206603,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206604,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206605,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306603,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306604,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306605,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 3,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106606,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106607,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206606,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206607,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306606,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306607,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406606,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406607,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506606,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506607,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 4,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106608,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106609,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206608,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206609,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306608,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306609,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406608,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406609,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506608,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506609,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 5,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106610,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206610,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306610,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406610,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506610,
+                        "LotteryWeight": 1
+                    }
+                ]
+            }
+        ],
+        "LocalRaidLevel": 66,
+        "OverDayFromCreateWorldTime": 271
+    },
+    {
+        "Id": 67,
+        "IsIgnore": null,
+        "Memo": "278~285日目",
+        "MaxBattleCount": 3,
+        "LocalRaidQuestIdGroups": [
+            {
+                "LocalRaidQuestGroupType": 1,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106701,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106702,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206701,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206702,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306701,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306702,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 2,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106703,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106704,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106705,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206703,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206704,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206705,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306703,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306704,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306705,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 3,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106706,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106707,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206706,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206707,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306706,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306707,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406706,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406707,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506706,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506707,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 4,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106708,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106709,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206708,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206709,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306708,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306709,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406708,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406709,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506708,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506709,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 5,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106710,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206710,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306710,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406710,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506710,
+                        "LotteryWeight": 1
+                    }
+                ]
+            }
+        ],
+        "LocalRaidLevel": 67,
+        "OverDayFromCreateWorldTime": 278
+    },
+    {
+        "Id": 68,
+        "IsIgnore": null,
+        "Memo": "285~292日目",
+        "MaxBattleCount": 3,
+        "LocalRaidQuestIdGroups": [
+            {
+                "LocalRaidQuestGroupType": 1,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106801,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106802,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206801,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206802,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306801,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306802,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 2,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106803,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106804,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106805,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206803,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206804,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206805,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306803,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306804,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306805,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 3,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106806,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106807,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206806,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206807,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306806,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306807,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406806,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406807,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506806,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506807,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 4,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106808,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106809,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206808,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206809,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306808,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306809,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406808,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406809,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506808,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506809,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 5,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106810,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206810,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306810,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406810,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506810,
+                        "LotteryWeight": 1
+                    }
+                ]
+            }
+        ],
+        "LocalRaidLevel": 68,
+        "OverDayFromCreateWorldTime": 285
+    },
+    {
+        "Id": 69,
+        "IsIgnore": null,
+        "Memo": "292~299日目",
+        "MaxBattleCount": 3,
+        "LocalRaidQuestIdGroups": [
+            {
+                "LocalRaidQuestGroupType": 1,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106901,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106902,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206901,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206902,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306901,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306902,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 2,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106903,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106904,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106905,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206903,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206904,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206905,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306903,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306904,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306905,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 3,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106906,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106907,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206906,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206907,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306906,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306907,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406906,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406907,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506906,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506907,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 4,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106908,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 106909,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206908,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206909,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306908,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306909,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406908,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406909,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506908,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506909,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 5,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 106910,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 206910,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 306910,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 406910,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 506910,
+                        "LotteryWeight": 1
+                    }
+                ]
+            }
+        ],
+        "LocalRaidLevel": 69,
+        "OverDayFromCreateWorldTime": 292
+    },
+    {
+        "Id": 70,
+        "IsIgnore": null,
+        "Memo": "299~306日目",
+        "MaxBattleCount": 3,
+        "LocalRaidQuestIdGroups": [
+            {
+                "LocalRaidQuestGroupType": 1,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 107001,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 107002,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207001,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207002,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307001,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307002,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 2,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 107003,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 107004,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 107005,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207003,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207004,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207005,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307003,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307004,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307005,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 3,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 107006,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 107007,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207006,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207007,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307006,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307007,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 407006,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 407007,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 507006,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 507007,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 4,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 107008,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 107009,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207008,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207009,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307008,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307009,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 407008,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 407009,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 507008,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 507009,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 5,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 107010,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207010,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307010,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 407010,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 507010,
+                        "LotteryWeight": 1
+                    }
+                ]
+            }
+        ],
+        "LocalRaidLevel": 70,
+        "OverDayFromCreateWorldTime": 299
+    },
+    {
+        "Id": 71,
+        "IsIgnore": null,
+        "Memo": "306~313日目",
+        "MaxBattleCount": 3,
+        "LocalRaidQuestIdGroups": [
+            {
+                "LocalRaidQuestGroupType": 1,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 107101,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 107102,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207101,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207102,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307101,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307102,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 2,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 107103,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 107104,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 107105,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207103,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207104,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207105,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307103,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307104,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307105,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 3,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 107106,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 107107,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207106,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207107,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307106,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307107,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 407106,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 407107,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 507106,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 507107,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 4,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 107108,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 107109,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207108,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207109,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307108,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307109,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 407108,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 407109,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 507108,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 507109,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 5,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 107110,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207110,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307110,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 407110,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 507110,
+                        "LotteryWeight": 1
+                    }
+                ]
+            }
+        ],
+        "LocalRaidLevel": 71,
+        "OverDayFromCreateWorldTime": 306
+    },
+    {
+        "Id": 72,
+        "IsIgnore": null,
+        "Memo": "313~320日目",
+        "MaxBattleCount": 3,
+        "LocalRaidQuestIdGroups": [
+            {
+                "LocalRaidQuestGroupType": 1,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 107201,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 107202,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207201,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207202,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307201,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307202,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 2,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 107203,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 107204,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 107205,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207203,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207204,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207205,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307203,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307204,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307205,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 3,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 107206,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 107207,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207206,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207207,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307206,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307207,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 407206,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 407207,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 507206,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 507207,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 4,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 107208,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 107209,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207208,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207209,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307208,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307209,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 407208,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 407209,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 507208,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 507209,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 5,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 107210,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207210,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307210,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 407210,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 507210,
+                        "LotteryWeight": 1
+                    }
+                ]
+            }
+        ],
+        "LocalRaidLevel": 72,
+        "OverDayFromCreateWorldTime": 313
+    },
+    {
+        "Id": 73,
+        "IsIgnore": null,
+        "Memo": "320~327日目",
+        "MaxBattleCount": 3,
+        "LocalRaidQuestIdGroups": [
+            {
+                "LocalRaidQuestGroupType": 1,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 107301,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 107302,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207301,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207302,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307301,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307302,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 2,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 107303,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 107304,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 107305,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207303,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207304,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207305,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307303,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307304,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307305,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 3,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 107306,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 107307,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207306,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207307,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307306,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307307,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 407306,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 407307,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 507306,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 507307,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 4,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 107308,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 107309,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207308,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207309,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307308,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307309,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 407308,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 407309,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 507308,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 507309,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 5,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 107310,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207310,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307310,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 407310,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 507310,
+                        "LotteryWeight": 1
+                    }
+                ]
+            }
+        ],
+        "LocalRaidLevel": 73,
+        "OverDayFromCreateWorldTime": 320
+    },
+    {
+        "Id": 74,
+        "IsIgnore": null,
+        "Memo": "327~334日目",
+        "MaxBattleCount": 3,
+        "LocalRaidQuestIdGroups": [
+            {
+                "LocalRaidQuestGroupType": 1,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 107401,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 107402,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207401,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207402,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307401,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307402,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 2,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 107403,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 107404,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 107405,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207403,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207404,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207405,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307403,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307404,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307405,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 3,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 107406,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 107407,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207406,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207407,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307406,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307407,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 407406,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 407407,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 507406,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 507407,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 4,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 107408,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 107409,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207408,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207409,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307408,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307409,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 407408,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 407409,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 507408,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 507409,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 5,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 107410,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207410,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307410,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 407410,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 507410,
+                        "LotteryWeight": 1
+                    }
+                ]
+            }
+        ],
+        "LocalRaidLevel": 74,
+        "OverDayFromCreateWorldTime": 327
+    },
+    {
+        "Id": 75,
+        "IsIgnore": null,
+        "Memo": "334~",
+        "MaxBattleCount": 3,
+        "LocalRaidQuestIdGroups": [
+            {
+                "LocalRaidQuestGroupType": 1,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 107501,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 107502,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207501,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207502,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307501,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307502,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 2,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 107503,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 107504,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 107505,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207503,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207504,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207505,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307503,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307504,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307505,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 3,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 107506,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 107507,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207506,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207507,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307506,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307507,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 407506,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 407507,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 507506,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 507507,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 4,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 107508,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 107509,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207508,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207509,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307508,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307509,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 407508,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 407509,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 507508,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 507509,
+                        "LotteryWeight": 1
+                    }
+                ]
+            },
+            {
+                "LocalRaidQuestGroupType": 5,
+                "LocalRaidQuestIdWeights": [
+                    {
+                        "LocalRaidQuestId": 107510,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 207510,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 307510,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 407510,
+                        "LotteryWeight": 1
+                    },
+                    {
+                        "LocalRaidQuestId": 507510,
+                        "LotteryWeight": 1
+                    }
+                ]
+            }
+        ],
+        "LocalRaidLevel": 75,
+        "OverDayFromCreateWorldTime": 334
     }
 ]
