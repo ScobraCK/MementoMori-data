@@ -1,0 +1,91 @@
+[
+    {
+        "Id": 1,
+        "IsIgnore": null,
+        "Memo": "テストデータ",
+        "DailyRewardList": [
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 10,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "Date": 1,
+                "RarityFlags": 0
+            },
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 20,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "Date": 2,
+                "RarityFlags": 0
+            },
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 30,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "Date": 3,
+                "RarityFlags": 0
+            },
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 40,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "Date": 4,
+                "RarityFlags": 0
+            },
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 50,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "Date": 5,
+                "RarityFlags": 0
+            },
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 60,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "Date": 6,
+                "RarityFlags": 0
+            },
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 70,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "Date": 7,
+                "RarityFlags": 0
+            }
+        ],
+        "EveryDayRewardItem": {
+            "EveryDayRewardItem": {
+                "ItemCount": 5,
+                "ItemId": 1,
+                "ItemType": 1
+            },
+            "RarityFlags": 0
+        },
+        "ExistEveryDayReward": true,
+        "ExistSpecialReward": true,
+        "SpecialRewardItem": {
+            "Date": 7,
+            "SpecialRewardItem": {
+                "ItemCount": 1,
+                "ItemId": 7,
+                "ItemType": 6
+            },
+            "RarityFlags": 8
+        }
+    }
+]
