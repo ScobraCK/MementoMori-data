@@ -1,0 +1,53 @@
+name: Update Master
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-master:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Get current version
+      id: get_version
+      run: echo "current_version=$(cat Master/appversion)" >> $GITHUB_ENV
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run script
+      run: python Scripts/update.py
+
+    - name: Get new version
+      id: get_new_version
+      run: echo "new_version=$(cat Master/appversion)" >> $GITHUB_ENV
+
+    - name: Get master version
+      id: get_master_version
+      run: echo "master_version=$(cat Master/version)" >> $GITHUB_ENV
+      
+    - name: Compare versions and tag version if changed
+      id: compare_versions
+      run: |
+        if [ "${{ env.current_version }}" != "v${{ env.new_version }}" ]; then
+          git tag v${{ env.current_version }}
+          git push origin v${{ env.current_version }}
+        fi
+
+    - name: Commit Master
+      uses: EndBug/add-and-commit@v9
+      with:
+        add: 'Master'
+        message: "v${{ env.new_version }} - ${{ env.master_version }}"
