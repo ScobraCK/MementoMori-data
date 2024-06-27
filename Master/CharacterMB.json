@@ -2625,5 +2625,56 @@
         "RequireFragmentCount": 60,
         "EndTimeFixJST": "2100-12-31 23:59:59",
         "StartTimeFixJST": "2023-03-16 15:00:00"
+    },
+    {
+        "Id": 55,
+        "IsIgnore": null,
+        "Memo": "レア",
+        "ActiveSkillIds": [
+            55001,
+            55002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 100,
+            "Health": 54,
+            "Intelligence": 86,
+            "Muscle": 84
+        },
+        "BaseParameterGrossCoefficient": 324,
+        "ElementType": 3,
+        "InitialBattleParameter": {
+            "AttackPower": 0,
+            "Avoidance": 0,
+            "Critical": 3,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 0,
+            "DamageReflect": 0,
+            "DebuffHit": 0,
+            "DebuffResist": 0,
+            "Defense": 6,
+            "DefensePenetration": 0,
+            "Hit": 0,
+            "HP": -2,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": 0,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 0,
+            "Speed": 3571
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 2,
+        "Name2Key": null,
+        "NameKey": "[CharacterName55]",
+        "NormalSkillId": 101,
+        "PassiveSkillIds": [
+            55003,
+            55004
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2023-03-31 15:00:00"
     }
 ]

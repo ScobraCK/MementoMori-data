@@ -4717,6 +4717,118 @@
         ]
     },
     {
+        "Id": 55003,
+        "IsIgnore": null,
+        "Memo": "レアSR:Lv1 「や、や、やらなきゃ……！　こ、殺される前に……殺さなきゃ！」過剰な思い込みによって攻撃性が増し、自身の攻撃力が15％増加する（解除不可）。/ Lv2 \nさらに自身のクリティカルダメージが15％増加する（解除不可）。/ Lv3 \n攻撃力とクリティカルダメージの増加量がそれぞれ35％になる。",
+        "NameKey": "[PassiveSkillName55003]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[PassiveSkillDescription550031]",
+                "CharacterLevel": 41,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "SubSetSkillId": 55003001
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[PassiveSkillDescription550032]",
+                "CharacterLevel": 121,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "SubSetSkillId": 55003201
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[PassiveSkillDescription550033]",
+                "CharacterLevel": 201,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "SubSetSkillId": 55003301
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 55004,
+        "IsIgnore": null,
+        "Memo": "レアSR:Lv1 「あの人笑ってる……き、きっと、私を笑ってるんだ……」周りの人には聞こえない笑い声に囚われ、人目を避けて生きてきた。バトル開始時自身に1ターンの間『ステルス』を付与する。/ Lv2 \n『ステルス』のターン数が2ターンになる。/ Lv3\nさらに自身が最大HPの25％を超えるダメージの攻撃を受けた場合、2ターンの間自身の被ダメージを15％減少させる。このスキルは4ターンに1回発動する。",
+        "NameKey": "[PassiveSkillName55004]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[PassiveSkillDescription550041]",
+                "CharacterLevel": 61,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "SubSetSkillId": 55004001
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[PassiveSkillDescription550042]",
+                "CharacterLevel": 141,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "SubSetSkillId": 55004201
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[PassiveSkillDescription550043]",
+                "CharacterLevel": 221,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "SubSetSkillId": 55004201
+                    },
+                    {
+                        "PassiveTrigger": 8,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 4,
+                        "SubSetSkillId": 55004302
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "Id": 500000001,
         "IsIgnore": null,
         "Memo": "バトル開始時敵全体に「睡眠」を付与する。「睡眠」は4ターンの間「気絶」を付与する。この効果は「睡眠」を付帯している敵が一定のダメージを受けると解除される。",
