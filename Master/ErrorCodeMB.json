@@ -1014,6 +1014,18 @@
         "ErrorMessageType": 3
     },
     {
+        "Id": 132014,
+        "IsIgnore": null,
+        "Memo": "プレイヤーのランキング情報が存在しません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 132015,
+        "IsIgnore": null,
+        "Memo": "ランキングデータの更新に失敗しました",
+        "ErrorMessageType": 2
+    },
+    {
         "Id": 141000,
         "IsIgnore": null,
         "Memo": null,
@@ -1593,6 +1605,12 @@
         "Id": 192011,
         "IsIgnore": null,
         "Memo": "既にボスは解放済みです",
+        "ErrorMessageType": 3
+    },
+    {
+        "Id": 192012,
+        "IsIgnore": null,
+        "Memo": "ギルド設立後24時間は解放できません",
         "ErrorMessageType": 3
     },
     {
@@ -2472,6 +2490,12 @@
         "ErrorMessageType": 2
     },
     {
+        "Id": 271001,
+        "IsIgnore": null,
+        "Memo": "プレイヤーのアカウントデータがありません",
+        "ErrorMessageType": 2
+    },
+    {
         "Id": 272000,
         "IsIgnore": null,
         "Memo": null,
@@ -2494,6 +2518,12 @@
         "IsIgnore": null,
         "Memo": null,
         "ErrorMessageType": 2
+    },
+    {
+        "Id": 272004,
+        "IsIgnore": null,
+        "Memo": "チャット禁止中です",
+        "ErrorMessageType": 3
     },
     {
         "Id": 282001,
@@ -2724,6 +2754,12 @@
         "ErrorMessageType": 2
     },
     {
+        "Id": 331002,
+        "IsIgnore": null,
+        "Memo": "プレイヤーの期間限定ログインボーナス情報が存在しません",
+        "ErrorMessageType": 2
+    },
+    {
         "Id": 332000,
         "IsIgnore": null,
         "Memo": null,
@@ -2763,6 +2799,30 @@
         "Id": 332006,
         "IsIgnore": null,
         "Memo": null,
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 332101,
+        "IsIgnore": null,
+        "Memo": "期間限定ログインボーナスが解放されていません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 332102,
+        "IsIgnore": null,
+        "Memo": "期間限定ログインボーナスが開催されていません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 332103,
+        "IsIgnore": null,
+        "Memo": "特別報酬が存在しません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 332104,
+        "IsIgnore": null,
+        "Memo": "既に特別報酬は受け取り済みです",
         "ErrorMessageType": 2
     },
     {
@@ -3498,6 +3558,12 @@
         "ErrorMessageType": 2
     },
     {
+        "Id": 1000002,
+        "IsIgnore": null,
+        "Memo": "ユーザーIDの取得に失敗しました",
+        "ErrorMessageType": 2
+    },
+    {
         "Id": 1001000,
         "IsIgnore": null,
         "Memo": null,
@@ -3520,6 +3586,12 @@
         "IsIgnore": null,
         "Memo": null,
         "ErrorMessageType": 2
+    },
+    {
+        "Id": 1001004,
+        "IsIgnore": null,
+        "Memo": "チャット禁止中です",
+        "ErrorMessageType": 3
     },
     {
         "Id": 1002000,

@@ -582,7 +582,7 @@
     {
         "Id": 9003,
         "IsIgnore": null,
-        "Memo": "ソーニャSR",
+        "Memo": "ソーニャSR: /Lv1　大きな声で乾杯を叫び、元気が出るドリンクを飲み干す。自身の最大HPと命中率が20％増加する（解除不可）。　/Lv2 さらに自身の攻撃力が20％増加する。　/Lv3 最大HPと攻撃力の増加量がそれぞれ30％になる。命中率の増加量が50％になる。",
         "NameKey": "[PassiveSkillName9003]",
         "PassiveSkillInfos": [
             {
@@ -635,7 +635,7 @@
     {
         "Id": 9004,
         "IsIgnore": null,
-        "Memo": "ソーニャSR",
+        "Memo": "ソーニャSR: /Lv1　ヴァイキングの勝鬨を上げて、バトル開始時味方全体の攻撃力を2％増加させる。自身以外の味方の生存数1体につき増加量が2％大きくなる。　/Lv2 さらに味方全体の最大HPを2％増加させる。自身以外の味方の生存数1体につき増加量が2％大きくなる。　/Lv3 攻撃力の増加量が3％、最大HPの増加量が3％になる。",
         "NameKey": "[PassiveSkillName9004]",
         "PassiveSkillInfos": [
             {
@@ -650,6 +650,12 @@
                         "SkillCoolTime": 0,
                         "SkillMaxCoolTime": 0,
                         "SubSetSkillId": 9004001
+                    },
+                    {
+                        "PassiveTrigger": 6,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 9004002
                     }
                 ]
             },
@@ -665,6 +671,12 @@
                         "SkillCoolTime": 0,
                         "SkillMaxCoolTime": 0,
                         "SubSetSkillId": 9004201
+                    },
+                    {
+                        "PassiveTrigger": 6,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 9004202
                     }
                 ]
             },
@@ -680,6 +692,12 @@
                         "SkillCoolTime": 0,
                         "SkillMaxCoolTime": 0,
                         "SubSetSkillId": 9004301
+                    },
+                    {
+                        "PassiveTrigger": 6,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 9004302
                     }
                 ]
             }
@@ -3248,7 +3266,7 @@
                         "SubSetSkillId": 40003001
                     },
                     {
-                        "PassiveTrigger": 8,
+                        "PassiveTrigger": 29,
                         "SkillCoolTime": 0,
                         "SkillMaxCoolTime": 0,
                         "SubSetSkillId": 40003001
@@ -3269,7 +3287,7 @@
                         "SubSetSkillId": 40003201
                     },
                     {
-                        "PassiveTrigger": 8,
+                        "PassiveTrigger": 29,
                         "SkillCoolTime": 0,
                         "SkillMaxCoolTime": 0,
                         "SubSetSkillId": 40003201
@@ -3290,7 +3308,7 @@
                         "SubSetSkillId": 40003301
                     },
                     {
-                        "PassiveTrigger": 8,
+                        "PassiveTrigger": 29,
                         "SkillCoolTime": 0,
                         "SkillMaxCoolTime": 0,
                         "SubSetSkillId": 40003301
@@ -3302,7 +3320,7 @@
     {
         "Id": 40004,
         "IsIgnore": null,
-        "Memo": "カロルSR: /Lv1　忘れてしまえば、痛みはない。バトル開始時に自身と攻撃力が最大の味方１名の防御力を15%アップ。/Lv2 防御力アップが30%になる。/ Lv3 防御力アップが50%になる。",
+        "Memo": "カロルSR: /Lv1　忘れてしまえば、痛みはない。バトル開始時味方５名の防御力を15％増加させる。/ Lv2 防御力の増加量が25％になる。/ Lv2 さらに自身の防御力を95%増加させる（永続、解除可能）",
         "NameKey": "[PassiveSkillName40004]",
         "PassiveSkillInfos": [
             {
@@ -3317,12 +3335,6 @@
                         "SkillCoolTime": 0,
                         "SkillMaxCoolTime": 0,
                         "SubSetSkillId": 40004001
-                    },
-                    {
-                        "PassiveTrigger": 1,
-                        "SkillCoolTime": 0,
-                        "SkillMaxCoolTime": 0,
-                        "SubSetSkillId": 40004002
                     }
                 ]
             },
@@ -3338,12 +3350,6 @@
                         "SkillCoolTime": 0,
                         "SkillMaxCoolTime": 0,
                         "SubSetSkillId": 40004201
-                    },
-                    {
-                        "PassiveTrigger": 1,
-                        "SkillCoolTime": 0,
-                        "SkillMaxCoolTime": 0,
-                        "SubSetSkillId": 40004202
                     }
                 ]
             },
@@ -7216,6 +7222,77 @@
                         "SkillCoolTime": 0,
                         "SkillMaxCoolTime": 0,
                         "SubSetSkillId": 39003301
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 550340004,
+        "IsIgnore": null,
+        "Memo": "カロルSR: /Lv1　忘れてしまえば、痛みはない。バトル開始時に自身と攻撃力が最大の味方１名の防御力を15%アップ。/Lv2 防御力アップが30%になる。/ Lv3 防御力アップが50%になる。",
+        "NameKey": "[PassiveSkillName40004]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[PassiveSkillDescription400041]",
+                "CharacterLevel": 61,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 550340004001
+                    },
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 550340004002
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[PassiveSkillDescription400042]",
+                "CharacterLevel": 141,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 550340004201
+                    },
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 550340004202
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[PassiveSkillDescription400043]",
+                "CharacterLevel": 221,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 550340004301
+                    },
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "SubSetSkillId": 550340004302
                     }
                 ]
             }
