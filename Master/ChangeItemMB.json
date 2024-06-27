@@ -3710,5 +3710,21 @@
         "ItemId": 232,
         "ItemType": 9,
         "NeedCount": 1
+    },
+    {
+        "Id": 233,
+        "IsIgnore": null,
+        "Memo": null,
+        "ChangeItems": [
+            {
+                "ItemCount": 10000,
+                "ItemId": 1,
+                "ItemType": 3
+            }
+        ],
+        "ChangeItemType": 0,
+        "ItemId": 1,
+        "ItemType": 50,
+        "NeedCount": 1
     }
 ]

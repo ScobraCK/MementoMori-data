@@ -3,14 +3,28 @@
         "Id": 1,
         "IsIgnore": null,
         "Memo": "テストデータ",
-        "AppealTextKey": "[TestAppealText]",
-        "CharacterImageId": 1,
+        "AppealTextKey": "[LimitedLoginBonusAppeal1]",
+        "CharacterImageId": 20,
         "RewardBackgroundImageId": 1,
         "RewardListId": 1,
-        "SpecialRewardAppealTextKey": "[SpecialRewardAppealText]",
+        "SpecialRewardAppealTextKey": "[LimitedLoginBonusSpecialRewardAppeal1]",
         "SpecialRewardBackgroundImageId": 1,
-        "TitleTextKey": "[TestTitleText]",
-        "StartTime": "2100-01-01 04:00:00",
-        "EndTime": "2100-01-01 04:00:00"
+        "TitleTextKey": "[LimitedLoginBonusTitle1]",
+        "StartTime": "2122-09-01 04:00:00",
+        "EndTime": "2123-09-01 04:00:00"
+    },
+    {
+        "Id": 2,
+        "IsIgnore": null,
+        "Memo": "テストデータ",
+        "AppealTextKey": "[LimitedLoginBonusAppeal1]",
+        "CharacterImageId": 20,
+        "RewardBackgroundImageId": 1,
+        "RewardListId": 1,
+        "SpecialRewardAppealTextKey": "[LimitedLoginBonusSpecialRewardAppeal1]",
+        "SpecialRewardBackgroundImageId": 1,
+        "TitleTextKey": "[LimitedLoginBonusTitle1]",
+        "StartTime": "2122-09-01 04:00:00",
+        "EndTime": "2123-09-01 04:00:00"
     }
 ]

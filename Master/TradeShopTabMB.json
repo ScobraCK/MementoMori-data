@@ -20,14 +20,6 @@
                 "ItemId": 1
             }
         ],
-        "IsHide": false,
-        "IsHideNotOpen": false,
-        "IsManualUpdate": true,
-        "ManualUpdateCurrencyCount": 100,
-        "SortOrder": 1,
-        "IconId": 1,
-        "DecorationId": 2,
-        "DecorationColor": "#A5C7BAFF",
         "CustomTextLayout": {
             "enUS": {
                 "BannerAlignment": 4,
@@ -70,10 +62,21 @@
                 "TitleFontSize": 0
             }
         },
+        "DecorationColor": "#A5C7BAFF",
+        "DecorationId": 2,
+        "DecorationSpecialId": 0,
+        "IconId": 1,
+        "IsHide": false,
+        "IsHideNotOpen": false,
+        "IsManualUpdate": true,
+        "ManualUpdateCurrencyCount": 100,
         "OpenCommandType": 0,
+        "SortOrder": 10,
         "TabNameKey": "[TradeShopTabName1]",
         "TradeShopItemCount": 6,
-        "TradeShopType": 3
+        "TradeShopType": 3,
+        "EndTime": null,
+        "StartTime": null
     },
     {
         "Id": 2,
@@ -89,14 +92,6 @@
                 "ItemId": 2
             }
         ],
-        "IsHide": false,
-        "IsHideNotOpen": false,
-        "IsManualUpdate": true,
-        "ManualUpdateCurrencyCount": 20,
-        "SortOrder": 3,
-        "IconId": 2,
-        "DecorationId": 3,
-        "DecorationColor": "#6482C6FF",
         "CustomTextLayout": {
             "enUS": {
                 "BannerAlignment": 4,
@@ -139,10 +134,21 @@
                 "TitleFontSize": 0
             }
         },
+        "DecorationColor": "#6482C6FF",
+        "DecorationId": 3,
+        "DecorationSpecialId": 0,
+        "IconId": 2,
+        "IsHide": false,
+        "IsHideNotOpen": false,
+        "IsManualUpdate": true,
+        "ManualUpdateCurrencyCount": 20,
         "OpenCommandType": 21,
+        "SortOrder": 13,
         "TabNameKey": "[TradeShopTabName2]",
         "TradeShopItemCount": 5,
-        "TradeShopType": 1
+        "TradeShopType": 1,
+        "EndTime": null,
+        "StartTime": null
     },
     {
         "Id": 3,
@@ -162,14 +168,6 @@
                 "ItemId": 3
             }
         ],
-        "IsHide": false,
-        "IsHideNotOpen": false,
-        "IsManualUpdate": false,
-        "ManualUpdateCurrencyCount": 0,
-        "SortOrder": 4,
-        "IconId": 3,
-        "DecorationId": 3,
-        "DecorationColor": "#F1A969FF",
         "CustomTextLayout": {
             "enUS": {
                 "BannerAlignment": 4,
@@ -212,10 +210,21 @@
                 "TitleFontSize": 0
             }
         },
+        "DecorationColor": "#F1A969FF",
+        "DecorationId": 3,
+        "DecorationSpecialId": 0,
+        "IconId": 3,
+        "IsHide": false,
+        "IsHideNotOpen": false,
+        "IsManualUpdate": false,
+        "ManualUpdateCurrencyCount": 0,
         "OpenCommandType": 22,
+        "SortOrder": 14,
         "TabNameKey": "[TradeShopTabName3]",
         "TradeShopItemCount": 0,
-        "TradeShopType": 2
+        "TradeShopType": 2,
+        "EndTime": null,
+        "StartTime": null
     },
     {
         "Id": 4,
@@ -231,14 +240,6 @@
                 "ItemId": 12
             }
         ],
-        "IsHide": false,
-        "IsHideNotOpen": false,
-        "IsManualUpdate": true,
-        "ManualUpdateCurrencyCount": 100,
-        "SortOrder": 7,
-        "IconId": 4,
-        "DecorationId": 1,
-        "DecorationColor": "#B2EBBBFF",
         "CustomTextLayout": {
             "enUS": {
                 "BannerAlignment": 4,
@@ -281,10 +282,21 @@
                 "TitleFontSize": 0
             }
         },
+        "DecorationColor": "#B2EBBBFF",
+        "DecorationId": 1,
+        "DecorationSpecialId": 0,
+        "IconId": 4,
+        "IsHide": false,
+        "IsHideNotOpen": false,
+        "IsManualUpdate": true,
+        "ManualUpdateCurrencyCount": 100,
         "OpenCommandType": 23,
+        "SortOrder": 17,
         "TabNameKey": "[TradeShopTabName4]",
         "TradeShopItemCount": 0,
-        "TradeShopType": 0
+        "TradeShopType": 0,
+        "EndTime": null,
+        "StartTime": null
     },
     {
         "Id": 5,
@@ -300,14 +312,6 @@
                 "ItemId": 14
             }
         ],
-        "IsHide": false,
-        "IsHideNotOpen": false,
-        "IsManualUpdate": true,
-        "ManualUpdateCurrencyCount": 1000,
-        "SortOrder": 6,
-        "IconId": 5,
-        "DecorationId": 1,
-        "DecorationColor": "#A694C4FF",
         "CustomTextLayout": {
             "enUS": {
                 "BannerAlignment": 4,
@@ -350,10 +354,21 @@
                 "TitleFontSize": 0
             }
         },
+        "DecorationColor": "#A694C4FF",
+        "DecorationId": 1,
+        "DecorationSpecialId": 0,
+        "IconId": 5,
+        "IsHide": false,
+        "IsHideNotOpen": false,
+        "IsManualUpdate": true,
+        "ManualUpdateCurrencyCount": 1000,
         "OpenCommandType": 24,
+        "SortOrder": 16,
         "TabNameKey": "[TradeShopTabName5]",
         "TradeShopItemCount": 0,
-        "TradeShopType": 0
+        "TradeShopType": 0,
+        "EndTime": null,
+        "StartTime": null
     },
     {
         "Id": 6,
@@ -369,14 +384,6 @@
                 "ItemId": 13
             }
         ],
-        "IsHide": false,
-        "IsHideNotOpen": false,
-        "IsManualUpdate": true,
-        "ManualUpdateCurrencyCount": 1000,
-        "SortOrder": 8,
-        "IconId": 6,
-        "DecorationId": 1,
-        "DecorationColor": "#C28ACEFF",
         "CustomTextLayout": {
             "enUS": {
                 "BannerAlignment": 4,
@@ -419,10 +426,21 @@
                 "TitleFontSize": 0
             }
         },
+        "DecorationColor": "#C28ACEFF",
+        "DecorationId": 1,
+        "DecorationSpecialId": 0,
+        "IconId": 6,
+        "IsHide": false,
+        "IsHideNotOpen": false,
+        "IsManualUpdate": true,
+        "ManualUpdateCurrencyCount": 1000,
         "OpenCommandType": 25,
+        "SortOrder": 18,
         "TabNameKey": "[TradeShopTabName6]",
         "TradeShopItemCount": 0,
-        "TradeShopType": 0
+        "TradeShopType": 0,
+        "EndTime": null,
+        "StartTime": null
     },
     {
         "Id": 7,
@@ -438,14 +456,6 @@
                 "ItemId": 10
             }
         ],
-        "IsHide": false,
-        "IsHideNotOpen": false,
-        "IsManualUpdate": true,
-        "ManualUpdateCurrencyCount": 100,
-        "SortOrder": 9,
-        "IconId": 7,
-        "DecorationId": 1,
-        "DecorationColor": "#94C9E2FF",
         "CustomTextLayout": {
             "enUS": {
                 "BannerAlignment": 4,
@@ -488,10 +498,21 @@
                 "TitleFontSize": 0
             }
         },
+        "DecorationColor": "#94C9E2FF",
+        "DecorationId": 1,
+        "DecorationSpecialId": 0,
+        "IconId": 7,
+        "IsHide": false,
+        "IsHideNotOpen": false,
+        "IsManualUpdate": true,
+        "ManualUpdateCurrencyCount": 100,
         "OpenCommandType": 26,
+        "SortOrder": 19,
         "TabNameKey": "[TradeShopTabName7]",
         "TradeShopItemCount": 0,
-        "TradeShopType": 0
+        "TradeShopType": 0,
+        "EndTime": null,
+        "StartTime": null
     },
     {
         "Id": 8,
@@ -507,21 +528,13 @@
                 "ItemId": 11
             }
         ],
-        "IsHide": false,
-        "IsHideNotOpen": true,
-        "IsManualUpdate": true,
-        "ManualUpdateCurrencyCount": 100,
-        "SortOrder": 10,
-        "IconId": 8,
-        "DecorationId": 1,
-        "DecorationColor": "#FFFFFFFF",
         "CustomTextLayout": {
             "enUS": {
                 "BannerAlignment": 4,
                 "BannerFontSize": 23,
                 "BannerLetterSpacing": 0.0,
                 "BannerLineSpacing": 0.6000000238418579,
-                "BannerOutlineColor": "#4C4868FF",
+                "BannerOutlineColor": "#723A42FF",
                 "BannerPositionX": -40.0,
                 "BannerPositionY": -3.0,
                 "TitleFontSize": 0
@@ -531,7 +544,7 @@
                 "BannerFontSize": 23,
                 "BannerLetterSpacing": 0.0,
                 "BannerLineSpacing": 0.6000000238418579,
-                "BannerOutlineColor": "#4C4868FF",
+                "BannerOutlineColor": "#723A42FF",
                 "BannerPositionX": -40.0,
                 "BannerPositionY": -3.0,
                 "TitleFontSize": 0
@@ -541,7 +554,7 @@
                 "BannerFontSize": 23,
                 "BannerLetterSpacing": 0.0,
                 "BannerLineSpacing": 0.6000000238418579,
-                "BannerOutlineColor": "#4C4868FF",
+                "BannerOutlineColor": "#723A42FF",
                 "BannerPositionX": -40.0,
                 "BannerPositionY": -3.0,
                 "TitleFontSize": 0
@@ -551,16 +564,27 @@
                 "BannerFontSize": 23,
                 "BannerLetterSpacing": 0.0,
                 "BannerLineSpacing": 0.6000000238418579,
-                "BannerOutlineColor": "#4C4868FF",
+                "BannerOutlineColor": "#723A42FF",
                 "BannerPositionX": -40.0,
                 "BannerPositionY": -3.0,
                 "TitleFontSize": 0
             }
         },
+        "DecorationColor": "#F66455FF",
+        "DecorationId": 1,
+        "DecorationSpecialId": 0,
+        "IconId": 8,
+        "IsHide": false,
+        "IsHideNotOpen": true,
+        "IsManualUpdate": true,
+        "ManualUpdateCurrencyCount": 100,
         "OpenCommandType": 27,
+        "SortOrder": 20,
         "TabNameKey": "[TradeShopTabName8]",
         "TradeShopItemCount": 0,
-        "TradeShopType": 0
+        "TradeShopType": 0,
+        "EndTime": null,
+        "StartTime": null
     },
     {
         "Id": 9,
@@ -580,14 +604,6 @@
                 "ItemId": 1
             }
         ],
-        "IsHide": false,
-        "IsHideNotOpen": false,
-        "IsManualUpdate": false,
-        "ManualUpdateCurrencyCount": 0,
-        "SortOrder": 5,
-        "IconId": 9,
-        "DecorationId": 2,
-        "DecorationColor": "#F5B1E9FF",
         "CustomTextLayout": {
             "enUS": {
                 "BannerAlignment": 4,
@@ -630,10 +646,21 @@
                 "TitleFontSize": 0
             }
         },
+        "DecorationColor": "#F5B1E9FF",
+        "DecorationId": 2,
+        "DecorationSpecialId": 0,
+        "IconId": 9,
+        "IsHide": false,
+        "IsHideNotOpen": false,
+        "IsManualUpdate": false,
+        "ManualUpdateCurrencyCount": 0,
         "OpenCommandType": 49,
+        "SortOrder": 15,
         "TabNameKey": "[TradeShopTabName9]",
         "TradeShopItemCount": 0,
-        "TradeShopType": 4
+        "TradeShopType": 4,
+        "EndTime": null,
+        "StartTime": null
     },
     {
         "Id": 10,
@@ -649,14 +676,6 @@
                 "ItemId": 1
             }
         ],
-        "IsHide": false,
-        "IsHideNotOpen": true,
-        "IsManualUpdate": false,
-        "ManualUpdateCurrencyCount": 0,
-        "SortOrder": 11,
-        "IconId": 10,
-        "DecorationId": 3,
-        "DecorationColor": "#8898FDFF",
         "CustomTextLayout": {
             "enUS": {
                 "BannerAlignment": 4,
@@ -699,10 +718,21 @@
                 "TitleFontSize": 0
             }
         },
+        "DecorationColor": "#8898FDFF",
+        "DecorationId": 3,
+        "DecorationSpecialId": 0,
+        "IconId": 10,
+        "IsHide": false,
+        "IsHideNotOpen": true,
+        "IsManualUpdate": false,
+        "ManualUpdateCurrencyCount": 0,
         "OpenCommandType": 47,
+        "SortOrder": 21,
         "TabNameKey": "[TradeShopTabName10]",
         "TradeShopItemCount": 0,
-        "TradeShopType": 2
+        "TradeShopType": 2,
+        "EndTime": null,
+        "StartTime": null
     },
     {
         "Id": 11,
@@ -730,14 +760,6 @@
                 "ItemId": 9
             }
         ],
-        "IsHide": false,
-        "IsHideNotOpen": true,
-        "IsManualUpdate": true,
-        "ManualUpdateCurrencyCount": 100,
-        "SortOrder": 12,
-        "IconId": 11,
-        "DecorationId": 2,
-        "DecorationColor": "#F58276FF",
         "CustomTextLayout": {
             "enUS": {
                 "BannerAlignment": 4,
@@ -780,10 +802,21 @@
                 "TitleFontSize": 0
             }
         },
+        "DecorationColor": "#F58276FF",
+        "DecorationId": 2,
+        "DecorationSpecialId": 0,
+        "IconId": 11,
+        "IsHide": false,
+        "IsHideNotOpen": true,
+        "IsManualUpdate": true,
+        "ManualUpdateCurrencyCount": 100,
         "OpenCommandType": 48,
+        "SortOrder": 22,
         "TabNameKey": "[TradeShopTabName11]",
         "TradeShopItemCount": 0,
-        "TradeShopType": 0
+        "TradeShopType": 0,
+        "EndTime": null,
+        "StartTime": null
     },
     {
         "Id": 12,
@@ -799,14 +832,6 @@
                 "ItemId": 5
             }
         ],
-        "IsHide": false,
-        "IsHideNotOpen": false,
-        "IsManualUpdate": false,
-        "ManualUpdateCurrencyCount": 0,
-        "SortOrder": 13,
-        "IconId": 12,
-        "DecorationId": 3,
-        "DecorationColor": "#ED8B9BFF",
         "CustomTextLayout": {
             "enUS": {
                 "BannerAlignment": 4,
@@ -849,10 +874,21 @@
                 "TitleFontSize": 0
             }
         },
+        "DecorationColor": "#ED8B9BFF",
+        "DecorationId": 3,
+        "DecorationSpecialId": 0,
+        "IconId": 12,
+        "IsHide": false,
+        "IsHideNotOpen": false,
+        "IsManualUpdate": false,
+        "ManualUpdateCurrencyCount": 0,
         "OpenCommandType": 0,
+        "SortOrder": 23,
         "TabNameKey": "[TradeShopTabName12]",
         "TradeShopItemCount": 0,
-        "TradeShopType": 0
+        "TradeShopType": 0,
+        "EndTime": null,
+        "StartTime": null
     },
     {
         "Id": 13,
@@ -868,14 +904,6 @@
                 "ItemId": 1
             }
         ],
-        "IsHide": false,
-        "IsHideNotOpen": false,
-        "IsManualUpdate": false,
-        "ManualUpdateCurrencyCount": 0,
-        "SortOrder": 2,
-        "IconId": 13,
-        "DecorationId": 2,
-        "DecorationColor": "#F7B18BFF",
         "CustomTextLayout": {
             "enUS": {
                 "BannerAlignment": 4,
@@ -918,9 +946,92 @@
                 "TitleFontSize": 0
             }
         },
+        "DecorationColor": "#F7B18BFF",
+        "DecorationId": 2,
+        "DecorationSpecialId": 0,
+        "IconId": 13,
+        "IsHide": false,
+        "IsHideNotOpen": false,
+        "IsManualUpdate": false,
+        "ManualUpdateCurrencyCount": 0,
         "OpenCommandType": 28,
+        "SortOrder": 12,
         "TabNameKey": "[TradeShopTabName13]",
         "TradeShopItemCount": 0,
-        "TradeShopType": 0
+        "TradeShopType": 0,
+        "EndTime": null,
+        "StartTime": null
+    },
+    {
+        "Id": 14,
+        "IsIgnore": null,
+        "Memo": "クリスマスショップ2022",
+        "AutoUpdateTimes": [
+            0
+        ],
+        "AutoUpdateType": 0,
+        "ConsumeItemInfos": [
+            {
+                "ItemType": 50,
+                "ItemId": 1
+            }
+        ],
+        "CustomTextLayout": {
+            "enUS": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#ba3d3dFF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "jaJP": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#ba3d3dFF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "koKR": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#ba3d3dFF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            },
+            "zhTW": {
+                "BannerAlignment": 4,
+                "BannerFontSize": 23,
+                "BannerLetterSpacing": 0.0,
+                "BannerLineSpacing": 0.6000000238418579,
+                "BannerOutlineColor": "#ba3d3dFF",
+                "BannerPositionX": -40.0,
+                "BannerPositionY": -3.0,
+                "TitleFontSize": 0
+            }
+        },
+        "DecorationColor": "#9bd1a3FF",
+        "DecorationId": 4,
+        "DecorationSpecialId": 1,
+        "IconId": 15,
+        "IsHide": false,
+        "IsHideNotOpen": false,
+        "IsManualUpdate": false,
+        "ManualUpdateCurrencyCount": 0,
+        "OpenCommandType": 50,
+        "SortOrder": 1,
+        "TabNameKey": "[TradeShopTabName14]",
+        "TradeShopItemCount": 0,
+        "TradeShopType": 2,
+        "EndTime": "2022-12-12 03:59:59",
+        "StartTime": "2000-01-01 00:00:00"
     }
 ]
