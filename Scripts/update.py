@@ -25,7 +25,7 @@ async def update_master(api: API):
     logger.info('Checking Master Version')
     master_version_fp = os.path.join(path, "version")
     current_master_version = None
-    with open(app_version_fp, 'r') as f:
+    with open(master_version_fp, 'r') as f:
         current_master_version = f.read().strip()
     if current_master_version == api.ortegamasterversion:
         logger.info('No change in master. Aborting')
@@ -91,7 +91,7 @@ if __name__ == "__main__":
             api = API(version)
             api.getDataUri()
             asyncio.run(update_master(api))
-            logger.Info('Done')
+            logger.info('Done')
         except Exception as e:
             logger.info(f"Failed to update: {e}")
     else:

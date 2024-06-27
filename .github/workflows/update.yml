@@ -41,7 +41,7 @@ jobs:
     - name: Compare versions and tag version if changed
       id: compare_versions
       run: |
-        if [ "${{ env.current_version }}" != "v${{ env.new_version }}" ]; then
+        if [ "${{ env.current_version }}" != "${{ env.new_version }}" ]; then
           git tag v${{ env.current_version }}
           git push origin v${{ env.current_version }}
         fi
