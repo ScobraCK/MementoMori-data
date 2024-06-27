@@ -4410,6 +4410,168 @@
         ]
     },
     {
+        "Id": 51003,
+        "IsIgnore": null,
+        "Memo": "ソフィアSR:/Lv1 教え子にみっともない背中は見せられない――。自身が弱体効果を受けた時、自身のすべての弱体効果のターン数を2ターン減少させる。この効果は4ターンに1回発動する。/Lv2 自身が弱体効果を受けた時、さらに1ターンの間弱体効果を付与してきた敵の弱体効果命中率を20％減少させるようになる。/Lv3 弱体効果命中率の減少量が50％になる。/ex2 教導の精神を強化する。自身が弱体効果を受けた時、さらに1ターンの間対象の攻撃力を40％減少させるようになる。",
+        "NameKey": "[PassiveSkillName51003]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[PassiveSkillDescription510031]",
+                "CharacterLevel": 41,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 11,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 4,
+                        "SubSetSkillId": 51003001
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[PassiveSkillDescription510032]",
+                "CharacterLevel": 121,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 11,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 4,
+                        "SubSetSkillId": 51003001
+                    },
+                    {
+                        "PassiveTrigger": 11,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 4,
+                        "SubSetSkillId": 51003202
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[PassiveSkillDescription510033]",
+                "CharacterLevel": 201,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 11,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 4,
+                        "SubSetSkillId": 51003001
+                    },
+                    {
+                        "PassiveTrigger": 11,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 4,
+                        "SubSetSkillId": 51003302
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[PassiveSkillDescription510034]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 256,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 11,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 4,
+                        "SubSetSkillId": 51003001
+                    },
+                    {
+                        "PassiveTrigger": 11,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 4,
+                        "SubSetSkillId": 51003402
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 51004,
+        "IsIgnore": null,
+        "Memo": "ソフィアSR:/Lv1 教え、導く事が教師の務め。家庭教師としての信念が秘めた力を開花させる。自身の最大HPが15％増加する（解除不可）。/Lv2 さらに自身のクリティカル耐性が15％増加する。/Lv3 最大HPとクリティカル耐性の増加量がそれぞれ30％になる。",
+        "NameKey": "[PassiveSkillName51004]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[PassiveSkillDescription510041]",
+                "CharacterLevel": 61,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "SubSetSkillId": 51004001
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[PassiveSkillDescription510042]",
+                "CharacterLevel": 141,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "SubSetSkillId": 51004201
+                    }
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[PassiveSkillDescription510043]",
+                "CharacterLevel": 221,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 9999,
+                        "SubSetSkillId": 51004301
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 51005,
+        "IsIgnore": null,
+        "Memo": "ソフィアSR:/専用Lv1　ターン開始時2ターンの間自身のカウンタを55％増加させる。このスキルは4ターンに1回発動する。",
+        "NameKey": "[PassiveSkillName51005]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[PassiveSkillDescription510051]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 4,
+                        "SubSetSkillId": 51005001
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "Id": 500000001,
         "IsIgnore": null,
         "Memo": "バトル開始時敵全体に「睡眠」を付与する。「睡眠」は4ターンの間「気絶」を付与する。この効果は「睡眠」を付帯している敵が一定のダメージを受けると解除される。",

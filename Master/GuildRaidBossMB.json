@@ -26,7 +26,7 @@
             "Defense": 200000,
             "DefensePenetration": 500,
             "Hit": 100000000,
-            "HP": 50000000000,
+            "HP": 250000000000,
             "HpDrain": 0,
             "MagicCriticalDamageRelax": 0,
             "MagicDamageRelax": 500000,
@@ -130,6 +130,14 @@
             {
                 "DamageBarCount": 23,
                 "DamageBarMaxValue": 125000000000
+            },
+            {
+                "DamageBarCount": 24,
+                "DamageBarMaxValue": 250000000000
+            },
+            {
+                "DamageBarCount": 25,
+                "DamageBarMaxValue": 750000000000
             }
         ],
         "GuildRaidBossType": 0,
@@ -227,6 +235,14 @@
             {
                 "DamageBarCount": 23,
                 "DamageBarMaxValue": 25000000000
+            },
+            {
+                "DamageBarCount": 24,
+                "DamageBarMaxValue": 50000000000
+            },
+            {
+                "DamageBarCount": 25,
+                "DamageBarMaxValue": 150000000000
             }
         ],
         "NormalSkillId": 101,
@@ -369,6 +385,14 @@
             {
                 "DamageBarCount": 23,
                 "DamageBarMaxValue": 125000000000
+            },
+            {
+                "DamageBarCount": 24,
+                "DamageBarMaxValue": 250000000000
+            },
+            {
+                "DamageBarCount": 25,
+                "DamageBarMaxValue": 750000000000
             }
         ],
         "GuildRaidBossType": 1,
@@ -466,6 +490,14 @@
             {
                 "DamageBarCount": 23,
                 "DamageBarMaxValue": 25000000000
+            },
+            {
+                "DamageBarCount": 24,
+                "DamageBarMaxValue": 50000000000
+            },
+            {
+                "DamageBarCount": 25,
+                "DamageBarMaxValue": 150000000000
             }
         ],
         "NormalSkillId": 101,
