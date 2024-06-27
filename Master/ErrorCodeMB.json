@@ -720,6 +720,12 @@
         "ErrorMessageType": 2
     },
     {
+        "Id": 121005,
+        "IsIgnore": null,
+        "Memo": "時空の洞窟のマップ情報がありません",
+        "ErrorMessageType": 2
+    },
+    {
         "Id": 122001,
         "IsIgnore": null,
         "Memo": null,
@@ -909,6 +915,18 @@
         "Id": 122056,
         "IsIgnore": null,
         "Memo": null,
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 122068,
+        "IsIgnore": null,
+        "Memo": "既に実行済みのマスです",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 122069,
+        "IsIgnore": null,
+        "Memo": "移動できないマスです",
         "ErrorMessageType": 2
     },
     {
@@ -1689,6 +1707,12 @@
         "Id": 200208,
         "IsIgnore": null,
         "Memo": null,
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 200209,
+        "IsIgnore": null,
+        "Memo": "使用期限が過ぎています",
         "ErrorMessageType": 2
     },
     {
@@ -2481,6 +2505,12 @@
         "Id": 262033,
         "IsIgnore": null,
         "Memo": null,
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 262035,
+        "IsIgnore": null,
+        "Memo": "表示期間が正しくありません",
         "ErrorMessageType": 2
     },
     {
