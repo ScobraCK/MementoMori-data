@@ -182,7 +182,7 @@
     {
         "Id": 13,
         "IsIgnore": null,
-        "Memo": "レジェンドリーグ(7-14)(リリース時154->9999)",
+        "Memo": "レジェンドリーグ(7-14)",
         "AssetPath": "Prefabs/CommonParts/PartsCommonContentReleaseEffect",
         "DescriptionKey": "[OpenContentDescription13]",
         "GuideDescriptionKey": "[OpenContentGuideDescription13]",
@@ -190,7 +190,7 @@
         "IsActiveGuide": false,
         "OpenCommandType": 13,
         "OpenContentType": 1,
-        "OpenContentValue": 9999,
+        "OpenContentValue": 154,
         "ToastKey": "[OpenContentToast13]",
         "TutorialId": 1700
     },
@@ -822,6 +822,21 @@
         "OpenContentType": 1,
         "OpenContentValue": 12,
         "ToastKey": "[OpenContentToast121]",
+        "TutorialId": 0
+    },
+    {
+        "Id": 200,
+        "IsIgnore": null,
+        "Memo": "友達招待",
+        "AssetPath": null,
+        "DescriptionKey": null,
+        "GuideDescriptionKey": null,
+        "GuideOrderNumber": 0,
+        "IsActiveGuide": false,
+        "OpenCommandType": 200,
+        "OpenContentType": 1,
+        "OpenContentValue": 16,
+        "ToastKey": "[OpenContentToast200]",
         "TutorialId": 0
     },
     {
