@@ -217,6 +217,18 @@
         "StartTimeFixJST": "2023-05-31 15:00:00"
     },
     {
+        "Id": 18,
+        "IsIgnore": null,
+        "Memo": "アフロディーテの親心(ヴァルリーデ,ソルティーナ)",
+        "NameKey": "[CharacterCollectionName18]",
+        "RequiredCharacterIds": [
+            47,
+            5
+        ],
+        "EndTimeFixJST": "2100-01-01 00:00:00",
+        "StartTimeFixJST": "2023-07-07 14:30:00"
+    },
+    {
         "Id": 19,
         "IsIgnore": null,
         "Memo": "フェリスの洞察(リシェス,ディアン)",
@@ -227,5 +239,17 @@
         ],
         "EndTimeFixJST": "2100-01-01 00:00:00",
         "StartTimeFixJST": "2023-06-14 15:00:00"
+    },
+    {
+        "Id": 20,
+        "IsIgnore": null,
+        "Memo": "デルフィヌスの青旗(水着サブリナ,サブリナ)",
+        "NameKey": "[CharacterCollectionName20]",
+        "RequiredCharacterIds": [
+            70,
+            15
+        ],
+        "EndTimeFixJST": "2100-01-01 00:00:00",
+        "StartTimeFixJST": "2023-06-30 15:00:00"
     }
 ]
