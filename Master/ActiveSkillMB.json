@@ -6734,6 +6734,118 @@
         "RootActiveSkillId": 53002
     },
     {
+        "Id": 54001,
+        "IsIgnore": null,
+        "Memo": "シフォン1",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription540011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    54001001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription540012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    54001201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription540013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    54001301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription540014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    54001401
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName54001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 54001
+    },
+    {
+        "Id": 54002,
+        "IsIgnore": null,
+        "Memo": "シフォン2",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription540021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    54002001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription540022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    54002201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription540023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    54002301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription540024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    54002401
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription540025]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 256,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    54002501
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName54002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 54002
+    },
+    {
         "Id": 55001,
         "IsIgnore": null,
         "Memo": "レアSR:Lv1 癇癪を起して滅茶苦茶に武器を振り回し、2ターンの間攻撃力が最も高い敵の回避率を30％減少させた後、対象に攻撃力×700％の物理攻撃を行う。その後80％の確率で対象に1ターンの間『気絶』を付与する。/ Lv2 \nさらに『気絶』付与の判定の後、対象が『気絶』を付帯していない場合、対象に攻撃力×900％の物理攻撃を行う。この攻撃は必ず命中する。ただし最初の攻撃で敵を戦闘不能にした場合、この攻撃は発動しない。/ Lv3 \nさらにこのスキルで敵を戦闘不能にできなかった場合、このスキルを再発動する。/ Ex1 \n黙れ黙れ黙れぇっ！を強化する。回避率の減少量が50％になる。/ Ex3 \n黙れ黙れ黙れぇっ！を強化する。「回避率減少」のターン数が3ターンになる。",
