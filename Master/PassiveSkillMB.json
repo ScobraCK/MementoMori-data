@@ -13556,6 +13556,44 @@
         ]
     },
     {
+        "Id": 550269003,
+        "IsIgnore": null,
+        "Memo": "ギルドレイドカグヤ3",
+        "NameKey": "[PassiveSkillName69003]",
+        "PassiveSkillInfos": [
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[PassiveSkillDescription690033]",
+                "CharacterLevel": 201,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "PassiveSubSetSkillInfos": [
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 10,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 69003201
+                    },
+                    {
+                        "PassiveTrigger": 1,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 69003002
+                    },
+                    {
+                        "PassiveTrigger": 8,
+                        "SkillCoolTime": 0,
+                        "SkillMaxCoolTime": 0,
+                        "PassiveGroupId": 0,
+                        "SubSetSkillId": 69003002
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "Id": 550274003,
         "IsIgnore": null,
         "Memo": "ギルドレイド聖夜トロポン1",

@@ -2870,8 +2870,9 @@
     {
         "Id": 72,
         "IsIgnore": null,
-        "Memo": "黒鎧アイリス②＋次キャラ仮入れ仮①（0628切替用）",
+        "Memo": "黒鎧アイリス②＋カグヤ①（0628切替用）",
         "CharacterIdList": [
+            69,
             66,
             5,
             6,
@@ -2899,11 +2900,50 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
+            69,
             66
         ],
         "OrderNumber": 72,
-        "StartTimeFixJST": "2024-06-28 16:30:00",
+        "StartTimeFixJST": "2024-06-28 15:00:00",
         "EndTimeFixJST": "2024-07-08 14:29:59"
+    },
+    {
+        "Id": 73,
+        "IsIgnore": null,
+        "Memo": "カグヤ②＋次キャラ仮入れ仮①（0708切替用）",
+        "CharacterIdList": [
+            69,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            69
+        ],
+        "OrderNumber": 73,
+        "StartTimeFixJST": "2024-07-08 14:30:00",
+        "EndTimeFixJST": "2024-07-16 14:29:59"
     },
     {
         "Id": 10000,
@@ -3048,5 +3088,23 @@
         "OrderNumber": 7,
         "StartTimeFixJST": "2024-06-07 14:30:00",
         "EndTimeFixJST": "2024-06-28 14:29:59"
+    },
+    {
+        "Id": 10090,
+        "IsIgnore": null,
+        "Memo": "星の導き9回ガチャ_フォルティナ・ベル（6/28 16:30 ~ 7/23 14:29 ）",
+        "CharacterIdList": [
+            42,
+            19
+        ],
+        "GachaSelectListType": 3,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            42,
+            19
+        ],
+        "OrderNumber": 9,
+        "StartTimeFixJST": "2024-06-28 15:00:00",
+        "EndTimeFixJST": "2024-07-23 14:29:59"
     }
 ]
