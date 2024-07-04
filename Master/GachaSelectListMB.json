@@ -2910,9 +2910,11 @@
     {
         "Id": 73,
         "IsIgnore": null,
-        "Memo": "カグヤ②＋次キャラ仮入れ仮①（0708切替用）",
+        "Memo": "カグヤ②＋水着サブリナ①＋水着モーザ①（0708切替用）",
         "CharacterIdList": [
             69,
+            70,
+            71,
             5,
             6,
             7,
@@ -2939,11 +2941,53 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            69
+            69,
+            70,
+            71
         ],
         "OrderNumber": 73,
         "StartTimeFixJST": "2024-07-08 14:30:00",
         "EndTimeFixJST": "2024-07-16 14:29:59"
+    },
+    {
+        "Id": 74,
+        "IsIgnore": null,
+        "Memo": "水着サブリナ②＋水着モーザ②＋次キャラ仮入れ仮①（0716切替用）",
+        "CharacterIdList": [
+            70,
+            71,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            70,
+            71
+        ],
+        "OrderNumber": 74,
+        "StartTimeFixJST": "2024-07-16 16:30:00",
+        "EndTimeFixJST": "2024-07-23 14:29:59"
     },
     {
         "Id": 10000,
