@@ -8523,5 +8523,134 @@
             }
         ],
         "CharacterId": 69
+    },
+    {
+        "Id": 397,
+        "IsIgnore": null,
+        "Memo": "夏ニーナSSR180",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 95
+    },
+    {
+        "Id": 398,
+        "IsIgnore": null,
+        "Memo": "夏ニーナSSR200",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1300.0
+            },
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 2,
+                "Value": 300.0
+            }
+        ],
+        "CharacterId": 95
+    },
+    {
+        "Id": 399,
+        "IsIgnore": null,
+        "Memo": "夏ニーナSSR220",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1400.0
+            },
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 2,
+                "Value": 350.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "CharacterId": 95
+    },
+    {
+        "Id": 400,
+        "IsIgnore": null,
+        "Memo": "夏ニーナSSR240",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 2,
+                "Value": 400.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "CharacterId": 95
+    },
+    {
+        "Id": 401,
+        "IsIgnore": null,
+        "Memo": "夏ニーナUR",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1600.0
+            },
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 2,
+                "Value": 450.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 900.0
+            }
+        ],
+        "CharacterId": 95
+    },
+    {
+        "Id": 402,
+        "IsIgnore": null,
+        "Memo": "夏ニーナLR",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 2,
+                "Value": 500.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 1000.0
+            }
+        ],
+        "CharacterId": 95
     }
 ]

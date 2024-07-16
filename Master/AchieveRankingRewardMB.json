@@ -3823,5 +3823,365 @@
                 "ItemType": 1
             }
         ]
+    },
+    {
+        "Id": 256,
+        "IsIgnore": null,
+        "Memo": "藍の塔950階層クリア",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetBlueTower]",
+        "RankingDataType": 5,
+        "RequireValue": 950,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
+    },
+    {
+        "Id": 257,
+        "IsIgnore": null,
+        "Memo": "藍の塔1000階層クリア",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetBlueTower]",
+        "RankingDataType": 5,
+        "RequireValue": 1000,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
+    },
+    {
+        "Id": 258,
+        "IsIgnore": null,
+        "Memo": "藍の塔1050階層クリア",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetBlueTower]",
+        "RankingDataType": 5,
+        "RequireValue": 1050,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
+    },
+    {
+        "Id": 259,
+        "IsIgnore": null,
+        "Memo": "藍の塔1100階層クリア",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetBlueTower]",
+        "RankingDataType": 5,
+        "RequireValue": 1100,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
+    },
+    {
+        "Id": 260,
+        "IsIgnore": null,
+        "Memo": "藍の塔1150階層クリア",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetBlueTower]",
+        "RankingDataType": 5,
+        "RequireValue": 1150,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
+    },
+    {
+        "Id": 261,
+        "IsIgnore": null,
+        "Memo": "藍の塔1200階層クリア",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetBlueTower]",
+        "RankingDataType": 5,
+        "RequireValue": 1200,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
+    },
+    {
+        "Id": 262,
+        "IsIgnore": null,
+        "Memo": "紅の塔950階層クリア",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetRedTower]",
+        "RankingDataType": 6,
+        "RequireValue": 950,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
+    },
+    {
+        "Id": 263,
+        "IsIgnore": null,
+        "Memo": "紅の塔1000階層クリア",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetRedTower]",
+        "RankingDataType": 6,
+        "RequireValue": 1000,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
+    },
+    {
+        "Id": 264,
+        "IsIgnore": null,
+        "Memo": "紅の塔1050階層クリア",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetRedTower]",
+        "RankingDataType": 6,
+        "RequireValue": 1050,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
+    },
+    {
+        "Id": 265,
+        "IsIgnore": null,
+        "Memo": "紅の塔1100階層クリア",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetRedTower]",
+        "RankingDataType": 6,
+        "RequireValue": 1100,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
+    },
+    {
+        "Id": 266,
+        "IsIgnore": null,
+        "Memo": "紅の塔1150階層クリア",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetRedTower]",
+        "RankingDataType": 6,
+        "RequireValue": 1150,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
+    },
+    {
+        "Id": 267,
+        "IsIgnore": null,
+        "Memo": "紅の塔1200階層クリア",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetRedTower]",
+        "RankingDataType": 6,
+        "RequireValue": 1200,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
+    },
+    {
+        "Id": 268,
+        "IsIgnore": null,
+        "Memo": "翠の塔950階層クリア",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetGreenTower]",
+        "RankingDataType": 7,
+        "RequireValue": 950,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
+    },
+    {
+        "Id": 269,
+        "IsIgnore": null,
+        "Memo": "翠の塔1000階層クリア",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetGreenTower]",
+        "RankingDataType": 7,
+        "RequireValue": 1000,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
+    },
+    {
+        "Id": 270,
+        "IsIgnore": null,
+        "Memo": "翠の塔1050階層クリア",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetGreenTower]",
+        "RankingDataType": 7,
+        "RequireValue": 1050,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
+    },
+    {
+        "Id": 271,
+        "IsIgnore": null,
+        "Memo": "翠の塔1100階層クリア",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetGreenTower]",
+        "RankingDataType": 7,
+        "RequireValue": 1100,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
+    },
+    {
+        "Id": 272,
+        "IsIgnore": null,
+        "Memo": "翠の塔1150階層クリア",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetGreenTower]",
+        "RankingDataType": 7,
+        "RequireValue": 1150,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
+    },
+    {
+        "Id": 273,
+        "IsIgnore": null,
+        "Memo": "翠の塔1200階層クリア",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetGreenTower]",
+        "RankingDataType": 7,
+        "RequireValue": 1200,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
+    },
+    {
+        "Id": 274,
+        "IsIgnore": null,
+        "Memo": "黄の塔950階層クリア",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetYellowTower]",
+        "RankingDataType": 8,
+        "RequireValue": 950,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
+    },
+    {
+        "Id": 275,
+        "IsIgnore": null,
+        "Memo": "黄の塔1000階層クリア",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetYellowTower]",
+        "RankingDataType": 8,
+        "RequireValue": 1000,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
+    },
+    {
+        "Id": 276,
+        "IsIgnore": null,
+        "Memo": "黄の塔1050階層クリア",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetYellowTower]",
+        "RankingDataType": 8,
+        "RequireValue": 1050,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
+    },
+    {
+        "Id": 277,
+        "IsIgnore": null,
+        "Memo": "黄の塔1100階層クリア",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetYellowTower]",
+        "RankingDataType": 8,
+        "RequireValue": 1100,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
+    },
+    {
+        "Id": 278,
+        "IsIgnore": null,
+        "Memo": "黄の塔1150階層クリア",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetYellowTower]",
+        "RankingDataType": 8,
+        "RequireValue": 1150,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
+    },
+    {
+        "Id": 279,
+        "IsIgnore": null,
+        "Memo": "黄の塔1200階層クリア",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetYellowTower]",
+        "RankingDataType": 8,
+        "RequireValue": 1200,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
     }
 ]

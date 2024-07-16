@@ -42562,5 +42562,365 @@
         "TransitionDestination": 2201,
         "EndTime": "2100-01-01 00:00:00",
         "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1414,
+        "IsIgnore": null,
+        "Memo": "メイン_全ての属性の塔で950階をクリアする",
+        "AchievementType": 11010200,
+        "DescriptionKey": "[OpenContentToast15]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainElementTower]",
+        "OpeningPeriod": 0,
+        "RequireValue": 950,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 7,
+                    "ItemType": 16
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 18,
+        "SortOrderB": 25,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1415,
+        "IsIgnore": null,
+        "Memo": "メイン_全ての属性の塔で1000階をクリアする",
+        "AchievementType": 11010200,
+        "DescriptionKey": "[OpenContentToast15]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainElementTower]",
+        "OpeningPeriod": 0,
+        "RequireValue": 1000,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 7,
+                    "ItemType": 16
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 18,
+        "SortOrderB": 25,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1416,
+        "IsIgnore": null,
+        "Memo": "メイン_全ての属性の塔で1050階をクリアする",
+        "AchievementType": 11010200,
+        "DescriptionKey": "[OpenContentToast15]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainElementTower]",
+        "OpeningPeriod": 0,
+        "RequireValue": 1050,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 7,
+                    "ItemType": 16
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 18,
+        "SortOrderB": 25,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1417,
+        "IsIgnore": null,
+        "Memo": "メイン_全ての属性の塔で1100階をクリアする",
+        "AchievementType": 11010200,
+        "DescriptionKey": "[OpenContentToast15]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainElementTower]",
+        "OpeningPeriod": 0,
+        "RequireValue": 1100,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 7,
+                    "ItemType": 16
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 18,
+        "SortOrderB": 25,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1418,
+        "IsIgnore": null,
+        "Memo": "メイン_全ての属性の塔で1150階をクリアする",
+        "AchievementType": 11010200,
+        "DescriptionKey": "[OpenContentToast15]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainElementTower]",
+        "OpeningPeriod": 0,
+        "RequireValue": 1150,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 7,
+                    "ItemType": 16
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 18,
+        "SortOrderB": 25,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1419,
+        "IsIgnore": null,
+        "Memo": "メイン_全ての属性の塔で1200階をクリアする",
+        "AchievementType": 11010200,
+        "DescriptionKey": "[OpenContentToast15]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainElementTower]",
+        "OpeningPeriod": 0,
+        "RequireValue": 1200,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 7,
+                    "ItemType": 16
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 18,
+        "SortOrderB": 25,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1420,
+        "IsIgnore": null,
+        "Memo": "パネル(汎用2枚版)_シート1_武具の強化レベルを30にする",
+        "AchievementType": 7011200,
+        "DescriptionKey": null,
+        "MissionType": 901,
+        "NameKey": "[PanelMissionName1317]",
+        "OpeningPeriod": 0,
+        "RequireValue": 30,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1002,
+                    "ItemType": 31
+                },
+                "RarityFlags": 0
+            },
+            {
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 20
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 2,
+        "SortOrderB": 2,
+        "TransitionDestination": 701,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1421,
+        "IsIgnore": null,
+        "Memo": "パネル(汎用2枚版)_シート1_洞窟でスナイパー3人以上で7回勝利",
+        "AchievementType": 10010332,
+        "DescriptionKey": null,
+        "MissionType": 901,
+        "NameKey": "[PanelMissionName1421]",
+        "OpeningPeriod": 0,
+        "RequireValue": 7,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1006,
+                    "ItemType": 31
+                },
+                "RarityFlags": 0
+            },
+            {
+                "Item": {
+                    "ItemCount": 30,
+                    "ItemId": 4,
+                    "ItemType": 13
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 6,
+        "SortOrderB": 6,
+        "TransitionDestination": 1001,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1422,
+        "IsIgnore": null,
+        "Memo": "パネル(汎用2枚版)_シート1_高速バトルを5回",
+        "AchievementType": 9020100,
+        "DescriptionKey": null,
+        "MissionType": 901,
+        "NameKey": "[PanelMissionName1168]",
+        "OpeningPeriod": 0,
+        "RequireValue": 5,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1008,
+                    "ItemType": 31
+                },
+                "RarityFlags": 0
+            },
+            {
+                "Item": {
+                    "ItemCount": 100,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 8,
+        "SortOrderB": 8,
+        "TransitionDestination": 902,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1423,
+        "IsIgnore": null,
+        "Memo": "パネル(汎用2枚版)_シート2_ギルドレイドを20回",
+        "AchievementType": 16020100,
+        "DescriptionKey": null,
+        "MissionType": 902,
+        "NameKey": "[PanelMissionName1178]",
+        "OpeningPeriod": 0,
+        "RequireValue": 20,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 2002,
+                    "ItemType": 31
+                },
+                "RarityFlags": 0
+            },
+            {
+                "Item": {
+                    "ItemCount": 200,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 2,
+        "SortOrderB": 2,
+        "TransitionDestination": 1602,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1424,
+        "IsIgnore": null,
+        "Memo": "パネル(汎用2枚版)_シート2_貢献メダル1000枚",
+        "AchievementType": 1010400,
+        "DescriptionKey": null,
+        "MissionType": 902,
+        "NameKey": "[PanelMissionName1176]",
+        "OpeningPeriod": 0,
+        "RequireValue": 1000,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 2005,
+                    "ItemType": 31
+                },
+                "RarityFlags": 0
+            },
+            {
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 13,
+                    "ItemType": 10
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 5,
+        "SortOrderB": 5,
+        "TransitionDestination": 101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1425,
+        "IsIgnore": null,
+        "Memo": "パネル(汎用2枚版)_シート2_神殿で黄属性3人以上で10回勝利",
+        "AchievementType": 13010234,
+        "DescriptionKey": null,
+        "MissionType": 902,
+        "NameKey": "[PanelMissionName1272]",
+        "OpeningPeriod": 0,
+        "RequireValue": 10,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 2006,
+                    "ItemType": 31
+                },
+                "RarityFlags": 0
+            },
+            {
+                "Item": {
+                    "ItemCount": 30,
+                    "ItemId": 4,
+                    "ItemType": 13
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 6,
+        "SortOrderB": 6,
+        "TransitionDestination": 1301,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
     }
 ]
