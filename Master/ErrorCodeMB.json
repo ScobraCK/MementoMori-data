@@ -2634,6 +2634,18 @@
         "ErrorMessageType": 2
     },
     {
+        "Id": 253011,
+        "IsIgnore": null,
+        "Memo": "サブマスターは1名のみ任命できます",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 253012,
+        "IsIgnore": null,
+        "Memo": "指揮官は1名のみ任命できます",
+        "ErrorMessageType": 1
+    },
+    {
         "Id": 261000,
         "IsIgnore": null,
         "Memo": null,
@@ -3008,8 +3020,8 @@
     {
         "Id": 272011,
         "IsIgnore": null,
-        "Memo": "この機能はマスターかサブマスターのみ実行できます",
-        "ErrorMessageType": 3
+        "Memo": "この機能は権限があるメンバーのみ実行できます",
+        "ErrorMessageType": 1
     },
     {
         "Id": 272012,
@@ -3108,6 +3120,12 @@
         "ErrorMessageType": 1
     },
     {
+        "Id": 292004,
+        "IsIgnore": null,
+        "Memo": "パーティ編成データがありません",
+        "ErrorMessageType": 2
+    },
+    {
         "Id": 301000,
         "IsIgnore": null,
         "Memo": null,
@@ -3136,6 +3154,12 @@
         "IsIgnore": null,
         "Memo": "報酬の受取期限を過ぎた為、報酬を受け取れませんでした",
         "ErrorMessageType": 1
+    },
+    {
+        "Id": 302004,
+        "IsIgnore": null,
+        "Memo": "パーティ編成データがありません",
+        "ErrorMessageType": 2
     },
     {
         "Id": 310001,
@@ -4454,8 +4478,8 @@
     {
         "Id": 900316,
         "IsIgnore": null,
-        "Memo": null,
-        "ErrorMessageType": 2
+        "Memo": "この機能は権限があるメンバーのみ実行できます",
+        "ErrorMessageType": 1
     },
     {
         "Id": 900317,
@@ -4586,8 +4610,8 @@
     {
         "Id": 1002011,
         "IsIgnore": null,
-        "Memo": null,
-        "ErrorMessageType": 2
+        "Memo": "この機能は権限があるメンバーのみ実行できます",
+        "ErrorMessageType": 1
     },
     {
         "Id": 1002012,
@@ -4624,6 +4648,30 @@
         "IsIgnore": null,
         "Memo": "キャラクターのキャッシュデータが存在しないためパーティの配置に失敗しました",
         "ErrorMessageType": 2
+    },
+    {
+        "Id": 1002018,
+        "IsIgnore": null,
+        "Memo": "拠点メモは設定できません",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 1002019,
+        "IsIgnore": null,
+        "Memo": "拠点メモの設定の権限がありません",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 1002020,
+        "IsIgnore": null,
+        "Memo": "拠点メモメッセージの最大文字数を超過しています",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 1002021,
+        "IsIgnore": null,
+        "Memo": "既に他のメンバーにより、拠点メモがリセット済みです",
+        "ErrorMessageType": 1
     },
     {
         "Id": 4000000,
