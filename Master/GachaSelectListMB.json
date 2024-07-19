@@ -2994,9 +2994,10 @@
     {
         "Id": 75,
         "IsIgnore": null,
-        "Memo": "夏ニーナ②＋次キャラ仮入れ仮①（0723切替用）",
+        "Memo": "夏ニーナ②＋浴衣コルディ①（0723切替用）",
         "CharacterIdList": [
             95,
+            72,
             5,
             6,
             7,
@@ -3023,7 +3024,8 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            95
+            95,
+            72
         ],
         "OrderNumber": 75,
         "StartTimeFixJST": "2024-07-23 14:30:00",
@@ -3032,9 +3034,10 @@
     {
         "Id": 76,
         "IsIgnore": null,
-        "Memo": "夏ニーナ③＋次キャラ仮入れ仮①（0731切替用）",
+        "Memo": "夏ニーナ③＋浴衣コルディ②＋次キャラ仮入れ仮①（0731切替用）",
         "CharacterIdList": [
             95,
+            72,
             5,
             6,
             7,
@@ -3061,7 +3064,8 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            95
+            95,
+            72
         ],
         "OrderNumber": 76,
         "StartTimeFixJST": "2024-07-31 16:30:00",
@@ -3266,5 +3270,23 @@
         "OrderNumber": 9,
         "StartTimeFixJST": "2024-06-28 16:30:00",
         "EndTimeFixJST": "2024-07-23 14:29:59"
+    },
+    {
+        "Id": 10100,
+        "IsIgnore": null,
+        "Memo": "星の導き10回ガチャ_オフィーリア・レア（7/23 14:30 ~ 8/16 14:29 ）",
+        "CharacterIdList": [
+            49,
+            55
+        ],
+        "GachaSelectListType": 3,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            49,
+            55
+        ],
+        "OrderNumber": 10,
+        "StartTimeFixJST": "2024-07-23 14:30:00",
+        "EndTimeFixJST": "2024-08-16 14:29:59"
     }
 ]

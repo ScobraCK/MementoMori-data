@@ -188,7 +188,7 @@
     {
         "Id": 1010,
         "IsIgnore": null,
-        "Memo": "プレミアギフト画面（APK版用）※Excelインポートの不具合のため、手動でDisplayDeviceTypeListに[7]の設定が必要",
+        "Memo": "プレミアギフト画面（BOI版用）",
         "HelpPartInfoList": [
             {
                 "HeadLine": "[HelpHeadLine1010]",
@@ -200,6 +200,7 @@
         "IsDisplayed": true,
         "TutorialDescriptionId": 0,
         "DisplayDeviceTypes": [
+            4,
             7
         ]
     },
