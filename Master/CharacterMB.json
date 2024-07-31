@@ -4250,5 +4250,57 @@
         "RequireFragmentCount": 60,
         "EndTimeFixJST": "2100-12-31 23:59:59",
         "StartTimeFixJST": "2024-07-16 15:00:00"
+    },
+    {
+        "Id": 96,
+        "IsIgnore": null,
+        "Memo": "夏アムレート",
+        "ActiveSkillIds": [
+            96001,
+            96002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 84,
+            "Health": 62,
+            "Intelligence": 84,
+            "Muscle": 104
+        },
+        "BaseParameterGrossCoefficient": 334,
+        "CharacterType": 2,
+        "ElementType": 4,
+        "InitialBattleParameter": {
+            "AttackPower": 5,
+            "Avoidance": 0,
+            "Critical": -3,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 1,
+            "DamageReflect": 0,
+            "DebuffHit": 0,
+            "DebuffResist": 0,
+            "Defense": 7,
+            "DefensePenetration": 0,
+            "Hit": 0,
+            "HP": 0,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": 0,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 0,
+            "Speed": 3089
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 1,
+        "Name2Key": "[CharacterSubName96]",
+        "NameKey": "[CharacterName96]",
+        "NormalSkillId": 101,
+        "PassiveSkillIds": [
+            96003,
+            96004
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2024-07-31 15:00:00"
     }
 ]

@@ -8712,5 +8712,183 @@
         "CharacterRarityFlags": 262144,
         "CollectionId": 51,
         "CollectionLevel": 8
+    },
+    {
+        "Id": 5201,
+        "IsIgnore": null,
+        "Memo": "リリウムの誓剣(夏アムレート,アムレート)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 3,
+                "Value": 20.0
+            }
+        ],
+        "BattleParameterChangeInfos": null,
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 8,
+        "CollectionId": 52,
+        "CollectionLevel": 1
+    },
+    {
+        "Id": 5202,
+        "IsIgnore": null,
+        "Memo": "リリウムの誓剣(夏アムレート,アムレート)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 3,
+                "Value": 40.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 12,
+                "ChangeParameterType": 1,
+                "Value": 200.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 128,
+        "CollectionId": 52,
+        "CollectionLevel": 2
+    },
+    {
+        "Id": 5203,
+        "IsIgnore": null,
+        "Memo": "リリウムの誓剣(夏アムレート,アムレート)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 3,
+                "Value": 40.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 12,
+                "ChangeParameterType": 1,
+                "Value": 200.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 512,
+        "CollectionId": 52,
+        "CollectionLevel": 3
+    },
+    {
+        "Id": 5204,
+        "IsIgnore": null,
+        "Memo": "リリウムの誓剣(夏アムレート,アムレート)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 3,
+                "Value": 40.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 12,
+                "ChangeParameterType": 1,
+                "Value": 200.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 16384,
+        "CollectionId": 52,
+        "CollectionLevel": 4
+    },
+    {
+        "Id": 5205,
+        "IsIgnore": null,
+        "Memo": "リリウムの誓剣(夏アムレート,アムレート)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 3,
+                "Value": 41.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 12,
+                "ChangeParameterType": 1,
+                "Value": 205.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 32768,
+        "CollectionId": 52,
+        "CollectionLevel": 5
+    },
+    {
+        "Id": 5206,
+        "IsIgnore": null,
+        "Memo": "リリウムの誓剣(夏アムレート,アムレート)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 3,
+                "Value": 42.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 12,
+                "ChangeParameterType": 1,
+                "Value": 210.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 65536,
+        "CollectionId": 52,
+        "CollectionLevel": 6
+    },
+    {
+        "Id": 5207,
+        "IsIgnore": null,
+        "Memo": "リリウムの誓剣(夏アムレート,アムレート)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 3,
+                "Value": 43.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 12,
+                "ChangeParameterType": 1,
+                "Value": 215.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 131072,
+        "CollectionId": 52,
+        "CollectionLevel": 7
+    },
+    {
+        "Id": 5208,
+        "IsIgnore": null,
+        "Memo": "リリウムの誓剣(夏アムレート,アムレート)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 3,
+                "Value": 44.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 12,
+                "ChangeParameterType": 1,
+                "Value": 220.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 262144,
+        "CollectionId": 52,
+        "CollectionLevel": 8
     }
 ]

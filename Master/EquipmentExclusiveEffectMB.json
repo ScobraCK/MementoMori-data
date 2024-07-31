@@ -8652,5 +8652,139 @@
             }
         ],
         "CharacterId": 95
+    },
+    {
+        "Id": 403,
+        "IsIgnore": null,
+        "Memo": "夏アムレートSSR180",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 96
+    },
+    {
+        "Id": 404,
+        "IsIgnore": null,
+        "Memo": "夏アムレートSSR200",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 600.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1300.0
+            }
+        ],
+        "CharacterId": 96
+    },
+    {
+        "Id": 405,
+        "IsIgnore": null,
+        "Memo": "夏アムレートSSR220",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 650.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1400.0
+            },
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "CharacterId": 96
+    },
+    {
+        "Id": 406,
+        "IsIgnore": null,
+        "Memo": "夏アムレートSSR240",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "CharacterId": 96
+    },
+    {
+        "Id": 407,
+        "IsIgnore": null,
+        "Memo": "夏アムレートUR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 750.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1600.0
+            },
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 900.0
+            }
+        ],
+        "CharacterId": 96
+    },
+    {
+        "Id": 408,
+        "IsIgnore": null,
+        "Memo": "夏アムレートLR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 1000.0
+            }
+        ],
+        "CharacterId": 96
     }
 ]

@@ -751,5 +751,150 @@
             },
             "RarityFlags": 0
         }
+    },
+    {
+        "Id": 7,
+        "IsIgnore": null,
+        "Memo": "2024_サマーログインボーナス",
+        "DailyRewardList": [
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 10,
+                    "ItemId": 2,
+                    "ItemType": 16
+                },
+                "Date": 1,
+                "RarityFlags": 0
+            },
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 10,
+                    "ItemId": 1,
+                    "ItemType": 18
+                },
+                "Date": 2,
+                "RarityFlags": 0
+            },
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 10,
+                    "ItemId": 2,
+                    "ItemType": 16
+                },
+                "Date": 3,
+                "RarityFlags": 0
+            },
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 2,
+                    "ItemId": 14,
+                    "ItemType": 10
+                },
+                "Date": 4,
+                "RarityFlags": 0
+            },
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 10,
+                    "ItemId": 2,
+                    "ItemType": 16
+                },
+                "Date": 5,
+                "RarityFlags": 0
+            },
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 5,
+                    "ItemId": 2,
+                    "ItemType": 18
+                },
+                "Date": 6,
+                "RarityFlags": 0
+            },
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 10,
+                    "ItemId": 2,
+                    "ItemType": 16
+                },
+                "Date": 7,
+                "RarityFlags": 0
+            },
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 1,
+                    "ItemId": 15,
+                    "ItemType": 10
+                },
+                "Date": 8,
+                "RarityFlags": 0
+            },
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 10,
+                    "ItemId": 2,
+                    "ItemType": 16
+                },
+                "Date": 9,
+                "RarityFlags": 0
+            },
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 5,
+                    "ItemId": 3,
+                    "ItemType": 18
+                },
+                "Date": 10,
+                "RarityFlags": 0
+            },
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 10,
+                    "ItemId": 2,
+                    "ItemType": 16
+                },
+                "Date": 11,
+                "RarityFlags": 0
+            },
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 1500,
+                    "ItemId": 2,
+                    "ItemType": 11
+                },
+                "Date": 12,
+                "RarityFlags": 0
+            },
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 10,
+                    "ItemId": 2,
+                    "ItemType": 16
+                },
+                "Date": 13,
+                "RarityFlags": 0
+            },
+            {
+                "DailyRewardItem": {
+                    "ItemCount": 2000,
+                    "ItemId": 2,
+                    "ItemType": 11
+                },
+                "Date": 14,
+                "RarityFlags": 0
+            }
+        ],
+        "EveryDayRewardItem": null,
+        "ExistEveryDayReward": false,
+        "ExistSpecialReward": true,
+        "SpecialRewardItem": {
+            "Date": 14,
+            "SpecialRewardItem": {
+                "ItemCount": 1000,
+                "ItemId": 1,
+                "ItemType": 1
+            },
+            "RarityFlags": 0
+        }
     }
 ]

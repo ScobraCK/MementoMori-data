@@ -11337,6 +11337,155 @@
         "RootActiveSkillId": 95002
     },
     {
+        "Id": 96001,
+        "IsIgnore": null,
+        "Memo": "夏アムレートSR:Lv1 一瞬のうちに夜を切り払う雷のように、閃いた刃が敵を切り裂く。ランダムな敵4体に攻撃力×360%の物理攻撃を行う。/ Lv2 さらに物理攻撃の前に2ターンの間対象の物理防御力を25%減少させる。オートバトル・ボスバトルで使用した場合、『物理防御力減少』のターン数が4ターンになる。無窮の塔で使用した場合、物理防御力の減少量が50%になる。/ Lv3 バトル中このスキルを使うのが3回目以降の場合、物理攻撃のダメージが攻撃力×540%になる。/ Ex1 ライサンダーを強化する。ライサンダーの対象がランダムな敵5体になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription960011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    96001001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription960012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    96001201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription960013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    96001301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription960014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    96001401
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName96001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 96001
+    },
+    {
+        "Id": 96002,
+        "IsIgnore": null,
+        "Memo": "夏アムレートSR:Lv1 闇を穿つ星の火のように、華麗な剣技で敵を討ち倒す。攻撃力が最も高い敵に4回攻撃力×520%の物理攻撃を行う。攻撃するたび30%の確率でランダムな敵に攻撃力×520%の物理攻撃を行う。/ Lv2 追加攻撃の確率が50%になる。/ Lv3 追加攻撃の判定の前に、自身のHP割合が50%以下の場合、追加攻撃の確率が100%になる。/ Lv4 バトル中このスキルを使うのが3回目以降の場合、最初の物理攻撃と追加攻撃のダメージがそれぞれ攻撃力×780%になる。/ Ex3 星によりて幕は上がるを強化する。最初の物理攻撃と追加攻撃のダメージがそれぞれ攻撃力×580%になる。バトル中このスキルを使うのが3回目以降の場合、最初の物理攻撃と追加攻撃のダメージがそれぞれ攻撃力×870%になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription960021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    96002001,
+                    96002002,
+                    96002003,
+                    96002002,
+                    96002003,
+                    96002002,
+                    96002003,
+                    96002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription960022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    96002001,
+                    96002202,
+                    96002003,
+                    96002202,
+                    96002003,
+                    96002202,
+                    96002003,
+                    96002202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription960023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    96002001,
+                    96002302,
+                    96002003,
+                    96002302,
+                    96002003,
+                    96002302,
+                    96002003,
+                    96002302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription960024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    96002401,
+                    96002402,
+                    96002403,
+                    96002402,
+                    96002403,
+                    96002402,
+                    96002403,
+                    96002402
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription960025]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    96002501,
+                    96002502,
+                    96002503,
+                    96002502,
+                    96002503,
+                    96002502,
+                    96002503,
+                    96002502
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName96002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 96002
+    },
+    {
         "Id": 550109001,
         "IsIgnore": null,
         "Memo": "ギルドレイド通常ソーニャSR：ソーニャSR:旋風の如き素早い急襲。HPが最も低い敵に攻撃力×800％の物理攻撃を行う。弱った敵にも容赦しないヴァイキングの本能により、敵のHP割合が40％以下の場合、この攻撃は必ずクリティカルヒットする。／さらに自身の腕力×400％の直接攻撃を行う。／追加攻撃のダメージが腕力×600%になる。／さらにこのスキルで敵を戦闘不能にした場合、このスキルを再発動する。",
@@ -23742,6 +23891,155 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 95002
+    },
+    {
+        "Id": 550496001,
+        "IsIgnore": null,
+        "Memo": null,
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550496001001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550496001201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550496001301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550496001401
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName96001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 96001
+    },
+    {
+        "Id": 550496002,
+        "IsIgnore": null,
+        "Memo": null,
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550496002001,
+                    550496002002,
+                    550496002003,
+                    550496002002,
+                    550496002003,
+                    550496002002,
+                    550496002003,
+                    550496002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550496002001,
+                    550496002202,
+                    550496002003,
+                    550496002202,
+                    550496002003,
+                    550496002202,
+                    550496002003,
+                    550496002202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550496002001,
+                    550496002302,
+                    550496002003,
+                    550496002302,
+                    550496002003,
+                    550496002302,
+                    550496002003,
+                    550496002302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550496002401,
+                    550496002402,
+                    550496002403,
+                    550496002402,
+                    550496002403,
+                    550496002402,
+                    550496002403,
+                    550496002402
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": null,
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550496002501,
+                    550496002502,
+                    550496002503,
+                    550496002502,
+                    550496002503,
+                    550496002502,
+                    550496002503,
+                    550496002502
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName96002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 96002
     },
     {
         "Id": 980000001,

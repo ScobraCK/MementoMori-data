@@ -3034,10 +3034,12 @@
     {
         "Id": 76,
         "IsIgnore": null,
-        "Memo": "夏ニーナ③＋浴衣コルディ②＋次キャラ仮入れ仮①（0731切替用）",
+        "Memo": "夏ニーナ③＋浴衣コルディ②＋夏アムレート①＋ギルウィアル復刻①（0731切替用）",
         "CharacterIdList": [
+            96,
             95,
             72,
+            64,
             5,
             6,
             7,
@@ -3064,19 +3066,23 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
+            96,
             95,
-            72
+            72,
+            64
         ],
         "OrderNumber": 76,
-        "StartTimeFixJST": "2024-07-31 16:30:00",
+        "StartTimeFixJST": "2024-07-31 15:00:00",
         "EndTimeFixJST": "2024-08-07 14:29:59"
     },
     {
         "Id": 77,
         "IsIgnore": null,
-        "Memo": "夏ニーナ④＋次キャラ仮入れ仮①（0807切替用）",
+        "Memo": "夏ニーナ④＋夏アムレート②＋ギルウィアル復刻②＋次キャラ仮入れ仮①（0807切替用）",
         "CharacterIdList": [
+            96,
             95,
+            64,
             5,
             6,
             7,
@@ -3103,11 +3109,129 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            95
+            96,
+            95,
+            64
         ],
         "OrderNumber": 77,
         "StartTimeFixJST": "2024-08-07 14:30:00",
         "EndTimeFixJST": "2024-08-13 14:29:59"
+    },
+    {
+        "Id": 78,
+        "IsIgnore": null,
+        "Memo": "夏アムレート③＋ギルウィアル復刻③＋次キャラ仮入れ仮①（0813切替用）",
+        "CharacterIdList": [
+            96,
+            64,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            96,
+            64
+        ],
+        "OrderNumber": 78,
+        "StartTimeFixJST": "2024-08-13 14:30:00",
+        "EndTimeFixJST": "2024-08-16 14:29:59"
+    },
+    {
+        "Id": 79,
+        "IsIgnore": null,
+        "Memo": "夏アムレート④＋次キャラ仮入れ仮①（0816切替用）",
+        "CharacterIdList": [
+            96,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            96
+        ],
+        "OrderNumber": 79,
+        "StartTimeFixJST": "2024-08-16 16:30:00",
+        "EndTimeFixJST": "2024-08-23 14:29:59"
+    },
+    {
+        "Id": 80,
+        "IsIgnore": null,
+        "Memo": "夏アムレート⑤＋次キャラ仮入れ仮①（0823切替用）",
+        "CharacterIdList": [
+            96,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            96
+        ],
+        "OrderNumber": 80,
+        "StartTimeFixJST": "2024-08-23 14:30:00",
+        "EndTimeFixJST": "2024-08-28 14:29:59"
     },
     {
         "Id": 10000,
