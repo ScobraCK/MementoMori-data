@@ -3078,10 +3078,11 @@
     {
         "Id": 77,
         "IsIgnore": null,
-        "Memo": "夏ニーナ④＋夏アムレート②＋ギルウィアル復刻②＋次キャラ仮入れ仮①（0807切替用）",
+        "Memo": "夏ニーナ④＋夏アムレート②＋ギルウィアル復刻②＋フィアー復刻①（0807切替用）",
         "CharacterIdList": [
             96,
             95,
+            60,
             64,
             5,
             6,
@@ -3111,6 +3112,7 @@
         "NewCharacterIdList": [
             96,
             95,
+            60,
             64
         ],
         "OrderNumber": 77,
@@ -3120,9 +3122,10 @@
     {
         "Id": 78,
         "IsIgnore": null,
-        "Memo": "夏アムレート③＋ギルウィアル復刻③＋次キャラ仮入れ仮①（0813切替用）",
+        "Memo": "夏アムレート③＋ギルウィアル復刻③＋フィアー復刻②＋次キャラ仮入れ仮①（0813切替用）",
         "CharacterIdList": [
             96,
+            60,
             64,
             5,
             6,
@@ -3151,6 +3154,7 @@
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
             96,
+            60,
             64
         ],
         "OrderNumber": 78,
@@ -3160,9 +3164,10 @@
     {
         "Id": 79,
         "IsIgnore": null,
-        "Memo": "夏アムレート④＋次キャラ仮入れ仮①（0816切替用）",
+        "Memo": "夏アムレート④＋フィアー復刻③＋次キャラ仮入れ仮①（0816切替用）",
         "CharacterIdList": [
             96,
+            60,
             5,
             6,
             7,
@@ -3189,7 +3194,8 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            96
+            96,
+            60
         ],
         "OrderNumber": 79,
         "StartTimeFixJST": "2024-08-16 16:30:00",
