@@ -10542,6 +10542,144 @@
         "RootActiveSkillId": 78002
     },
     {
+        "Id": 80001,
+        "IsIgnore": null,
+        "Memo": "ミラSR:Lv1 弦を爪弾き歌うは、決して諦めないという誓いとそれに込められた願い。ランダムな敵2体に攻撃力×180%の魔法攻撃を行い、40%の確率で1ターンの間対象に『遅延』を付与する。毎ターン行動終了時にスキルクールタイムの減少を1遅らせ、次回のスキル発動が遅くなる。『遅延』付与の判定の後、自身のHPを自身の最大HP×5%回復する。/ Lv2 『遅延』を付与する確率が70%になる。/ Lv3 HPの回復量が自身の最大HP×10%になる。/ Ex1 決意のロンドを強化する。魔法攻撃の対象がランダムな敵3体になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription800011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    80001001,
+                    80001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription800012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    80001201,
+                    80001002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription800013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    80001201,
+                    80001302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription800014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    80001401,
+                    80001302
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName80001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 80001
+    },
+    {
+        "Id": 80002,
+        "IsIgnore": null,
+        "Memo": "ミラSR:Lv1 「お腹が減ってたら力は出ないでしょう？」自身のHPを自身の最大HP×5%回復する。その後ランダムな敵に4回攻撃力×280%の魔法攻撃を行う。/ Lv2 さらに魔法攻撃の前にバトル中自身がアクティブスキルで回復を受けた回数が6以上の場合、魔法攻撃のダメージが攻撃力×1120%になる。/ Lv3 HPの回復量が自身の最大HP×10%になる。/ Lv4 魔法攻撃のダメージが攻撃力×440%になる。魔法攻撃の前にバトル中自身がアクティブスキルで回復を受けた回数が6以上の場合、魔法攻撃のダメージが攻撃力×1760%になる。/ Ex3 とっておきのおやつを強化する。魔法攻撃のダメージが攻撃力×480%になる。魔法攻撃の前にバトル中自身がアクティブスキルで回復を受けた回数が6以上の場合、魔法攻撃のダメージが攻撃力×1920%になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription800021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    80002001,
+                    80002002,
+                    80002003,
+                    80002003,
+                    80002003
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription800022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    80002001,
+                    80002202,
+                    80002203,
+                    80002203,
+                    80002203
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription800023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    80002301,
+                    80002202,
+                    80002203,
+                    80002203,
+                    80002203
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription800024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    80002301,
+                    80002402,
+                    80002403,
+                    80002403,
+                    80002403
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription800025]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    80002301,
+                    80002502,
+                    80002503,
+                    80002503,
+                    80002503
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName80002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 80002
+    },
+    {
         "Id": 82001,
         "IsIgnore": null,
         "Memo": "アレクサンドラSR:Lv1 聖なる盾が紅く輝く時、裁きの光が降り注ぐ。ランダムな敵4体に攻撃力×250%の物理攻撃を行う。/ Lv2 さらに70%の確率で対象に1ターンの間『出血』を付与する。毎ターン行動開始時に自身の攻撃力×50%のダメージを与える。/ Lv3 『出血』のターン数が2ターンになる。/ Ex1 ナイト・ブレイクを強化する。ナイト・ブレイクの対象がランダムな敵5体になる。/ Ex3 ナイト・ブレイクを強化する。物理攻撃のダメージが攻撃力×280%になる。",
@@ -23096,6 +23234,144 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 78002
+    },
+    {
+        "Id": 550480001,
+        "IsIgnore": null,
+        "Memo": null,
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550480001001,
+                    550480001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550480001201,
+                    550480001002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550480001201,
+                    550480001302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550480001401,
+                    550480001302
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName80001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 80001
+    },
+    {
+        "Id": 550480002,
+        "IsIgnore": null,
+        "Memo": null,
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550480002001,
+                    550480002002,
+                    550480002003,
+                    550480002003,
+                    550480002003
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550480002001,
+                    550480002202,
+                    550480002203,
+                    550480002203,
+                    550480002203
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550480002301,
+                    550480002202,
+                    550480002203,
+                    550480002203,
+                    550480002203
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550480002301,
+                    550480002402,
+                    550480002403,
+                    550480002403,
+                    550480002403
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": null,
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550480002301,
+                    550480002502,
+                    550480002503,
+                    550480002503,
+                    550480002503
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName80002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 80002
     },
     {
         "Id": 550482001,

@@ -526,9 +526,9 @@
         "IsIgnore": null,
         "Memo": "浴衣コルディ",
         "CharacterId": 72,
-        "IsPickup": true,
-        "EndTimeFixJST": "2024-08-07 14:29:59",
-        "StartTimeFixJST": "2024-07-23 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 60,
@@ -544,9 +544,9 @@
         "IsIgnore": null,
         "Memo": "ステラ",
         "CharacterId": 57,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2024-08-30 14:29:59",
+        "StartTimeFixJST": "2024-08-16 14:30:00"
     },
     {
         "Id": 62,
@@ -616,9 +616,9 @@
         "IsIgnore": null,
         "Memo": "ギルウィアル",
         "CharacterId": 64,
-        "IsPickup": true,
-        "EndTimeFixJST": "2024-08-16 14:29:59",
-        "StartTimeFixJST": "2024-07-31 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 70,
@@ -733,9 +733,9 @@
         "IsIgnore": null,
         "Memo": "夏ニーナ",
         "CharacterId": 95,
-        "IsPickup": true,
-        "EndTimeFixJST": "2024-08-13 14:29:59",
-        "StartTimeFixJST": "2024-07-16 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 83,
@@ -745,5 +745,14 @@
         "IsPickup": true,
         "EndTimeFixJST": "2024-08-28 14:29:59",
         "StartTimeFixJST": "2024-07-31 14:30:00"
+    },
+    {
+        "Id": 84,
+        "IsIgnore": null,
+        "Memo": "ミラ",
+        "CharacterId": 80,
+        "IsPickup": true,
+        "EndTimeFixJST": "2024-08-30 14:29:59",
+        "StartTimeFixJST": "2024-08-16 14:30:00"
     }
 ]
