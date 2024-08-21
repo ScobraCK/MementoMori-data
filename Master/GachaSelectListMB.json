@@ -3208,10 +3208,11 @@
     {
         "Id": 80,
         "IsIgnore": null,
-        "Memo": "夏アムレート⑤＋ミラ②＋ステラ復刻②＋次キャラ仮入れ仮①（0823切替用）",
+        "Memo": "夏アムレート⑤＋ミラ②＋ステラ復刻②＋アームストロング復刻①（0823切替用）",
         "CharacterIdList": [
             96,
             80,
+            50,
             57,
             5,
             6,
@@ -3241,6 +3242,7 @@
         "NewCharacterIdList": [
             96,
             80,
+            50,
             57
         ],
         "OrderNumber": 80,
@@ -3250,9 +3252,10 @@
     {
         "Id": 81,
         "IsIgnore": null,
-        "Memo": "ミラ③＋ステラ復刻③＋次キャラ仮入れ仮①（0828切替用）",
+        "Memo": "ミラ③＋ステラ復刻③＋アームストロング復刻②（0828切替用）",
         "CharacterIdList": [
             80,
+            50,
             57,
             5,
             6,
@@ -3281,11 +3284,50 @@
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
             80,
+            50,
             57
         ],
         "OrderNumber": 81,
-        "StartTimeFixJST": "2024-08-28 16:30:00",
+        "StartTimeFixJST": "2024-08-28 14:30:00",
         "EndTimeFixJST": "2024-08-30 14:29:59"
+    },
+    {
+        "Id": 82,
+        "IsIgnore": null,
+        "Memo": "アームストロング復刻③＋次キャラ仮入れ仮①（0830切替用）",
+        "CharacterIdList": [
+            50,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            50
+        ],
+        "OrderNumber": 82,
+        "StartTimeFixJST": "2024-08-30 16:30:00",
+        "EndTimeFixJST": "2024-09-06 14:29:59"
     },
     {
         "Id": 10000,
