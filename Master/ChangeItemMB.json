@@ -10910,5 +10910,37 @@
         "ItemId": 20,
         "ItemType": 50,
         "NeedCount": 1
+    },
+    {
+        "Id": 699,
+        "IsIgnore": null,
+        "Memo": "思い出のハープ",
+        "ChangeItems": [
+            {
+                "ItemCount": 10000,
+                "ItemId": 1,
+                "ItemType": 3
+            }
+        ],
+        "ChangeItemType": 0,
+        "ItemId": 21,
+        "ItemType": 50,
+        "NeedCount": 1
+    },
+    {
+        "Id": 700,
+        "IsIgnore": null,
+        "Memo": "アイネガチャチケット",
+        "ChangeItems": [
+            {
+                "ItemCount": 1,
+                "ItemId": 2,
+                "ItemType": 16
+            }
+        ],
+        "ChangeItemType": 0,
+        "ItemId": 650,
+        "ItemType": 16,
+        "NeedCount": 1
     }
 ]

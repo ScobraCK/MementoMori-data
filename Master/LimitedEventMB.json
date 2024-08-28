@@ -40,7 +40,7 @@
         "EndTime": "2024-08-13 03:59:59"
     },
     {
-        "Id": 999,
+        "Id": 1000,
         "IsIgnore": null,
         "Memo": "メニュー：シリアルコード入力ボタン",
         "LimitedEventType": 2,
@@ -48,11 +48,11 @@
         "EndTime": "2100-01-01 00:00:00"
     },
     {
-        "Id": 9999,
+        "Id": 1001,
         "IsIgnore": null,
-        "Memo": "課金旧システムを使用する",
-        "LimitedEventType": 9999,
+        "Memo": "Androidプッシュ通知対応",
+        "LimitedEventType": 10000,
         "StartTime": "2024-01-01 04:00:00",
-        "EndTime": "2024-03-25 14:30:00"
+        "EndTime": "2100-01-01 00:00:00"
     }
 ]
