@@ -8915,5 +8915,139 @@
             }
         ],
         "CharacterId": 80
+    },
+    {
+        "Id": 415,
+        "IsIgnore": null,
+        "Memo": "アイネSSR180",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 65
+    },
+    {
+        "Id": 416,
+        "IsIgnore": null,
+        "Memo": "アイネSSR200",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 600.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1300.0
+            }
+        ],
+        "CharacterId": 65
+    },
+    {
+        "Id": 417,
+        "IsIgnore": null,
+        "Memo": "アイネSSR220",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 650.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1400.0
+            },
+            {
+                "BattleParameterType": 14,
+                "ChangeParameterType": 1,
+                "Value": 5500.0
+            }
+        ],
+        "CharacterId": 65
+    },
+    {
+        "Id": 418,
+        "IsIgnore": null,
+        "Memo": "アイネSSR240",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 14,
+                "ChangeParameterType": 1,
+                "Value": 6000.0
+            }
+        ],
+        "CharacterId": 65
+    },
+    {
+        "Id": 419,
+        "IsIgnore": null,
+        "Memo": "アイネUR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 750.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1600.0
+            },
+            {
+                "BattleParameterType": 14,
+                "ChangeParameterType": 1,
+                "Value": 6500.0
+            }
+        ],
+        "CharacterId": 65
+    },
+    {
+        "Id": 420,
+        "IsIgnore": null,
+        "Memo": "アイネLR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 14,
+                "ChangeParameterType": 1,
+                "Value": 7000.0
+            }
+        ],
+        "CharacterId": 65
     }
 ]

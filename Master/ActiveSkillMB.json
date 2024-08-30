@@ -8703,6 +8703,147 @@
         "RootActiveSkillId": 64002
     },
     {
+        "Id": 65001,
+        "IsIgnore": null,
+        "Memo": "アイネSR:Lv1 「深淵なる夜の調べよ……」その旋律は聞き惚れた者を闇へと引きずり込む。攻撃力が高い敵2体に攻撃力×380％の物理攻撃を行う。その後70%の確率で2ターンの間対象のクリティカル率を10％減少させる。/ Lv2 このスキルの対象が攻撃力が高い敵3体になる。/ Lv3 さらに物理攻撃の前に、2ターンの間自身の弱体効果命中率が50％増加する。/ Ex1 セイレーンの調べを強化する。クリティカル率の減少量が30％になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription650011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    65001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription650012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    65001202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription650013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    65001301,
+                    65001202
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription650014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    65001301,
+                    65001402
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName65001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 65001
+    },
+    {
+        "Id": 65002,
+        "IsIgnore": null,
+        "Memo": "アイネSR:Lv1 「これが贖罪となるのなら……」2ターンの間自身にスピードが5％減少する弱体効果を1スタック付与する（最大3スタックまで）。「永遠の調べよ……」無数の泡が旋律に合わせて敵に向かう。ランダムな敵2体に攻撃力×250％の物理攻撃を行い、2ターンの間対象に防御力が5％減少する弱体効果を1スタック付与する（最大3スタックまで）。このスキルを再発動する（再発動は2回まで）。/ Lv2 防御力の減少量が15％になる。/ Lv3 さらに物理攻撃の前に自身が『悪魔の誘い』を付帯していない場合、物理攻撃のダメージが3倍になる。/ Lv4 物理攻撃のダメージが攻撃力×350％になる。/ Ex3 永遠の調べを強化する。物理攻撃のダメージが攻撃力×380％になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription650021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    65002001,
+                    65002002,
+                    65002003,
+                    65002004,
+                    65002003,
+                    65002004
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription650022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    65002001,
+                    65002202,
+                    65002003,
+                    65002204,
+                    65002003,
+                    65002204
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription650023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    65002001,
+                    65002302,
+                    65002003,
+                    65002304,
+                    65002003,
+                    65002304
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription650024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    65002001,
+                    65002402,
+                    65002003,
+                    65002404,
+                    65002003,
+                    65002404
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription650025]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    65002001,
+                    65002502,
+                    65002003,
+                    65002504,
+                    65002003,
+                    65002504
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName65002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 65002
+    },
+    {
         "Id": 66001,
         "IsIgnore": null,
         "Memo": "黒鎧アイリスSR:Lv1 「どうせ薄汚い獣同士。醜く殺しあいましょう？」攻撃力が高い敵3体に攻撃力×620%の物理攻撃を行う。/ Lv2 さらに物理攻撃の後、70%の確率で2ターンの間対象の攻撃力を10%減少させる。/ Lv3 物理攻撃のダメージが攻撃力×920%になる。/ Ex1 フェイタルクラッシュを強化する。物理攻撃のダメージが攻撃力×1120%になる。",
@@ -21395,6 +21536,147 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 5,
         "RootActiveSkillId": 64002
+    },
+    {
+        "Id": 550465001,
+        "IsIgnore": null,
+        "Memo": null,
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550465001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550465001202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550465001301,
+                    550465001202
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550465001301,
+                    550465001402
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName65001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 65001
+    },
+    {
+        "Id": 550465002,
+        "IsIgnore": null,
+        "Memo": null,
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550465002001,
+                    550465002002,
+                    550465002003,
+                    550465002004,
+                    550465002003,
+                    550465002004
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550465002001,
+                    550465002202,
+                    550465002003,
+                    550465002204,
+                    550465002003,
+                    550465002204
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550465002001,
+                    550465002302,
+                    550465002003,
+                    550465002304,
+                    550465002003,
+                    550465002304
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550465002001,
+                    550465002402,
+                    550465002003,
+                    550465002404,
+                    550465002003,
+                    550465002404
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": null,
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    550465002001,
+                    550465002502,
+                    550465002003,
+                    550465002504,
+                    550465002003,
+                    550465002504
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName65002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 65002
     },
     {
         "Id": 550466001,

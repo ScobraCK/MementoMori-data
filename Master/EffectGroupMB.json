@@ -13057,6 +13057,921 @@
         "EffectGroupInfoList": null
     },
     {
+        "Id": 6500100202,
+        "IsIgnore": null,
+        "Memo": "クリティカル率が10％減少する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500100202]",
+        "IconId": 65001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500100202]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 6500140202,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 6500100202,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 6500130101,
+        "IsIgnore": null,
+        "Memo": "弱体効果命中率が50％増加する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500130101]",
+        "IconId": 65001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500130101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 6500140202,
+        "IsIgnore": null,
+        "Memo": "クリティカル率が30％減少する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500140202]",
+        "IconId": 65001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500140202]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 6500140202,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 6500100202,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 6500200101,
+        "IsIgnore": null,
+        "Memo": "スピードが5％減少する（最大3スタックまで）。現在のスタック数：{stack}",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500200101]",
+        "IconId": 65002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500200101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 6500200202,
+        "IsIgnore": null,
+        "Memo": "防御力が5％減少する（最大3スタックまで）。現在のスタック数：{stack}",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500200202]",
+        "IconId": 65002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500200202]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 6500220202,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 6500200202,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 6500220202,
+        "IsIgnore": null,
+        "Memo": "防御力が15％減少する（最大3スタックまで）。現在のスタック数：{stack}",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500220202]",
+        "IconId": 65002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500220202]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 6500220202,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 6500200202,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 6500300101,
+        "IsIgnore": null,
+        "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の腕力×100%分のダメージを代わりに受ける（解除不可）。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500300101]",
+        "IconId": 65003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500300101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 6500340101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 6500330101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 6500320101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 6500300101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 6500300102,
+        "IsIgnore": null,
+        "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の技力×100%分のダメージを代わりに受ける（解除不可）。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500300102]",
+        "IconId": 65003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500300102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 6500340100,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 6500340102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 6500330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 6500320102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 6500300102,
+                "OrderNumber": 5
+            }
+        ]
+    },
+    {
+        "Id": 6500300103,
+        "IsIgnore": null,
+        "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の魔力×100%分のダメージを代わりに受ける（解除不可）。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500300103]",
+        "IconId": 65003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500300103]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 6500340103,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 6500330103,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 6500320103,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 6500300103,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 6500320101,
+        "IsIgnore": null,
+        "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の腕力×200%分のダメージを代わりに受ける（解除不可）。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500320101]",
+        "IconId": 65003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500320101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 6500340101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 6500330101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 6500320101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 6500300101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 6500320102,
+        "IsIgnore": null,
+        "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の技力×200%分のダメージを代わりに受ける（解除不可）。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500320102]",
+        "IconId": 65003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500320102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 6500340100,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 6500340102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 6500330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 6500320102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 6500300102,
+                "OrderNumber": 5
+            }
+        ]
+    },
+    {
+        "Id": 6500320103,
+        "IsIgnore": null,
+        "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の魔力×200%分のダメージを代わりに受ける（解除不可）。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500320103]",
+        "IconId": 65003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500320103]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 6500340103,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 6500330103,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 6500320103,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 6500300103,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 6500330101,
+        "IsIgnore": null,
+        "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の腕力×200%分のダメージを代わりに受ける（解除不可）。『悪魔の誘い』のスタック減少数1につき、『シールド』の大きさが付帯者の腕力×20%大きくなる（合計で最大400%まで）。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500330101]",
+        "IconId": 65003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500330101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 6500340101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 6500330101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 6500320101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 6500300101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 6500330102,
+        "IsIgnore": null,
+        "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の技力×200%分のダメージを代わりに受ける（解除不可）。『悪魔の誘い』のスタック減少数1につき、『シールド』の大きさが付帯者の技力×20%大きくなる（合計で最大400%まで）。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500330102]",
+        "IconId": 65003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500330102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 6500340100,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 6500340102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 6500330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 6500320102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 6500300102,
+                "OrderNumber": 5
+            }
+        ]
+    },
+    {
+        "Id": 6500330103,
+        "IsIgnore": null,
+        "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の魔力×200%分のダメージを代わりに受ける（解除不可）。『悪魔の誘い』のスタック減少数1につき、『シールド』の大きさが付帯者の魔力×20%大きくなる（合計で最大400%まで）。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500330103]",
+        "IconId": 65003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500330103]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 6500340103,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 6500330103,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 6500320103,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 6500300103,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 6500340100,
+        "IsIgnore": null,
+        "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の技力×1500％分のダメージを代わりに受ける（解除不可）。『悪魔の誘い』のスタック減少数1につき、『シールド』の大きさが付帯者の技力×20％大きくなる（合計で最大1700％まで）。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500340100]",
+        "IconId": 65003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500340100]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 6500340100,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 6500340102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 6500330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 6500320102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 6500300102,
+                "OrderNumber": 5
+            }
+        ]
+    },
+    {
+        "Id": 6500340101,
+        "IsIgnore": null,
+        "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の腕力×300%分のダメージを代わりに受ける（解除不可）。『悪魔の誘い』のスタック減少数1につき、『シールド』の大きさが付帯者の腕力×20％大きくなる（合計で最大500%まで）。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500340101]",
+        "IconId": 65003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500340101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 6500340101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 6500330101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 6500320101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 6500300101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 6500340102,
+        "IsIgnore": null,
+        "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の技力×300%分のダメージを代わりに受ける（解除不可）。『悪魔の誘い』のスタック減少数1につき、『シールド』の大きさが付帯者の技力×20％大きくなる（合計で最大500%まで）。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500340102]",
+        "IconId": 65003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500340102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 6500340100,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 6500340102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 6500330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 6500320102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 6500300102,
+                "OrderNumber": 5
+            }
+        ]
+    },
+    {
+        "Id": 6500340103,
+        "IsIgnore": null,
+        "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の魔力×300%分のダメージを代わりに受ける（解除不可）。『悪魔の誘い』のスタック減少数1につき、『シールド』の大きさが付帯者の魔力×20％大きくなる（合計で最大500%まで）。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500340103]",
+        "IconId": 65003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500340103]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 6500340103,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 6500330103,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 6500320103,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 6500300103,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 6500400101,
+        "IsIgnore": null,
+        "Memo": "[悪魔の誘い] スタック数が減少するたび、自身の攻撃力が1％増加する（最大10スタックまで）（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500400101]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500400101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 6500430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 6500420101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 6500400101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 6500400200,
+        "IsIgnore": null,
+        "Memo": "*攻撃力が1％増加する（最大10スタックまで）（解除不可）。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500400200]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500400200]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 6500430200,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 6500420200,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 6500400200,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 6500400201,
+        "IsIgnore": null,
+        "Memo": "*『悪魔の誘い』のスタックが1減少する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500400201]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500400201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 6500400202,
+        "IsIgnore": null,
+        "Memo": "*『悪魔の誘い』のスタックが2減少し、『攻撃力増加』のスタックが1増加する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500400202]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500400202]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 6500400203,
+        "IsIgnore": null,
+        "Memo": "*『悪魔の誘い』のスタックが3減少し、『攻撃力増加』のスタックが2増加する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500400203]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500400203]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 6500400204,
+        "IsIgnore": null,
+        "Memo": "*『悪魔の誘い』のスタックが4減少し、『攻撃力増加』のスタックが3増加する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500400204]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500400204]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 6500400205,
+        "IsIgnore": null,
+        "Memo": "*『悪魔の誘い』のスタックが5減少し、『攻撃力増加』のスタックが4増加する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500400205]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500400205]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 6500420101,
+        "IsIgnore": null,
+        "Memo": "[悪魔の誘い] スタック数が減少するたび、自身の攻撃力が2％増加する（最大10スタックまで）（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500420101]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500420101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 6500430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 6500420101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 6500400101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 6500420200,
+        "IsIgnore": null,
+        "Memo": "*攻撃力が2％増加する（最大10スタックまで）（解除不可）。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500420200]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500420200]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 6500430200,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 6500420200,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 6500400200,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 6500420201,
+        "IsIgnore": null,
+        "Memo": "*『悪魔の誘い』のスタックが1減少する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500420201]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500420201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 6500420202,
+        "IsIgnore": null,
+        "Memo": "*『悪魔の誘い』のスタックが2減少し、『攻撃力増加』のスタックが1増加する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500420202]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500420202]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 6500420203,
+        "IsIgnore": null,
+        "Memo": "*『悪魔の誘い』のスタックが3減少し、『攻撃力増加』のスタックが2増加する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500420203]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500420203]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 6500420204,
+        "IsIgnore": null,
+        "Memo": "*『悪魔の誘い』のスタックが4減少し、『攻撃力増加』のスタックが3増加する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500420204]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500420204]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 6500420205,
+        "IsIgnore": null,
+        "Memo": "*『悪魔の誘い』のスタックが5減少し、『攻撃力増加』のスタックが4増加する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500420205]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500420205]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 6500430101,
+        "IsIgnore": null,
+        "Memo": "[悪魔の誘い] スタック数が減少するたび、自身の攻撃力が3％増加する（最大10スタックまで）（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500430101]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500430101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 6500430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 6500420101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 6500400101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 6500430200,
+        "IsIgnore": null,
+        "Memo": "*攻撃力が3％増加する（最大10スタックまで）（解除不可）。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500430200]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500430200]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 6500430200,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 6500420200,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 6500400200,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 6500430201,
+        "IsIgnore": null,
+        "Memo": "*『悪魔の誘い』のスタックが1減少する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500430201]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500430201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 6500430202,
+        "IsIgnore": null,
+        "Memo": "*『悪魔の誘い』のスタックが2減少し、『攻撃力増加』のスタックが1増加する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500430202]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500430202]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 6500430203,
+        "IsIgnore": null,
+        "Memo": "*『悪魔の誘い』のスタックが3減少し、『攻撃力増加』のスタックが2増加する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500430203]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500430203]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 6500430204,
+        "IsIgnore": null,
+        "Memo": "*『悪魔の誘い』のスタックが4減少し、『攻撃力増加』のスタックが3増加する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500430204]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500430204]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 6500430205,
+        "IsIgnore": null,
+        "Memo": "*『悪魔の誘い』のスタックが5減少し、『攻撃力増加』のスタックが4増加する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500430205]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500430205]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 6600120102,
         "IsIgnore": null,
         "Memo": "攻撃力が10%減少する。",
@@ -34822,6 +35737,921 @@
         "IconType": 1,
         "NameKey": "[EffectGroupName6400430301]",
         "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55046500100202,
+        "IsIgnore": null,
+        "Memo": "クリティカル率が10％減少する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500100202]",
+        "IconId": 65001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500100202]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55046500140202,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55046500100202,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 55046500130101,
+        "IsIgnore": null,
+        "Memo": "弱体効果命中率が50％増加する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500130101]",
+        "IconId": 65001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500130101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55046500140202,
+        "IsIgnore": null,
+        "Memo": "クリティカル率が30％減少する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500140202]",
+        "IconId": 65001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500140202]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55046500140202,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55046500100202,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 55046500200101,
+        "IsIgnore": null,
+        "Memo": "スピードが5％減少する（最大3スタックまで）。現在のスタック数：{stack}",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500200101]",
+        "IconId": 65002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500200101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55046500200202,
+        "IsIgnore": null,
+        "Memo": "防御力が5％減少する（最大3スタックまで）。現在のスタック数：{stack}",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500200202]",
+        "IconId": 65002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500200202]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55046500220202,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55046500200202,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 55046500220202,
+        "IsIgnore": null,
+        "Memo": "防御力が15％減少する（最大3スタックまで）。現在のスタック数：{stack}",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500220202]",
+        "IconId": 65002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500220202]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55046500220202,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55046500200202,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 55046500300101,
+        "IsIgnore": null,
+        "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の腕力×100%分のダメージを代わりに受ける（解除不可）。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500300101]",
+        "IconId": 65003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500300101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55046500340101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55046500330101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 55046500320101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 55046500300101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 55046500300102,
+        "IsIgnore": null,
+        "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の技力×100%分のダメージを代わりに受ける（解除不可）。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500300102]",
+        "IconId": 65003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500300102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55046500340100,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55046500340102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 55046500330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 55046500320102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 55046500300102,
+                "OrderNumber": 5
+            }
+        ]
+    },
+    {
+        "Id": 55046500300103,
+        "IsIgnore": null,
+        "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の魔力×100%分のダメージを代わりに受ける（解除不可）。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500300103]",
+        "IconId": 65003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500300103]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55046500340103,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55046500330103,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 55046500320103,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 55046500300103,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 55046500320101,
+        "IsIgnore": null,
+        "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の腕力×200%分のダメージを代わりに受ける（解除不可）。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500320101]",
+        "IconId": 65003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500320101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55046500340101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55046500330101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 55046500320101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 55046500300101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 55046500320102,
+        "IsIgnore": null,
+        "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の技力×200%分のダメージを代わりに受ける（解除不可）。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500320102]",
+        "IconId": 65003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500320102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55046500340100,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55046500340102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 55046500330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 55046500320102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 55046500300102,
+                "OrderNumber": 5
+            }
+        ]
+    },
+    {
+        "Id": 55046500320103,
+        "IsIgnore": null,
+        "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の魔力×200%分のダメージを代わりに受ける（解除不可）。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500320103]",
+        "IconId": 65003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500320103]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55046500340103,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55046500330103,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 55046500320103,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 55046500300103,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 55046500330101,
+        "IsIgnore": null,
+        "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の腕力×200%分のダメージを代わりに受ける（解除不可）。『悪魔の誘い』のスタック減少数1につき、『シールド』の大きさが付帯者の腕力×20%大きくなる（合計で最大400%まで）。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500330101]",
+        "IconId": 65003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500330101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55046500340101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55046500330101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 55046500320101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 55046500300101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 55046500330102,
+        "IsIgnore": null,
+        "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の技力×200%分のダメージを代わりに受ける（解除不可）。『悪魔の誘い』のスタック減少数1につき、『シールド』の大きさが付帯者の技力×20%大きくなる（合計で最大400%まで）。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500330102]",
+        "IconId": 65003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500330102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55046500340100,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55046500340102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 55046500330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 55046500320102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 55046500300102,
+                "OrderNumber": 5
+            }
+        ]
+    },
+    {
+        "Id": 55046500330103,
+        "IsIgnore": null,
+        "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の魔力×200%分のダメージを代わりに受ける（解除不可）。『悪魔の誘い』のスタック減少数1につき、『シールド』の大きさが付帯者の魔力×20%大きくなる（合計で最大400%まで）。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500330103]",
+        "IconId": 65003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500330103]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55046500340103,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55046500330103,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 55046500320103,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 55046500300103,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 55046500340100,
+        "IsIgnore": null,
+        "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の技力×1500％分のダメージを代わりに受ける（解除不可）。『悪魔の誘い』のスタック減少数1につき、『シールド』の大きさが付帯者の技力×20％大きくなる（合計で最大1700％まで）。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500340100]",
+        "IconId": 65003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500340100]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55046500340100,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55046500340102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 55046500330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 55046500320102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 55046500300102,
+                "OrderNumber": 5
+            }
+        ]
+    },
+    {
+        "Id": 55046500340101,
+        "IsIgnore": null,
+        "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の腕力×300%分のダメージを代わりに受ける（解除不可）。『悪魔の誘い』のスタック減少数1につき、『シールド』の大きさが付帯者の腕力×20％大きくなる（合計で最大500%まで）。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500340101]",
+        "IconId": 65003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500340101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55046500340101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55046500330101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 55046500320101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 55046500300101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 55046500340102,
+        "IsIgnore": null,
+        "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の技力×300%分のダメージを代わりに受ける（解除不可）。『悪魔の誘い』のスタック減少数1につき、『シールド』の大きさが付帯者の技力×20％大きくなる（合計で最大500%まで）。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500340102]",
+        "IconId": 65003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500340102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55046500340100,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55046500340102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 55046500330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 55046500320102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 55046500300102,
+                "OrderNumber": 5
+            }
+        ]
+    },
+    {
+        "Id": 55046500340103,
+        "IsIgnore": null,
+        "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の魔力×300%分のダメージを代わりに受ける（解除不可）。『悪魔の誘い』のスタック減少数1につき、『シールド』の大きさが付帯者の魔力×20％大きくなる（合計で最大500%まで）。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500340103]",
+        "IconId": 65003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500340103]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55046500340103,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55046500330103,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 55046500320103,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 55046500300103,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 55046500400101,
+        "IsIgnore": null,
+        "Memo": "[悪魔の誘い] スタック数が減少するたび、自身の攻撃力が1％増加する（最大10スタックまで）（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500400101]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500400101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55046500430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55046500420101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 55046500400101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 55046500400200,
+        "IsIgnore": null,
+        "Memo": "*攻撃力が1％増加する（最大10スタックまで）（解除不可）。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500400200]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500400200]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55046500430200,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55046500420200,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 55046500400200,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 55046500400201,
+        "IsIgnore": null,
+        "Memo": "*『悪魔の誘い』のスタックが1減少する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500400201]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500400201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55046500400202,
+        "IsIgnore": null,
+        "Memo": "*『悪魔の誘い』のスタックが2減少し、『攻撃力増加』のスタックが1増加する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500400202]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500400202]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55046500400203,
+        "IsIgnore": null,
+        "Memo": "*『悪魔の誘い』のスタックが3減少し、『攻撃力増加』のスタックが2増加する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500400203]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500400203]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55046500400204,
+        "IsIgnore": null,
+        "Memo": "*『悪魔の誘い』のスタックが4減少し、『攻撃力増加』のスタックが3増加する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500400204]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500400204]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55046500400205,
+        "IsIgnore": null,
+        "Memo": "*『悪魔の誘い』のスタックが5減少し、『攻撃力増加』のスタックが4増加する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500400205]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500400205]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55046500420101,
+        "IsIgnore": null,
+        "Memo": "[悪魔の誘い] スタック数が減少するたび、自身の攻撃力が2％増加する（最大10スタックまで）（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500420101]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500420101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55046500430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55046500420101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 55046500400101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 55046500420200,
+        "IsIgnore": null,
+        "Memo": "*攻撃力が2％増加する（最大10スタックまで）（解除不可）。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500420200]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500420200]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55046500430200,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55046500420200,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 55046500400200,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 55046500420201,
+        "IsIgnore": null,
+        "Memo": "*『悪魔の誘い』のスタックが1減少する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500420201]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500420201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55046500420202,
+        "IsIgnore": null,
+        "Memo": "*『悪魔の誘い』のスタックが2減少し、『攻撃力増加』のスタックが1増加する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500420202]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500420202]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55046500420203,
+        "IsIgnore": null,
+        "Memo": "*『悪魔の誘い』のスタックが3減少し、『攻撃力増加』のスタックが2増加する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500420203]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500420203]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55046500420204,
+        "IsIgnore": null,
+        "Memo": "*『悪魔の誘い』のスタックが4減少し、『攻撃力増加』のスタックが3増加する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500420204]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500420204]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55046500420205,
+        "IsIgnore": null,
+        "Memo": "*『悪魔の誘い』のスタックが5減少し、『攻撃力増加』のスタックが4増加する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500420205]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500420205]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55046500430101,
+        "IsIgnore": null,
+        "Memo": "[悪魔の誘い] スタック数が減少するたび、自身の攻撃力が3％増加する（最大10スタックまで）（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500430101]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500430101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55046500430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55046500420101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 55046500400101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 55046500430200,
+        "IsIgnore": null,
+        "Memo": "*攻撃力が3％増加する（最大10スタックまで）（解除不可）。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500430200]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500430200]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 55046500430200,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 55046500420200,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 55046500400200,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 55046500430201,
+        "IsIgnore": null,
+        "Memo": "*『悪魔の誘い』のスタックが1減少する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500430201]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500430201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55046500430202,
+        "IsIgnore": null,
+        "Memo": "*『悪魔の誘い』のスタックが2減少し、『攻撃力増加』のスタックが1増加する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500430202]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500430202]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55046500430203,
+        "IsIgnore": null,
+        "Memo": "*『悪魔の誘い』のスタックが3減少し、『攻撃力増加』のスタックが2増加する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500430203]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500430203]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55046500430204,
+        "IsIgnore": null,
+        "Memo": "*『悪魔の誘い』のスタックが4減少し、『攻撃力増加』のスタックが3増加する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500430204]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500430204]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 55046500430205,
+        "IsIgnore": null,
+        "Memo": "*『悪魔の誘い』のスタックが5減少し、『攻撃力増加』のスタックが4増加する。",
+        "CasterIconId": 65,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription6500430205]",
+        "IconId": 65004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName6500430205]",
+        "IsHide": true,
         "IsTurnHide": true,
         "EffectGroupInfoList": null
     },

@@ -3312,6 +3312,58 @@
         "StartTimeFixJST": "2024-01-15 15:00:00"
     },
     {
+        "Id": 65,
+        "IsIgnore": null,
+        "Memo": "アイネ",
+        "ActiveSkillIds": [
+            65001,
+            65002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 98,
+            "Health": 76,
+            "Intelligence": 87,
+            "Muscle": 72
+        },
+        "BaseParameterGrossCoefficient": 333,
+        "CharacterType": 0,
+        "ElementType": 5,
+        "InitialBattleParameter": {
+            "AttackPower": -2,
+            "Avoidance": 0,
+            "Critical": 0,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 0,
+            "DamageReflect": 0,
+            "DebuffHit": 3,
+            "DebuffResist": 0,
+            "Defense": 7,
+            "DefensePenetration": 0,
+            "Hit": 0,
+            "HP": 0,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": 1,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 1,
+            "Speed": 3165
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 2,
+        "Name2Key": null,
+        "NameKey": "[CharacterName65]",
+        "NormalSkillId": 101,
+        "PassiveSkillIds": [
+            65003,
+            65004
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2024-08-30 15:00:00"
+    },
+    {
         "Id": 66,
         "IsIgnore": null,
         "Memo": "[黒鎧の従者]アイリス",

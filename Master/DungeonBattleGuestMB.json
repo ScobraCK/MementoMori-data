@@ -517,9 +517,9 @@
         "IsIgnore": null,
         "Memo": "フィアー",
         "CharacterId": 60,
-        "IsPickup": true,
-        "EndTimeFixJST": "2024-08-23 14:29:59",
-        "StartTimeFixJST": "2024-08-07 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 59,
@@ -754,5 +754,14 @@
         "IsPickup": true,
         "EndTimeFixJST": "2024-08-30 14:29:59",
         "StartTimeFixJST": "2024-08-16 14:30:00"
+    },
+    {
+        "Id": 85,
+        "IsIgnore": null,
+        "Memo": "アイネ",
+        "CharacterId": 65,
+        "IsPickup": true,
+        "EndTimeFixJST": "2024-09-17 14:29:59",
+        "StartTimeFixJST": "2024-08-30 14:30:00"
     }
 ]
