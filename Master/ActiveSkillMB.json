@@ -11930,7 +11930,7 @@
     {
         "Id": 550109002,
         "IsIgnore": null,
-        "Memo": "ギルドレイド通常ソーニャSR：旋風の如き素早い急襲。HPが最も低い敵に攻撃力×800％の物理攻撃を行う。弱った敵にも容赦しないヴァイキングの本能により、敵のHP割合が40％以下の場合、この攻撃は必ずクリティカルヒットする。／さらに自身の腕力×400％の直接攻撃を行う。／追加攻撃のダメージが腕力×600%になる。／さらにこのスキルで敵を戦闘不能にした場合、このスキルを再発動する。",
+        "Memo": "削除予定　ギルドレイド通常ソーニャSR：旋風の如き素早い急襲。HPが最も低い敵に攻撃力×800％の物理攻撃を行う。弱った敵にも容赦しないヴァイキングの本能により、敵のHP割合が40％以下の場合、この攻撃は必ずクリティカルヒットする。／さらに自身の腕力×400％の直接攻撃を行う。／追加攻撃のダメージが腕力×600%になる。／さらにこのスキルで敵を戦闘不能にした場合、このスキルを再発動する。",
         "ActiveSkillConditions": "True",
         "ActiveSkillInfos": [
             {
@@ -11941,8 +11941,8 @@
                 "BlessingItemId": 0,
                 "SubSetSkillIds": [
                     9002001,
-                    9002302,
-                    9002403,
+                    9002301,
+                    9002402,
                     9002404
                 ]
             }
@@ -13840,7 +13840,7 @@
     {
         "Id": 550408001,
         "IsIgnore": null,
-        "Memo": "",
+        "Memo": "敵用フローレンスSR: /Lv1　紅く鋭い光を放つ槍で、ランダムな敵に3回攻撃力×460%の物理攻撃を行う。相手を倒すほど士気が上昇していき、クリティカルヒットするたび攻撃回数が1回多くなる（合計で最大6回まで）。　/Lv2 最初の物理攻撃の回数が4回、合計で最大8回までになる。　/Lv3 物理攻撃のダメージが攻撃力×480%になる。　/専用1 紅天光槍を強化する。さらに物理攻撃の前に対象のクリティカル耐性を40％減少させる。　/専用2 紅天光槍を強化する。最初の物理攻撃の回数が6回、合計で最大10回までになる。",
         "ActiveSkillConditions": "True",
         "ActiveSkillInfos": [
             {
@@ -13930,7 +13930,7 @@
             },
             {
                 "OrderNumber": 6,
-                "DescriptionKey": "[ActiveSkillDescription80016]",
+                "DescriptionKey": "*",
                 "CharacterLevel": 240,
                 "EquipmentRarityFlags": 512,
                 "BlessingItemId": 0,
@@ -14974,12 +14974,12 @@
     {
         "Id": 550416101,
         "IsIgnore": null,
-        "Memo": "",
+        "Memo": "敵用フレイシアSR: /Lv1　あの人がくれた心の種が花開く時。自身の通常攻撃を強化する。通常攻撃時30%の確率で、自身のHPを自身の攻撃力×10％回復する。",
         "ActiveSkillConditions": "True",
         "ActiveSkillInfos": [
             {
                 "OrderNumber": 1,
-                "DescriptionKey": "[ActiveSkillDescription161011]",
+                "DescriptionKey": "*",
                 "CharacterLevel": 1,
                 "EquipmentRarityFlags": 0,
                 "BlessingItemId": 0,
@@ -14989,7 +14989,7 @@
                 ]
             }
         ],
-        "NameKey": "[ActiveSkillName16101]",
+        "NameKey": "*",
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 0,
         "RootActiveSkillId": 16101
@@ -14997,12 +14997,12 @@
     {
         "Id": 550416102,
         "IsIgnore": null,
-        "Memo": "",
+        "Memo": "敵用フレイシアSR: /Lv2　HP回復の対象が自身と最もHP割合の低い味方になる。",
         "ActiveSkillConditions": "True",
         "ActiveSkillInfos": [
             {
                 "OrderNumber": 1,
-                "DescriptionKey": "[ActiveSkillDescription161021]",
+                "DescriptionKey": "*",
                 "CharacterLevel": 1,
                 "EquipmentRarityFlags": 0,
                 "BlessingItemId": 0,
@@ -15013,7 +15013,7 @@
                 ]
             }
         ],
-        "NameKey": "[ActiveSkillName16102]",
+        "NameKey": "*",
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 0,
         "RootActiveSkillId": 16102
@@ -15021,12 +15021,12 @@
     {
         "Id": 550416103,
         "IsIgnore": null,
-        "Memo": "",
+        "Memo": "敵用フレイシアSR: /Lv3　HPの回復量が自身の攻撃力×20％になる。",
         "ActiveSkillConditions": "True",
         "ActiveSkillInfos": [
             {
                 "OrderNumber": 1,
-                "DescriptionKey": "[ActiveSkillDescription161031]",
+                "DescriptionKey": "*",
                 "CharacterLevel": 1,
                 "EquipmentRarityFlags": 0,
                 "BlessingItemId": 0,
@@ -15037,7 +15037,7 @@
                 ]
             }
         ],
-        "NameKey": "[ActiveSkillName16103]",
+        "NameKey": "*",
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 0,
         "RootActiveSkillId": 16103
@@ -17384,7 +17384,7 @@
     {
         "Id": 550435002,
         "IsIgnore": null,
-        "Memo": "",
+        "Memo": "敵用ミミSR: /Lv1　憧れの踊り子のマネをして、覚えたてのダンスを披露。ランダムな敵3体に攻撃力×260％の物理攻撃を行う。自身が付帯しているバフ1つにつき物理攻撃のダメージが攻撃力×40％大きくなる（最大攻撃力×420％まで）。4ターンの間自身にこのスキルの総与ダメージ×20％の『シールド』を付与する。　/Lv2 物理攻撃のダメージが攻撃力×290％になり、自身が付帯しているバフ1つにつき増加するダメージが攻撃力×60％になる（最大攻撃力×530%まで）。　/Lv3 このスキルの対象がランダムな敵5体になる。　/Lv4 物理攻撃のダメージが攻撃力×350％になる（最大攻撃力×590%まで）。　/専用1 宵猫のワルツを強化する。『シールド』を付与する対象が自身とHP割合が最も低い味方になる。　/専用3 宵猫のワルツを強化する。『シールド』の大きさが総与ダメージ×30％になる。",
         "ActiveSkillConditions": "True",
         "ActiveSkillInfos": [
             {
@@ -17433,7 +17433,7 @@
             },
             {
                 "OrderNumber": 5,
-                "DescriptionKey": "[ActiveSkillDescription350025]",
+                "DescriptionKey": "*",
                 "CharacterLevel": 181,
                 "EquipmentRarityFlags": 256,
                 "BlessingItemId": 0,
@@ -17445,7 +17445,7 @@
             },
             {
                 "OrderNumber": 6,
-                "DescriptionKey": "[ActiveSkillDescription350026]",
+                "DescriptionKey": "*",
                 "CharacterLevel": 240,
                 "EquipmentRarityFlags": 512,
                 "BlessingItemId": 0,
@@ -20259,7 +20259,7 @@
     {
         "Id": 550455001,
         "IsIgnore": null,
-        "Memo": "",
+        "Memo": "敵用レアSR:Lv1 癇癪を起して滅茶苦茶に武器を振り回し、2ターンの間攻撃力が最も高い敵の回避率を30％減少させた後、対象に攻撃力×700％の物理攻撃を行う。その後80％の確率で対象に1ターンの間『気絶』を付与する。/ Lv2 \\nさらに『気絶』付与の判定の後、対象が『気絶』を付帯していない場合、対象に攻撃力×900％の物理攻撃を行う。この攻撃は必ず命中する。ただし最初の攻撃で敵を戦闘不能にした場合、この攻撃は発動しない。/ Lv3 \\nさらにこのスキルで敵を戦闘不能にできなかった場合、このスキルを再発動する。/ Ex1 \\n黙れ黙れ黙れぇっ！を強化する。回避率の減少量が50％になる。/ Ex3 \\n黙れ黙れ黙れぇっ！を強化する。「回避率減少」のターン数が3ターンになる。",
         "ActiveSkillConditions": "True",
         "ActiveSkillInfos": [
             {
@@ -20311,7 +20311,7 @@
             },
             {
                 "OrderNumber": 5,
-                "DescriptionKey": "[ActiveSkillDescription550016]",
+                "DescriptionKey": "*",
                 "CharacterLevel": 240,
                 "EquipmentRarityFlags": 512,
                 "BlessingItemId": 0,
@@ -20934,7 +20934,7 @@
                 ]
             }
         ],
-        "NameKey": "[ActiveSkillName59101]",
+        "NameKey": "*",
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 0,
         "RootActiveSkillId": 59101
