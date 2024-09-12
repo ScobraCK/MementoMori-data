@@ -492,6 +492,11 @@
                 "HelpParameterType": 0
             },
             {
+                "HeadLine": "[HelpHeadLine2219]",
+                "MainText": "[HelpMainText2219]",
+                "HelpParameterType": 0
+            },
+            {
                 "HeadLine": "[HelpHeadLine2211]",
                 "MainText": "[HelpMainText2211]",
                 "HelpParameterType": 0
@@ -1531,6 +1536,32 @@
         "HelpTitle": "[HelpTitleKey]",
         "IsDisplayed": true,
         "TutorialDescriptionId": 30,
+        "DisplayDeviceTypes": null
+    },
+    {
+        "Id": 6600,
+        "IsIgnore": null,
+        "Memo": "人気投票画面",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine6600]",
+                "MainText": "[HelpMainText6600]",
+                "HelpParameterType": 4
+            },
+            {
+                "HeadLine": "[HelpHeadLine6601]",
+                "MainText": "[HelpMainText6601]",
+                "HelpParameterType": 4
+            },
+            {
+                "HeadLine": "[HelpHeadLine6602]",
+                "MainText": "[HelpMainText6602]",
+                "HelpParameterType": 4
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 31,
         "DisplayDeviceTypes": null
     }
 ]
