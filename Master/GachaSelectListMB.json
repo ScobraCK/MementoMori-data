@@ -3374,9 +3374,11 @@
     {
         "Id": 84,
         "IsIgnore": null,
-        "Memo": "アイネ③＋モルガナ復刻②＋次キャラ仮入れ仮①（0912切替用）",
+        "Memo": "アイネ③＋モルガナ復刻②＋セルリア①＋ユニ復刻①（0912切替用）",
         "CharacterIdList": [
+            79,
             65,
+            76,
             75,
             5,
             6,
@@ -3404,18 +3406,22 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
+            79,
             65,
+            76,
             75
         ],
         "OrderNumber": 84,
-        "StartTimeFixJST": "2024-09-12 16:30:00",
+        "StartTimeFixJST": "2024-09-12 15:00:00",
         "EndTimeFixJST": "2024-09-17 14:29:59"
     },
     {
         "Id": 85,
         "IsIgnore": null,
-        "Memo": "モルガナ復刻③＋次キャラ仮入れ仮①（0917切替用）",
+        "Memo": "セルリア②＋ユニ復刻②＋モルガナ復刻③（0917切替用）",
         "CharacterIdList": [
+            79,
+            76,
             75,
             5,
             6,
@@ -3443,11 +3449,53 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
+            79,
+            76,
             75
         ],
-        "OrderNumber": 84,
+        "OrderNumber": 85,
         "StartTimeFixJST": "2024-09-17 14:30:00",
         "EndTimeFixJST": "2024-09-20 14:29:59"
+    },
+    {
+        "Id": 86,
+        "IsIgnore": null,
+        "Memo": "セルリア③＋ユニ復刻③＋次キャラ仮入れ仮①（0920切替用）",
+        "CharacterIdList": [
+            79,
+            76,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            79,
+            76
+        ],
+        "OrderNumber": 86,
+        "StartTimeFixJST": "2024-09-20 14:30:00",
+        "EndTimeFixJST": "2024-09-30 14:29:59"
     },
     {
         "Id": 10000,
@@ -3646,5 +3694,23 @@
         "OrderNumber": 11,
         "StartTimeFixJST": "2024-08-16 16:30:00",
         "EndTimeFixJST": "2024-09-06 14:29:59"
+    },
+    {
+        "Id": 10120,
+        "IsIgnore": null,
+        "Memo": "星の導き12回ガチャ_ルサールカ・シフォン（9/12 17:30 ~ 10/9 14:29 ）",
+        "CharacterIdList": [
+            44,
+            54
+        ],
+        "GachaSelectListType": 3,
+        "IsResetSelectedCharacter": true,
+        "NewCharacterIdList": [
+            44,
+            54
+        ],
+        "OrderNumber": 12,
+        "StartTimeFixJST": "2024-09-12 15:00:00",
+        "EndTimeFixJST": "2024-10-09 14:29:59"
     }
 ]

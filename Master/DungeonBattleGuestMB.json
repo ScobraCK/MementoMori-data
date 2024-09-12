@@ -544,9 +544,9 @@
         "IsIgnore": null,
         "Memo": "ステラ",
         "CharacterId": 57,
-        "IsPickup": true,
-        "EndTimeFixJST": "2024-08-30 14:29:59",
-        "StartTimeFixJST": "2024-08-16 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 62,
@@ -652,9 +652,9 @@
         "IsIgnore": null,
         "Memo": "ユニ",
         "CharacterId": 76,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2024-09-30 14:29:59",
+        "StartTimeFixJST": "2024-09-12 14:30:00"
     },
     {
         "Id": 74,
@@ -751,9 +751,9 @@
         "IsIgnore": null,
         "Memo": "ミラ",
         "CharacterId": 80,
-        "IsPickup": true,
-        "EndTimeFixJST": "2024-08-30 14:29:59",
-        "StartTimeFixJST": "2024-08-16 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 85,
@@ -763,5 +763,14 @@
         "IsPickup": true,
         "EndTimeFixJST": "2024-09-17 14:29:59",
         "StartTimeFixJST": "2024-08-30 14:30:00"
+    },
+    {
+        "Id": 86,
+        "IsIgnore": null,
+        "Memo": "セルリア",
+        "CharacterId": 79,
+        "IsPickup": true,
+        "EndTimeFixJST": "2024-09-30 14:29:59",
+        "StartTimeFixJST": "2024-09-12 14:30:00"
     }
 ]
