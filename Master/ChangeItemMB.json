@@ -10942,5 +10942,21 @@
         "ItemId": 650,
         "ItemType": 16,
         "NeedCount": 1
+    },
+    {
+        "Id": 701,
+        "IsIgnore": null,
+        "Memo": "封印の呪符",
+        "ChangeItems": [
+            {
+                "ItemCount": 10000,
+                "ItemId": 1,
+                "ItemType": 3
+            }
+        ],
+        "ChangeItemType": 0,
+        "ItemId": 22,
+        "ItemType": 50,
+        "NeedCount": 1
     }
 ]

@@ -686,5 +686,77 @@
         "EventStartTime": null,
         "EventEndTime": null,
         "EventMissionRewardList": null
+    },
+    {
+        "Id": 10001,
+        "IsIgnore": null,
+        "Memo": "イベント_デイリーミッション1_タマ",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 20,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 22,
+                    "ItemType": 50
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2024-09-30 04:00:00",
+        "EndTime": "2024-10-10 03:59:59",
+        "SortOrder": 0,
+        "EventStartTime": null,
+        "EventEndTime": null,
+        "EventMissionRewardList": null
+    },
+    {
+        "Id": 10002,
+        "IsIgnore": null,
+        "Memo": "イベント_デイリーミッション3_タマ",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 60,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 22,
+                    "ItemType": 50
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2024-09-30 04:00:00",
+        "EndTime": "2024-10-10 03:59:59",
+        "SortOrder": 0,
+        "EventStartTime": null,
+        "EventEndTime": null,
+        "EventMissionRewardList": null
+    },
+    {
+        "Id": 10003,
+        "IsIgnore": null,
+        "Memo": "イベント_デイリーミッション5_タマ",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 100,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 10,
+                    "ItemId": 22,
+                    "ItemType": 50
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2024-09-30 04:00:00",
+        "EndTime": "2024-10-10 03:59:59",
+        "SortOrder": 0,
+        "EventStartTime": null,
+        "EventEndTime": null,
+        "EventMissionRewardList": null
     }
 ]
