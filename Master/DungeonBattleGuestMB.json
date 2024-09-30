@@ -661,9 +661,9 @@
         "IsIgnore": null,
         "Memo": "パラデア",
         "CharacterId": 63,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2024-10-18 14:29:59",
+        "StartTimeFixJST": "2024-09-30 14:30:00"
     },
     {
         "Id": 75,
@@ -679,9 +679,9 @@
         "IsIgnore": null,
         "Memo": "モルガナ",
         "CharacterId": 75,
-        "IsPickup": true,
-        "EndTimeFixJST": "2024-09-20 14:29:59",
-        "StartTimeFixJST": "2024-09-06 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 77,
@@ -772,5 +772,14 @@
         "IsPickup": true,
         "EndTimeFixJST": "2024-09-30 14:29:59",
         "StartTimeFixJST": "2024-09-12 14:30:00"
+    },
+    {
+        "Id": 87,
+        "IsIgnore": null,
+        "Memo": "タマ",
+        "CharacterId": 81,
+        "IsPickup": true,
+        "EndTimeFixJST": "2024-10-18 14:29:59",
+        "StartTimeFixJST": "2024-09-30 14:30:00"
     }
 ]

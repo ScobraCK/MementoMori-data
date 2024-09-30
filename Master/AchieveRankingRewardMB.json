@@ -4213,5 +4213,65 @@
                 "ItemType": 1
             }
         ]
+    },
+    {
+        "Id": 282,
+        "IsIgnore": null,
+        "Memo": "プレイヤーランク625到達",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetPlayerRank]",
+        "RankingDataType": 2,
+        "RequireValue": 625,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
+    },
+    {
+        "Id": 283,
+        "IsIgnore": null,
+        "Memo": "プレイヤーランク650到達",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetPlayerRank]",
+        "RankingDataType": 2,
+        "RequireValue": 650,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
+    },
+    {
+        "Id": 284,
+        "IsIgnore": null,
+        "Memo": "プレイヤーランク675到達",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetPlayerRank]",
+        "RankingDataType": 2,
+        "RequireValue": 675,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
+    },
+    {
+        "Id": 285,
+        "IsIgnore": null,
+        "Memo": "プレイヤーランク700到達",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetPlayerRank]",
+        "RankingDataType": 2,
+        "RequireValue": 700,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
     }
 ]

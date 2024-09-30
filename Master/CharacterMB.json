@@ -4146,6 +4146,58 @@
         "StartTimeFixJST": "2024-08-16 15:00:00"
     },
     {
+        "Id": 81,
+        "IsIgnore": null,
+        "Memo": "タマ",
+        "ActiveSkillIds": [
+            81001,
+            81002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 96,
+            "Health": 66,
+            "Intelligence": 84,
+            "Muscle": 84
+        },
+        "BaseParameterGrossCoefficient": 330,
+        "CharacterType": 0,
+        "ElementType": 4,
+        "InitialBattleParameter": {
+            "AttackPower": 0,
+            "Avoidance": 2,
+            "Critical": 0,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 0,
+            "DamageReflect": 0,
+            "DebuffHit": 0,
+            "DebuffResist": 0,
+            "Defense": 10,
+            "DefensePenetration": 0,
+            "Hit": 0,
+            "HP": -3,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": 0,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 1,
+            "Speed": 3286
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 2,
+        "Name2Key": null,
+        "NameKey": "[CharacterName81]",
+        "NormalSkillId": 101,
+        "PassiveSkillIds": [
+            81003,
+            81004
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2024-09-30 15:00:00"
+    },
+    {
         "Id": 82,
         "IsIgnore": null,
         "Memo": "アレクサンドラ",

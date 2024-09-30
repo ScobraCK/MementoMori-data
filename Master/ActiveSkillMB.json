@@ -10961,6 +10961,139 @@
         "RootActiveSkillId": 80002
     },
     {
+        "Id": 81001,
+        "IsIgnore": null,
+        "Memo": "タマSR:Lv1 「我を崇めよ！」自称守り神の加護により、2ターンの間攻撃力が最も高い味方の命中率を20%増加させる。「歯向かう奴はこうじゃ！」その後ランダムな敵3体に攻撃力×280%の物理攻撃を行う。/ Lv2 バトル中このスキルを使うのが3回目以降の場合、命中率の増加量が80%になる。/ Lv3 『命中率増加』のターン数が4ターンになる。/ Ex1 妖狐燐火を強化する。『命中率増加』の対象が攻撃力が高い味方2体になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription810011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    81001001,
+                    81001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription810012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    81001201,
+                    81001002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription810013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    81001301,
+                    81001002
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription810014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    81001401,
+                    81001002
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName81001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 81001
+    },
+    {
+        "Id": 81002,
+        "IsIgnore": null,
+        "Memo": "タマSR:Lv1 「悪名高きモノノケの底力、見せてくれよう！」妖術によって生まれた狐火が一斉に襲いかかる。攻撃力が最も高い敵に4回攻撃力×260%の物理攻撃を行う。/ Lv2 さらに物理攻撃の前に4ターンの間対象の防御力と物理防御力をそれぞれ25%減少させる。/ Lv3 防御力と物理防御力の減少量がそれぞれ50%になる。/ Lv4 バトル中このスキルを使うのが3回目以降の場合、物理攻撃のダメージが攻撃力×1040%になる。/ Ex3 狐火乱舞を強化する。物理攻撃のダメージが攻撃力×280%になる。バトル中このスキルを使うのが3回目以降の場合、物理攻撃のダメージが攻撃力×1120%になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription810021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    81002001,
+                    81002002,
+                    81002002,
+                    81002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription810022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    81002201,
+                    81002202,
+                    81002202,
+                    81002202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription810023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    81002301,
+                    81002302,
+                    81002302,
+                    81002302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription810024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    81002401,
+                    81002402,
+                    81002402,
+                    81002402
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription810025]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    81002501,
+                    81002502,
+                    81002502,
+                    81002502
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName81002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 81002
+    },
+    {
         "Id": 82001,
         "IsIgnore": null,
         "Memo": "アレクサンドラSR:Lv1 聖なる盾が紅く輝く時、裁きの光が降り注ぐ。ランダムな敵4体に攻撃力×250%の物理攻撃を行う。/ Lv2 さらに70%の確率で対象に1ターンの間『出血』を付与する。毎ターン行動開始時に自身の攻撃力×50%のダメージを与える。/ Lv3 『出血』のターン数が2ターンになる。/ Ex1 ナイト・ブレイクを強化する。ナイト・ブレイクの対象がランダムな敵5体になる。/ Ex3 ナイト・ブレイクを強化する。物理攻撃のダメージが攻撃力×280%になる。",
@@ -26108,6 +26241,54 @@
         "RootActiveSkillId": 74002
     },
     {
+        "Id": 5502081001,
+        "IsIgnore": null,
+        "Memo": "ギルドレイドタマ1",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription810013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    81001301,
+                    81001002
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName81001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 81001
+    },
+    {
+        "Id": 5502081002,
+        "IsIgnore": null,
+        "Memo": "ギルドレイドタマ2",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription810024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    81002401,
+                    81002402,
+                    81002402,
+                    81002402
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName81002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 81002
+    },
+    {
         "Id": 5503044001,
         "IsIgnore": null,
         "Memo": "ルサールカ別スキル1",
@@ -37621,6 +37802,139 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 80002
+    },
+    {
+        "Id": 5504081001,
+        "IsIgnore": null,
+        "Memo": null,
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504081001001,
+                    5504081001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504081001201,
+                    5504081001002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504081001301,
+                    5504081001002
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504081001401,
+                    5504081001002
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName81001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 81001
+    },
+    {
+        "Id": 5504081002,
+        "IsIgnore": null,
+        "Memo": null,
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504081002001,
+                    5504081002002,
+                    5504081002002,
+                    5504081002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504081002201,
+                    5504081002202,
+                    5504081002202,
+                    5504081002202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504081002301,
+                    5504081002302,
+                    5504081002302,
+                    5504081002302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504081002401,
+                    5504081002402,
+                    5504081002402,
+                    5504081002402
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": null,
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504081002501,
+                    5504081002502,
+                    5504081002502,
+                    5504081002502
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName81002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 81002
     },
     {
         "Id": 5504082001,

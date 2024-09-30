@@ -9178,5 +9178,134 @@
             }
         ],
         "CharacterId": 79
+    },
+    {
+        "Id": 427,
+        "IsIgnore": null,
+        "Memo": "タマSSR180",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 81
+    },
+    {
+        "Id": 428,
+        "IsIgnore": null,
+        "Memo": "タマSSR200",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1300.0
+            },
+            {
+                "BattleParameterType": 8,
+                "ChangeParameterType": 2,
+                "Value": 600.0
+            }
+        ],
+        "CharacterId": 81
+    },
+    {
+        "Id": 429,
+        "IsIgnore": null,
+        "Memo": "タマSSR220",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1400.0
+            },
+            {
+                "BattleParameterType": 8,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            },
+            {
+                "BattleParameterType": 11,
+                "ChangeParameterType": 1,
+                "Value": 2600.0
+            }
+        ],
+        "CharacterId": 81
+    },
+    {
+        "Id": 430,
+        "IsIgnore": null,
+        "Memo": "タマSSR240",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 8,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            },
+            {
+                "BattleParameterType": 11,
+                "ChangeParameterType": 1,
+                "Value": 2900.0
+            }
+        ],
+        "CharacterId": 81
+    },
+    {
+        "Id": 431,
+        "IsIgnore": null,
+        "Memo": "タマUR",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1600.0
+            },
+            {
+                "BattleParameterType": 8,
+                "ChangeParameterType": 2,
+                "Value": 900.0
+            },
+            {
+                "BattleParameterType": 11,
+                "ChangeParameterType": 1,
+                "Value": 3200.0
+            }
+        ],
+        "CharacterId": 81
+    },
+    {
+        "Id": 432,
+        "IsIgnore": null,
+        "Memo": "タマLR",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 8,
+                "ChangeParameterType": 2,
+                "Value": 1000.0
+            },
+            {
+                "BattleParameterType": 11,
+                "ChangeParameterType": 1,
+                "Value": 3500.0
+            }
+        ],
+        "CharacterId": 81
     }
 ]

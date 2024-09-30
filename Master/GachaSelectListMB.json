@@ -3502,8 +3502,10 @@
     {
         "Id": 87,
         "IsIgnore": null,
-        "Memo": "クラウディア復刻②＋次キャラ仮入れ仮①（0930切替用）",
+        "Memo": "クラウディア復刻②＋タマ①＋パラデア復刻①（0930切替用）",
         "CharacterIdList": [
+            81,
+            63,
             56,
             5,
             6,
@@ -3531,11 +3533,53 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
+            81,
+            63,
             56
         ],
         "OrderNumber": 87,
-        "StartTimeFixJST": "2024-09-30 16:30:00",
+        "StartTimeFixJST": "2024-09-30 15:00:00",
         "EndTimeFixJST": "2024-10-09 14:29:59"
+    },
+    {
+        "Id": 88,
+        "IsIgnore": null,
+        "Memo": "タマ②＋パラデア復刻②＋次キャラ仮入れ仮①（1009切替用）",
+        "CharacterIdList": [
+            81,
+            63,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            81,
+            63
+        ],
+        "OrderNumber": 88,
+        "StartTimeFixJST": "2024-10-09 14:30:00",
+        "EndTimeFixJST": "2024-10-18 14:29:59"
     },
     {
         "Id": 10000,

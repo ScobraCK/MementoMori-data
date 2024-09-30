@@ -18445,6 +18445,747 @@
         "EffectGroupInfoList": null
     },
     {
+        "Id": 8100100101,
+        "IsIgnore": null,
+        "Memo": "命中率が20%増加する。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100100101]",
+        "IconId": 81001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100100101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8100130102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8100120102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 8100130101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 8100120101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 8100100101,
+                "OrderNumber": 5
+            }
+        ]
+    },
+    {
+        "Id": 8100120101,
+        "IsIgnore": null,
+        "Memo": "命中率が20%増加する。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100120101]",
+        "IconId": 81001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100120101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8100130102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8100120102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 8100130101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 8100120101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 8100100101,
+                "OrderNumber": 5
+            }
+        ]
+    },
+    {
+        "Id": 8100120102,
+        "IsIgnore": null,
+        "Memo": "命中率が80%増加する。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100120102]",
+        "IconId": 81001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100120102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8100130102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8100120102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 8100130101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 8100120101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 8100100101,
+                "OrderNumber": 5
+            }
+        ]
+    },
+    {
+        "Id": 8100130101,
+        "IsIgnore": null,
+        "Memo": "命中率が20%増加する。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100130101]",
+        "IconId": 81001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100130101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8100130102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8100120102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 8100130101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 8100120101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 8100100101,
+                "OrderNumber": 5
+            }
+        ]
+    },
+    {
+        "Id": 8100130102,
+        "IsIgnore": null,
+        "Memo": "命中率が80%増加する。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100130102]",
+        "IconId": 81001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100130102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8100130102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8100120102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 8100130101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 8100120101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 8100100101,
+                "OrderNumber": 5
+            }
+        ]
+    },
+    {
+        "Id": 8100220101,
+        "IsIgnore": null,
+        "Memo": "防御力が25%減少し、物理防御力が25%減少する。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100220101]",
+        "IconId": 81002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100220101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8100230101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8100220101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 8100230101,
+        "IsIgnore": null,
+        "Memo": "防御力が50%減少し、物理防御力が50%減少する。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100230101]",
+        "IconId": 81002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100230101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8100230101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8100220101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 8100300101,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×30%分のダメージを代わりに受ける。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100300101]",
+        "IconId": 81003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100300101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8100340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8100330102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 8100320102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 8100340101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 8100330101,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 8100320101,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 8100300101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 8100300103,
+        "IsIgnore": null,
+        "Memo": "[チビタマ人形] タマの魔力から生まれた、動く人形。タマの子分。人形なので何もできない。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100300103]",
+        "IconId": 81003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100300103]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8100330103,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8100300103,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 8100300104,
+        "IsIgnore": null,
+        "Memo": "[チビタマ人形] タマの魔力から生まれた、動く人形。タマの子分。人形なので何もできない。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100300104]",
+        "IconId": 81003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100300104]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8100330104,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8100300104,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 8100300105,
+        "IsIgnore": null,
+        "Memo": "[チビタマ人形] タマの魔力から生まれた、動く人形。タマの子分。人形なので何もできない。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100300105]",
+        "IconId": 81003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100300105]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8100330105,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8100300105,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 8100320101,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×30%分のダメージを代わりに受ける。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100320101]",
+        "IconId": 81003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100320101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8100340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8100330102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 8100320102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 8100340101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 8100330101,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 8100320101,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 8100300101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 8100320102,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×30%と付与者の攻撃力×200%の合計分のダメージを代わりに受ける。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100320102]",
+        "IconId": 81003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100320102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8100340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8100330102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 8100320102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 8100340101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 8100330101,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 8100320101,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 8100300101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 8100330101,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×30%分のダメージを代わりに受ける。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100330101]",
+        "IconId": 81003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100330101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8100340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8100330102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 8100320102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 8100340101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 8100330101,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 8100320101,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 8100300101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 8100330102,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×30%と付与者の攻撃力×200%の合計分のダメージを代わりに受ける。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100330102]",
+        "IconId": 81003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100330102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8100340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8100330102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 8100320102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 8100340101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 8100330101,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 8100320101,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 8100300101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 8100330103,
+        "IsIgnore": null,
+        "Memo": "[チビタマ人形] タマの魔力から生まれた、動く人形。タマの子分。人形なので何もできない。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100330103]",
+        "IconId": 81003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100330103]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8100330103,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8100300103,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 8100330104,
+        "IsIgnore": null,
+        "Memo": "[チビタマ人形] タマの魔力から生まれた、動く人形。タマの子分。人形なので何もできない。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100330104]",
+        "IconId": 81003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100330104]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8100330104,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8100300104,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 8100330105,
+        "IsIgnore": null,
+        "Memo": "[チビタマ人形] タマの魔力から生まれた、動く人形。タマの子分。人形なので何もできない。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100330105]",
+        "IconId": 81003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100330105]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8100330105,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8100300105,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 8100340101,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×80%分のダメージを代わりに受ける。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100340101]",
+        "IconId": 81003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100340101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8100340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8100330102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 8100320102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 8100340101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 8100330101,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 8100320101,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 8100300101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 8100340102,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×80%と付与者の攻撃力×600%の合計分のダメージを代わりに受ける。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100340102]",
+        "IconId": 81003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100340102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8100340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8100330102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 8100320102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 8100340101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 8100330101,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 8100320101,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 8100300101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 8100400101,
+        "IsIgnore": null,
+        "Memo": "[透明] 敵味方の全てのスキルの対象から除外される（解除不可）。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100400101]",
+        "IconId": 81004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100400101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8100430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8100420101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 8100400101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 8100420101,
+        "IsIgnore": null,
+        "Memo": "[透明] 敵味方の全てのスキルの対象から除外される（解除不可）。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100420101]",
+        "IconId": 81004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100420101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8100430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8100420101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 8100400101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 8100430101,
+        "IsIgnore": null,
+        "Memo": "[透明] 敵味方の全てのスキルの対象から除外される（解除不可）。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100430101]",
+        "IconId": 81004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100430101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8100430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8100420101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 8100400101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
         "Id": 8200120102,
         "IsIgnore": null,
         "Memo": "[出血] 毎ターン付与者の攻撃力×{0}%のダメージを受ける。",
@@ -44435,7 +45176,7 @@
         "CasterIconId": 0,
         "CasterIconType": 0,
         "DescriptionKey": "[EffectGroupDescription550000000100101]",
-        "IconId": 550000001,
+        "IconId": 5500000001,
         "IconType": 1,
         "NameKey": "[EffectGroupName550000000100101]",
         "IsHide": false,
@@ -44463,7 +45204,7 @@
         "CasterIconId": 0,
         "CasterIconType": 0,
         "DescriptionKey": "[EffectGroupDescription550000000300101]",
-        "IconId": 550000003,
+        "IconId": 5500000003,
         "IconType": 1,
         "NameKey": "[EffectGroupName550000000300101]",
         "IsHide": false,
@@ -44477,7 +45218,7 @@
         "CasterIconId": 0,
         "CasterIconType": 0,
         "DescriptionKey": "[EffectGroupDescription550000000400101]",
-        "IconId": 550000004,
+        "IconId": 5500000004,
         "IconType": 1,
         "NameKey": "[EffectGroupName550000000400101]",
         "IsHide": false,
@@ -44547,7 +45288,7 @@
         "CasterIconId": 0,
         "CasterIconType": 0,
         "DescriptionKey": "[EffectGroupDescription550100900100101]",
-        "IconId": 550000002,
+        "IconId": 5500000002,
         "IconType": 1,
         "NameKey": "[EffectGroupName550100900100101]",
         "IsHide": false,
@@ -44589,7 +45330,7 @@
         "CasterIconId": 0,
         "CasterIconType": 0,
         "DescriptionKey": "[EffectGroupDescription550203000600101]",
-        "IconId": 550000002,
+        "IconId": 5500000002,
         "IconType": 1,
         "NameKey": "[EffectGroupName550203000600101]",
         "IsHide": false,
@@ -44754,7 +45495,7 @@
         "CasterIconId": 0,
         "CasterIconType": 0,
         "DescriptionKey": "[EffectGroupDescription550203000600101]",
-        "IconId": 550000002,
+        "IconId": 5500000002,
         "IconType": 1,
         "NameKey": "[EffectGroupName550203000600101]",
         "IsHide": false,
@@ -44796,7 +45537,7 @@
         "CasterIconId": 62,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription550203000600101]",
-        "IconId": 550000002,
+        "IconId": 5500000002,
         "IconType": 1,
         "NameKey": "[EffectGroupName550203000600101]",
         "IsHide": false,
@@ -64341,6 +65082,747 @@
         "IsHide": true,
         "IsTurnHide": true,
         "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550408100100101,
+        "IsIgnore": null,
+        "Memo": "命中率が20%増加する。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100100101]",
+        "IconId": 81001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100100101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550408100130102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550408100120102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550408100130101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550408100120101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550408100100101,
+                "OrderNumber": 5
+            }
+        ]
+    },
+    {
+        "Id": 550408100120101,
+        "IsIgnore": null,
+        "Memo": "命中率が20%増加する。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100120101]",
+        "IconId": 81001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100120101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550408100130102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550408100120102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550408100130101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550408100120101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550408100100101,
+                "OrderNumber": 5
+            }
+        ]
+    },
+    {
+        "Id": 550408100120102,
+        "IsIgnore": null,
+        "Memo": "命中率が80%増加する。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100120102]",
+        "IconId": 81001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100120102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550408100130102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550408100120102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550408100130101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550408100120101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550408100100101,
+                "OrderNumber": 5
+            }
+        ]
+    },
+    {
+        "Id": 550408100130101,
+        "IsIgnore": null,
+        "Memo": "命中率が20%増加する。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100130101]",
+        "IconId": 81001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100130101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550408100130102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550408100120102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550408100130101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550408100120101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550408100100101,
+                "OrderNumber": 5
+            }
+        ]
+    },
+    {
+        "Id": 550408100130102,
+        "IsIgnore": null,
+        "Memo": "命中率が80%増加する。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100130102]",
+        "IconId": 81001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100130102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550408100130102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550408100120102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550408100130101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550408100120101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550408100100101,
+                "OrderNumber": 5
+            }
+        ]
+    },
+    {
+        "Id": 550408100220101,
+        "IsIgnore": null,
+        "Memo": "防御力が25%減少し、物理防御力が25%減少する。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100220101]",
+        "IconId": 81002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100220101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550408100230101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550408100220101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550408100230101,
+        "IsIgnore": null,
+        "Memo": "防御力が50%減少し、物理防御力が50%減少する。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100230101]",
+        "IconId": 81002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100230101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550408100230101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550408100220101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550408100300101,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×30%分のダメージを代わりに受ける。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100300101]",
+        "IconId": 81003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100300101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550408100340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550408100330102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550408100320102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550408100340101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550408100330101,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 550408100320101,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 550408100300101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 550408100300103,
+        "IsIgnore": null,
+        "Memo": "[チビタマ人形] タマの魔力から生まれた、動く人形。タマの子分。人形なので何もできない。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100300103]",
+        "IconId": 81003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100300103]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550408100330103,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550408100300103,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550408100300104,
+        "IsIgnore": null,
+        "Memo": "[チビタマ人形] タマの魔力から生まれた、動く人形。タマの子分。人形なので何もできない。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100300104]",
+        "IconId": 81003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100300104]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550408100330104,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550408100300104,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550408100300105,
+        "IsIgnore": null,
+        "Memo": "[チビタマ人形] タマの魔力から生まれた、動く人形。タマの子分。人形なので何もできない。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100300105]",
+        "IconId": 81003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100300105]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550408100330105,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550408100300105,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550408100320101,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×30%分のダメージを代わりに受ける。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100320101]",
+        "IconId": 81003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100320101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550408100340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550408100330102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550408100320102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550408100340101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550408100330101,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 550408100320101,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 550408100300101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 550408100320102,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×30%と付与者の攻撃力×200%の合計分のダメージを代わりに受ける。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100320102]",
+        "IconId": 81003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100320102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550408100340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550408100330102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550408100320102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550408100340101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550408100330101,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 550408100320101,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 550408100300101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 550408100330101,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×30%分のダメージを代わりに受ける。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100330101]",
+        "IconId": 81003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100330101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550408100340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550408100330102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550408100320102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550408100340101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550408100330101,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 550408100320101,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 550408100300101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 550408100330102,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×30%と付与者の攻撃力×200%の合計分のダメージを代わりに受ける。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100330102]",
+        "IconId": 81003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100330102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550408100340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550408100330102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550408100320102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550408100340101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550408100330101,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 550408100320101,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 550408100300101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 550408100330103,
+        "IsIgnore": null,
+        "Memo": "[チビタマ人形] タマの魔力から生まれた、動く人形。タマの子分。人形なので何もできない。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100330103]",
+        "IconId": 81003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100330103]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550408100330103,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550408100300103,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550408100330104,
+        "IsIgnore": null,
+        "Memo": "[チビタマ人形] タマの魔力から生まれた、動く人形。タマの子分。人形なので何もできない。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100330104]",
+        "IconId": 81003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100330104]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550408100330104,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550408100300104,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550408100330105,
+        "IsIgnore": null,
+        "Memo": "[チビタマ人形] タマの魔力から生まれた、動く人形。タマの子分。人形なので何もできない。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100330105]",
+        "IconId": 81003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100330105]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550408100330105,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550408100300105,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550408100340101,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×80%分のダメージを代わりに受ける。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100340101]",
+        "IconId": 81003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100340101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550408100340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550408100330102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550408100320102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550408100340101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550408100330101,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 550408100320101,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 550408100300101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 550408100340102,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×80%と付与者の攻撃力×600%の合計分のダメージを代わりに受ける。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100340102]",
+        "IconId": 81003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100340102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550408100340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550408100330102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550408100320102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550408100340101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550408100330101,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 550408100320101,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 550408100300101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 550408100400101,
+        "IsIgnore": null,
+        "Memo": "[透明] 敵味方の全てのスキルの対象から除外される（解除不可）。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100400101]",
+        "IconId": 81004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100400101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550408100430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550408100420101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550408100400101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 550408100420101,
+        "IsIgnore": null,
+        "Memo": "[透明] 敵味方の全てのスキルの対象から除外される（解除不可）。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100420101]",
+        "IconId": 81004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100420101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550408100430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550408100420101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550408100400101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 550408100430101,
+        "IsIgnore": null,
+        "Memo": "[透明] 敵味方の全てのスキルの対象から除外される（解除不可）。",
+        "CasterIconId": 81,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8100430101]",
+        "IconId": 81004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8100430101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550408100430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550408100420101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550408100400101,
+                "OrderNumber": 3
+            }
+        ]
     },
     {
         "Id": 550408200120102,
