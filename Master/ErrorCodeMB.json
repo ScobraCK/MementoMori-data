@@ -1428,6 +1428,12 @@
         "ErrorMessageType": 2
     },
     {
+        "Id": 161011,
+        "IsIgnore": null,
+        "Memo": "進化解放回数データがありません",
+        "ErrorMessageType": 2
+    },
+    {
         "Id": 162000,
         "IsIgnore": null,
         "Memo": null,
@@ -1562,7 +1568,7 @@
     {
         "Id": 162037,
         "IsIgnore": null,
-        "Memo": null,
+        "Memo": "選択できないレアリティのキャラが含まれています",
         "ErrorMessageType": 2
     },
     {
@@ -1593,6 +1599,42 @@
         "Id": 162042,
         "IsIgnore": null,
         "Memo": null,
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 162043,
+        "IsIgnore": null,
+        "Memo": "進化解放機能が解放されていません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 162044,
+        "IsIgnore": null,
+        "Memo": "既に進化解放済みのキャラです",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 162045,
+        "IsIgnore": null,
+        "Memo": "残り回数が足りません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 162046,
+        "IsIgnore": null,
+        "Memo": "進化優先設定が解放されていません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 162047,
+        "IsIgnore": null,
+        "Memo": "進化優先設定が不正です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 162048,
+        "IsIgnore": null,
+        "Memo": "最も優先度の高いキャラが含まれています",
         "ErrorMessageType": 2
     },
     {
@@ -2272,6 +2314,54 @@
         "IsIgnore": null,
         "Memo": "選択されたキャラ数が登録可能数を上回っています",
         "ErrorMessageType": 3
+    },
+    {
+        "Id": 232050,
+        "IsIgnore": null,
+        "Memo": "武具一括進化機能の解放条件を満たしていません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 232051,
+        "IsIgnore": null,
+        "Memo": "装備固定（ギルドバトル用）機能が解放されていません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 232052,
+        "IsIgnore": null,
+        "Memo": "カスタムセット機能が解放されていません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 232053,
+        "IsIgnore": null,
+        "Memo": "これ以上選択できません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 232054,
+        "IsIgnore": null,
+        "Memo": "これ以上選択できません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 232055,
+        "IsIgnore": null,
+        "Memo": "カスタムセット数が上限に達しています",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 232056,
+        "IsIgnore": null,
+        "Memo": "カスタムセット数が上限に達しています",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 232057,
+        "IsIgnore": null,
+        "Memo": "カスタムセットがありません",
+        "ErrorMessageType": 2
     },
     {
         "Id": 241000,
@@ -2996,8 +3086,8 @@
     {
         "Id": 272003,
         "IsIgnore": null,
-        "Memo": null,
-        "ErrorMessageType": 2
+        "Memo": "連続で送信できません",
+        "ErrorMessageType": 3
     },
     {
         "Id": 272004,
@@ -4059,6 +4149,222 @@
         "Id": 442010,
         "IsIgnore": null,
         "Memo": "本選結果の公開期間外です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 460001,
+        "IsIgnore": null,
+        "Memo": "バトルリーグの集計データがありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 460002,
+        "IsIgnore": null,
+        "Memo": "ボスバトルの集計データがありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 461001,
+        "IsIgnore": null,
+        "Memo": "存在しない属性です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 461002,
+        "IsIgnore": null,
+        "Memo": "存在しないバトルの種類です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 461003,
+        "IsIgnore": null,
+        "Memo": "トークンが正しくありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 461004,
+        "IsIgnore": null,
+        "Memo": "バトルの詳細ログがありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 461005,
+        "IsIgnore": null,
+        "Memo": "週間トピックスが解放されていません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 470001,
+        "IsIgnore": null,
+        "Memo": "個人情報データがありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 471001,
+        "IsIgnore": null,
+        "Memo": "抽選回数が上限に達しています",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 471002,
+        "IsIgnore": null,
+        "Memo": "データの取得に失敗しました",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 471003,
+        "IsIgnore": null,
+        "Memo": "有効なメールアドレスを入力してください",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 471004,
+        "IsIgnore": null,
+        "Memo": "メールアドレスの認証に失敗しました。<br>登録時に使用したメールアドレスのみ有効です。",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 471005,
+        "IsIgnore": null,
+        "Memo": "認証コード生成の処理中です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 471006,
+        "IsIgnore": null,
+        "Memo": "認証メールの送信に失敗しました",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 471007,
+        "IsIgnore": null,
+        "Memo": "認証コードがありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 471008,
+        "IsIgnore": null,
+        "Memo": "認証コードが間違っています",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 471009,
+        "IsIgnore": null,
+        "Memo": "氏名を入力してください",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 471010,
+        "IsIgnore": null,
+        "Memo": "フリガナを全角カタカナで入力してください",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 471011,
+        "IsIgnore": null,
+        "Memo": "郵便番号を入力してください",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 471012,
+        "IsIgnore": null,
+        "Memo": "郵便番号を7桁で入力してください",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 471013,
+        "IsIgnore": null,
+        "Memo": "電話番号を入力してください",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 471014,
+        "IsIgnore": null,
+        "Memo": "0から始まる10~11桁の電話番号を入力してください",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 471015,
+        "IsIgnore": null,
+        "Memo": "メールアドレスを入力してください",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 471016,
+        "IsIgnore": null,
+        "Memo": "有効なメールアドレスを入力してください",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 471017,
+        "IsIgnore": null,
+        "Memo": "交換可能なリアル景品がありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 471018,
+        "IsIgnore": null,
+        "Memo": "アイテムが足りません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 471019,
+        "IsIgnore": null,
+        "Memo": "データが不正です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 471020,
+        "IsIgnore": null,
+        "Memo": "ラッキーチャンスの抽選機能が解放されていません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 471021,
+        "IsIgnore": null,
+        "Memo": "氏名を全角で入力してください",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 471022,
+        "IsIgnore": null,
+        "Memo": "都道府県を入力してください",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 471023,
+        "IsIgnore": null,
+        "Memo": "都道府県を全角で入力してください",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 471024,
+        "IsIgnore": null,
+        "Memo": "市区町村を入力してください",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 471025,
+        "IsIgnore": null,
+        "Memo": "市区町村を全角で入力してください",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 471026,
+        "IsIgnore": null,
+        "Memo": "番地以降を入力してください",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 471027,
+        "IsIgnore": null,
+        "Memo": "番地以降を全角で入力してください",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 471028,
+        "IsIgnore": null,
+        "Memo": "建物名を全角で入力してください",
         "ErrorMessageType": 2
     },
     {

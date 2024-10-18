@@ -11502,6 +11502,154 @@
         "RootActiveSkillId": 85002
     },
     {
+        "Id": 86001,
+        "IsIgnore": null,
+        "Memo": "メリアSR:Lv1 急速に伸びる植物で相手を攻撃する。ランダムな敵に3回攻撃力×100％の物理攻撃を行う。その後自身に『成長因子』を1スタック付与する（最大10スタックまで）（解除不可）。物理攻撃の前に自身が付帯している『成長因子』のスタック1につき、物理攻撃のダメージが攻撃力×50％大きくなる（最大攻撃力×600％まで）。/ Lv2 『成長因子』のスタック1につき増加するダメージが攻撃力×100％になる（最大攻撃力×1100％まで）。/ Lv3 『成長因子』の付与スタック数が2になる。/ Ex1 ヴァイングロウを強化する。物理攻撃の回数が5回になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription860011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    86001001,
+                    86001002,
+                    86001002,
+                    86001003
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription860012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    86001201,
+                    86001202,
+                    86001202,
+                    86001003
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription860013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    86001201,
+                    86001202,
+                    86001202,
+                    86001303
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription860014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    86001401,
+                    86001402,
+                    86001402,
+                    86001402,
+                    86001402,
+                    86001303
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName86001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 86001
+    },
+    {
+        "Id": 86002,
+        "IsIgnore": null,
+        "Memo": "メリアSR:Lv1 爆発的に成長する草木の奔流で相手を呑み込む。ランダムな敵に4回攻撃力×220％の物理攻撃を行う。/ Lv2 さらに物理攻撃の前に自身が付帯している『成長因子』のスタック1につき、物理攻撃のダメージが攻撃力×40％大きくなる（最大攻撃力×620％まで）。/ Lv3 さらに最後の物理攻撃の後『命中率増加』を付帯している味方がいる場合、自身に『成長因子』を3スタック付与する（最大10スタックまで）（解除不可）。/ Lv4 物理攻撃の回数が5回になる。/ Ex3 ヴァイオサージを強化する。物理攻撃のダメージが攻撃力×250％になり、『成長因子』のスタック1につき増加するダメージが攻撃力×50％になる。（最大攻撃力×750％まで）",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription860021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    86002001,
+                    86002002,
+                    86002002,
+                    86002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription860022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    86002201,
+                    86002202,
+                    86002202,
+                    86002202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription860023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    86002201,
+                    86002202,
+                    86002202,
+                    86002202,
+                    86002303
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription860024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    86002401,
+                    86002402,
+                    86002402,
+                    86002402,
+                    86002402,
+                    86002303
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription860025]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    86002501,
+                    86002502,
+                    86002502,
+                    86002502,
+                    86002502,
+                    86002303
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName86002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 86002
+    },
+    {
         "Id": 88001,
         "IsIgnore": null,
         "Memo": "使徒ロザリーSR:Lv1 杖に宿る主様の力を借り、ランダムな敵4体に攻撃力×240%の魔法攻撃を行う。/ Lv2 さらに魔法攻撃の前に70%の確率で1ターンの間対象の被ダメージを10%増加させる。/ Lv3 『被ダメージ増加』のターン数が2ターンになる。/ Ex1 フラジャイルを強化する。フラジャイルの対象がランダムな敵5体になる。",
@@ -38343,6 +38491,154 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 85002
+    },
+    {
+        "Id": 5504086001,
+        "IsIgnore": null,
+        "Memo": "",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504086001001,
+                    5504086001002,
+                    5504086001002,
+                    5504086001003
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504086001201,
+                    5504086001202,
+                    5504086001202,
+                    5504086001003
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504086001201,
+                    5504086001202,
+                    5504086001202,
+                    5504086001303
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504086001401,
+                    5504086001402,
+                    5504086001402,
+                    5504086001402,
+                    5504086001402,
+                    5504086001303
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName86001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 86001
+    },
+    {
+        "Id": 5504086002,
+        "IsIgnore": null,
+        "Memo": "",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504086002001,
+                    5504086002002,
+                    5504086002002,
+                    5504086002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504086002201,
+                    5504086002202,
+                    5504086002202,
+                    5504086002202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504086002201,
+                    5504086002202,
+                    5504086002202,
+                    5504086002202,
+                    5504086002303
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504086002401,
+                    5504086002402,
+                    5504086002402,
+                    5504086002402,
+                    5504086002402,
+                    5504086002303
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504086002501,
+                    5504086002502,
+                    5504086002502,
+                    5504086002502,
+                    5504086002502,
+                    5504086002303
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName86002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 86002
     },
     {
         "Id": 5504088001,

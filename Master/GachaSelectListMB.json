@@ -3586,8 +3586,9 @@
     {
         "Id": 89,
         "IsIgnore": null,
-        "Memo": "プリシラ復刻②＋次キャラ仮入れ仮①（1018切替用）",
+        "Memo": "メリア①＋プリシラ復刻②（1018切替用）",
         "CharacterIdList": [
+            86,
             62,
             5,
             6,
@@ -3615,11 +3616,126 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
+            86,
             62
         ],
         "OrderNumber": 89,
-        "StartTimeFixJST": "2024-10-18 17:30:00",
+        "StartTimeFixJST": "2024-10-18 15:00:00",
         "EndTimeFixJST": "2024-10-25 14:29:59"
+    },
+    {
+        "Id": 90,
+        "IsIgnore": null,
+        "Memo": "メリア②＋次キャラ仮入れ仮①（1025切替用）",
+        "CharacterIdList": [
+            86,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            86
+        ],
+        "OrderNumber": 90,
+        "StartTimeFixJST": "2024-10-25 14:30:00",
+        "EndTimeFixJST": "2024-10-31 14:29:59"
+    },
+    {
+        "Id": 91,
+        "IsIgnore": null,
+        "Memo": "メリア③＋次キャラ仮入れ仮①（1031切替用）",
+        "CharacterIdList": [
+            86,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            86
+        ],
+        "OrderNumber": 91,
+        "StartTimeFixJST": "2024-10-31 16:30:00",
+        "EndTimeFixJST": "2024-11-08 14:29:59"
+    },
+    {
+        "Id": 92,
+        "IsIgnore": null,
+        "Memo": "メリア④＋次キャラ仮入れ仮①（1108切替用）",
+        "CharacterIdList": [
+            86,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            86
+        ],
+        "OrderNumber": 92,
+        "StartTimeFixJST": "2024-11-08 14:30:00",
+        "EndTimeFixJST": "2024-11-15 14:29:59"
     },
     {
         "Id": 10000,
@@ -3836,5 +3952,31 @@
         "OrderNumber": 12,
         "StartTimeFixJST": "2024-09-12 17:30:00",
         "EndTimeFixJST": "2024-10-09 14:29:59"
+    },
+    {
+        "Id": 10130,
+        "IsIgnore": null,
+        "Memo": "星の導き13回ガチャ_フォルティナ・ヴァルリーデ・ソーニャ・ベル・ルーク・カロル（10/18 17:30 ~ 11/8 14:29 ）",
+        "CharacterIdList": [
+            42,
+            47,
+            9,
+            19,
+            30,
+            40
+        ],
+        "GachaSelectListType": 3,
+        "IsResetSelectedCharacter": true,
+        "NewCharacterIdList": [
+            42,
+            47,
+            9,
+            19,
+            30,
+            40
+        ],
+        "OrderNumber": 13,
+        "StartTimeFixJST": "2024-10-18 15:00:00",
+        "EndTimeFixJST": "2024-11-08 14:29:59"
     }
 ]

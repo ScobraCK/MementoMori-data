@@ -4356,6 +4356,58 @@
         "StartTimeFixJST": "2024-02-22 15:00:00"
     },
     {
+        "Id": 86,
+        "IsIgnore": null,
+        "Memo": "【災芽の魔女】メリア",
+        "ActiveSkillIds": [
+            86001,
+            86002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 84,
+            "Health": 63,
+            "Intelligence": 84,
+            "Muscle": 103
+        },
+        "BaseParameterGrossCoefficient": 334,
+        "CharacterType": 1,
+        "ElementType": 5,
+        "InitialBattleParameter": {
+            "AttackPower": 5,
+            "Avoidance": 0,
+            "Critical": -3,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 1,
+            "DamageReflect": 0,
+            "DebuffHit": 0,
+            "DebuffResist": 0,
+            "Defense": 7,
+            "DefensePenetration": 0,
+            "Hit": 0,
+            "HP": 0,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": 0,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 0,
+            "Speed": 3094
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 1,
+        "Name2Key": "[CharacterSubName86]",
+        "NameKey": "[CharacterName86]",
+        "NormalSkillId": 101,
+        "PassiveSkillIds": [
+            86003,
+            86004
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2024-10-18 15:00:00"
+    },
+    {
         "Id": 88,
         "IsIgnore": null,
         "Memo": "使徒ロザリー",
