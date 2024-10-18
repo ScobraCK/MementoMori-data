@@ -5721,5 +5721,68 @@
         "TradeShopType": 2,
         "EndTime": "2024-10-13 03:59:59",
         "StartTime": "2024-09-30 04:00:00"
+    },
+    {
+        "Id": 36,
+        "IsIgnore": null,
+        "Memo": "週間トピックス_無料商品",
+        "AutoUpdateTimes": [
+            0
+        ],
+        "AutoUpdateType": 2,
+        "ConsumeItemInfos": null,
+        "CustomTextLayout": null,
+        "DecorationColor": null,
+        "DecorationId": 0,
+        "DecorationSpecialId": 0,
+        "ForceResetTimeFixJST": null,
+        "IconId": 0,
+        "IsHide": false,
+        "IsHideNotOpen": false,
+        "IsManualUpdate": false,
+        "ManualUpdateCurrencyCount": 0,
+        "OpenCommandType": 0,
+        "SortOrder": 1,
+        "TabNameKey": "",
+        "TradeShopItemCount": 1,
+        "TradeShopType": 6,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 37,
+        "IsIgnore": null,
+        "Memo": "週間トピックス_有料商品",
+        "AutoUpdateTimes": [
+            0
+        ],
+        "AutoUpdateType": 2,
+        "ConsumeItemInfos": [
+            {
+                "ItemType": 3,
+                "ItemId": 1
+            },
+            {
+                "ItemType": 1,
+                "ItemId": 1
+            }
+        ],
+        "CustomTextLayout": null,
+        "DecorationColor": null,
+        "DecorationId": 0,
+        "DecorationSpecialId": 0,
+        "ForceResetTimeFixJST": null,
+        "IconId": 0,
+        "IsHide": false,
+        "IsHideNotOpen": false,
+        "IsManualUpdate": false,
+        "ManualUpdateCurrencyCount": 0,
+        "OpenCommandType": 0,
+        "SortOrder": 1,
+        "TabNameKey": "",
+        "TradeShopItemCount": 4,
+        "TradeShopType": 7,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
     }
 ]
