@@ -1,0 +1,44 @@
+[
+    {
+        "Id": 1,
+        "IsIgnore": null,
+        "Memo": "第一回_ラッキーチャンス(JP)",
+        "StartEndTimeZoneType": 10,
+        "StartTime": "2024-10-18 14:30:00",
+        "EndTime": "2024-11-6 03:59:59",
+        "InputFormEndTime": "2024-11-11 03:59:59",
+        "MypageIconDisplayLocationType": 1,
+        "TitleTextKey": "[LuckyChanceTitle1]",
+        "LuckyChanceButtonIdList": [
+            1
+        ],
+        "LimitUserDrawCount": 10,
+        "ConsumeItem": {
+            "ItemCount": 1,
+            "ItemId": 1,
+            "ItemType": 40
+        },
+        "CanDeletePersonalInfoTime": "2025-04-01 00:00:00"
+    },
+    {
+        "Id": 2,
+        "IsIgnore": null,
+        "Memo": "第一回_ラッキーチャンス(other)",
+        "StartEndTimeZoneType": 10,
+        "StartTime": "2024-10-18 14:30:00",
+        "EndTime": "2024-11-6 03:59:59",
+        "InputFormEndTime": "2024-11-11 03:59:59",
+        "MypageIconDisplayLocationType": 1,
+        "TitleTextKey": "[LuckyChanceTitle1]",
+        "LuckyChanceButtonIdList": [
+            2
+        ],
+        "LimitUserDrawCount": 10,
+        "ConsumeItem": {
+            "ItemCount": 1,
+            "ItemId": 1,
+            "ItemType": 40
+        },
+        "CanDeletePersonalInfoTime": "2025-04-01 00:00:00"
+    }
+]

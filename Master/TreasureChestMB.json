@@ -2439,6 +2439,48 @@
         "StartTime": null
     },
     {
+        "Id": 118,
+        "IsIgnore": null,
+        "Memo": "星虹のチケットケース",
+        "ChestKeyItemId": 0,
+        "DescriptionKey": "[TreasureChestDescription118]",
+        "DisplayNameKey": "[TreasureChestDisplayName118]",
+        "IconId": 162,
+        "ItemRarityFlags": 64,
+        "MaxItemCount": 0,
+        "MinOpenCount": 1,
+        "NameKey": "[TreasureChestName118]",
+        "SecondaryFrameNum": 0,
+        "SecondaryFrameType": 0,
+        "TreasureChestItemIdList": [
+            121
+        ],
+        "TreasureChestLotteryType": 3,
+        "EndTime": null,
+        "StartTime": null
+    },
+    {
+        "Id": 119,
+        "IsIgnore": null,
+        "Memo": "幸運の宝箱",
+        "ChestKeyItemId": 0,
+        "DescriptionKey": "[TreasureChestDescription119]",
+        "DisplayNameKey": "[TreasureChestDisplayName119]",
+        "IconId": 158,
+        "ItemRarityFlags": 128,
+        "MaxItemCount": 0,
+        "MinOpenCount": 1,
+        "NameKey": "[TreasureChestName119]",
+        "SecondaryFrameNum": 0,
+        "SecondaryFrameType": 0,
+        "TreasureChestItemIdList": [
+            122
+        ],
+        "TreasureChestLotteryType": 0,
+        "EndTime": null,
+        "StartTime": null
+    },
+    {
         "Id": 999,
         "IsIgnore": null,
         "Memo": "運命ガチャ毎回報酬（潜在宝珠50＋精錬水50）、本番データ（削除禁止）",
