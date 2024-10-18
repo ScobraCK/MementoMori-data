@@ -201,6 +201,7 @@
                 "Y": 0.0
             }
         ],
+        "MypageIconDisplayLocationType": 0,
         "EndTime": "2023-11-15 14:29:59",
         "StartTime": "2023-10-18 15:00:00",
         "StartEndTimeZoneType": 11
@@ -407,6 +408,7 @@
                 "Y": 0.0
             }
         ],
+        "MypageIconDisplayLocationType": 0,
         "EndTime": "2024-01-29 03:59:59",
         "StartTime": "2024-01-01 04:00:00",
         "StartEndTimeZoneType": 0
@@ -613,6 +615,7 @@
                 "Y": 0.0
             }
         ],
+        "MypageIconDisplayLocationType": 0,
         "EndTime": "2024-03-14 03:59:59",
         "StartTime": "2024-02-15 04:00:00",
         "StartEndTimeZoneType": 0
@@ -819,6 +822,7 @@
                 "Y": 0.0
             }
         ],
+        "MypageIconDisplayLocationType": 0,
         "EndTime": "2024-05-20 03:59:59",
         "StartTime": "2024-04-15 04:00:00",
         "StartEndTimeZoneType": 0
@@ -1075,8 +1079,266 @@
                 "Y": 0.0
             }
         ],
+        "MypageIconDisplayLocationType": 0,
         "EndTime": "2024-08-27 03:59:59",
         "StartTime": "2024-07-16 04:00:00",
+        "StartEndTimeZoneType": 0
+    },
+    {
+        "Id": 6,
+        "IsIgnore": null,
+        "Memo": "202410周年ナターシャ1と2",
+        "CampaignTitleKey": "[PanelMissionTitle6]",
+        "DelayDays": 10,
+        "ForceStartTime": "2024-11-19 04:00:00",
+        "PanelMissionSheetInfoList": [
+            {
+                "BingoRewardInfoList": [
+                    {
+                        "BingoType": 1,
+                        "RewardItemList": [
+                            {
+                                "ItemCount": 10,
+                                "ItemId": 2,
+                                "ItemType": 18
+                            },
+                            {
+                                "ItemCount": 10,
+                                "ItemId": 28,
+                                "ItemType": 17
+                            },
+                            {
+                                "ItemCount": 1,
+                                "ItemId": 2,
+                                "ItemType": 16
+                            }
+                        ]
+                    },
+                    {
+                        "BingoType": 2,
+                        "RewardItemList": [
+                            {
+                                "ItemCount": 5,
+                                "ItemId": 2,
+                                "ItemType": 16
+                            }
+                        ]
+                    },
+                    {
+                        "BingoType": 3,
+                        "RewardItemList": [
+                            {
+                                "ItemCount": 300,
+                                "ItemId": 1,
+                                "ItemType": 1
+                            },
+                            {
+                                "ItemCount": 20,
+                                "ItemId": 27,
+                                "ItemType": 17
+                            },
+                            {
+                                "ItemCount": 1,
+                                "ItemId": 2,
+                                "ItemType": 16
+                            }
+                        ]
+                    },
+                    {
+                        "BingoType": 4,
+                        "RewardItemList": [
+                            {
+                                "ItemCount": 300,
+                                "ItemId": 1,
+                                "ItemType": 1
+                            },
+                            {
+                                "ItemCount": 1,
+                                "ItemId": 12,
+                                "ItemType": 10
+                            },
+                            {
+                                "ItemCount": 1,
+                                "ItemId": 2,
+                                "ItemType": 16
+                            }
+                        ]
+                    },
+                    {
+                        "BingoType": 5,
+                        "RewardItemList": [
+                            {
+                                "ItemCount": 2,
+                                "ItemId": 14,
+                                "ItemType": 10
+                            },
+                            {
+                                "ItemCount": 1,
+                                "ItemId": 2,
+                                "ItemType": 16
+                            }
+                        ]
+                    },
+                    {
+                        "BingoType": 6,
+                        "RewardItemList": [
+                            {
+                                "ItemCount": 20,
+                                "ItemId": 1,
+                                "ItemType": 18
+                            },
+                            {
+                                "ItemCount": 10,
+                                "ItemId": 28,
+                                "ItemType": 17
+                            },
+                            {
+                                "ItemCount": 1,
+                                "ItemId": 2,
+                                "ItemType": 16
+                            }
+                        ]
+                    }
+                ],
+                "MissionIdList": [
+                    1165,
+                    1503,
+                    1345,
+                    1346,
+                    1347,
+                    1504,
+                    1171,
+                    1505,
+                    1173
+                ],
+                "PanelMBId": 10011,
+                "SheetNo": 1,
+                "X": 0.0,
+                "Y": 0.0
+            },
+            {
+                "BingoRewardInfoList": [
+                    {
+                        "BingoType": 1,
+                        "RewardItemList": [
+                            {
+                                "ItemCount": 5,
+                                "ItemId": 3,
+                                "ItemType": 18
+                            },
+                            {
+                                "ItemCount": 10,
+                                "ItemId": 28,
+                                "ItemType": 17
+                            },
+                            {
+                                "ItemCount": 2,
+                                "ItemId": 2,
+                                "ItemType": 16
+                            }
+                        ]
+                    },
+                    {
+                        "BingoType": 2,
+                        "RewardItemList": [
+                            {
+                                "ItemCount": 300,
+                                "ItemId": 1,
+                                "ItemType": 1
+                            },
+                            {
+                                "ItemCount": 1,
+                                "ItemId": 12,
+                                "ItemType": 10
+                            },
+                            {
+                                "ItemCount": 2,
+                                "ItemId": 2,
+                                "ItemType": 16
+                            }
+                        ]
+                    },
+                    {
+                        "BingoType": 3,
+                        "RewardItemList": [
+                            {
+                                "ItemCount": 300,
+                                "ItemId": 1,
+                                "ItemType": 1
+                            },
+                            {
+                                "ItemCount": 20,
+                                "ItemId": 27,
+                                "ItemType": 17
+                            },
+                            {
+                                "ItemCount": 2,
+                                "ItemId": 2,
+                                "ItemType": 16
+                            }
+                        ]
+                    },
+                    {
+                        "BingoType": 4,
+                        "RewardItemList": [
+                            {
+                                "ItemCount": 10,
+                                "ItemId": 6,
+                                "ItemType": 17
+                            },
+                            {
+                                "ItemCount": 2,
+                                "ItemId": 2,
+                                "ItemType": 16
+                            }
+                        ]
+                    },
+                    {
+                        "BingoType": 5,
+                        "RewardItemList": [
+                            {
+                                "ItemCount": 10,
+                                "ItemId": 2,
+                                "ItemType": 16
+                            }
+                        ]
+                    },
+                    {
+                        "BingoType": 6,
+                        "RewardItemList": [
+                            {
+                                "ItemCount": 2,
+                                "ItemId": 14,
+                                "ItemType": 10
+                            },
+                            {
+                                "ItemCount": 2,
+                                "ItemId": 2,
+                                "ItemType": 16
+                            }
+                        ]
+                    }
+                ],
+                "MissionIdList": [
+                    1174,
+                    1506,
+                    1507,
+                    1320,
+                    1508,
+                    1179,
+                    1180,
+                    1181,
+                    1182
+                ],
+                "PanelMBId": 10012,
+                "SheetNo": 2,
+                "X": 0.0,
+                "Y": 0.0
+            }
+        ],
+        "MypageIconDisplayLocationType": 1,
+        "EndTime": "2024-11-29 03:59:59",
+        "StartTime": "2024-10-18 04:00:00",
         "StartEndTimeZoneType": 0
     }
 ]

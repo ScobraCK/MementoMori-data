@@ -44042,6 +44042,210 @@
         "StartTime": "2024-09-30 00:00:00"
     },
     {
+        "Id": 1503,
+        "IsIgnore": null,
+        "Memo": "パネル(汎用2枚版)_シート1_高速バトルを5回",
+        "AchievementType": 9020100,
+        "DescriptionKey": null,
+        "MissionType": 901,
+        "NameKey": "[PanelMissionName1168]",
+        "OpeningPeriod": 0,
+        "RequireValue": 5,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1002,
+                    "ItemType": 31
+                },
+                "RarityFlags": 0
+            },
+            {
+                "Item": {
+                    "ItemCount": 100,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 2,
+        "SortOrderB": 2,
+        "TransitionDestination": 902,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1504,
+        "IsIgnore": null,
+        "Memo": "パネル(汎用2枚版)_シート1_洞窟でウォーリア3人以上で７回勝利",
+        "AchievementType": 10010331,
+        "DescriptionKey": null,
+        "MissionType": 901,
+        "NameKey": "[PanelMissionName1504]",
+        "OpeningPeriod": 0,
+        "RequireValue": 7,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1006,
+                    "ItemType": 31
+                },
+                "RarityFlags": 0
+            },
+            {
+                "Item": {
+                    "ItemCount": 30,
+                    "ItemId": 4,
+                    "ItemType": 13
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 6,
+        "SortOrderB": 6,
+        "TransitionDestination": 1001,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1505,
+        "IsIgnore": null,
+        "Memo": "パネル(汎用2枚版)_シート1_武具の強化レベルを30にする",
+        "AchievementType": 7011200,
+        "DescriptionKey": null,
+        "MissionType": 901,
+        "NameKey": "[PanelMissionName1317]",
+        "OpeningPeriod": 0,
+        "RequireValue": 30,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1008,
+                    "ItemType": 31
+                },
+                "RarityFlags": 0
+            },
+            {
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 20
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 8,
+        "SortOrderB": 8,
+        "TransitionDestination": 701,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1506,
+        "IsIgnore": null,
+        "Memo": "パネル(汎用2枚版)_シート2_高速バトル10回",
+        "AchievementType": 9020100,
+        "DescriptionKey": null,
+        "MissionType": 902,
+        "NameKey": "[PanelMissionName1177]",
+        "OpeningPeriod": 0,
+        "RequireValue": 10,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 2002,
+                    "ItemType": 31
+                },
+                "RarityFlags": 0
+            },
+            {
+                "Item": {
+                    "ItemCount": 40,
+                    "ItemId": 28,
+                    "ItemType": 17
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 2,
+        "SortOrderB": 2,
+        "TransitionDestination": 902,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1507,
+        "IsIgnore": null,
+        "Memo": "パネル(汎用2枚版)_シート2_貢献メダル1000枚",
+        "AchievementType": 1010400,
+        "DescriptionKey": null,
+        "MissionType": 902,
+        "NameKey": "[PanelMissionName1176]",
+        "OpeningPeriod": 0,
+        "RequireValue": 1000,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 2003,
+                    "ItemType": 31
+                },
+                "RarityFlags": 0
+            },
+            {
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 13,
+                    "ItemType": 10
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 3,
+        "SortOrderB": 3,
+        "TransitionDestination": 101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 1508,
+        "IsIgnore": null,
+        "Memo": "パネル(汎用2枚版)_シート2_ギルドレイドを20回",
+        "AchievementType": 16020100,
+        "DescriptionKey": null,
+        "MissionType": 902,
+        "NameKey": "[PanelMissionName1178]",
+        "OpeningPeriod": 0,
+        "RequireValue": 20,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 2005,
+                    "ItemType": 31
+                },
+                "RarityFlags": 0
+            },
+            {
+                "Item": {
+                    "ItemCount": 200,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 5,
+        "SortOrderB": 5,
+        "TransitionDestination": 1602,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
         "Id": 1509,
         "IsIgnore": null,
         "Memo": "メイン_メインクエスト38章をクリアする",
