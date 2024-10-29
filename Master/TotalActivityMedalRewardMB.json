@@ -854,5 +854,77 @@
         "EventStartTime": null,
         "EventEndTime": null,
         "EventMissionRewardList": null
+    },
+    {
+        "Id": 10011,
+        "IsIgnore": null,
+        "Memo": "イベント_デイリーミッション1_ナターシャ",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 20,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 23,
+                    "ItemType": 50
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2024-10-31 04:00:00",
+        "EndTime": "2024-11-10 03:59:59",
+        "SortOrder": 0,
+        "EventStartTime": null,
+        "EventEndTime": null,
+        "EventMissionRewardList": null
+    },
+    {
+        "Id": 10012,
+        "IsIgnore": null,
+        "Memo": "イベント_デイリーミッション3_ナターシャ",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 60,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 23,
+                    "ItemType": 50
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2024-10-31 04:00:00",
+        "EndTime": "2024-11-10 03:59:59",
+        "SortOrder": 0,
+        "EventStartTime": null,
+        "EventEndTime": null,
+        "EventMissionRewardList": null
+    },
+    {
+        "Id": 10013,
+        "IsIgnore": null,
+        "Memo": "イベント_デイリーミッション5_ナターシャ",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 100,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 10,
+                    "ItemId": 23,
+                    "ItemType": 50
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2024-10-31 04:00:00",
+        "EndTime": "2024-11-10 03:59:59",
+        "SortOrder": 0,
+        "EventStartTime": null,
+        "EventEndTime": null,
+        "EventMissionRewardList": null
     }
 ]
