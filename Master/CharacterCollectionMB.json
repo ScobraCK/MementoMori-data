@@ -771,5 +771,31 @@
         "RequiredPartyLv": 300,
         "EndTimeFixJST": "2100-01-01 00:00:00",
         "StartTimeFixJST": "2024-10-18 00:00:00"
+    },
+    {
+        "Id": 59,
+        "IsIgnore": null,
+        "Memo": "ヴェラの花束(花束ナターシャ,ナターシャ)",
+        "NameKey": "[CharacterCollectionName59]",
+        "RequiredCharacterIds": [
+            105,
+            41
+        ],
+        "RequiredPartyLv": 0,
+        "EndTimeFixJST": "2100-01-01 00:00:00",
+        "StartTimeFixJST": "2024-10-31 00:00:00"
+    },
+    {
+        "Id": 61,
+        "IsIgnore": null,
+        "Memo": "アルゴの覚悟(?,イリア)",
+        "NameKey": "[CharacterCollectionName61]",
+        "RequiredCharacterIds": [
+            0,
+            2
+        ],
+        "RequiredPartyLv": 300,
+        "EndTimeFixJST": "2100-01-01 00:00:00",
+        "StartTimeFixJST": "2024-10-31 00:00:00"
     }
 ]

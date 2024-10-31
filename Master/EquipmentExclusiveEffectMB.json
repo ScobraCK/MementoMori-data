@@ -9440,5 +9440,134 @@
             }
         ],
         "CharacterId": 86
+    },
+    {
+        "Id": 439,
+        "IsIgnore": null,
+        "Memo": "花束ナターシャSSR180",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 105
+    },
+    {
+        "Id": 440,
+        "IsIgnore": null,
+        "Memo": "花束ナターシャSSR200",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1300.0
+            },
+            {
+                "BattleParameterType": 14,
+                "ChangeParameterType": 1,
+                "Value": 5000.0
+            }
+        ],
+        "CharacterId": 105
+    },
+    {
+        "Id": 441,
+        "IsIgnore": null,
+        "Memo": "花束ナターシャSSR220",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1400.0
+            },
+            {
+                "BattleParameterType": 14,
+                "ChangeParameterType": 1,
+                "Value": 5500.0
+            },
+            {
+                "BattleParameterType": 12,
+                "ChangeParameterType": 1,
+                "Value": 5500.0
+            }
+        ],
+        "CharacterId": 105
+    },
+    {
+        "Id": 442,
+        "IsIgnore": null,
+        "Memo": "花束ナターシャSSR240",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 14,
+                "ChangeParameterType": 1,
+                "Value": 6000.0
+            },
+            {
+                "BattleParameterType": 12,
+                "ChangeParameterType": 1,
+                "Value": 6000.0
+            }
+        ],
+        "CharacterId": 105
+    },
+    {
+        "Id": 443,
+        "IsIgnore": null,
+        "Memo": "花束ナターシャUR",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1600.0
+            },
+            {
+                "BattleParameterType": 14,
+                "ChangeParameterType": 1,
+                "Value": 6500.0
+            },
+            {
+                "BattleParameterType": 12,
+                "ChangeParameterType": 1,
+                "Value": 6500.0
+            }
+        ],
+        "CharacterId": 105
+    },
+    {
+        "Id": 444,
+        "IsIgnore": null,
+        "Memo": "花束ナターシャLR",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 14,
+                "ChangeParameterType": 1,
+                "Value": 7000.0
+            },
+            {
+                "BattleParameterType": 12,
+                "ChangeParameterType": 1,
+                "Value": 7000.0
+            }
+        ],
+        "CharacterId": 105
     }
 ]

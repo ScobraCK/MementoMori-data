@@ -21100,6 +21100,217 @@
         ]
     },
     {
+        "Id": 10500120401,
+        "IsIgnore": null,
+        "Memo": "*『心に咲く花』のスタック数を5消費",
+        "CasterIconId": 105,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10500120401]",
+        "IconId": 105001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10500120401]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 10500200102,
+        "IsIgnore": null,
+        "Memo": "[毒] 毎ターン現在HP×{0}%のダメージを受ける。",
+        "CasterIconId": 105,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10500200102]",
+        "IconId": 105002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10500200102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 10500250102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 10500220102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 10500200102,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 10500220102,
+        "IsIgnore": null,
+        "Memo": "[毒] 毎ターン現在HP×{0}%のダメージを受ける。",
+        "CasterIconId": 105,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10500220102]",
+        "IconId": 105002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10500220102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 10500250102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 10500220102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 10500200102,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 10500240201,
+        "IsIgnore": null,
+        "Memo": "*『心に咲く花』のスタック数を5消費",
+        "CasterIconId": 105,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10500240201]",
+        "IconId": 105002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10500240201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 10500250102,
+        "IsIgnore": null,
+        "Memo": "[毒] 毎ターン現在HP×{0}%のダメージを受ける。",
+        "CasterIconId": 105,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10500250102]",
+        "IconId": 105002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10500250102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 10500250102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 10500220102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 10500200102,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 10500300301,
+        "IsIgnore": null,
+        "Memo": "[劇化] 受ける持続ダメージが{0}%増加する（解除不可）。",
+        "CasterIconId": 105,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10500300301]",
+        "IconId": 105003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10500300301]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 10500300301,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 10500300401,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 10500300401,
+        "IsIgnore": null,
+        "Memo": "[劇化] 受ける持続ダメージが{0}%増加する（解除不可）。",
+        "CasterIconId": 105,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10500300401]",
+        "IconId": 105003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10500300401]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 10500300301,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 10500300401,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 10500320101,
+        "IsIgnore": null,
+        "Memo": "*命中率が50%増加する（解除不可）。",
+        "CasterIconId": 105,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10500320101]",
+        "IconId": 105003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10500320101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 10500330201,
+        "IsIgnore": null,
+        "Memo": "*攻撃力と最大HPがそれぞれ10%増加する（解除不可）。",
+        "CasterIconId": 105,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10500330201]",
+        "IconId": 105003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10500330201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 10500400201,
+        "IsIgnore": null,
+        "Memo": "[心に咲く花] 防御貫通が3%増加する（最大10スタックまで）（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 105,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10500400201]",
+        "IconId": 105004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10500400201]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 10500500101,
+        "IsIgnore": null,
+        "Memo": "[多重バリア] ダメージを1層消費して無効化する（解除不可）。",
+        "CasterIconId": 105,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10500500101]",
+        "IconId": 1,
+        "IconType": 4,
+        "NameKey": "[EffectGroupName10500500101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 5504600400101,
         "IsIgnore": null,
         "Memo": "削除予定　アムレートSR　誓いを果たす者  :*",
@@ -67931,5 +68142,216 @@
                 "OrderNumber": 3
             }
         ]
+    },
+    {
+        "Id": 550410500120401,
+        "IsIgnore": null,
+        "Memo": "*『心に咲く花』のスタック数を5消費",
+        "CasterIconId": 105,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10500120401]",
+        "IconId": 105001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10500120401]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550410500200102,
+        "IsIgnore": null,
+        "Memo": "[毒] 毎ターン現在HP×{0}%のダメージを受ける。",
+        "CasterIconId": 105,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10500200102]",
+        "IconId": 105002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10500200102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550410500250102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550410500220102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550410500200102,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 550410500220102,
+        "IsIgnore": null,
+        "Memo": "[毒] 毎ターン現在HP×{0}%のダメージを受ける。",
+        "CasterIconId": 105,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10500220102]",
+        "IconId": 105002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10500220102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550410500250102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550410500220102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550410500200102,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 550410500240201,
+        "IsIgnore": null,
+        "Memo": "*『心に咲く花』のスタック数を5消費",
+        "CasterIconId": 105,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10500240201]",
+        "IconId": 105002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10500240201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550410500250102,
+        "IsIgnore": null,
+        "Memo": "[毒] 毎ターン現在HP×{0}%のダメージを受ける。",
+        "CasterIconId": 105,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10500250102]",
+        "IconId": 105002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10500250102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550410500250102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550410500220102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550410500200102,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 550410500300301,
+        "IsIgnore": null,
+        "Memo": "[劇化] 受ける持続ダメージが{0}%増加する（解除不可）。",
+        "CasterIconId": 105,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10500300301]",
+        "IconId": 105003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10500300301]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550410500300301,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550410500300401,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550410500300401,
+        "IsIgnore": null,
+        "Memo": "[劇化] 受ける持続ダメージが{0}%増加する（解除不可）。",
+        "CasterIconId": 105,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10500300401]",
+        "IconId": 105003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10500300401]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550410500300301,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550410500300401,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550410500320101,
+        "IsIgnore": null,
+        "Memo": "*命中率が50%増加する（解除不可）。",
+        "CasterIconId": 105,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10500320101]",
+        "IconId": 105003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10500320101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550410500330201,
+        "IsIgnore": null,
+        "Memo": "*攻撃力と最大HPがそれぞれ10%増加する（解除不可）。",
+        "CasterIconId": 105,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10500330201]",
+        "IconId": 105003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10500330201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550410500400201,
+        "IsIgnore": null,
+        "Memo": "[心に咲く花] 防御貫通が3%増加する（最大10スタックまで）（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 105,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10500400201]",
+        "IconId": 105004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10500400201]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550410500500101,
+        "IsIgnore": null,
+        "Memo": "[多重バリア] ダメージを1層消費して無効化する（解除不可）。",
+        "CasterIconId": 105,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10500500101]",
+        "IconId": 1,
+        "IconType": 4,
+        "NameKey": "[EffectGroupName10500500101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
     }
 ]

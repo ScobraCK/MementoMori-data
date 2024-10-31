@@ -129,5 +129,25 @@
         "EndTime": "2024-08-10 03:59:59",
         "LocalRaidEventTutorialId": 2006,
         "EventBattleCount": 0
+    },
+    {
+        "Id": 8,
+        "IsIgnore": null,
+        "Memo": "20241031花束ナターシャイベント",
+        "LocalRaidStartEndTimes": [
+            {
+                "StartTime": 123000,
+                "EndTime": 133000
+            },
+            {
+                "StartTime": 193000,
+                "EndTime": 203000
+            }
+        ],
+        "RewardBonusRate": 11000,
+        "StartTime": "2024-10-31 04:00:00",
+        "EndTime": "2024-11-10 03:59:59",
+        "LocalRaidEventTutorialId": 2007,
+        "EventBattleCount": 0
     }
 ]
