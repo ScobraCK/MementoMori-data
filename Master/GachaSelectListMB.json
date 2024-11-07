@@ -3710,10 +3710,11 @@
     {
         "Id": 92,
         "IsIgnore": null,
-        "Memo": "メリア④＋花束ナターシャ②＋アレクサンドラ復刻②＋次キャラ仮入れ仮①（1108切替用）",
+        "Memo": "メリア④＋花束ナターシャ②＋アレクサンドラ復刻②＋エイル復刻①（1108切替用）",
         "CharacterIdList": [
             105,
             86,
+            59,
             82,
             5,
             6,
@@ -3743,6 +3744,7 @@
         "NewCharacterIdList": [
             105,
             86,
+            59,
             82
         ],
         "OrderNumber": 92,
@@ -3752,9 +3754,10 @@
     {
         "Id": 93,
         "IsIgnore": null,
-        "Memo": "花束ナターシャ③＋次キャラ仮入れ仮①（1115切替用）",
+        "Memo": "花束ナターシャ③＋エイル復刻②＋次キャラ仮入れ仮①（1115切替用）",
         "CharacterIdList": [
             105,
+            59,
             5,
             6,
             7,
@@ -3781,7 +3784,8 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            105
+            105,
+            59
         ],
         "OrderNumber": 93,
         "StartTimeFixJST": "2024-11-15 16:30:00",
@@ -4066,5 +4070,23 @@
         "OrderNumber": 13,
         "StartTimeFixJST": "2024-10-18 17:30:00",
         "EndTimeFixJST": "2024-11-08 14:29:59"
+    },
+    {
+        "Id": 10140,
+        "IsIgnore": null,
+        "Memo": "星の導き14回ガチャ_シヴィ・アーティ（11/8 14:30 ~ 11/29 14:29 ）",
+        "CharacterIdList": [
+            52,
+            58
+        ],
+        "GachaSelectListType": 3,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            52,
+            58
+        ],
+        "OrderNumber": 14,
+        "StartTimeFixJST": "2024-11-08 14:30:00",
+        "EndTimeFixJST": "2024-11-29 14:29:59"
     }
 ]

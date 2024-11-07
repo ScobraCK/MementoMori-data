@@ -20451,6 +20451,23 @@
         "UnlockQuestId": 0
     },
     {
+        "Id": 4522,
+        "IsIgnore": null,
+        "Memo": "エルフリンデ朗読",
+        "CharacterId": 45,
+        "CharacterVoiceCategory": 10,
+        "Path": {
+            "TimelineId": 1,
+            "VoiceId": 0,
+            "TimelineType": 6
+        },
+        "SortOrder": 200,
+        "SubtitleKey": null,
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText31]",
+        "UnlockQuestId": 0
+    },
+    {
         "Id": 4580,
         "IsIgnore": null,
         "Memo": "エルフリンデ",
@@ -38621,6 +38638,23 @@
         "SubtitleKey": "[CharacterDetailVoiceSubtitle8221]",
         "UnlockCondition": 6,
         "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText20]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 8222,
+        "IsIgnore": null,
+        "Memo": "アレクサンドラ朗読",
+        "CharacterId": 82,
+        "CharacterVoiceCategory": 10,
+        "Path": {
+            "TimelineId": 1,
+            "VoiceId": 0,
+            "TimelineType": 6
+        },
+        "SortOrder": 200,
+        "SubtitleKey": null,
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText31]",
         "UnlockQuestId": 0
     },
     {
