@@ -54,5 +54,13 @@
         "LimitedEventType": 10000,
         "StartTime": "2024-01-01 04:00:00",
         "EndTime": "2100-01-01 00:00:00"
+    },
+    {
+        "Id": 10001,
+        "IsIgnore": null,
+        "Memo": "Androidのレシートをクライアントで使用済みにする",
+        "LimitedEventType": 10001,
+        "StartTime": "2024-01-01 04:00:00",
+        "EndTime": "2024-11-15 15:00:00"
     }
 ]

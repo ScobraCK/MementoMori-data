@@ -1611,5 +1611,24 @@
         "IsDisplayed": true,
         "TutorialDescriptionId": 31,
         "DisplayDeviceTypes": null
+    },
+    {
+        "Id": 6700,
+        "IsIgnore": null,
+        "Memo": "BOI版シリアルコード入力画面",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine6700]",
+                "MainText": "[HelpMainText6700]",
+                "HelpParameterType": 0
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0,
+        "DisplayDeviceTypes": [
+            4,
+            7
+        ]
     }
 ]
