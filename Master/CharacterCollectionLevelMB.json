@@ -10453,6 +10453,192 @@
         "MaxLevelIncreaseValue": 0
     },
     {
+        "Id": 6001,
+        "IsIgnore": null,
+        "Memo": "レプスの探知(ユリーカ,トロポン)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 3,
+                "Value": 15.0
+            }
+        ],
+        "BattleParameterChangeInfos": null,
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 8,
+        "CollectionId": 60,
+        "CollectionLevel": 1,
+        "MaxLevelIncreaseValue": 0
+    },
+    {
+        "Id": 6002,
+        "IsIgnore": null,
+        "Memo": "レプスの探知(ユリーカ,トロポン)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 3,
+                "Value": 30.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 150.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 128,
+        "CollectionId": 60,
+        "CollectionLevel": 2,
+        "MaxLevelIncreaseValue": 0
+    },
+    {
+        "Id": 6003,
+        "IsIgnore": null,
+        "Memo": "レプスの探知(ユリーカ,トロポン)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 3,
+                "Value": 30.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 150.0
+            }
+        ],
+        "CharacterRarityBonus": 0,
+        "CharacterRarityFlags": 512,
+        "CollectionId": 60,
+        "CollectionLevel": 3,
+        "MaxLevelIncreaseValue": 0
+    },
+    {
+        "Id": 6004,
+        "IsIgnore": null,
+        "Memo": "レプスの探知(ユリーカ,トロポン)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 3,
+                "Value": 30.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 150.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 16384,
+        "CollectionId": 60,
+        "CollectionLevel": 4,
+        "MaxLevelIncreaseValue": 0
+    },
+    {
+        "Id": 6005,
+        "IsIgnore": null,
+        "Memo": "レプスの探知(ユリーカ,トロポン)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 3,
+                "Value": 35.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 160.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 32768,
+        "CollectionId": 60,
+        "CollectionLevel": 5,
+        "MaxLevelIncreaseValue": 0
+    },
+    {
+        "Id": 6006,
+        "IsIgnore": null,
+        "Memo": "レプスの探知(ユリーカ,トロポン)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 3,
+                "Value": 40.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 170.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 65536,
+        "CollectionId": 60,
+        "CollectionLevel": 6,
+        "MaxLevelIncreaseValue": 0
+    },
+    {
+        "Id": 6007,
+        "IsIgnore": null,
+        "Memo": "レプスの探知(ユリーカ,トロポン)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 3,
+                "Value": 45.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 180.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 131072,
+        "CollectionId": 60,
+        "CollectionLevel": 7,
+        "MaxLevelIncreaseValue": 0
+    },
+    {
+        "Id": 6008,
+        "IsIgnore": null,
+        "Memo": "レプスの探知(ユリーカ,トロポン)",
+        "BaseParameterChangeInfos": [
+            {
+                "BaseParameterType": 3,
+                "ChangeParameterType": 3,
+                "Value": 50.0
+            }
+        ],
+        "BattleParameterChangeInfos": [
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 190.0
+            }
+        ],
+        "CharacterRarityBonus": 1,
+        "CharacterRarityFlags": 262144,
+        "CollectionId": 60,
+        "CollectionLevel": 8,
+        "MaxLevelIncreaseValue": 0
+    },
+    {
         "Id": 6101,
         "IsIgnore": null,
         "Memo": "アルゴの覚悟(?,イリア)",

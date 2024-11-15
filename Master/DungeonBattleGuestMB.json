@@ -562,9 +562,9 @@
         "IsIgnore": null,
         "Memo": "エルフリンデ",
         "CharacterId": 45,
-        "IsPickup": true,
-        "EndTimeFixJST": "2024-11-08 14:29:59",
-        "StartTimeFixJST": "2024-10-25 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 64,
@@ -580,9 +580,9 @@
         "IsIgnore": null,
         "Memo": "フェーネ",
         "CharacterId": 68,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2024-11-29 14:29:59",
+        "StartTimeFixJST": "2024-11-15 14:30:00"
     },
     {
         "Id": 66,
@@ -787,9 +787,9 @@
         "IsIgnore": null,
         "Memo": "メリア",
         "CharacterId": 86,
-        "IsPickup": true,
-        "EndTimeFixJST": "2024-11-15 14:29:59",
-        "StartTimeFixJST": "2024-10-18 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 89,
@@ -799,5 +799,14 @@
         "IsPickup": true,
         "EndTimeFixJST": "2024-11-29 14:29:59",
         "StartTimeFixJST": "2024-10-31 14:30:00"
+    },
+    {
+        "Id": 90,
+        "IsIgnore": null,
+        "Memo": "ユリーカ",
+        "CharacterId": 106,
+        "IsPickup": true,
+        "EndTimeFixJST": "2024-11-29 14:29:59",
+        "StartTimeFixJST": "2024-11-15 14:30:00"
     }
 ]

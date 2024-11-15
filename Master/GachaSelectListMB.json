@@ -3754,9 +3754,11 @@
     {
         "Id": 93,
         "IsIgnore": null,
-        "Memo": "花束ナターシャ③＋エイル復刻②＋次キャラ仮入れ仮①（1115切替用）",
+        "Memo": "花束ナターシャ③＋ユリーカ①＋フェーネ復刻①＋エイル復刻②（1115切替用）",
         "CharacterIdList": [
             105,
+            106,
+            68,
             59,
             5,
             6,
@@ -3785,18 +3787,22 @@
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
             105,
+            106,
+            68,
             59
         ],
         "OrderNumber": 93,
-        "StartTimeFixJST": "2024-11-15 16:30:00",
+        "StartTimeFixJST": "2024-11-15 15:00:00",
         "EndTimeFixJST": "2024-11-22 14:29:59"
     },
     {
         "Id": 94,
         "IsIgnore": null,
-        "Memo": "花束ナターシャ④＋次キャラ仮入れ仮①（1122切替用）",
+        "Memo": "花束ナターシャ④＋ユリーカ②＋フェーネ復刻②＋次キャラ仮入れ仮①（1122切替用）",
         "CharacterIdList": [
             105,
+            106,
+            68,
             5,
             6,
             7,
@@ -3823,7 +3829,9 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            105
+            105,
+            106,
+            68
         ],
         "OrderNumber": 94,
         "StartTimeFixJST": "2024-11-22 14:30:00",

@@ -20,5 +20,27 @@
         "TimeServerIdConditionList": [],
         "EndTime": "2100-01-01 00:00:01",
         "StartTime": "2100-01-01 00:00:00"
+    },
+    {
+        "Id": 2,
+        "IsIgnore": null,
+        "Memo": "プッシュ通知_一週間限定パック",
+        "ElapsedFromCreatePlayerDayConditionList": [],
+        "NumberInfo": 2,
+        "PatternSettingType": 7,
+        "PlayerIdRemainConditionList": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "ProgressQuestIdConditionList": [],
+        "TimeServerIdConditionList": [],
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2024-07-01 04:00:00"
     }
 ]
