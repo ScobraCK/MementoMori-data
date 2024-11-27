@@ -833,5 +833,68 @@
         "StartTime": "2024-10-31 04:00:00",
         "EndTime": "2024-11-10 03:59:59",
         "SortOrder": 0
+    },
+    {
+        "Id": 10021,
+        "IsIgnore": null,
+        "Memo": "イベント_デイリーミッション1_冬ソルティーナ",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 20,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 24,
+                    "ItemType": 50
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2024-11-29 04:00:00",
+        "EndTime": "2024-12-09 03:59:59",
+        "SortOrder": 0
+    },
+    {
+        "Id": 10022,
+        "IsIgnore": null,
+        "Memo": "イベント_デイリーミッション3_冬ソルティーナ",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 60,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 24,
+                    "ItemType": 50
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2024-11-29 04:00:00",
+        "EndTime": "2024-12-09 03:59:59",
+        "SortOrder": 0
+    },
+    {
+        "Id": 10023,
+        "IsIgnore": null,
+        "Memo": "イベント_デイリーミッション5_冬ソルティーナ",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 100,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 10,
+                    "ItemId": 24,
+                    "ItemType": 50
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2024-11-29 04:00:00",
+        "EndTime": "2024-12-09 03:59:59",
+        "SortOrder": 0
     }
 ]
