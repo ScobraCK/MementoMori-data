@@ -80,7 +80,7 @@ class API:
                 "content-type": "application/json; charset=UTF-8",
                 "ortegaaccesstoken": "",
                 "ortegaappversion": self.version,
-                "ortegadevicetype": "2",
+                "ortegadevicetype": "7",
                 "ortegauuid": ortegauuid,
                 "accept-encoding": "gzip, identity",
                 "user-agent": "BestHTTP/2 v2.3.0",
