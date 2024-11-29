@@ -3884,9 +3884,11 @@
     {
         "Id": 112,
         "IsIgnore": null,
-        "Memo": "復刻神呪イリア②+仮（1129切り替え用）",
+        "Memo": "冬ソルティーナ①+復刻神呪イリア②+復刻聖夜アモール①（1129切り替え用）",
         "CharacterIdList": [
+            107,
             61,
+            73,
             5,
             6,
             7,
@@ -3913,11 +3915,167 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            61
+            107,
+            61,
+            73
         ],
         "OrderNumber": 112,
         "StartTimeFixJST": "2024-11-29 16:30:00",
         "EndTimeFixJST": "2024-12-06 14:29:59"
+    },
+    {
+        "Id": 113,
+        "IsIgnore": null,
+        "Memo": "冬ソルティーナ②+仮①+復刻聖夜アモール②（1206切り替え用）",
+        "CharacterIdList": [
+            107,
+            73,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            107,
+            73
+        ],
+        "OrderNumber": 113,
+        "StartTimeFixJST": "2024-12-06 14:30:00",
+        "EndTimeFixJST": "2024-12-13 14:29:59"
+    },
+    {
+        "Id": 114,
+        "IsIgnore": null,
+        "Memo": "冬ソルティーナ③+仮①（1213切り替え用）",
+        "CharacterIdList": [
+            107,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            107
+        ],
+        "OrderNumber": 114,
+        "StartTimeFixJST": "2024-12-13 16:30:00",
+        "EndTimeFixJST": "2024-12-20 14:29:59"
+    },
+    {
+        "Id": 115,
+        "IsIgnore": null,
+        "Memo": "冬ソルティーナ④+仮①（1220切り替え用）",
+        "CharacterIdList": [
+            107,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            107
+        ],
+        "OrderNumber": 115,
+        "StartTimeFixJST": "2024-12-20 14:30:00",
+        "EndTimeFixJST": "2024-12-26 14:29:59"
+    },
+    {
+        "Id": 116,
+        "IsIgnore": null,
+        "Memo": "冬ソルティーナ⑤+仮①（1226切り替え用）",
+        "CharacterIdList": [
+            107,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            107
+        ],
+        "OrderNumber": 116,
+        "StartTimeFixJST": "2024-12-26 16:30:00",
+        "EndTimeFixJST": "2024-12-29 14:29:59"
     },
     {
         "Id": 10000,
@@ -4178,5 +4336,23 @@
         "OrderNumber": 14,
         "StartTimeFixJST": "2024-11-08 14:30:00",
         "EndTimeFixJST": "2024-11-29 14:29:59"
+    },
+    {
+        "Id": 10150,
+        "IsIgnore": null,
+        "Memo": "星の導きガチャ 第15回_Ａ.Ａ.・ウィーラ",
+        "CharacterIdList": [
+            48,
+            53
+        ],
+        "GachaSelectListType": 3,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            48,
+            53
+        ],
+        "OrderNumber": 10150,
+        "StartTimeFixJST": "2024-11-29 16:30:00",
+        "EndTimeFixJST": "2024-12-20 14:29:59"
     }
 ]

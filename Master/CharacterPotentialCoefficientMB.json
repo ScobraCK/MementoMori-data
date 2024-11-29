@@ -209,6 +209,17 @@
         "RarityFlags": 262144
     },
     {
+        "Id": 120,
+        "IsIgnore": null,
+        "Memo": "初期N/LR10",
+        "InitialRarityFlags": 1,
+        "RarityCoefficientInfo": {
+            "m": 3.1677843458,
+            "b": 19348
+        },
+        "RarityFlags": 524288
+    },
+    {
         "Id": 201,
         "IsIgnore": null,
         "Memo": "初期R,R/N",
@@ -418,6 +429,17 @@
         "RarityFlags": 262144
     },
     {
+        "Id": 220,
+        "IsIgnore": null,
+        "Memo": "初期R,R/LR10",
+        "InitialRarityFlags": 2,
+        "RarityCoefficientInfo": {
+            "m": 3.1677843458,
+            "b": 19348
+        },
+        "RarityFlags": 524288
+    },
+    {
         "Id": 801,
         "IsIgnore": null,
         "Memo": "初期SR/N",
@@ -625,5 +647,16 @@
             "b": 19477
         },
         "RarityFlags": 262144
+    },
+    {
+        "Id": 820,
+        "IsIgnore": null,
+        "Memo": "初期SR/LR10",
+        "InitialRarityFlags": 8,
+        "RarityCoefficientInfo": {
+            "m": 3.2490095854,
+            "b": 19845
+        },
+        "RarityFlags": 524288
     }
 ]

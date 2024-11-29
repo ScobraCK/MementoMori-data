@@ -810,5 +810,18 @@
         "RequiredPartyLv": 300,
         "EndTimeFixJST": "2100-01-01 00:00:00",
         "StartTimeFixJST": "2024-10-31 00:00:00"
+    },
+    {
+        "Id": 62,
+        "IsIgnore": null,
+        "Memo": "ポルックスの親愛(冬ソルティーナ,ソルティーナ)",
+        "NameKey": "[CharacterCollectionName62]",
+        "RequiredCharacterIds": [
+            107,
+            5
+        ],
+        "RequiredPartyLv": 0,
+        "EndTimeFixJST": "2100-01-01 00:00:00",
+        "StartTimeFixJST": "2024-11-29 00:00:00"
     }
 ]

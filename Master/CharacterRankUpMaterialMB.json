@@ -187,6 +187,17 @@
         "UpType": 2
     },
     {
+        "Id": 118,
+        "IsIgnore": null,
+        "Memo": "基本LR+9toLR+10",
+        "ElementClassification": 1,
+        "MaterialRankFlags": 16,
+        "MaterialRankSecondFlags": 16,
+        "RankFlags": 262144,
+        "RankUpResultRarityFlags": 524288,
+        "UpType": 2
+    },
+    {
         "Id": 201,
         "IsIgnore": null,
         "Memo": "特殊SRtoSR+",
@@ -349,6 +360,17 @@
         "MaterialRankSecondFlags": 16,
         "RankFlags": 131072,
         "RankUpResultRarityFlags": 262144,
+        "UpType": 2
+    },
+    {
+        "Id": 216,
+        "IsIgnore": null,
+        "Memo": "特殊LR+9toLR+10",
+        "ElementClassification": 2,
+        "MaterialRankFlags": 16,
+        "MaterialRankSecondFlags": 16,
+        "RankFlags": 262144,
+        "RankUpResultRarityFlags": 524288,
         "UpType": 2
     }
 ]

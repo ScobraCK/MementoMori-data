@@ -12426,6 +12426,151 @@
         "RootActiveSkillId": 106002
     },
     {
+        "Id": 107001,
+        "IsIgnore": null,
+        "Memo": "冬ソルティーナSR:Lv1 「お姉ちゃんのことを考えるだけで、胸があったかくなるんだ」姉を想う心が優しい雪を降らす。4ターンの間攻撃力が最も高い味方の攻撃力を15%、命中率を30%増加させる（解除不可）。これらは一つのバフとして扱う。その後ランダムな敵5体に攻撃力×240%の物理攻撃を行う。/ Lv2 さらにバフを付与する対象が紅属性もしくは翠属性の場合、バフのターン数が32ターンになり、攻撃力の増加量が30%になる。/ Lv3 物理攻撃のダメージが攻撃力×440%になる。/ Ex1 雪の妖精を強化する。攻撃力の増加量が30%になる。バフを付与する対象が紅属性もしくは翠属性の場合の攻撃力の増加量が60%になる。/ Ex2 雪の妖精を強化する。命中率の増加量が50%になる。/ Ex3 雪の妖精を強化する。物理攻撃のダメージが攻撃力×480%になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription1070011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    107001001,
+                    107001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription1070012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    107001201,
+                    107001002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription1070013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    107001201,
+                    107001302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription1070014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    107001401,
+                    107001302
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription1070015]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 256,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    107001501,
+                    107001302
+                ]
+            },
+            {
+                "OrderNumber": 6,
+                "DescriptionKey": "[ActiveSkillDescription1070016]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    107001501,
+                    107001602
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName107001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 107001
+    },
+    {
+        "Id": 107002,
+        "IsIgnore": null,
+        "Memo": "冬ソルティーナSR:Lv1 「ロザリーおばあちゃんのもとで、たくさん修行したんですから！」魔力で氷柱を編み出し、攻撃力が最も高い敵に4回攻撃力×220%の物理攻撃を行う。削れた氷の欠片は精神をも凍てつかす──攻撃するたび40%の確率で対象に1ターンの間『気絶』を付与する。/ Lv2 物理攻撃の回数が5回になる。/ Lv3 物理攻撃のダメージが攻撃力×420%になる。/ Lv4 『気絶』のターン数が2ターンになる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription1070021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    107002001,
+                    107002002,
+                    107002002,
+                    107002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription1070022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    107002201,
+                    107002202,
+                    107002202,
+                    107002202,
+                    107002202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription1070023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    107002301,
+                    107002302,
+                    107002302,
+                    107002302,
+                    107002302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription1070024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    107002401,
+                    107002402,
+                    107002402,
+                    107002402,
+                    107002402
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName107002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 107002
+    },
+    {
         "Id": 550109001,
         "IsIgnore": null,
         "Memo": "ギルドレイド通常ソーニャSR：ソーニャSR:旋風の如き素早い急襲。HPが最も低い敵に攻撃力×800％の物理攻撃を行う。弱った敵にも容赦しないヴァイキングの本能により、敵のHP割合が40％以下の場合、この攻撃は必ずクリティカルヒットする。／さらに自身の腕力×400％の直接攻撃を行う。／追加攻撃のダメージが腕力×600%になる。／さらにこのスキルで敵を戦闘不能にした場合、このスキルを再発動する。",
@@ -39655,5 +39800,150 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 106002
+    },
+    {
+        "Id": 5504107001,
+        "IsIgnore": null,
+        "Memo": "",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504107001001,
+                    5504107001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504107001201,
+                    5504107001002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504107001201,
+                    5504107001302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504107001401,
+                    5504107001302
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 256,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504107001501,
+                    5504107001302
+                ]
+            },
+            {
+                "OrderNumber": 6,
+                "DescriptionKey": "",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504107001501,
+                    5504107001602
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName107001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 107001
+    },
+    {
+        "Id": 5504107002,
+        "IsIgnore": null,
+        "Memo": "",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504107002001,
+                    5504107002002,
+                    5504107002002,
+                    5504107002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504107002201,
+                    5504107002202,
+                    5504107002202,
+                    5504107002202,
+                    5504107002202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504107002301,
+                    5504107002302,
+                    5504107002302,
+                    5504107002302,
+                    5504107002302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504107002401,
+                    5504107002402,
+                    5504107002402,
+                    5504107002402,
+                    5504107002402
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName107002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 107002
     }
 ]
