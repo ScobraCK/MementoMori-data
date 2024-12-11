@@ -896,5 +896,68 @@
         "StartTime": "2024-11-29 04:00:00",
         "EndTime": "2024-12-09 03:59:59",
         "SortOrder": 0
+    },
+    {
+        "Id": 10031,
+        "IsIgnore": null,
+        "Memo": "イベント_デイリーミッション1_冬ルナリンド",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 20,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 25,
+                    "ItemType": 50
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2024-12-13 04:00:00",
+        "EndTime": "2024-12-23 03:59:59",
+        "SortOrder": 0
+    },
+    {
+        "Id": 10032,
+        "IsIgnore": null,
+        "Memo": "イベント_デイリーミッション3_冬ルナリンド",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 60,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 25,
+                    "ItemType": 50
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2024-12-13 04:00:00",
+        "EndTime": "2024-12-23 03:59:59",
+        "SortOrder": 0
+    },
+    {
+        "Id": 10033,
+        "IsIgnore": null,
+        "Memo": "イベント_デイリーミッション5_冬ルナリンド",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 100,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 10,
+                    "ItemId": 25,
+                    "ItemType": 50
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2024-12-13 04:00:00",
+        "EndTime": "2024-12-23 03:59:59",
+        "SortOrder": 0
     }
 ]
