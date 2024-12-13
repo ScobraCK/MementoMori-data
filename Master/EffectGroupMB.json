@@ -20558,6 +20558,175 @@
         ]
     },
     {
+        "Id": 9300120202,
+        "IsIgnore": null,
+        "Memo": " [気絶] 行動不能になる。",
+        "CasterIconId": 93,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription9300120202]",
+        "IconId": 93001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName9300120202]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 9300300101,
+        "IsIgnore": null,
+        "Memo": "[スキル3] 攻撃力が5％増加する（最大4スタックまで）（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 93,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription9300300101]",
+        "IconId": 93003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName9300300101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 9300320101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 9300300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 9300320101,
+        "IsIgnore": null,
+        "Memo": "[スキル3] 攻撃力が10％増加する（最大4スタックまで）（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 93,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription9300320101]",
+        "IconId": 93003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName9300320101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 9300320101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 9300300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 9300330201,
+        "IsIgnore": null,
+        "Memo": " [多重バリア] 最大HP×10％以上のダメージを1層消費して無効化する（解除不可）。",
+        "CasterIconId": 93,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription9300330201]",
+        "IconId": 93003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName9300330201]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 9300400101,
+        "IsIgnore": null,
+        "Memo": "攻撃力が付与者の攻撃力×20%増加する（解除不可）。",
+        "CasterIconId": 93,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription9300400101]",
+        "IconId": 93004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName9300400101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 9300430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 9300420101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 9300400101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 9300420101,
+        "IsIgnore": null,
+        "Memo": "攻撃力が付与者の攻撃力×20%増加する（解除不可）。",
+        "CasterIconId": 93,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription9300420101]",
+        "IconId": 93004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName9300420101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 9300430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 9300420101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 9300400101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 9300430101,
+        "IsIgnore": null,
+        "Memo": "攻撃力が付与者の攻撃力×50%増加する（解除不可）。",
+        "CasterIconId": 93,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription9300430101]",
+        "IconId": 93004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName9300430101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 9300430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 9300420101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 9300400101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 9300440201,
+        "IsIgnore": null,
+        "Memo": "スピードを20%増加する。（解除不可）。",
+        "CasterIconId": 93,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription9300440201]",
+        "IconId": 93004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName9300440201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 9500100201,
         "IsIgnore": null,
         "Memo": "防御力が10％増加する。",
@@ -22194,6 +22363,296 @@
             {
                 "EffectGroupId": 10700400101,
                 "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 10800100102,
+        "IsIgnore": null,
+        "Memo": "[脱力] バトル中ステータスの攻撃力が30%減少する。",
+        "CasterIconId": 108,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10800100102]",
+        "IconId": 108001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10800100102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 10800120102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 10800100102,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 10800120102,
+        "IsIgnore": null,
+        "Memo": "[脱力] バトル中ステータスの攻撃力が30%減少する。",
+        "CasterIconId": 108,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10800120102]",
+        "IconId": 108001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10800120102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 10800120102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 10800100102,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 10800200102,
+        "IsIgnore": null,
+        "Memo": "[浸食] 毎ターンスキルの総与ダメージ×10％のダメージを受ける。",
+        "CasterIconId": 108,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10800200102]",
+        "IconId": 108002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10800200102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 10800220102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 10800200102,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 10800220102,
+        "IsIgnore": null,
+        "Memo": "[浸食] 毎ターンスキルの総与ダメージ×10％のダメージを受ける。",
+        "CasterIconId": 108,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10800220102]",
+        "IconId": 108002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10800220102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 10800220102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 10800200102,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 10800300101,
+        "IsIgnore": null,
+        "Memo": " [多重バリア] ダメージを1層消費して無効化する（解除不可）。",
+        "CasterIconId": 108,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10800300101]",
+        "IconId": 108003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10800300101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 10800330102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 10800320102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 10800320101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 10800300101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 10800320101,
+        "IsIgnore": null,
+        "Memo": " [多重バリア] ダメージを1層消費して無効化する（解除不可）。",
+        "CasterIconId": 108,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10800320101]",
+        "IconId": 108003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10800320101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 10800330102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 10800320102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 10800320101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 10800300101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 10800320102,
+        "IsIgnore": null,
+        "Memo": " [多重バリア] ダメージを1層消費して無効化する（解除不可）。",
+        "CasterIconId": 108,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10800320102]",
+        "IconId": 108003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10800320102]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 10800330102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 10800320102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 10800320101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 10800300101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 10800330102,
+        "IsIgnore": null,
+        "Memo": " [多重バリア] ダメージを1層消費して無効化する（解除不可）。",
+        "CasterIconId": 108,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10800330102]",
+        "IconId": 108003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10800330102]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 10800330102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 10800320102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 10800320101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 10800300101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 10800400101,
+        "IsIgnore": null,
+        "Memo": "被ダメージが20%減少する（解除不可）。",
+        "CasterIconId": 108,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10800400101]",
+        "IconId": 108004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10800400101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 10800440101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 10800400101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 10800420102,
+        "IsIgnore": null,
+        "Memo": "HPドレインが80%増加する（解除不可）。",
+        "CasterIconId": 108,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10800420102]",
+        "IconId": 108004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10800420102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 10800430201,
+        "IsIgnore": null,
+        "Memo": "*スキルクールタイムカウントを0にする。",
+        "CasterIconId": 108,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10800430201]",
+        "IconId": 108004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10800430201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 10800440101,
+        "IsIgnore": null,
+        "Memo": "被ダメージが60%減少する（解除不可）。",
+        "CasterIconId": 108,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10800440101]",
+        "IconId": 108004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10800440101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 10800440101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 10800400101,
+                "OrderNumber": 2
             }
         ]
     },
@@ -68489,6 +68948,175 @@
         ]
     },
     {
+        "Id": 550409300120202,
+        "IsIgnore": null,
+        "Memo": " [気絶] 行動不能になる。",
+        "CasterIconId": 93,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription9300120202]",
+        "IconId": 93001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName9300120202]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550409300300101,
+        "IsIgnore": null,
+        "Memo": "[スキル3] 攻撃力が5％増加する（最大4スタックまで）（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 93,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription9300300101]",
+        "IconId": 93003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName9300300101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550409300320101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550409300300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550409300320101,
+        "IsIgnore": null,
+        "Memo": "[スキル3] 攻撃力が10％増加する（最大4スタックまで）（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 93,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription9300320101]",
+        "IconId": 93003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName9300320101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550409300320101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550409300300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550409300330201,
+        "IsIgnore": null,
+        "Memo": " [多重バリア] 最大HP×10％以上のダメージを1層消費して無効化する（解除不可）。",
+        "CasterIconId": 93,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription9300330201]",
+        "IconId": 93003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName9300330201]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550409300400101,
+        "IsIgnore": null,
+        "Memo": "攻撃力が付与者の攻撃力×20%増加する（解除不可）。",
+        "CasterIconId": 93,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription9300400101]",
+        "IconId": 93004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName9300400101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550409300430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550409300420101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550409300400101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 550409300420101,
+        "IsIgnore": null,
+        "Memo": "攻撃力が付与者の攻撃力×20%増加する（解除不可）。",
+        "CasterIconId": 93,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription9300420101]",
+        "IconId": 93004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName9300420101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550409300430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550409300420101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550409300400101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 550409300430101,
+        "IsIgnore": null,
+        "Memo": "攻撃力が付与者の攻撃力×50%増加する（解除不可）。",
+        "CasterIconId": 93,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription9300430101]",
+        "IconId": 93004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName9300430101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550409300430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550409300420101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550409300400101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 550409300440201,
+        "IsIgnore": null,
+        "Memo": "スピードを20%増加する。（解除不可）。",
+        "CasterIconId": 93,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription9300440201]",
+        "IconId": 93004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName9300440201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 550409500100201,
         "IsIgnore": null,
         "Memo": "防御力が10％増加する。",
@@ -70125,6 +70753,296 @@
             {
                 "EffectGroupId": 550410700400101,
                 "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 550410800100102,
+        "IsIgnore": null,
+        "Memo": "[脱力] バトル中ステータスの攻撃力が30%減少する。",
+        "CasterIconId": 108,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10800100102]",
+        "IconId": 108001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10800100102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550410800120102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550410800100102,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550410800120102,
+        "IsIgnore": null,
+        "Memo": "[脱力] バトル中ステータスの攻撃力が30%減少する。",
+        "CasterIconId": 108,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10800120102]",
+        "IconId": 108001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10800120102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550410800120102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550410800100102,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550410800200102,
+        "IsIgnore": null,
+        "Memo": "[浸食] 毎ターンスキルの総与ダメージ×10％のダメージを受ける。",
+        "CasterIconId": 108,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10800200102]",
+        "IconId": 108002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10800200102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550410800220102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550410800200102,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550410800220102,
+        "IsIgnore": null,
+        "Memo": "[浸食] 毎ターンスキルの総与ダメージ×10％のダメージを受ける。",
+        "CasterIconId": 108,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10800220102]",
+        "IconId": 108002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10800220102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550410800220102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550410800200102,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550410800300101,
+        "IsIgnore": null,
+        "Memo": " [多重バリア] ダメージを1層消費して無効化する（解除不可）。",
+        "CasterIconId": 108,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10800300101]",
+        "IconId": 108003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10800300101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550410800330102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550410800320102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550410800320101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550410800300101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 550410800320101,
+        "IsIgnore": null,
+        "Memo": " [多重バリア] ダメージを1層消費して無効化する（解除不可）。",
+        "CasterIconId": 108,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10800320101]",
+        "IconId": 108003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10800320101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550410800330102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550410800320102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550410800320101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550410800300101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 550410800320102,
+        "IsIgnore": null,
+        "Memo": " [多重バリア] ダメージを1層消費して無効化する（解除不可）。",
+        "CasterIconId": 108,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10800320102]",
+        "IconId": 108003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10800320102]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550410800330102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550410800320102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550410800320101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550410800300101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 550410800330102,
+        "IsIgnore": null,
+        "Memo": " [多重バリア] ダメージを1層消費して無効化する（解除不可）。",
+        "CasterIconId": 108,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10800330102]",
+        "IconId": 108003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10800330102]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550410800330102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550410800320102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550410800320101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550410800300101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 550410800400101,
+        "IsIgnore": null,
+        "Memo": "被ダメージが20%減少する（解除不可）。",
+        "CasterIconId": 108,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10800400101]",
+        "IconId": 108004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10800400101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550410800440101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550410800400101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550410800420102,
+        "IsIgnore": null,
+        "Memo": "HPドレインが80%増加する（解除不可）。",
+        "CasterIconId": 108,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10800420102]",
+        "IconId": 108004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10800420102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550410800430201,
+        "IsIgnore": null,
+        "Memo": "*スキルクールタイムカウントを0にする。",
+        "CasterIconId": 108,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10800430201]",
+        "IconId": 108004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10800430201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550410800440101,
+        "IsIgnore": null,
+        "Memo": "被ダメージが60%減少する（解除不可）。",
+        "CasterIconId": 108,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10800440101]",
+        "IconId": 108004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10800440101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550410800440101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550410800400101,
+                "OrderNumber": 2
             }
         ]
     }

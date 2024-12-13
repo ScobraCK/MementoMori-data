@@ -42,5 +42,29 @@
         "TimeServerIdConditionList": [],
         "EndTime": "2100-01-01 00:00:00",
         "StartTime": "2024-07-01 04:00:00"
+    },
+    {
+        "Id": 3,
+        "IsIgnore": null,
+        "Memo": "初課金ボーナスDLG",
+        "ElapsedFromCreatePlayerDayConditionList": [],
+        "NumberInfo": 1005000000,
+        "PatternSettingType": 6,
+        "PlayerIdRemainConditionList": [
+            0,
+            1,
+            2,
+            3,
+            8,
+            9,
+            10,
+            11
+        ],
+        "ProgressQuestIdConditionList": [],
+        "TimeServerIdConditionList": [
+            1
+        ],
+        "EndTime": "2100-01-01 00:00:01",
+        "StartTime": "2024-12-13 00:00:00"
     }
 ]

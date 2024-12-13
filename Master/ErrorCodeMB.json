@@ -402,6 +402,12 @@
         "ErrorMessageType": 2
     },
     {
+        "Id": 91009,
+        "IsIgnore": null,
+        "Memo": "プレイヤーのパーティ同期データがありません",
+        "ErrorMessageType": 2
+    },
+    {
         "Id": 92000,
         "IsIgnore": null,
         "Memo": null,
@@ -465,6 +471,24 @@
         "Id": 93106,
         "IsIgnore": null,
         "Memo": null,
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 93108,
+        "IsIgnore": null,
+        "Memo": "データが不正です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 93109,
+        "IsIgnore": null,
+        "Memo": "パーティ同期の処理中です",
+        "ErrorMessageType": 3
+    },
+    {
+        "Id": 93110,
+        "IsIgnore": null,
+        "Memo": "同期されたパーティがありません",
         "ErrorMessageType": 2
     },
     {

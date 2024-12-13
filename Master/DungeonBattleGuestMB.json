@@ -571,9 +571,9 @@
         "IsIgnore": null,
         "Memo": "神呪イリア",
         "CharacterId": 61,
-        "IsPickup": true,
-        "EndTimeFixJST": "2024-12-06 14:29:59",
-        "StartTimeFixJST": "2024-11-22 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 65,
@@ -697,9 +697,9 @@
         "IsIgnore": null,
         "Memo": "アサヒ",
         "CharacterId": 78,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2024-12-25 14:29:59",
+        "StartTimeFixJST": "2024-12-13 16:30:00"
     },
     {
         "Id": 79,
@@ -817,5 +817,14 @@
         "IsPickup": true,
         "EndTimeFixJST": "2024-12-29 14:29:59",
         "StartTimeFixJST": "2024-11-29 14:30:00"
+    },
+    {
+        "Id": 92,
+        "IsIgnore": null,
+        "Memo": "冬ルナリンド",
+        "CharacterId": 108,
+        "IsPickup": true,
+        "EndTimeFixJST": "2025-01-07 14:29:59",
+        "StartTimeFixJST": "2024-12-13 16:30:00"
     }
 ]
