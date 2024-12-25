@@ -4056,11 +4056,13 @@
     {
         "Id": 116,
         "IsIgnore": null,
-        "Memo": "冬ルナリンド③+冬ソルティーナ⑤+復刻使徒ロザリー②+仮（1225切り替え用）",
+        "Memo": "アイリーン①+冬ルナリンド③+冬ソルティーナ⑤+復刻使徒ロザリー②+復刻ミナシュマリ①（1225切り替え用）",
         "CharacterIdList": [
+            109,
             108,
             107,
             88,
+            77,
             5,
             6,
             7,
@@ -4087,21 +4089,25 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
+            109,
             108,
             107,
-            88
+            88,
+            77
         ],
         "OrderNumber": 116,
-        "StartTimeFixJST": "2024-12-25 16:30:00",
+        "StartTimeFixJST": "2024-12-25 15:00:00",
         "EndTimeFixJST": "2024-12-29 14:29:59"
     },
     {
         "Id": 117,
         "IsIgnore": null,
-        "Memo": "冬ルナリンド④+復刻使徒ロザリー③+仮（1229切り替え用）",
+        "Memo": "アイリーン②+冬ルナリンド④+復刻使徒ロザリー③+復刻ミナシュマリ②（1229切り替え用）",
         "CharacterIdList": [
+            109,
             108,
             88,
+            77,
             5,
             6,
             7,
@@ -4128,12 +4134,54 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
+            109,
             108,
-            88
+            88,
+            77
         ],
         "OrderNumber": 117,
         "StartTimeFixJST": "2024-12-29 14:30:00",
         "EndTimeFixJST": "2025-01-07 14:29:59"
+    },
+    {
+        "Id": 118,
+        "IsIgnore": null,
+        "Memo": "アイリーン③+復刻ミナシュマリ③+仮（0107切り替え用）",
+        "CharacterIdList": [
+            109,
+            77,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            109,
+            77
+        ],
+        "OrderNumber": 118,
+        "StartTimeFixJST": "2025-01-07 14:30:00",
+        "EndTimeFixJST": "2025-01-15 14:29:59"
     },
     {
         "Id": 10000,

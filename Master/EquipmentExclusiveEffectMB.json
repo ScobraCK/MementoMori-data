@@ -9964,5 +9964,138 @@
             }
         ],
         "CharacterId": 108
+    },
+    {
+        "Id": 469,
+        "IsIgnore": null,
+        "Memo": "アイリーンSSR180",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 109
+    },
+    {
+        "Id": 470,
+        "IsIgnore": null,
+        "Memo": "アイリーンSSR200",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1300.0
+            },
+            {
+                "BattleParameterType": 18,
+                "ChangeParameterType": 1,
+                "Value": 1100.0
+            }
+        ],
+        "CharacterId": 109
+    },
+    {
+        "Id": 471,
+        "IsIgnore": null,
+        "Memo": "アイリーンSSR220",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 650.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1400.0
+            },
+            {
+                "BattleParameterType": 18,
+                "ChangeParameterType": 1,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 109
+    },
+    {
+        "Id": 472,
+        "IsIgnore": null,
+        "Memo": "アイリーンSSR240",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 18,
+                "ChangeParameterType": 1,
+                "Value": 1300.0
+            }
+        ],
+        "CharacterId": 109
+    },
+    {
+        "Id": 473,
+        "IsIgnore": null,
+        "Memo": "アイリーンUR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 750.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1600.0
+            },
+            {
+                "BattleParameterType": 18,
+                "ChangeParameterType": 1,
+                "Value": 1400.0
+            }
+        ],
+        "CharacterId": 109
+    },
+    {
+        "Id": 474,
+        "IsIgnore": null,
+        "Memo": "アイリーンLR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 18,
+                "ChangeParameterType": 1,
+                "Value": 1500.0
+            }
+        ],
+        "CharacterId": 109
     }
 ]
