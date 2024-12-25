@@ -4825,5 +4825,58 @@
         "RequireFragmentCount": 60,
         "EndTimeFixJST": "2100-12-31 23:59:59",
         "StartTimeFixJST": "2024-12-13 15:00:00"
+    },
+    {
+        "Id": 109,
+        "IsIgnore": null,
+        "Memo": "アイリーン",
+        "ActiveSkillIds": [
+            109001,
+            109002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 96,
+            "Health": 70,
+            "Intelligence": 83,
+            "Muscle": 84
+        },
+        "BaseParameterGrossCoefficient": 333,
+        "CharacterType": 0,
+        "ElementType": 5,
+        "InitialBattleParameter": {
+            "AttackPower": -2,
+            "Avoidance": 3,
+            "Critical": 0,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 0,
+            "DamageReflect": 0,
+            "DebuffHit": 0,
+            "DebuffResist": 0,
+            "Defense": 10,
+            "DefensePenetration": 0,
+            "Hit": 0,
+            "HP": -2,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": 0,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 1,
+            "Speed": 3148
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 2,
+        "Name2Key": null,
+        "NameKey": "[CharacterName109]",
+        "NormalSkillId": 101,
+        "PassiveSkillIds": [
+            109003,
+            109004,
+            109005
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2024-12-25 15:00:00"
     }
 ]

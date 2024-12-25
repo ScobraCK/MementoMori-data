@@ -589,18 +589,18 @@
         "IsIgnore": null,
         "Memo": "聖夜アモール",
         "CharacterId": 73,
-        "IsPickup": true,
-        "EndTimeFixJST": "2024-12-13 14:29:59",
-        "StartTimeFixJST": "2024-11-29 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 67,
         "IsIgnore": null,
         "Memo": "聖夜トロポン",
         "CharacterId": 74,
-        "IsPickup": true,
-        "EndTimeFixJST": "2024-12-20 14:29:59",
-        "StartTimeFixJST": "2024-12-06 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 68,
@@ -688,9 +688,9 @@
         "IsIgnore": null,
         "Memo": "使徒ロザリー",
         "CharacterId": 88,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2025-01-07 14:29:59",
+        "StartTimeFixJST": "2024-12-20 14:30:00"
     },
     {
         "Id": 78,
@@ -715,9 +715,9 @@
         "IsIgnore": null,
         "Memo": "ミナシュマリ",
         "CharacterId": 77,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2025-01-15 14:29:59",
+        "StartTimeFixJST": "2024-12-25 16:30:00"
     },
     {
         "Id": 81,
@@ -826,5 +826,14 @@
         "IsPickup": true,
         "EndTimeFixJST": "2025-01-07 14:29:59",
         "StartTimeFixJST": "2024-12-13 14:30:00"
+    },
+    {
+        "Id": 93,
+        "IsIgnore": null,
+        "Memo": "アイリーン",
+        "CharacterId": 109,
+        "IsPickup": true,
+        "EndTimeFixJST": "2025-01-15 14:29:59",
+        "StartTimeFixJST": "2024-12-25 16:30:00"
     }
 ]

@@ -4012,10 +4012,11 @@
     {
         "Id": 115,
         "IsIgnore": null,
-        "Memo": "冬ルナリンド②+冬ソルティーナ④+仮+復刻アサヒ②（1220切り替え用）",
+        "Memo": "冬ルナリンド②+冬ソルティーナ④+復刻使徒ロザリー①+復刻アサヒ②（1220切り替え用）",
         "CharacterIdList": [
             108,
             107,
+            88,
             78,
             5,
             6,
@@ -4045,6 +4046,7 @@
         "NewCharacterIdList": [
             108,
             107,
+            88,
             78
         ],
         "OrderNumber": 115,
@@ -4054,10 +4056,13 @@
     {
         "Id": 116,
         "IsIgnore": null,
-        "Memo": "冬ルナリンド③+冬ソルティーナ⑤＋仮（1225切り替え用）",
+        "Memo": "アイリーン①+冬ルナリンド③+冬ソルティーナ⑤+復刻使徒ロザリー②+復刻ミナシュマリ①（1225切り替え用）",
         "CharacterIdList": [
+            109,
             108,
             107,
+            88,
+            77,
             5,
             6,
             7,
@@ -4084,19 +4089,25 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
+            109,
             108,
-            107
+            107,
+            88,
+            77
         ],
         "OrderNumber": 116,
-        "StartTimeFixJST": "2024-12-25 16:30:00",
+        "StartTimeFixJST": "2024-12-25 15:00:00",
         "EndTimeFixJST": "2024-12-29 14:29:59"
     },
     {
         "Id": 117,
         "IsIgnore": null,
-        "Memo": "冬ルナリンド④＋仮（1229切り替え用）",
+        "Memo": "アイリーン②+冬ルナリンド④+復刻使徒ロザリー③+復刻ミナシュマリ②（1229切り替え用）",
         "CharacterIdList": [
+            109,
             108,
+            88,
+            77,
             5,
             6,
             7,
@@ -4123,11 +4134,54 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            108
+            109,
+            108,
+            88,
+            77
         ],
         "OrderNumber": 117,
         "StartTimeFixJST": "2024-12-29 14:30:00",
         "EndTimeFixJST": "2025-01-07 14:29:59"
+    },
+    {
+        "Id": 118,
+        "IsIgnore": null,
+        "Memo": "アイリーン③+復刻ミナシュマリ③+仮（0107切り替え用）",
+        "CharacterIdList": [
+            109,
+            77,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            109,
+            77
+        ],
+        "OrderNumber": 118,
+        "StartTimeFixJST": "2025-01-07 14:30:00",
+        "EndTimeFixJST": "2025-01-15 14:29:59"
     },
     {
         "Id": 10000,
@@ -4406,5 +4460,23 @@
         "OrderNumber": 10150,
         "StartTimeFixJST": "2024-11-29 16:30:00",
         "EndTimeFixJST": "2024-12-20 14:29:59"
+    },
+    {
+        "Id": 10160,
+        "IsIgnore": null,
+        "Memo": "星の導きガチャ 第16回_フィアー・リシェス",
+        "CharacterIdList": [
+            60,
+            67
+        ],
+        "GachaSelectListType": 3,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            60,
+            67
+        ],
+        "OrderNumber": 10160,
+        "StartTimeFixJST": "2024-12-20 14:30:00",
+        "EndTimeFixJST": "2025-01-15 14:29:59"
     }
 ]

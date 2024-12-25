@@ -25,7 +25,7 @@
     {
         "Id": 10400102,
         "IsIgnore": null,
-        "Memo": "龍神の松明 : [火傷] 毎ターン現在HP×5%のダメージを受ける。",
+        "Memo": "（削除予定）龍神の松明 : [火傷] 毎ターン現在HP×5%のダメージを受ける。",
         "CasterIconId": 2,
         "CasterIconType": 2,
         "DescriptionKey": "[EffectGroupDescription10400102]",
@@ -22655,6 +22655,341 @@
                 "OrderNumber": 2
             }
         ]
+    },
+    {
+        "Id": 10900120101,
+        "IsIgnore": null,
+        "Memo": "防御力が25%減少する（解除不可）。",
+        "CasterIconId": 109,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10900120101]",
+        "IconId": 109001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10900120101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 10900120102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 10900120101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 10900120103,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 10900120102,
+        "IsIgnore": null,
+        "Memo": "防御力が50%減少する。",
+        "CasterIconId": 109,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10900120102]",
+        "IconId": 109001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10900120102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 10900120102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 10900120101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 10900120103,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 10900120103,
+        "IsIgnore": null,
+        "Memo": "防御力が25%減少する。",
+        "CasterIconId": 109,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10900120103]",
+        "IconId": 109001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10900120103]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 10900120102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 10900120101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 10900120103,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 10900200001,
+        "IsIgnore": null,
+        "Memo": "*『スキル2強化』を付与する。",
+        "CasterIconId": 109,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10900200001]",
+        "IconId": 109002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10900200001]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 10900200002,
+        "IsIgnore": null,
+        "Memo": "*『スキル2強化』を解除する。",
+        "CasterIconId": 109,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10900200002]",
+        "IconId": 109002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10900200002]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 10900220301,
+        "IsIgnore": null,
+        "Memo": "命中率が50%増加する。",
+        "CasterIconId": 109,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10900220301]",
+        "IconId": 109002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10900220301]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 10900300101,
+        "IsIgnore": null,
+        "Memo": "[通常攻撃強化]通常攻撃時自身のスキルクールタイムが1減少し、自身の弱体効果を1つ解除する。その後自身の通常攻撃強化を解除する。",
+        "CasterIconId": 109,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10900300101]",
+        "IconId": 109003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10900300101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 10900330202,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 10900330201,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 10900320101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 10900300101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 10900320101,
+        "IsIgnore": null,
+        "Memo": "[通常攻撃強化]通常攻撃時自身のスキルクールタイムが1減少し、自身の弱体効果を2つ解除する。その後自身の通常攻撃強化を解除する。",
+        "CasterIconId": 109,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10900320101]",
+        "IconId": 109003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10900320101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 10900330202,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 10900330201,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 10900320101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 10900300101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 10900330201,
+        "IsIgnore": null,
+        "Memo": "[通常攻撃強化]通常攻撃時自身のスキルクールタイムが1減少し、自身の弱体効果を2つ解除する。その後自身の通常攻撃強化を解除する。",
+        "CasterIconId": 109,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10900330201]",
+        "IconId": 109003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10900330201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 10900330202,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 10900330201,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 10900320101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 10900300101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 10900330202,
+        "IsIgnore": null,
+        "Memo": "[通常攻撃強化]通常攻撃時自身のスキルクールタイムが1減少し、自身の弱体効果を2つ解除する。その後自身の通常攻撃強化を解除する。",
+        "CasterIconId": 109,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10900330202]",
+        "IconId": 109003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10900330202]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 10900330202,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 10900330201,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 10900320101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 10900300101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 10900420201,
+        "IsIgnore": null,
+        "Memo": "[結界] ダメージを30%遮断する（解除不可）。",
+        "CasterIconId": 109,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10900420201]",
+        "IconId": 109004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10900420201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 10900440201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 10900420201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 10900440201,
+        "IsIgnore": null,
+        "Memo": "[結界] ダメージを45%遮断する（解除不可）。",
+        "CasterIconId": 109,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10900440201]",
+        "IconId": 109004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10900440201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 10900440201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 10900420201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 10910200101,
+        "IsIgnore": null,
+        "Memo": "*スキルクールタイムを1減少する。",
+        "CasterIconId": 109,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10910200101]",
+        "IconId": 109003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10910200101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 10910200102,
+        "IsIgnore": null,
+        "Memo": "*弱体効果1つと通常攻撃強化を解除する。",
+        "CasterIconId": 109,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10910200102]",
+        "IconId": 109003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10910200102]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 10910300102,
+        "IsIgnore": null,
+        "Memo": "*弱体効果2つと通常攻撃強化を解除する。",
+        "CasterIconId": 109,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10910300102]",
+        "IconId": 109003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10910300102]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
     },
     {
         "Id": 5504600400101,
@@ -71045,5 +71380,340 @@
                 "OrderNumber": 2
             }
         ]
+    },
+    {
+        "Id": 550410900120101,
+        "IsIgnore": null,
+        "Memo": "防御力が25%減少する（解除不可）。",
+        "CasterIconId": 109,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10900120101]",
+        "IconId": 109001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10900120101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550410900120102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550410900120101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550410900120103,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 550410900120102,
+        "IsIgnore": null,
+        "Memo": "防御力が50%減少する。",
+        "CasterIconId": 109,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10900120102]",
+        "IconId": 109001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10900120102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550410900120102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550410900120101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550410900120103,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 550410900120103,
+        "IsIgnore": null,
+        "Memo": "防御力が25%減少する。",
+        "CasterIconId": 109,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10900120103]",
+        "IconId": 109001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10900120103]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550410900120102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550410900120101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550410900120103,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 550410900200001,
+        "IsIgnore": null,
+        "Memo": "*『スキル2強化』を付与する。",
+        "CasterIconId": 109,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10900200001]",
+        "IconId": 109002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10900200001]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550410900200002,
+        "IsIgnore": null,
+        "Memo": "*『スキル2強化』を解除する。",
+        "CasterIconId": 109,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10900200002]",
+        "IconId": 109002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10900200002]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550410900220301,
+        "IsIgnore": null,
+        "Memo": "命中率が50%増加する。",
+        "CasterIconId": 109,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10900220301]",
+        "IconId": 109002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10900220301]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550410900300101,
+        "IsIgnore": null,
+        "Memo": "[通常攻撃強化]通常攻撃時自身のスキルクールタイムが1減少し、自身の弱体効果を1つ解除する。その後自身の通常攻撃強化を解除する。",
+        "CasterIconId": 109,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10900300101]",
+        "IconId": 109003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10900300101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550410900330202,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550410900330201,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550410900320101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550410900300101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 550410900320101,
+        "IsIgnore": null,
+        "Memo": "[通常攻撃強化]通常攻撃時自身のスキルクールタイムが1減少し、自身の弱体効果を2つ解除する。その後自身の通常攻撃強化を解除する。",
+        "CasterIconId": 109,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10900320101]",
+        "IconId": 109003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10900320101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550410900330202,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550410900330201,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550410900320101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550410900300101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 550410900330201,
+        "IsIgnore": null,
+        "Memo": "[通常攻撃強化]通常攻撃時自身のスキルクールタイムが1減少し、自身の弱体効果を2つ解除する。その後自身の通常攻撃強化を解除する。",
+        "CasterIconId": 109,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10900330201]",
+        "IconId": 109003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10900330201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550410900330202,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550410900330201,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550410900320101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550410900300101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 550410900330202,
+        "IsIgnore": null,
+        "Memo": "[通常攻撃強化]通常攻撃時自身のスキルクールタイムが1減少し、自身の弱体効果を2つ解除する。その後自身の通常攻撃強化を解除する。",
+        "CasterIconId": 109,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10900330202]",
+        "IconId": 109003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10900330202]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550410900330202,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550410900330201,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550410900320101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550410900300101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 550410900420201,
+        "IsIgnore": null,
+        "Memo": "[結界] ダメージを30%遮断する（解除不可）。",
+        "CasterIconId": 109,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10900420201]",
+        "IconId": 109004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10900420201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550410900440201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550410900420201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550410900440201,
+        "IsIgnore": null,
+        "Memo": "[結界] ダメージを45%遮断する（解除不可）。",
+        "CasterIconId": 109,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10900440201]",
+        "IconId": 109004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10900440201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550410900440201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550410900420201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550410910200101,
+        "IsIgnore": null,
+        "Memo": "*スキルクールタイムを1減少する。",
+        "CasterIconId": 109,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10910200101]",
+        "IconId": 109003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10910200101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550410910200102,
+        "IsIgnore": null,
+        "Memo": "*弱体効果1つと通常攻撃強化を解除する。",
+        "CasterIconId": 109,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10910200102]",
+        "IconId": 109003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10910200102]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550410910300102,
+        "IsIgnore": null,
+        "Memo": "*弱体効果2つと通常攻撃強化を解除する。",
+        "CasterIconId": 109,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10910300102]",
+        "IconId": 109003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10910300102]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
     }
 ]

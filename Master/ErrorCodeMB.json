@@ -3174,6 +3174,24 @@
         "ErrorMessageType": 2
     },
     {
+        "Id": 272014,
+        "IsIgnore": null,
+        "Memo": "未所持の吹き出しです",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 272015,
+        "IsIgnore": null,
+        "Memo": "未所持の背景です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 272016,
+        "IsIgnore": null,
+        "Memo": "選択できない文字サイズです",
+        "ErrorMessageType": 2
+    },
+    {
         "Id": 282001,
         "IsIgnore": null,
         "Memo": null,
@@ -4485,6 +4503,18 @@
         "Id": 602022,
         "IsIgnore": null,
         "Memo": "不正なリクエストです",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 602023,
+        "IsIgnore": null,
+        "Memo": "一括使用が解放されていません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 602024,
+        "IsIgnore": null,
+        "Memo": "一括使用できないアイテムです",
         "ErrorMessageType": 2
     },
     {
