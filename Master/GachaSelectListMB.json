@@ -4146,9 +4146,10 @@
     {
         "Id": 118,
         "IsIgnore": null,
-        "Memo": "アイリーン③+復刻ミナシュマリ③+仮（0107切り替え用）",
+        "Memo": "アイリーン③+復刻モルガナ①+復刻ミナシュマリ③（0107切り替え用）",
         "CharacterIdList": [
             109,
+            75,
             77,
             5,
             6,
@@ -4177,11 +4178,50 @@
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
             109,
+            75,
             77
         ],
         "OrderNumber": 118,
         "StartTimeFixJST": "2025-01-07 14:30:00",
         "EndTimeFixJST": "2025-01-15 14:29:59"
+    },
+    {
+        "Id": 119,
+        "IsIgnore": null,
+        "Memo": "復刻モルガナ②+仮（0115切り替え用）",
+        "CharacterIdList": [
+            75,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            75
+        ],
+        "OrderNumber": 119,
+        "StartTimeFixJST": "2025-01-15 16:30:00",
+        "EndTimeFixJST": "2025-01-23 14:29:59"
     },
     {
         "Id": 10000,
