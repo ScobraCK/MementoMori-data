@@ -959,5 +959,68 @@
         "StartTime": "2024-12-13 04:00:00",
         "EndTime": "2024-12-23 03:59:59",
         "SortOrder": 0
+    },
+    {
+        "Id": 10041,
+        "IsIgnore": null,
+        "Memo": "イベント_デイリーミッション1_アルトリア",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 20,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 26,
+                    "ItemType": 50
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2025-01-15 04:00:00",
+        "EndTime": "2025-01-25 03:59:59",
+        "SortOrder": 0
+    },
+    {
+        "Id": 10042,
+        "IsIgnore": null,
+        "Memo": "イベント_デイリーミッション3_アルトリア",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 60,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 26,
+                    "ItemType": 50
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2025-01-15 04:00:00",
+        "EndTime": "2025-01-25 03:59:59",
+        "SortOrder": 0
+    },
+    {
+        "Id": 10043,
+        "IsIgnore": null,
+        "Memo": "イベント_デイリーミッション5_アルトリア",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 100,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 10,
+                    "ItemId": 26,
+                    "ItemType": 50
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2025-01-15 04:00:00",
+        "EndTime": "2025-01-25 03:59:59",
+        "SortOrder": 0
     }
 ]
