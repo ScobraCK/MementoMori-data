@@ -688,9 +688,9 @@
         "IsIgnore": null,
         "Memo": "使徒ロザリー",
         "CharacterId": 88,
-        "IsPickup": true,
-        "EndTimeFixJST": "2025-01-07 14:29:59",
-        "StartTimeFixJST": "2024-12-20 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 78,
@@ -760,9 +760,9 @@
         "IsIgnore": null,
         "Memo": "アイネ",
         "CharacterId": 65,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2025-01-31 14:29:59",
+        "StartTimeFixJST": "2025-01-15 14:30:00"
     },
     {
         "Id": 86,
@@ -823,9 +823,9 @@
         "IsIgnore": null,
         "Memo": "冬ルナリンド",
         "CharacterId": 108,
-        "IsPickup": true,
-        "EndTimeFixJST": "2025-01-07 14:29:59",
-        "StartTimeFixJST": "2024-12-13 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 93,
@@ -835,5 +835,14 @@
         "IsPickup": true,
         "EndTimeFixJST": "2025-01-15 14:29:59",
         "StartTimeFixJST": "2024-12-25 16:30:00"
+    },
+    {
+        "Id": 94,
+        "IsIgnore": null,
+        "Memo": "アルトリア",
+        "CharacterId": 93,
+        "IsPickup": true,
+        "EndTimeFixJST": "2025-01-31 14:29:59",
+        "StartTimeFixJST": "2025-01-15 14:30:00"
     }
 ]

@@ -849,5 +849,18 @@
         "RequiredPartyLv": 300,
         "EndTimeFixJST": "2100-01-01 00:00:00",
         "StartTimeFixJST": "2024-12-25 00:00:00"
+    },
+    {
+        "Id": 65,
+        "IsIgnore": null,
+        "Memo": "リゲルの審判​(アルトリア,モルガナ)",
+        "NameKey": "[CharacterCollectionName65]",
+        "RequiredCharacterIds": [
+            93,
+            75
+        ],
+        "RequiredPartyLv": 0,
+        "EndTimeFixJST": "2100-01-01 00:00:00",
+        "StartTimeFixJST": "2025-01-15 00:00:00"
     }
 ]
