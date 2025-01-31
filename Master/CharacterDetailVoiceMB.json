@@ -16473,6 +16473,23 @@
         "UnlockQuestId": 0
     },
     {
+        "Id": 3722,
+        "IsIgnore": null,
+        "Memo": "ハトホル朗読",
+        "CharacterId": 37,
+        "CharacterVoiceCategory": 10,
+        "Path": {
+            "TimelineId": 1,
+            "VoiceId": 0,
+            "TimelineType": 6
+        },
+        "SortOrder": 200,
+        "SubtitleKey": null,
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText31]",
+        "UnlockQuestId": 0
+    },
+    {
         "Id": 3790,
         "IsIgnore": null,
         "Memo": "ハトホル",
@@ -37757,6 +37774,23 @@
         "UnlockQuestId": 0
     },
     {
+        "Id": 8022,
+        "IsIgnore": null,
+        "Memo": "ミラ朗読",
+        "CharacterId": 80,
+        "CharacterVoiceCategory": 10,
+        "Path": {
+            "TimelineId": 1,
+            "VoiceId": 0,
+            "TimelineType": 6
+        },
+        "SortOrder": 200,
+        "SubtitleKey": null,
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText31]",
+        "UnlockQuestId": 0
+    },
+    {
         "Id": 8090,
         "IsIgnore": null,
         "Memo": "ミラ",
@@ -44646,6 +44680,482 @@
         "IsIgnore": null,
         "Memo": "アイリーン",
         "CharacterId": 109,
+        "CharacterVoiceCategory": 5,
+        "Path": {
+            "TimelineId": 4,
+            "VoiceId": 0,
+            "TimelineType": 4
+        },
+        "SortOrder": 103,
+        "SubtitleKey": null,
+        "UnlockCondition": 8,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText30]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11102,
+        "IsIgnore": null,
+        "Memo": "ティリー",
+        "CharacterId": 111,
+        "CharacterVoiceCategory": 3,
+        "Path": {
+            "TimelineId": 2,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 2,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11102]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText1]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11103,
+        "IsIgnore": null,
+        "Memo": "ティリー",
+        "CharacterId": 111,
+        "CharacterVoiceCategory": 2,
+        "Path": {
+            "TimelineId": 3,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 3,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11103]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText2]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11104,
+        "IsIgnore": null,
+        "Memo": "ティリー",
+        "CharacterId": 111,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 4,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 4,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11104]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText3]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11105,
+        "IsIgnore": null,
+        "Memo": "ティリー",
+        "CharacterId": 111,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 5,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 5,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11105]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText4]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11106,
+        "IsIgnore": null,
+        "Memo": "ティリー",
+        "CharacterId": 111,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 6,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 6,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11106]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText5]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11107,
+        "IsIgnore": null,
+        "Memo": "ティリー",
+        "CharacterId": 111,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 7,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 7,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11107]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText6]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11108,
+        "IsIgnore": null,
+        "Memo": "ティリー",
+        "CharacterId": 111,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 8,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 8,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11108]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText7]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11109,
+        "IsIgnore": null,
+        "Memo": "ティリー",
+        "CharacterId": 111,
+        "CharacterVoiceCategory": 1,
+        "Path": {
+            "TimelineId": 9,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 9,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11109]",
+        "UnlockCondition": 7,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText8]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11110,
+        "IsIgnore": null,
+        "Memo": "ティリー",
+        "CharacterId": 111,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 10,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 10,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11110]",
+        "UnlockCondition": 1,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText9]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11111,
+        "IsIgnore": null,
+        "Memo": "ティリー",
+        "CharacterId": 111,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 11,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 11,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11111]",
+        "UnlockCondition": 2,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText10]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11112,
+        "IsIgnore": null,
+        "Memo": "ティリー",
+        "CharacterId": 111,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 12,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 12,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11112]",
+        "UnlockCondition": 3,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText11]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11113,
+        "IsIgnore": null,
+        "Memo": "ティリー",
+        "CharacterId": 111,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 13,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 13,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11113]",
+        "UnlockCondition": 4,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText12]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11114,
+        "IsIgnore": null,
+        "Memo": "ティリー",
+        "CharacterId": 111,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 14,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 14,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11114]",
+        "UnlockCondition": 5,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText13]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11115,
+        "IsIgnore": null,
+        "Memo": "ティリー",
+        "CharacterId": 111,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 15,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 15,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11115]",
+        "UnlockCondition": 6,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText14]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11116,
+        "IsIgnore": null,
+        "Memo": "ティリー",
+        "CharacterId": 111,
+        "CharacterVoiceCategory": 4,
+        "Path": {
+            "TimelineId": 16,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 16,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11116]",
+        "UnlockCondition": 1,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText15]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11117,
+        "IsIgnore": null,
+        "Memo": "ティリー",
+        "CharacterId": 111,
+        "CharacterVoiceCategory": 4,
+        "Path": {
+            "TimelineId": 17,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 17,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11117]",
+        "UnlockCondition": 2,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText16]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11118,
+        "IsIgnore": null,
+        "Memo": "ティリー",
+        "CharacterId": 111,
+        "CharacterVoiceCategory": 4,
+        "Path": {
+            "TimelineId": 18,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 18,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11118]",
+        "UnlockCondition": 3,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText17]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11119,
+        "IsIgnore": null,
+        "Memo": "ティリー",
+        "CharacterId": 111,
+        "CharacterVoiceCategory": 4,
+        "Path": {
+            "TimelineId": 19,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 19,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11119]",
+        "UnlockCondition": 4,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText18]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11120,
+        "IsIgnore": null,
+        "Memo": "ティリー",
+        "CharacterId": 111,
+        "CharacterVoiceCategory": 4,
+        "Path": {
+            "TimelineId": 20,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 20,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11120]",
+        "UnlockCondition": 5,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText19]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11121,
+        "IsIgnore": null,
+        "Memo": "ティリー",
+        "CharacterId": 111,
+        "CharacterVoiceCategory": 4,
+        "Path": {
+            "TimelineId": 21,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 21,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11121]",
+        "UnlockCondition": 6,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText20]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11190,
+        "IsIgnore": null,
+        "Memo": "ティリー",
+        "CharacterId": 111,
+        "CharacterVoiceCategory": 8,
+        "Path": {
+            "TimelineId": 20,
+            "VoiceId": 0,
+            "TimelineType": 1
+        },
+        "SortOrder": 90,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11190]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText21]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11191,
+        "IsIgnore": null,
+        "Memo": "ティリー",
+        "CharacterId": 111,
+        "CharacterVoiceCategory": 9,
+        "Path": {
+            "TimelineId": 21,
+            "VoiceId": 0,
+            "TimelineType": 1
+        },
+        "SortOrder": 91,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11191]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText22]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11192,
+        "IsIgnore": null,
+        "Memo": "ティリー",
+        "CharacterId": 111,
+        "CharacterVoiceCategory": 5,
+        "Path": {
+            "TimelineId": 1,
+            "VoiceId": 0,
+            "TimelineType": 2
+        },
+        "SortOrder": 92,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11192]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText23]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11193,
+        "IsIgnore": null,
+        "Memo": "ティリー",
+        "CharacterId": 111,
+        "CharacterVoiceCategory": 5,
+        "Path": {
+            "TimelineId": 2,
+            "VoiceId": 0,
+            "TimelineType": 2
+        },
+        "SortOrder": 93,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11193]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText24]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11196,
+        "IsIgnore": null,
+        "Memo": "ティリー",
+        "CharacterId": 111,
+        "CharacterVoiceCategory": 5,
+        "Path": {
+            "TimelineId": 2,
+            "VoiceId": 0,
+            "TimelineType": 4
+        },
+        "SortOrder": 100,
+        "SubtitleKey": null,
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText27]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11197,
+        "IsIgnore": null,
+        "Memo": "ティリー",
+        "CharacterId": 111,
+        "CharacterVoiceCategory": 5,
+        "Path": {
+            "TimelineId": 1,
+            "VoiceId": 0,
+            "TimelineType": 4
+        },
+        "SortOrder": 101,
+        "SubtitleKey": null,
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText28]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11198,
+        "IsIgnore": null,
+        "Memo": "ティリー",
+        "CharacterId": 111,
+        "CharacterVoiceCategory": 5,
+        "Path": {
+            "TimelineId": 3,
+            "VoiceId": 0,
+            "TimelineType": 4
+        },
+        "SortOrder": 102,
+        "SubtitleKey": null,
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText29]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11199,
+        "IsIgnore": null,
+        "Memo": "ティリー",
+        "CharacterId": 111,
         "CharacterVoiceCategory": 5,
         "Path": {
             "TimelineId": 4,

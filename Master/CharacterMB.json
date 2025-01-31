@@ -4878,5 +4878,57 @@
         "RequireFragmentCount": 60,
         "EndTimeFixJST": "2100-12-31 23:59:59",
         "StartTimeFixJST": "2024-12-25 15:00:00"
+    },
+    {
+        "Id": 111,
+        "IsIgnore": null,
+        "Memo": "ティリー",
+        "ActiveSkillIds": [
+            111001,
+            111002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 78,
+            "Health": 87,
+            "Intelligence": 91,
+            "Muscle": 79
+        },
+        "BaseParameterGrossCoefficient": 335,
+        "CharacterType": 0,
+        "ElementType": 3,
+        "InitialBattleParameter": {
+            "AttackPower": -5,
+            "Avoidance": 1,
+            "Critical": 0,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 0,
+            "DamageReflect": 0,
+            "DebuffHit": 0,
+            "DebuffResist": 0,
+            "Defense": 10,
+            "DefensePenetration": 0,
+            "Hit": 0,
+            "HP": -1,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": 5,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 0,
+            "Speed": 3074
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 4,
+        "Name2Key": null,
+        "NameKey": "[CharacterName111]",
+        "NormalSkillId": 102,
+        "PassiveSkillIds": [
+            111003,
+            111004
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2025-01-31 15:00:00"
     }
 ]

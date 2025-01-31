@@ -13116,6 +13116,137 @@
         "RootActiveSkillId": 109104
     },
     {
+        "Id": 111001,
+        "IsIgnore": null,
+        "Memo": "ティリーSR:Lv1 蒼い光と、金の光。前者は少女に悪意を持つ者たちを襲い、後者は守るための力を授ける。いずれも少女一人の力だが、わずかに別の魔女の力が混じっているようだ。4ターンの間攻撃力が最も高い味方の攻撃力とクリティカル率をそれぞれ10%増加させる。その後ランダムな敵5体に攻撃力×180%の魔法攻撃を行う。/ Lv2 このスキルを7ターン目以降に発動した場合、攻撃力とクリティカル率の増加量がそれぞれ40%になる。/ Lv3 魔法攻撃のダメージが攻撃力×330%になる。/ Ex1 蒼金の祝福を強化する。バフを付与する対象が攻撃力が高い味方2体になる。/ Ex3 蒼金の祝福を強化する。魔法攻撃のダメージが攻撃力×360%になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription1110011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    111001001,
+                    111001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription1110012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    111001201,
+                    111001002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription1110013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    111001201,
+                    111001302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription1110014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    111001401,
+                    111001302
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription1110015]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    111001401,
+                    111001502
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName111001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 111001
+    },
+    {
+        "Id": 111002,
+        "IsIgnore": null,
+        "Memo": "ティリーSR:Lv1 「ごめんなさい。でも仲間が傷つくのは見ていられないんです……！」少女の想いは青い閃光となり、敵の施した幾重の守りさえも打ち砕く。ランダムな敵に3回攻撃力×180%の魔法攻撃を行う。この攻撃は『多重バリア』を付帯している敵を優先的に攻撃する。/ Lv2 魔法攻撃の回数が4回になる。/ Lv3 魔法攻撃のダメージが攻撃力×240%になる。/ Lv4 魔法攻撃の回数が5回になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription1110021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    111002001,
+                    111002002,
+                    111002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription1110022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    111002001,
+                    111002002,
+                    111002002,
+                    111002002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription1110023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    111002301,
+                    111002302,
+                    111002302,
+                    111002302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription1110024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    111002401,
+                    111002402,
+                    111002402,
+                    111002402,
+                    111002402
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName111002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 111002
+    },
+    {
         "Id": 550109001,
         "IsIgnore": null,
         "Memo": "ギルドレイド通常ソーニャSR：ソーニャSR:旋風の如き素早い急襲。HPが最も低い敵に攻撃力×800％の物理攻撃を行う。弱った敵にも容赦しないヴァイキングの本能により、敵のHP割合が40％以下の場合、この攻撃は必ずクリティカルヒットする。／さらに自身の腕力×400％の直接攻撃を行う。／追加攻撃のダメージが腕力×600%になる。／さらにこのスキルで敵を戦闘不能にした場合、このスキルを再発動する。",
@@ -41079,5 +41210,136 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 0,
         "RootActiveSkillId": 109104
+    },
+    {
+        "Id": 5504111001,
+        "IsIgnore": null,
+        "Memo": "",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504111001001,
+                    5504111001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504111001201,
+                    5504111001002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504111001201,
+                    5504111001302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504111001401,
+                    5504111001302
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504111001401,
+                    5504111001502
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName111001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 111001
+    },
+    {
+        "Id": 5504111002,
+        "IsIgnore": null,
+        "Memo": "",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504111002001,
+                    5504111002002,
+                    5504111002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504111002001,
+                    5504111002002,
+                    5504111002002,
+                    5504111002002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504111002301,
+                    5504111002302,
+                    5504111002302,
+                    5504111002302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504111002401,
+                    5504111002402,
+                    5504111002402,
+                    5504111002402,
+                    5504111002402
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName111002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 111002
     }
 ]

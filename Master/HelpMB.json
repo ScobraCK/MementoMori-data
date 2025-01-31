@@ -333,6 +333,22 @@
         "DisplayDeviceTypes": null
     },
     {
+        "Id": 1610,
+        "IsIgnore": null,
+        "Memo": "フレンド画面 - 模擬戦タブ",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine1610]",
+                "MainText": "[HelpMainText1610]",
+                "HelpParameterType": 0
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 34,
+        "DisplayDeviceTypes": null
+    },
+    {
         "Id": 1800,
         "IsIgnore": null,
         "Memo": "キャラ画面 - 所持キャラタブ",
@@ -604,6 +620,22 @@
         "HelpTitle": "[HelpTitleKey]",
         "IsDisplayed": true,
         "TutorialDescriptionId": 23,
+        "DisplayDeviceTypes": null
+    },
+    {
+        "Id": 2321,
+        "IsIgnore": null,
+        "Memo": "キャラ育成画面 - 武具DLG - 研磨タブ(一括研磨機能解放後)",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine2321]",
+                "MainText": "[HelpMainText2321]",
+                "HelpParameterType": 0
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 35,
         "DisplayDeviceTypes": null
     },
     {
