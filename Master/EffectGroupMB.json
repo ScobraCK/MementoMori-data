@@ -22992,6 +22992,256 @@
         "EffectGroupInfoList": null
     },
     {
+        "Id": 11100100101,
+        "IsIgnore": null,
+        "Memo": "自身の攻撃力が10％増加する。",
+        "CasterIconId": 111,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11100100101]",
+        "IconId": 111001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11100100101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11100120103,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11100120101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 11100100101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 11100100102,
+        "IsIgnore": null,
+        "Memo": "自身のクリティカル率が10％増加する。",
+        "CasterIconId": 111,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11100100102]",
+        "IconId": 111001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11100100102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11100120104,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11100120102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 11100100102,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 11100120101,
+        "IsIgnore": null,
+        "Memo": "自身の攻撃力が10％増加する。",
+        "CasterIconId": 111,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11100120101]",
+        "IconId": 111001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11100120101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11100120103,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11100120101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 11100100101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 11100120102,
+        "IsIgnore": null,
+        "Memo": "自身のクリティカル率が10％増加する。",
+        "CasterIconId": 111,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11100120102]",
+        "IconId": 111001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11100120102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11100120104,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11100120102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 11100100102,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 11100120103,
+        "IsIgnore": null,
+        "Memo": "自身の攻撃力が40％増加する。",
+        "CasterIconId": 111,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11100120103]",
+        "IconId": 111001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11100120103]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11100120103,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11100120101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 11100100101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 11100120104,
+        "IsIgnore": null,
+        "Memo": "自身のクリティカル率が40％増加する。",
+        "CasterIconId": 111,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11100120104]",
+        "IconId": 111001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11100120104]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11100120104,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11100120102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 11100100102,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 11100320201,
+        "IsIgnore": null,
+        "Memo": "*最大HPが80%増加する（解除不可）。",
+        "CasterIconId": 111,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11100320201]",
+        "IconId": 111003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11100320201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 11100400101,
+        "IsIgnore": null,
+        "Memo": "クリティカル耐性率が30%増加する。（解除不可）。",
+        "CasterIconId": 111,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11100400101]",
+        "IconId": 111004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11100400101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11100440101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11100400101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 11100400201,
+        "IsIgnore": null,
+        "Memo": "*『クリティカル耐性率増加』を解除する",
+        "CasterIconId": 111,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11100400201]",
+        "IconId": 111004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11100400201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 11100440101,
+        "IsIgnore": null,
+        "Memo": "クリティカル耐性率が60%増加する（解除不可）。",
+        "CasterIconId": 111,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11100440101]",
+        "IconId": 111004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11100440101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11100440101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11100400101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 11100440201,
+        "IsIgnore": null,
+        "Memo": "*『クリティカル耐性率増加』を解除する",
+        "CasterIconId": 111,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11100440201]",
+        "IconId": 111004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11100440201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 5504600400101,
         "IsIgnore": null,
         "Memo": "削除予定　アムレートSR　誓いを果たす者  :*",
@@ -71712,6 +71962,256 @@
         "IconId": 109003,
         "IconType": 1,
         "NameKey": "[EffectGroupName10910300102]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550411100100101,
+        "IsIgnore": null,
+        "Memo": "自身の攻撃力が10％増加する。",
+        "CasterIconId": 111,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11100100101]",
+        "IconId": 111001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11100100101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411100120103,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411100120101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550411100100101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 550411100100102,
+        "IsIgnore": null,
+        "Memo": "自身のクリティカル率が10％増加する。",
+        "CasterIconId": 111,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11100100102]",
+        "IconId": 111001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11100100102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411100120104,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411100120102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550411100100102,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 550411100120101,
+        "IsIgnore": null,
+        "Memo": "自身の攻撃力が10％増加する。",
+        "CasterIconId": 111,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11100120101]",
+        "IconId": 111001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11100120101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411100120103,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411100120101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550411100100101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 550411100120102,
+        "IsIgnore": null,
+        "Memo": "自身のクリティカル率が10％増加する。",
+        "CasterIconId": 111,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11100120102]",
+        "IconId": 111001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11100120102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411100120104,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411100120102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550411100100102,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 550411100120103,
+        "IsIgnore": null,
+        "Memo": "自身の攻撃力が40％増加する。",
+        "CasterIconId": 111,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11100120103]",
+        "IconId": 111001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11100120103]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411100120103,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411100120101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550411100100101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 550411100120104,
+        "IsIgnore": null,
+        "Memo": "自身のクリティカル率が40％増加する。",
+        "CasterIconId": 111,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11100120104]",
+        "IconId": 111001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11100120104]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411100120104,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411100120102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550411100100102,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 550411100320201,
+        "IsIgnore": null,
+        "Memo": "*最大HPが80%増加する（解除不可）。",
+        "CasterIconId": 111,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11100320201]",
+        "IconId": 111003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11100320201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550411100400101,
+        "IsIgnore": null,
+        "Memo": "クリティカル耐性率が30%増加する。（解除不可）。",
+        "CasterIconId": 111,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11100400101]",
+        "IconId": 111004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11100400101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411100440101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411100400101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550411100400201,
+        "IsIgnore": null,
+        "Memo": "*『クリティカル耐性率増加』を解除する",
+        "CasterIconId": 111,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11100400201]",
+        "IconId": 111004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11100400201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550411100440101,
+        "IsIgnore": null,
+        "Memo": "クリティカル耐性率が60%増加する（解除不可）。",
+        "CasterIconId": 111,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11100440101]",
+        "IconId": 111004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11100440101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411100440101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411100400101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550411100440201,
+        "IsIgnore": null,
+        "Memo": "*『クリティカル耐性率増加』を解除する",
+        "CasterIconId": 111,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11100440201]",
+        "IconId": 111004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11100440201]",
         "IsHide": true,
         "IsTurnHide": true,
         "EffectGroupInfoList": null

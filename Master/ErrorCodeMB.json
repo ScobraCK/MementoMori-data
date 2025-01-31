@@ -492,6 +492,12 @@
         "ErrorMessageType": 2
     },
     {
+        "Id": 93111,
+        "IsIgnore": null,
+        "Memo": "データが不正です",
+        "ErrorMessageType": 2
+    },
+    {
         "Id": 96000,
         "IsIgnore": null,
         "Memo": null,
@@ -555,6 +561,12 @@
         "Id": 97009,
         "IsIgnore": null,
         "Memo": "アクティブスキルの条件データがありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 97010,
+        "IsIgnore": null,
+        "Memo": "存在しないバトルの種類です",
         "ErrorMessageType": 2
     },
     {
@@ -2064,6 +2076,12 @@
         "ErrorMessageType": 2
     },
     {
+        "Id": 231010,
+        "IsIgnore": null,
+        "Memo": "一括研磨データがありません",
+        "ErrorMessageType": 2
+    },
+    {
         "Id": 232000,
         "IsIgnore": null,
         "Memo": null,
@@ -2385,6 +2403,18 @@
         "Id": 232057,
         "IsIgnore": null,
         "Memo": "カスタムセットがありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 232058,
+        "IsIgnore": null,
+        "Memo": "一括研磨機能の解放条件を満たしていません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 232059,
+        "IsIgnore": null,
+        "Memo": "対象となる武具の追加効果がロックされています",
         "ErrorMessageType": 2
     },
     {
@@ -4416,6 +4446,66 @@
         "ErrorMessageType": 2
     },
     {
+        "Id": 480000,
+        "IsIgnore": null,
+        "Memo": "フレンド情報が見つかりません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 480001,
+        "IsIgnore": null,
+        "Memo": "ステータス情報が見つかりません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 480002,
+        "IsIgnore": null,
+        "Memo": "パーティ編成情報が見つかりません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 481000,
+        "IsIgnore": null,
+        "Memo": "模擬戦が解放されていません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 481001,
+        "IsIgnore": null,
+        "Memo": "対戦相手がフレンドではありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 481002,
+        "IsIgnore": null,
+        "Memo": "対戦相手が模擬戦を許可していません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 481003,
+        "IsIgnore": null,
+        "Memo": "模擬戦を許可していません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 481004,
+        "IsIgnore": null,
+        "Memo": "既に登録しているプレイヤーです",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 481005,
+        "IsIgnore": null,
+        "Memo": "1日の挑戦回数の上限に達しています",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 481006,
+        "IsIgnore": null,
+        "Memo": "バトルの詳細ログがありません",
+        "ErrorMessageType": 2
+    },
+    {
         "Id": 602004,
         "IsIgnore": null,
         "Memo": null,
@@ -4521,6 +4611,24 @@
         "Id": 602024,
         "IsIgnore": null,
         "Memo": "一括使用できないアイテムです",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 602025,
+        "IsIgnore": null,
+        "Memo": "データが不正です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 602026,
+        "IsIgnore": null,
+        "Memo": "データが不正です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 602027,
+        "IsIgnore": null,
+        "Memo": "データが不正です",
         "ErrorMessageType": 2
     },
     {

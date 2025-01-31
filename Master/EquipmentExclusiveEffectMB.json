@@ -10226,5 +10226,134 @@
             }
         ],
         "CharacterId": 109
+    },
+    {
+        "Id": 475,
+        "IsIgnore": null,
+        "Memo": "ティリーSSR180",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 111
+    },
+    {
+        "Id": 476,
+        "IsIgnore": null,
+        "Memo": "ティリーSSR200",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1300.0
+            },
+            {
+                "BattleParameterType": 16,
+                "ChangeParameterType": 2,
+                "Value": 600.0
+            }
+        ],
+        "CharacterId": 111
+    },
+    {
+        "Id": 477,
+        "IsIgnore": null,
+        "Memo": "ティリーSSR220",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1400.0
+            },
+            {
+                "BattleParameterType": 16,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            },
+            {
+                "BattleParameterType": 10,
+                "ChangeParameterType": 1,
+                "Value": 2600.0
+            }
+        ],
+        "CharacterId": 111
+    },
+    {
+        "Id": 478,
+        "IsIgnore": null,
+        "Memo": "ティリーSSR240",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 16,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            },
+            {
+                "BattleParameterType": 10,
+                "ChangeParameterType": 1,
+                "Value": 2900.0
+            }
+        ],
+        "CharacterId": 111
+    },
+    {
+        "Id": 479,
+        "IsIgnore": null,
+        "Memo": "ティリーUR",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1600.0
+            },
+            {
+                "BattleParameterType": 16,
+                "ChangeParameterType": 2,
+                "Value": 900.0
+            },
+            {
+                "BattleParameterType": 10,
+                "ChangeParameterType": 1,
+                "Value": 3200.0
+            }
+        ],
+        "CharacterId": 111
+    },
+    {
+        "Id": 480,
+        "IsIgnore": null,
+        "Memo": "ティリーLR",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 16,
+                "ChangeParameterType": 2,
+                "Value": 1000.0
+            },
+            {
+                "BattleParameterType": 10,
+                "ChangeParameterType": 1,
+                "Value": 3500.0
+            }
+        ],
+        "CharacterId": 111
     }
 ]

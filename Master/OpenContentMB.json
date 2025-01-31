@@ -832,6 +832,22 @@
         "TutorialId": 0
     },
     {
+        "Id": 53,
+        "IsIgnore": null,
+        "Memo": "一括研磨",
+        "AssetPath": null,
+        "DescriptionKey": null,
+        "GuideDescriptionKey": null,
+        "GuideOrderNumber": 0,
+        "GuideStartValue": 0,
+        "IsActiveGuide": false,
+        "OpenCommandType": 53,
+        "OpenContentType": 1,
+        "OpenContentValue": 378,
+        "ToastKey": null,
+        "TutorialId": 0
+    },
+    {
         "Id": 80,
         "IsIgnore": null,
         "Memo": "レベルリンク(Rank30)",
@@ -1180,6 +1196,22 @@
         "OpenCommandType": 480,
         "OpenContentType": 1,
         "OpenContentValue": 280,
+        "ToastKey": null,
+        "TutorialId": 0
+    },
+    {
+        "Id": 490,
+        "IsIgnore": null,
+        "Memo": "模擬戦",
+        "AssetPath": "Prefabs/CommonParts/PartsCommonContentReleaseEffect",
+        "DescriptionKey": null,
+        "GuideDescriptionKey": null,
+        "GuideOrderNumber": 0,
+        "GuideStartValue": 0,
+        "IsActiveGuide": false,
+        "OpenCommandType": 490,
+        "OpenContentType": 1,
+        "OpenContentValue": 460,
         "ToastKey": null,
         "TutorialId": 0
     },
