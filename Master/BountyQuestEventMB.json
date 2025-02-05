@@ -1588,5 +1588,58 @@
         ],
         "EndTime": "2025-01-31 03:59:59",
         "StartTime": "2025-01-27 04:00:00"
+    },
+    {
+        "Id": 31,
+        "IsIgnore": null,
+        "Memo": "ソロ報酬2倍（25/2/14~2/18）",
+        "EventDescriptionKey": "[BountyQuestEventDescription1]",
+        "EventNameKey": "[BountyQuestEventName1]",
+        "MultipleNumber": 100,
+        "TargetItemList": [
+            {
+                "ItemId": 1,
+                "ItemType": 3
+            },
+            {
+                "ItemId": 2,
+                "ItemType": 11
+            },
+            {
+                "ItemId": 1,
+                "ItemType": 1
+            },
+            {
+                "ItemId": 27,
+                "ItemType": 17
+            },
+            {
+                "ItemId": 4,
+                "ItemType": 17
+            },
+            {
+                "ItemId": 5,
+                "ItemType": 17
+            },
+            {
+                "ItemId": 6,
+                "ItemType": 17
+            },
+            {
+                "ItemId": 7,
+                "ItemType": 17
+            },
+            {
+                "ItemId": 8,
+                "ItemType": 17
+            }
+        ],
+        "TargetQuestTypeList": [
+            {
+                "BountyQuestType": 0
+            }
+        ],
+        "EndTime": "2025-02-18 03:59:59",
+        "StartTime": "2025-02-14 04:00:00"
     }
 ]
