@@ -4930,5 +4930,109 @@
         "RequireFragmentCount": 60,
         "EndTimeFixJST": "2100-12-31 23:59:59",
         "StartTimeFixJST": "2025-01-31 15:00:00"
+    },
+    {
+        "Id": 112,
+        "IsIgnore": null,
+        "Memo": "春シズ",
+        "ActiveSkillIds": [
+            112001,
+            112002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 83,
+            "Health": 55,
+            "Intelligence": 84,
+            "Muscle": 102
+        },
+        "BaseParameterGrossCoefficient": 324,
+        "CharacterType": 2,
+        "ElementType": 2,
+        "InitialBattleParameter": {
+            "AttackPower": 5,
+            "Avoidance": 0,
+            "Critical": -3,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 1,
+            "DamageReflect": 0,
+            "DebuffHit": 0,
+            "DebuffResist": 0,
+            "Defense": 10,
+            "DefensePenetration": 0,
+            "Hit": 0,
+            "HP": 0,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": -3,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 0,
+            "Speed": 3582
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 1,
+        "Name2Key": "[CharacterSubName112]",
+        "NameKey": "[CharacterName112]",
+        "NormalSkillId": 101,
+        "PassiveSkillIds": [
+            112003,
+            112004
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2025-02-14 15:00:00"
+    },
+    {
+        "Id": 113,
+        "IsIgnore": null,
+        "Memo": "ルスティカ",
+        "ActiveSkillIds": [
+            113001,
+            113002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 79,
+            "Health": 83,
+            "Intelligence": 78,
+            "Muscle": 92
+        },
+        "BaseParameterGrossCoefficient": 332,
+        "CharacterType": 0,
+        "ElementType": 4,
+        "InitialBattleParameter": {
+            "AttackPower": 0,
+            "Avoidance": 0,
+            "Critical": 0,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 0,
+            "DamageReflect": 0,
+            "DebuffHit": -5,
+            "DebuffResist": 0,
+            "Defense": 11,
+            "DefensePenetration": 0,
+            "Hit": 0,
+            "HP": 5,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": -1,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 0,
+            "Speed": 3187
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 1,
+        "Name2Key": null,
+        "NameKey": "[CharacterName113]",
+        "NormalSkillId": 101,
+        "PassiveSkillIds": [
+            113003,
+            113004
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2025-02-28 15:00:00"
     }
 ]
