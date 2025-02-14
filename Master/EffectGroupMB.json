@@ -23242,6 +23242,669 @@
         "EffectGroupInfoList": null
     },
     {
+        "Id": 11200100202,
+        "IsIgnore": null,
+        "Memo": "スピードが15%減少する。",
+        "CasterIconId": 112,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11200100202]",
+        "IconId": 112001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11200100202]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11200120202,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11200100202,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 11200120202,
+        "IsIgnore": null,
+        "Memo": "スピードが30%減少する。",
+        "CasterIconId": 112,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11200120202]",
+        "IconId": 112001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11200120202]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11200120202,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11200100202,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 11200300101,
+        "IsIgnore": null,
+        "Memo": "*攻撃力がステータス増減前の自身の防御力×100%分増加する（解除不可）。",
+        "CasterIconId": 112,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11200300101]",
+        "IconId": 112003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11200300101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11200320101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11200300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 11200320101,
+        "IsIgnore": null,
+        "Memo": "*攻撃力がステータス増減前の自身の防御力×200%分増加する（解除不可）。",
+        "CasterIconId": 112,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11200320101]",
+        "IconId": 112003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11200320101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11200320101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11200300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 11200330201,
+        "IsIgnore": null,
+        "Memo": " [多重バリア] 最大HP×20％以上のダメージを1層消費して無効化する（解除不可）。",
+        "CasterIconId": 112,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11200330201]",
+        "IconId": 112003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11200330201]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 11200400101,
+        "IsIgnore": null,
+        "Memo": "*印付与",
+        "CasterIconId": 112,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11200400101]",
+        "IconId": 112004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11200400101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 11200400102,
+        "IsIgnore": null,
+        "Memo": "被ダメージが10%増加する。",
+        "CasterIconId": 112,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11200400102]",
+        "IconId": 112004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11200400102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11200430103,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11200420103,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 11200400103,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 11200420102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 11200400102,
+                "OrderNumber": 5
+            }
+        ]
+    },
+    {
+        "Id": 11200400103,
+        "IsIgnore": null,
+        "Memo": "被ダメージが10%増加し、カウンタが20%減少する。",
+        "CasterIconId": 112,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11200400103]",
+        "IconId": 112004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11200400103]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11200430103,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11200420103,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 11200400103,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 11200420102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 11200400102,
+                "OrderNumber": 5
+            }
+        ]
+    },
+    {
+        "Id": 11200400104,
+        "IsIgnore": null,
+        "Memo": "*印解除",
+        "CasterIconId": 112,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11200400104]",
+        "IconId": 112004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11200400104]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 11200420102,
+        "IsIgnore": null,
+        "Memo": "被ダメージが10%増加する。",
+        "CasterIconId": 112,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11200420102]",
+        "IconId": 112004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11200420102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11200430103,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11200420103,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 11200400103,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 11200420102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 11200400102,
+                "OrderNumber": 5
+            }
+        ]
+    },
+    {
+        "Id": 11200420103,
+        "IsIgnore": null,
+        "Memo": "被ダメージが10%増加し、カウンタが20%減少する。",
+        "CasterIconId": 112,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11200420103]",
+        "IconId": 112004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11200420103]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11200430103,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11200420103,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 11200400103,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 11200420102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 11200400102,
+                "OrderNumber": 5
+            }
+        ]
+    },
+    {
+        "Id": 11200430103,
+        "IsIgnore": null,
+        "Memo": "被ダメージが10%増加し、カウンタが40%減少する。",
+        "CasterIconId": 112,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11200430103]",
+        "IconId": 112004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11200430103]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11200430103,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11200420103,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 11200400103,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 11200420102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 11200400102,
+                "OrderNumber": 5
+            }
+        ]
+    },
+    {
+        "Id": 11300100101,
+        "IsIgnore": null,
+        "Memo": "HPドレインが10%増加する。",
+        "CasterIconId": 113,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11300100101]",
+        "IconId": 113001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11300100101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11300130101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11300100101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 11300130101,
+        "IsIgnore": null,
+        "Memo": "HPドレインが30%増加する。",
+        "CasterIconId": 113,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11300130101]",
+        "IconId": 113001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11300130101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11300130101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11300100101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 11300200101,
+        "IsIgnore": null,
+        "Memo": "攻撃力が10%増加する。",
+        "CasterIconId": 113,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11300200101]",
+        "IconId": 113002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11300200101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11300230101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11300200101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 11300230101,
+        "IsIgnore": null,
+        "Memo": "攻撃力が30%増加する。",
+        "CasterIconId": 113,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11300230101]",
+        "IconId": 113002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11300230101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11300230101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11300200101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 11300300101,
+        "IsIgnore": null,
+        "Memo": "[シールド]付与者の攻撃力×50％分のダメージを代わりに受ける（解除不可）。",
+        "CasterIconId": 113,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11300300101]",
+        "IconId": 113003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11300300101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11300340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11300340101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 11300330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 11300330101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 11300320101,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 11300300101,
+                "OrderNumber": 6
+            }
+        ]
+    },
+    {
+        "Id": 11300320101,
+        "IsIgnore": null,
+        "Memo": "[シールド]付与者の攻撃力×75％分のダメージを代わりに受ける（解除不可）。",
+        "CasterIconId": 113,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11300320101]",
+        "IconId": 113003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11300320101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11300340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11300340101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 11300330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 11300330101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 11300320101,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 11300300101,
+                "OrderNumber": 6
+            }
+        ]
+    },
+    {
+        "Id": 11300330101,
+        "IsIgnore": null,
+        "Memo": "[シールド]付与者の攻撃力×75％分のダメージを代わりに受ける（解除不可）。",
+        "CasterIconId": 113,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11300330101]",
+        "IconId": 113003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11300330101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11300340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11300340101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 11300330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 11300330101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 11300320101,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 11300300101,
+                "OrderNumber": 6
+            }
+        ]
+    },
+    {
+        "Id": 11300330102,
+        "IsIgnore": null,
+        "Memo": "[シールド]付与者の攻撃力×150％分のダメージを代わりに受ける（解除不可）。",
+        "CasterIconId": 113,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11300330102]",
+        "IconId": 113003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11300330102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11300340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11300340101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 11300330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 11300330101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 11300320101,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 11300300101,
+                "OrderNumber": 6
+            }
+        ]
+    },
+    {
+        "Id": 11300340101,
+        "IsIgnore": null,
+        "Memo": "[シールド]付与者の攻撃力×400％分のダメージを代わりに受ける（解除不可）。",
+        "CasterIconId": 113,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11300340101]",
+        "IconId": 113003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11300340101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11300340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11300340101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 11300330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 11300330101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 11300320101,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 11300300101,
+                "OrderNumber": 6
+            }
+        ]
+    },
+    {
+        "Id": 11300340102,
+        "IsIgnore": null,
+        "Memo": "[シールド]付与者の攻撃力×800％分のダメージを代わりに受ける（解除不可）。",
+        "CasterIconId": 113,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11300340102]",
+        "IconId": 113003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11300340102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11300340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11300340101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 11300330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 11300330101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 11300320101,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 11300300101,
+                "OrderNumber": 6
+            }
+        ]
+    },
+    {
+        "Id": 11300400101,
+        "IsIgnore": null,
+        "Memo": "被ダメージが75%減少する（解除不可）。",
+        "CasterIconId": 113,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11300400101]",
+        "IconId": 113004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11300400101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 11300430301,
+        "IsIgnore": null,
+        "Memo": "攻撃力が30%増加する（解除不可）。",
+        "CasterIconId": 113,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11300430301]",
+        "IconId": 113004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11300430301]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 5504600400101,
         "IsIgnore": null,
         "Memo": "削除予定　アムレートSR　誓いを果たす者  :*",
@@ -72214,6 +72877,669 @@
         "NameKey": "[EffectGroupName11100440201]",
         "IsHide": true,
         "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550411200100202,
+        "IsIgnore": null,
+        "Memo": "スピードが15%減少する。",
+        "CasterIconId": 112,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11200100202]",
+        "IconId": 112001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11200100202]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411200120202,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411200100202,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550411200120202,
+        "IsIgnore": null,
+        "Memo": "スピードが30%減少する。",
+        "CasterIconId": 112,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11200120202]",
+        "IconId": 112001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11200120202]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411200120202,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411200100202,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550411200300101,
+        "IsIgnore": null,
+        "Memo": "*攻撃力がステータス増減前の自身の防御力×100%分増加する（解除不可）。",
+        "CasterIconId": 112,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11200300101]",
+        "IconId": 112003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11200300101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411200320101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411200300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550411200320101,
+        "IsIgnore": null,
+        "Memo": "*攻撃力がステータス増減前の自身の防御力×200%分増加する（解除不可）。",
+        "CasterIconId": 112,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11200320101]",
+        "IconId": 112003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11200320101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411200320101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411200300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550411200330201,
+        "IsIgnore": null,
+        "Memo": " [多重バリア] 最大HP×20％以上のダメージを1層消費して無効化する（解除不可）。",
+        "CasterIconId": 112,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11200330201]",
+        "IconId": 112003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11200330201]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550411200400101,
+        "IsIgnore": null,
+        "Memo": "*印付与",
+        "CasterIconId": 112,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11200400101]",
+        "IconId": 112004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11200400101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550411200400102,
+        "IsIgnore": null,
+        "Memo": "被ダメージが10%増加する。",
+        "CasterIconId": 112,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11200400102]",
+        "IconId": 112004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11200400102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411200430103,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411200420103,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550411200400103,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550411200420102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550411200400102,
+                "OrderNumber": 5
+            }
+        ]
+    },
+    {
+        "Id": 550411200400103,
+        "IsIgnore": null,
+        "Memo": "被ダメージが10%増加し、カウンタが20%減少する。",
+        "CasterIconId": 112,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11200400103]",
+        "IconId": 112004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11200400103]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411200430103,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411200420103,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550411200400103,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550411200420102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550411200400102,
+                "OrderNumber": 5
+            }
+        ]
+    },
+    {
+        "Id": 550411200400104,
+        "IsIgnore": null,
+        "Memo": "*印解除",
+        "CasterIconId": 112,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11200400104]",
+        "IconId": 112004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11200400104]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550411200420102,
+        "IsIgnore": null,
+        "Memo": "被ダメージが10%増加する。",
+        "CasterIconId": 112,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11200420102]",
+        "IconId": 112004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11200420102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411200430103,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411200420103,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550411200400103,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550411200420102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550411200400102,
+                "OrderNumber": 5
+            }
+        ]
+    },
+    {
+        "Id": 550411200420103,
+        "IsIgnore": null,
+        "Memo": "被ダメージが10%増加し、カウンタが20%減少する。",
+        "CasterIconId": 112,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11200420103]",
+        "IconId": 112004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11200420103]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411200430103,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411200420103,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550411200400103,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550411200420102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550411200400102,
+                "OrderNumber": 5
+            }
+        ]
+    },
+    {
+        "Id": 550411200430103,
+        "IsIgnore": null,
+        "Memo": "被ダメージが10%増加し、カウンタが40%減少する。",
+        "CasterIconId": 112,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11200430103]",
+        "IconId": 112004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11200430103]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411200430103,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411200420103,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550411200400103,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550411200420102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550411200400102,
+                "OrderNumber": 5
+            }
+        ]
+    },
+    {
+        "Id": 550411300100101,
+        "IsIgnore": null,
+        "Memo": "HPドレインが10%増加する。",
+        "CasterIconId": 113,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11300100101]",
+        "IconId": 113001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11300100101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411300130101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411300100101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550411300130101,
+        "IsIgnore": null,
+        "Memo": "HPドレインが30%増加する。",
+        "CasterIconId": 113,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11300130101]",
+        "IconId": 113001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11300130101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411300130101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411300100101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550411300200101,
+        "IsIgnore": null,
+        "Memo": "攻撃力が10%増加する。",
+        "CasterIconId": 113,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11300200101]",
+        "IconId": 113002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11300200101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411300230101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411300200101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550411300230101,
+        "IsIgnore": null,
+        "Memo": "攻撃力が30%増加する。",
+        "CasterIconId": 113,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11300230101]",
+        "IconId": 113002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11300230101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411300230101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411300200101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550411300300101,
+        "IsIgnore": null,
+        "Memo": "[シールド]付与者の攻撃力×50％分のダメージを代わりに受ける（解除不可）。",
+        "CasterIconId": 113,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11300300101]",
+        "IconId": 113003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11300300101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411300340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411300340101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550411300330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550411300330101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550411300320101,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 550411300300101,
+                "OrderNumber": 6
+            }
+        ]
+    },
+    {
+        "Id": 550411300320101,
+        "IsIgnore": null,
+        "Memo": "[シールド]付与者の攻撃力×75％分のダメージを代わりに受ける（解除不可）。",
+        "CasterIconId": 113,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11300320101]",
+        "IconId": 113003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11300320101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411300340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411300340101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550411300330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550411300330101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550411300320101,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 550411300300101,
+                "OrderNumber": 6
+            }
+        ]
+    },
+    {
+        "Id": 550411300330101,
+        "IsIgnore": null,
+        "Memo": "[シールド]付与者の攻撃力×75％分のダメージを代わりに受ける（解除不可）。",
+        "CasterIconId": 113,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11300330101]",
+        "IconId": 113003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11300330101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411300340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411300340101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550411300330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550411300330101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550411300320101,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 550411300300101,
+                "OrderNumber": 6
+            }
+        ]
+    },
+    {
+        "Id": 550411300330102,
+        "IsIgnore": null,
+        "Memo": "[シールド]付与者の攻撃力×150％分のダメージを代わりに受ける（解除不可）。",
+        "CasterIconId": 113,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11300330102]",
+        "IconId": 113003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11300330102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411300340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411300340101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550411300330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550411300330101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550411300320101,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 550411300300101,
+                "OrderNumber": 6
+            }
+        ]
+    },
+    {
+        "Id": 550411300340101,
+        "IsIgnore": null,
+        "Memo": "[シールド]付与者の攻撃力×400％分のダメージを代わりに受ける（解除不可）。",
+        "CasterIconId": 113,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11300340101]",
+        "IconId": 113003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11300340101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411300340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411300340101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550411300330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550411300330101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550411300320101,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 550411300300101,
+                "OrderNumber": 6
+            }
+        ]
+    },
+    {
+        "Id": 550411300340102,
+        "IsIgnore": null,
+        "Memo": "[シールド]付与者の攻撃力×800％分のダメージを代わりに受ける（解除不可）。",
+        "CasterIconId": 113,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11300340102]",
+        "IconId": 113003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11300340102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411300340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411300340101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550411300330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550411300330101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550411300320101,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 550411300300101,
+                "OrderNumber": 6
+            }
+        ]
+    },
+    {
+        "Id": 550411300400101,
+        "IsIgnore": null,
+        "Memo": "被ダメージが75%減少する（解除不可）。",
+        "CasterIconId": 113,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11300400101]",
+        "IconId": 113004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11300400101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550411300430301,
+        "IsIgnore": null,
+        "Memo": "攻撃力が30%増加する（解除不可）。",
+        "CasterIconId": 113,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11300430301]",
+        "IconId": 113004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11300430301]",
+        "IsHide": false,
+        "IsTurnHide": false,
         "EffectGroupInfoList": null
     }
 ]

@@ -2034,6 +2034,12 @@
         "ErrorMessageType": 2
     },
     {
+        "Id": 220001,
+        "IsIgnore": null,
+        "Memo": "バトル結果データがありません",
+        "ErrorMessageType": 2
+    },
+    {
         "Id": 231000,
         "IsIgnore": null,
         "Memo": null,
@@ -4120,6 +4126,12 @@
         "IsIgnore": null,
         "Memo": "イベント終了後にギルドに加入したため、到達報酬は受け取れません",
         "ErrorMessageType": 1
+    },
+    {
+        "Id": 412203,
+        "IsIgnore": null,
+        "Memo": "バトル開始に失敗しました",
+        "ErrorMessageType": 2
     },
     {
         "Id": 421000,

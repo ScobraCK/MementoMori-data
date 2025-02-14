@@ -10355,5 +10355,134 @@
             }
         ],
         "CharacterId": 111
+    },
+    {
+        "Id": 481,
+        "IsIgnore": null,
+        "Memo": "春シズSSR180",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 112
+    },
+    {
+        "Id": 482,
+        "IsIgnore": null,
+        "Memo": "春シズSSR200",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1300.0
+            },
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 2,
+                "Value": 300.0
+            }
+        ],
+        "CharacterId": 112
+    },
+    {
+        "Id": 483,
+        "IsIgnore": null,
+        "Memo": "春シズSSR220",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1400.0
+            },
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 2,
+                "Value": 350.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "CharacterId": 112
+    },
+    {
+        "Id": 484,
+        "IsIgnore": null,
+        "Memo": "春シズSSR240",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 2,
+                "Value": 400.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "CharacterId": 112
+    },
+    {
+        "Id": 485,
+        "IsIgnore": null,
+        "Memo": "春シズUR",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1600.0
+            },
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 2,
+                "Value": 450.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 900.0
+            }
+        ],
+        "CharacterId": 112
+    },
+    {
+        "Id": 486,
+        "IsIgnore": null,
+        "Memo": "春シズLR",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 2,
+                "Value": 500.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 1000.0
+            }
+        ],
+        "CharacterId": 112
     }
 ]
