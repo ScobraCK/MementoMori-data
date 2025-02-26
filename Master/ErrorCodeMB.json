@@ -4518,6 +4518,84 @@
         "ErrorMessageType": 2
     },
     {
+        "Id": 490000,
+        "IsIgnore": null,
+        "Memo": "アンケート情報が見つかりません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 491000,
+        "IsIgnore": null,
+        "Memo": "ギルドに参加していません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 491001,
+        "IsIgnore": null,
+        "Memo": "権限が不足しています",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 491002,
+        "IsIgnore": null,
+        "Memo": "無効な投票期限が設定されています",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 491003,
+        "IsIgnore": null,
+        "Memo": "本文が入力されていません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 491004,
+        "IsIgnore": null,
+        "Memo": "選択肢が入力されていません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 491005,
+        "IsIgnore": null,
+        "Memo": "無効な選択肢が設定されています",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 491006,
+        "IsIgnore": null,
+        "Memo": "無効な選択肢種別です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 491007,
+        "IsIgnore": null,
+        "Memo": "アンケートに存在しない選択肢です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 491008,
+        "IsIgnore": null,
+        "Memo": "本文の文字数が上限を超えています",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 491009,
+        "IsIgnore": null,
+        "Memo": "選択肢の文字数が上限を超えています",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 491010,
+        "IsIgnore": null,
+        "Memo": "アンケートの登録件数が上限に達しています",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 491011,
+        "IsIgnore": null,
+        "Memo": "異なるギルドのアンケートが指定されています",
+        "ErrorMessageType": 2
+    },
+    {
         "Id": 602004,
         "IsIgnore": null,
         "Memo": null,
