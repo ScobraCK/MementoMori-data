@@ -709,6 +709,69 @@
         "SortOrder": 0
     },
     {
+        "Id": 1010,
+        "IsIgnore": null,
+        "Memo": "デイリーミッション1_魔女の書庫整理",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 20,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 1,
+                    "ItemType": 43
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2025-03-17 04:00:00",
+        "EndTime": "2025-03-27 03:59:59",
+        "SortOrder": 0
+    },
+    {
+        "Id": 1011,
+        "IsIgnore": null,
+        "Memo": "デイリーミッション3_魔女の書庫整理",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 60,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 1,
+                    "ItemType": 43
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2025-03-17 04:00:00",
+        "EndTime": "2025-03-27 03:59:59",
+        "SortOrder": 0
+    },
+    {
+        "Id": 1012,
+        "IsIgnore": null,
+        "Memo": "デイリーミッション5_魔女の書庫整理",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 100,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 10,
+                    "ItemId": 1,
+                    "ItemType": 43
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2025-03-17 04:00:00",
+        "EndTime": "2025-03-27 03:59:59",
+        "SortOrder": 0
+    },
+    {
         "Id": 10001,
         "IsIgnore": null,
         "Memo": "イベント_デイリーミッション1_タマ",
