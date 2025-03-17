@@ -205,6 +205,24 @@
         ]
     },
     {
+        "Id": 1020,
+        "IsIgnore": null,
+        "Memo": "プレミアギフト画面(Steam版のみ表示)",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine1020]",
+                "MainText": "[HelpMainText1020]",
+                "HelpParameterType": 0
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0,
+        "DisplayDeviceTypes": [
+            6
+        ]
+    },
+    {
         "Id": 1100,
         "IsIgnore": null,
         "Memo": "プレミアギフト画面 - 月間ブーストDLG(購入前)",
@@ -299,6 +317,24 @@
         "IsDisplayed": true,
         "TutorialDescriptionId": 0,
         "DisplayDeviceTypes": null
+    },
+    {
+        "Id": 1430,
+        "IsIgnore": null,
+        "Memo": "プレミアギフト画面 - 盟約特権DLG（Steam専用）",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine1430]",
+                "MainText": "[HelpMainText1430]",
+                "HelpParameterType": 0
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0,
+        "DisplayDeviceTypes": [
+            6
+        ]
     },
     {
         "Id": 1500,

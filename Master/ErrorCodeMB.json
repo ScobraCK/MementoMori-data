@@ -4248,6 +4248,12 @@
         "ErrorMessageType": 2
     },
     {
+        "Id": 450006,
+        "IsIgnore": null,
+        "Memo": "入力されたシリアルコードはBOI版アプリ内のコード入力でのみ使用可能です",
+        "ErrorMessageType": 2
+    },
+    {
         "Id": 460001,
         "IsIgnore": null,
         "Memo": "バトルリーグの集計データがありません",
@@ -5619,6 +5625,102 @@
         "Id": 5010013,
         "IsIgnore": null,
         "Memo": null,
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 6000101,
+        "IsIgnore": null,
+        "Memo": "ユーザーのSteamIdの取得に失敗しました。",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 6000102,
+        "IsIgnore": null,
+        "Memo": "既に別のSteamアカウントと紐づいたユーザーです。",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 6000201,
+        "IsIgnore": null,
+        "Memo": "端末種別がSteamではありません。",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 6000202,
+        "IsIgnore": null,
+        "Memo": "未定義の言語コードです。",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 6000203,
+        "IsIgnore": null,
+        "Memo": "Steamのユーザー情報取得に失敗しました。",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 6000204,
+        "IsIgnore": null,
+        "Memo": "価格情報が定義されていません。",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 6000205,
+        "IsIgnore": null,
+        "Memo": "Steamでの課金開始に失敗しました。",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 6000301,
+        "IsIgnore": null,
+        "Memo": "Steamでの購入ステータス取得に失敗しました。",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 6000302,
+        "IsIgnore": null,
+        "Memo": "Steamでの購入完了に失敗しました。",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 6000303,
+        "IsIgnore": null,
+        "Memo": "Steamでの課金に失敗しました。",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 6000304,
+        "IsIgnore": null,
+        "Memo": "Steamでの課金に失敗しました。",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 6000305,
+        "IsIgnore": null,
+        "Memo": "Steamでのサブスク情報取得に失敗しました。",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 6000306,
+        "IsIgnore": null,
+        "Memo": "Steamでのサブスク情報取得に失敗しました。",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 6000307,
+        "IsIgnore": null,
+        "Memo": "Steamでのサブスク情報取得に失敗しました。",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 6000308,
+        "IsIgnore": null,
+        "Memo": "既にサブスク契約済みです。",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 6000309,
+        "IsIgnore": null,
+        "Memo": "次回支払日が存在しません。",
         "ErrorMessageType": 2
     }
 ]

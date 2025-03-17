@@ -23905,6 +23905,122 @@
         "EffectGroupInfoList": null
     },
     {
+        "Id": 11400320201,
+        "IsIgnore": null,
+        "Memo": "攻撃力が5%増加する（最大15回まで）（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 114,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11400320201]",
+        "IconId": 114003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11400320201]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 11400400101,
+        "IsIgnore": null,
+        "Memo": "*最大HPが40％増加する（解除不可）。",
+        "CasterIconId": 114,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11400400101]",
+        "IconId": 114004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11400400101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11400440101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11400400101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 11400420201,
+        "IsIgnore": null,
+        "Memo": "*スキルクールタイムカウントを0にする。",
+        "CasterIconId": 114,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11400420201]",
+        "IconId": 114004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11400420201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 11400420301,
+        "IsIgnore": null,
+        "Memo": "スピードが30％増加する（解除不可）。",
+        "CasterIconId": 114,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11400420301]",
+        "IconId": 114004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11400420301]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 11400430401,
+        "IsIgnore": null,
+        "Memo": "*被ダメージが65％減少する（解除不可）。",
+        "CasterIconId": 114,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11400430401]",
+        "IconId": 114004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11400430401]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 11400440101,
+        "IsIgnore": null,
+        "Memo": "*最大HPが100％増加する（解除不可）。",
+        "CasterIconId": 114,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11400440101]",
+        "IconId": 114004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11400440101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11400440101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11400400101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 11400500101,
+        "IsIgnore": null,
+        "Memo": "*印付与",
+        "CasterIconId": 114,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11400500101]",
+        "IconId": 114005,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11400500101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 5504600400101,
         "IsIgnore": null,
         "Memo": "削除予定　アムレートSR　誓いを果たす者  :*",
@@ -73540,6 +73656,122 @@
         "NameKey": "[EffectGroupName11300430301]",
         "IsHide": false,
         "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550411400320201,
+        "IsIgnore": null,
+        "Memo": "攻撃力が5%増加する（最大15回まで）（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 114,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11400320201]",
+        "IconId": 114003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11400320201]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550411400400101,
+        "IsIgnore": null,
+        "Memo": "*最大HPが40％増加する（解除不可）。",
+        "CasterIconId": 114,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11400400101]",
+        "IconId": 114004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11400400101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411400440101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411400400101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550411400420201,
+        "IsIgnore": null,
+        "Memo": "*スキルクールタイムカウントを0にする。",
+        "CasterIconId": 114,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11400420201]",
+        "IconId": 114004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11400420201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550411400420301,
+        "IsIgnore": null,
+        "Memo": "スピードが30％増加する（解除不可）。",
+        "CasterIconId": 114,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11400420301]",
+        "IconId": 114004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11400420301]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550411400430401,
+        "IsIgnore": null,
+        "Memo": "*被ダメージが65％減少する（解除不可）。",
+        "CasterIconId": 114,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11400430401]",
+        "IconId": 114004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11400430401]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550411400440101,
+        "IsIgnore": null,
+        "Memo": "*最大HPが100％増加する（解除不可）。",
+        "CasterIconId": 114,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11400440101]",
+        "IconId": 114004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11400440101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411400440101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411400400101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550411400500101,
+        "IsIgnore": null,
+        "Memo": "*印付与",
+        "CasterIconId": 114,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11400500101]",
+        "IconId": 114005,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11400500101]",
+        "IsHide": true,
+        "IsTurnHide": true,
         "EffectGroupInfoList": null
     }
 ]
