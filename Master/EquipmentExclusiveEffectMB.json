@@ -10613,5 +10613,134 @@
             }
         ],
         "CharacterId": 113
+    },
+    {
+        "Id": 493,
+        "IsIgnore": null,
+        "Memo": "ポーラSSR180",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 114
+    },
+    {
+        "Id": 494,
+        "IsIgnore": null,
+        "Memo": "ポーラSSR200",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1300.0
+            },
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 114
+    },
+    {
+        "Id": 495,
+        "IsIgnore": null,
+        "Memo": "ポーラSSR220",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1400.0
+            },
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "CharacterId": 114
+    },
+    {
+        "Id": 496,
+        "IsIgnore": null,
+        "Memo": "ポーラSSR240",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "CharacterId": 114
+    },
+    {
+        "Id": 497,
+        "IsIgnore": null,
+        "Memo": "ポーラUR",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1600.0
+            },
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 2000.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 900.0
+            }
+        ],
+        "CharacterId": 114
+    },
+    {
+        "Id": 498,
+        "IsIgnore": null,
+        "Memo": "ポーラLR",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 2200.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 1000.0
+            }
+        ],
+        "CharacterId": 114
     }
 ]

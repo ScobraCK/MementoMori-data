@@ -652,6 +652,66 @@
         "ImageCharacterId": 0
     },
     {
+        "Id": 36,
+        "IsIgnore": null,
+        "Memo": "魔女の書庫整理(複数マスアイテム確認前）",
+        "HelpId": 6900,
+        "ImageItem1": null,
+        "ImageItem2": null,
+        "ImagePositionFormatType": 0,
+        "PageInfo": [
+            {
+                "ImageId": 53,
+                "MainTextKey": "[TutorialDescriptionMainText53]"
+            },
+            {
+                "ImageId": 54,
+                "MainTextKey": "[TutorialDescriptionMainText54]"
+            }
+        ],
+        "ImageCharacterId": 0
+    },
+    {
+        "Id": 37,
+        "IsIgnore": null,
+        "Memo": "魔女の書庫整理(複数マスアイテム確認後）",
+        "HelpId": 6910,
+        "ImageItem1": null,
+        "ImageItem2": null,
+        "ImagePositionFormatType": 0,
+        "PageInfo": [
+            {
+                "ImageId": 55,
+                "MainTextKey": "[TutorialDescriptionMainText55]"
+            },
+            {
+                "ImageId": 53,
+                "MainTextKey": "[TutorialDescriptionMainText53]"
+            },
+            {
+                "ImageId": 54,
+                "MainTextKey": "[TutorialDescriptionMainText54]"
+            }
+        ],
+        "ImageCharacterId": 0
+    },
+    {
+        "Id": 38,
+        "IsIgnore": null,
+        "Memo": "魔女の書庫整理(複数マスアイテム単体チュートリアル）",
+        "HelpId": 6910,
+        "ImageItem1": null,
+        "ImageItem2": null,
+        "ImagePositionFormatType": 0,
+        "PageInfo": [
+            {
+                "ImageId": 55,
+                "MainTextKey": "[TutorialDescriptionMainText55]"
+            }
+        ],
+        "ImageCharacterId": 0
+    },
+    {
         "Id": 1001,
         "IsIgnore": null,
         "Memo": "ギルドバトル③",
