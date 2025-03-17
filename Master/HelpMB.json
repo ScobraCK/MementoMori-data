@@ -339,7 +339,7 @@
     {
         "Id": 1500,
         "IsIgnore": null,
-        "Memo": "ショップ画面",
+        "Memo": "ショップ画面(アダマントボックス枠追加前)",
         "HelpPartInfoList": [
             {
                 "HeadLine": "[HelpHeadLine1500]",
@@ -353,13 +353,45 @@
         "DisplayDeviceTypes": null
     },
     {
+        "Id": 1501,
+        "IsIgnore": null,
+        "Memo": "ショップ画面(アダマントボックス枠追加後)",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine1501]",
+                "MainText": "[HelpMainText1501]",
+                "HelpParameterType": 0
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0,
+        "DisplayDeviceTypes": null
+    },
+    {
         "Id": 1600,
         "IsIgnore": null,
-        "Memo": "フレンド画面",
+        "Memo": "フレンド画面-フレンドタブ、ブロックタブ(フレンド数上限解放前)",
         "HelpPartInfoList": [
             {
                 "HeadLine": "[HelpHeadLine1600]",
                 "MainText": "[HelpMainText1600]",
+                "HelpParameterType": 0
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0,
+        "DisplayDeviceTypes": null
+    },
+    {
+        "Id": 1601,
+        "IsIgnore": null,
+        "Memo": "フレンド画面-フレンドタブ、ブロックタブ(フレンド数上限解放後)",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine1601]",
+                "MainText": "[HelpMainText1601]",
                 "HelpParameterType": 0
             }
         ],
@@ -1723,6 +1755,54 @@
             {
                 "HeadLine": "[HelpHeadLine6800]",
                 "MainText": "[HelpMainText6800]",
+                "HelpParameterType": 0
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0,
+        "DisplayDeviceTypes": null
+    },
+    {
+        "Id": 6900,
+        "IsIgnore": null,
+        "Memo": "魔女の書庫整理(複数マスアイテム確認前）",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine6900]",
+                "MainText": "[HelpMainText6900]",
+                "HelpParameterType": 0
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 36,
+        "DisplayDeviceTypes": null
+    },
+    {
+        "Id": 6910,
+        "IsIgnore": null,
+        "Memo": "魔女の書庫整理(複数マスアイテム確認後）",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine6900]",
+                "MainText": "[HelpMainText6900]",
+                "HelpParameterType": 0
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 37,
+        "DisplayDeviceTypes": null
+    },
+    {
+        "Id": 7000,
+        "IsIgnore": null,
+        "Memo": "アイテムボックス画面 - 消費タブ",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine7000]",
+                "MainText": "[HelpMainText7000]",
                 "HelpParameterType": 0
             }
         ],
