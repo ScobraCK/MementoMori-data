@@ -4566,9 +4566,10 @@
     {
         "Id": 128,
         "IsIgnore": null,
-        "Memo": "ポーラ②+仮+復刻マチルダ②（0324切り替え用）",
+        "Memo": "ポーラ②+復刻パラデア①+復刻マチルダ②（0324切り替え用）",
         "CharacterIdList": [
             114,
+            63,
             85,
             5,
             6,
@@ -4597,11 +4598,50 @@
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
             114,
+            63,
             85
         ],
         "OrderNumber": 128,
         "StartTimeFixJST": "2025-03-24 14:30:00",
         "EndTimeFixJST": "2025-03-31 14:29:59"
+    },
+    {
+        "Id": 129,
+        "IsIgnore": null,
+        "Memo": "仮+復刻パラデア②+仮（0331切り替え用）",
+        "CharacterIdList": [
+            63,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            63
+        ],
+        "OrderNumber": 129,
+        "StartTimeFixJST": "2025-03-31 16:30:00",
+        "EndTimeFixJST": "2025-04-07 14:29:59"
     },
     {
         "Id": 10000,
@@ -4952,5 +4992,31 @@
         "OrderNumber": 10190,
         "StartTimeFixJST": "2025-02-28 14:30:00",
         "EndTimeFixJST": "2025-03-24 14:29:59"
+    },
+    {
+        "Id": 10200,
+        "IsIgnore": null,
+        "Memo": "星の導きガチャ 第20回_フォルティナ・ヴァルリーデ・ソーニャ・ベル・ルーク・カロル",
+        "CharacterIdList": [
+            42,
+            47,
+            9,
+            19,
+            30,
+            40
+        ],
+        "GachaSelectListType": 3,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            42,
+            47,
+            9,
+            19,
+            30,
+            40
+        ],
+        "OrderNumber": 10200,
+        "StartTimeFixJST": "2025-03-24 14:30:00",
+        "EndTimeFixJST": "2025-04-15 14:29:59"
     }
 ]
