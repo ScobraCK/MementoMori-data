@@ -5722,5 +5722,11 @@
         "IsIgnore": null,
         "Memo": "次回支払日が存在しません。",
         "ErrorMessageType": 2
+    },
+    {
+        "Id": 6000310,
+        "IsIgnore": null,
+        "Memo": "課金リクエストの回数制限の上限に達しました。しばらく待ってから再度ボタンを押してください。",
+        "ErrorMessageType": 2
     }
 ]
