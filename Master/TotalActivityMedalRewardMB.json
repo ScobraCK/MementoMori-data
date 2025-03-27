@@ -1148,5 +1148,68 @@
         "StartTime": "2025-02-28 04:00:00",
         "EndTime": "2025-03-10 03:59:59",
         "SortOrder": 0
+    },
+    {
+        "Id": 10061,
+        "IsIgnore": null,
+        "Memo": "イベント_デイリーミッション1_ポプリ",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 20,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 28,
+                    "ItemType": 50
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2025-03-31 04:00:00",
+        "EndTime": "2025-04-10 03:59:59",
+        "SortOrder": 0
+    },
+    {
+        "Id": 10062,
+        "IsIgnore": null,
+        "Memo": "イベント_デイリーミッション3_ポプリ",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 60,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 28,
+                    "ItemType": 50
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2025-03-31 04:00:00",
+        "EndTime": "2025-04-10 03:59:59",
+        "SortOrder": 0
+    },
+    {
+        "Id": 10063,
+        "IsIgnore": null,
+        "Memo": "イベント_デイリーミッション5_ポプリ",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 100,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 10,
+                    "ItemId": 28,
+                    "ItemType": 50
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2025-03-31 04:00:00",
+        "EndTime": "2025-04-10 03:59:59",
+        "SortOrder": 0
     }
 ]
