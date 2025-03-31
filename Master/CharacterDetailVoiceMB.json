@@ -17935,6 +17935,23 @@
         "UnlockQuestId": 0
     },
     {
+        "Id": 4022,
+        "IsIgnore": null,
+        "Memo": "カロル朗読",
+        "CharacterId": 40,
+        "CharacterVoiceCategory": 10,
+        "Path": {
+            "TimelineId": 1,
+            "VoiceId": 0,
+            "TimelineType": 6
+        },
+        "SortOrder": 200,
+        "SubtitleKey": null,
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText31]",
+        "UnlockQuestId": 0
+    },
+    {
         "Id": 4090,
         "IsIgnore": null,
         "Memo": "カロル",
@@ -26177,6 +26194,23 @@
         "SubtitleKey": "[CharacterDetailVoiceSubtitle5621]",
         "UnlockCondition": 6,
         "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText20]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 5622,
+        "IsIgnore": null,
+        "Memo": "クラウディア朗読",
+        "CharacterId": 56,
+        "CharacterVoiceCategory": 10,
+        "Path": {
+            "TimelineId": 1,
+            "VoiceId": 0,
+            "TimelineType": 6
+        },
+        "SortOrder": 200,
+        "SubtitleKey": null,
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText31]",
         "UnlockQuestId": 0
     },
     {
@@ -46618,6 +46652,482 @@
         "IsIgnore": null,
         "Memo": "ポーラ",
         "CharacterId": 114,
+        "CharacterVoiceCategory": 5,
+        "Path": {
+            "TimelineId": 4,
+            "VoiceId": 0,
+            "TimelineType": 4
+        },
+        "SortOrder": 103,
+        "SubtitleKey": null,
+        "UnlockCondition": 8,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText30]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11502,
+        "IsIgnore": null,
+        "Memo": "ポプリ",
+        "CharacterId": 115,
+        "CharacterVoiceCategory": 3,
+        "Path": {
+            "TimelineId": 2,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 2,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11502]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText1]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11503,
+        "IsIgnore": null,
+        "Memo": "ポプリ",
+        "CharacterId": 115,
+        "CharacterVoiceCategory": 2,
+        "Path": {
+            "TimelineId": 3,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 3,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11503]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText2]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11504,
+        "IsIgnore": null,
+        "Memo": "ポプリ",
+        "CharacterId": 115,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 4,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 4,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11504]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText3]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11505,
+        "IsIgnore": null,
+        "Memo": "ポプリ",
+        "CharacterId": 115,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 5,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 5,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11505]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText4]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11506,
+        "IsIgnore": null,
+        "Memo": "ポプリ",
+        "CharacterId": 115,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 6,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 6,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11506]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText5]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11507,
+        "IsIgnore": null,
+        "Memo": "ポプリ",
+        "CharacterId": 115,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 7,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 7,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11507]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText6]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11508,
+        "IsIgnore": null,
+        "Memo": "ポプリ",
+        "CharacterId": 115,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 8,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 8,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11508]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText7]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11509,
+        "IsIgnore": null,
+        "Memo": "ポプリ",
+        "CharacterId": 115,
+        "CharacterVoiceCategory": 1,
+        "Path": {
+            "TimelineId": 9,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 9,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11509]",
+        "UnlockCondition": 7,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText8]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11510,
+        "IsIgnore": null,
+        "Memo": "ポプリ",
+        "CharacterId": 115,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 10,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 10,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11510]",
+        "UnlockCondition": 1,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText9]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11511,
+        "IsIgnore": null,
+        "Memo": "ポプリ",
+        "CharacterId": 115,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 11,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 11,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11511]",
+        "UnlockCondition": 2,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText10]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11512,
+        "IsIgnore": null,
+        "Memo": "ポプリ",
+        "CharacterId": 115,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 12,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 12,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11512]",
+        "UnlockCondition": 3,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText11]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11513,
+        "IsIgnore": null,
+        "Memo": "ポプリ",
+        "CharacterId": 115,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 13,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 13,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11513]",
+        "UnlockCondition": 4,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText12]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11514,
+        "IsIgnore": null,
+        "Memo": "ポプリ",
+        "CharacterId": 115,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 14,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 14,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11514]",
+        "UnlockCondition": 5,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText13]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11515,
+        "IsIgnore": null,
+        "Memo": "ポプリ",
+        "CharacterId": 115,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 15,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 15,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11515]",
+        "UnlockCondition": 6,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText14]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11516,
+        "IsIgnore": null,
+        "Memo": "ポプリ",
+        "CharacterId": 115,
+        "CharacterVoiceCategory": 4,
+        "Path": {
+            "TimelineId": 16,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 16,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11516]",
+        "UnlockCondition": 1,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText15]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11517,
+        "IsIgnore": null,
+        "Memo": "ポプリ",
+        "CharacterId": 115,
+        "CharacterVoiceCategory": 4,
+        "Path": {
+            "TimelineId": 17,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 17,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11517]",
+        "UnlockCondition": 2,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText16]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11518,
+        "IsIgnore": null,
+        "Memo": "ポプリ",
+        "CharacterId": 115,
+        "CharacterVoiceCategory": 4,
+        "Path": {
+            "TimelineId": 18,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 18,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11518]",
+        "UnlockCondition": 3,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText17]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11519,
+        "IsIgnore": null,
+        "Memo": "ポプリ",
+        "CharacterId": 115,
+        "CharacterVoiceCategory": 4,
+        "Path": {
+            "TimelineId": 19,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 19,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11519]",
+        "UnlockCondition": 4,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText18]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11520,
+        "IsIgnore": null,
+        "Memo": "ポプリ",
+        "CharacterId": 115,
+        "CharacterVoiceCategory": 4,
+        "Path": {
+            "TimelineId": 20,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 20,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11520]",
+        "UnlockCondition": 5,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText19]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11521,
+        "IsIgnore": null,
+        "Memo": "ポプリ",
+        "CharacterId": 115,
+        "CharacterVoiceCategory": 4,
+        "Path": {
+            "TimelineId": 21,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 21,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11521]",
+        "UnlockCondition": 6,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText20]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11590,
+        "IsIgnore": null,
+        "Memo": "ポプリ",
+        "CharacterId": 115,
+        "CharacterVoiceCategory": 8,
+        "Path": {
+            "TimelineId": 20,
+            "VoiceId": 0,
+            "TimelineType": 1
+        },
+        "SortOrder": 90,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11590]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText21]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11591,
+        "IsIgnore": null,
+        "Memo": "ポプリ",
+        "CharacterId": 115,
+        "CharacterVoiceCategory": 9,
+        "Path": {
+            "TimelineId": 21,
+            "VoiceId": 0,
+            "TimelineType": 1
+        },
+        "SortOrder": 91,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11591]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText22]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11592,
+        "IsIgnore": null,
+        "Memo": "ポプリ",
+        "CharacterId": 115,
+        "CharacterVoiceCategory": 5,
+        "Path": {
+            "TimelineId": 1,
+            "VoiceId": 0,
+            "TimelineType": 2
+        },
+        "SortOrder": 92,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11592]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText23]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11593,
+        "IsIgnore": null,
+        "Memo": "ポプリ",
+        "CharacterId": 115,
+        "CharacterVoiceCategory": 5,
+        "Path": {
+            "TimelineId": 2,
+            "VoiceId": 0,
+            "TimelineType": 2
+        },
+        "SortOrder": 93,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle11593]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText24]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11596,
+        "IsIgnore": null,
+        "Memo": "ポプリ",
+        "CharacterId": 115,
+        "CharacterVoiceCategory": 5,
+        "Path": {
+            "TimelineId": 2,
+            "VoiceId": 0,
+            "TimelineType": 4
+        },
+        "SortOrder": 100,
+        "SubtitleKey": null,
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText27]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11597,
+        "IsIgnore": null,
+        "Memo": "ポプリ",
+        "CharacterId": 115,
+        "CharacterVoiceCategory": 5,
+        "Path": {
+            "TimelineId": 1,
+            "VoiceId": 0,
+            "TimelineType": 4
+        },
+        "SortOrder": 101,
+        "SubtitleKey": null,
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText28]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11598,
+        "IsIgnore": null,
+        "Memo": "ポプリ",
+        "CharacterId": 115,
+        "CharacterVoiceCategory": 5,
+        "Path": {
+            "TimelineId": 3,
+            "VoiceId": 0,
+            "TimelineType": 4
+        },
+        "SortOrder": 102,
+        "SubtitleKey": null,
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText29]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11599,
+        "IsIgnore": null,
+        "Memo": "ポプリ",
+        "CharacterId": 115,
         "CharacterVoiceCategory": 5,
         "Path": {
             "TimelineId": 4,

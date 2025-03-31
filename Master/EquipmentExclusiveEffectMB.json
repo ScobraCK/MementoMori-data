@@ -10742,5 +10742,134 @@
             }
         ],
         "CharacterId": 114
+    },
+    {
+        "Id": 499,
+        "IsIgnore": null,
+        "Memo": "ポプリSSR180",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 115
+    },
+    {
+        "Id": 500,
+        "IsIgnore": null,
+        "Memo": "ポプリSSR200",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1300.0
+            },
+            {
+                "BattleParameterType": 16,
+                "ChangeParameterType": 2,
+                "Value": 600.0
+            }
+        ],
+        "CharacterId": 115
+    },
+    {
+        "Id": 501,
+        "IsIgnore": null,
+        "Memo": "ポプリSSR220",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1400.0
+            },
+            {
+                "BattleParameterType": 16,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "CharacterId": 115
+    },
+    {
+        "Id": 502,
+        "IsIgnore": null,
+        "Memo": "ポプリSSR240",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 16,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "CharacterId": 115
+    },
+    {
+        "Id": 503,
+        "IsIgnore": null,
+        "Memo": "ポプリUR",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1600.0
+            },
+            {
+                "BattleParameterType": 16,
+                "ChangeParameterType": 2,
+                "Value": 900.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 900.0
+            }
+        ],
+        "CharacterId": 115
+    },
+    {
+        "Id": 504,
+        "IsIgnore": null,
+        "Memo": "ポプリLR",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 16,
+                "ChangeParameterType": 2,
+                "Value": 1000.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 1000.0
+            }
+        ],
+        "CharacterId": 115
     }
 ]
