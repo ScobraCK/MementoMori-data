@@ -4650,9 +4650,10 @@
     {
         "Id": 130,
         "IsIgnore": null,
-        "Memo": "ポプリ②+復刻ユニ②+仮（0407切り替え用）",
+        "Memo": "ポプリ②+復刻ユニ②+復刻タマ①（0407切り替え用）",
         "CharacterIdList": [
             115,
+            81,
             76,
             5,
             6,
@@ -4681,11 +4682,50 @@
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
             115,
+            81,
             76
         ],
         "OrderNumber": 130,
         "StartTimeFixJST": "2025-04-07 14:30:00",
         "EndTimeFixJST": "2025-04-15 14:29:59"
+    },
+    {
+        "Id": 131,
+        "IsIgnore": null,
+        "Memo": "仮+仮+復刻タマ②（0415切り替え用）",
+        "CharacterIdList": [
+            81,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            81
+        ],
+        "OrderNumber": 131,
+        "StartTimeFixJST": "2025-04-15 16:30:00",
+        "EndTimeFixJST": "2025-04-22 14:29:59"
     },
     {
         "Id": 10000,
