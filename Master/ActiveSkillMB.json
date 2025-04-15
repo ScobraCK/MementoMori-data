@@ -11635,6 +11635,125 @@
         "RootActiveSkillId": 86002
     },
     {
+        "Id": 87001,
+        "IsIgnore": null,
+        "Memo": "ネブラSR:Lv1 「私の祈りでも、まだ届くのなら……」4ターンの間攻撃力が最も高い味方の攻撃力と命中率をそれぞれ10%増加させる（解除不可）。「裁きの時間よ！」その後ランダムな敵3体に攻撃力×360%の魔法攻撃を行う。/ Lv2 攻撃力と命中率の増加量がそれぞれ20%になる。/ Lv3 魔法攻撃のダメージが攻撃力×560%になる。/ Ex1 泡沫の祈りを強化する。バフを付与する対象が攻撃力が高い味方3体になる。/ Ex3 泡沫の祈りを強化する。魔法攻撃のダメージが攻撃力×620%になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription870011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    87001001,
+                    87001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription870012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    87001201,
+                    87001002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription870013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    87001201,
+                    87001302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription870014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    87001401,
+                    87001302
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription870015]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    87001401,
+                    87001502
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName87001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 87001
+    },
+    {
+        "Id": 87002,
+        "IsIgnore": null,
+        "Memo": "ネブラSR:Lv1 「悔い改めなさい！」ランダムな敵2体に攻撃力×460%の魔法攻撃を行う。/ Lv2 このスキルの対象がランダムな敵3体になる。/ Lv3 魔法攻撃のダメージが攻撃力×760%になる。/ Lv4 さらに魔法攻撃の前に対象が弱体効果を付帯している場合、魔法攻撃のダメージが攻撃力×1140%になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription870021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    87002001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription870022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    87002201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription870023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    87002301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription870024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    87002401
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName87002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 87002
+    },
+    {
         "Id": 88001,
         "IsIgnore": null,
         "Memo": "使徒ロザリーSR:Lv1 杖に宿る主様の力を借り、ランダムな敵4体に攻撃力×240%の魔法攻撃を行う。/ Lv2 さらに魔法攻撃の前に70%の確率で1ターンの間対象の被ダメージを10%増加させる。/ Lv3 『被ダメージ増加』のターン数が2ターンになる。/ Ex1 フラジャイルを強化する。フラジャイルの対象がランダムな敵5体になる。",
@@ -40509,6 +40628,125 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 86002
+    },
+    {
+        "Id": 5504087001,
+        "IsIgnore": null,
+        "Memo": "",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504087001001,
+                    5504087001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504087001201,
+                    5504087001002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504087001201,
+                    5504087001302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504087001401,
+                    5504087001302
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504087001401,
+                    5504087001502
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName87001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 87001
+    },
+    {
+        "Id": 5504087002,
+        "IsIgnore": null,
+        "Memo": "",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504087002001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504087002201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504087002301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504087002401
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName87002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 87002
     },
     {
         "Id": 5504088001,

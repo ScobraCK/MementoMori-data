@@ -11004,5 +11004,139 @@
             }
         ],
         "CharacterId": 116
+    },
+    {
+        "Id": 523,
+        "IsIgnore": null,
+        "Memo": "ネブラSSR180",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 87
+    },
+    {
+        "Id": 524,
+        "IsIgnore": null,
+        "Memo": "ネブラSSR200",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 600.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1300.0
+            }
+        ],
+        "CharacterId": 87
+    },
+    {
+        "Id": 525,
+        "IsIgnore": null,
+        "Memo": "ネブラSSR220",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 650.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1400.0
+            },
+            {
+                "BattleParameterType": 10,
+                "ChangeParameterType": 1,
+                "Value": 2600.0
+            }
+        ],
+        "CharacterId": 87
+    },
+    {
+        "Id": 526,
+        "IsIgnore": null,
+        "Memo": "ネブラSSR240",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 10,
+                "ChangeParameterType": 1,
+                "Value": 2900.0
+            }
+        ],
+        "CharacterId": 87
+    },
+    {
+        "Id": 527,
+        "IsIgnore": null,
+        "Memo": "ネブラUR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 750.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1600.0
+            },
+            {
+                "BattleParameterType": 10,
+                "ChangeParameterType": 1,
+                "Value": 3200.0
+            }
+        ],
+        "CharacterId": 87
+    },
+    {
+        "Id": 528,
+        "IsIgnore": null,
+        "Memo": "ネブラLR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 10,
+                "ChangeParameterType": 1,
+                "Value": 3500.0
+            }
+        ],
+        "CharacterId": 87
     }
 ]
