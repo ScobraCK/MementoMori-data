@@ -661,18 +661,18 @@
         "IsIgnore": null,
         "Memo": "パラデア",
         "CharacterId": 63,
-        "IsPickup": true,
-        "EndTimeFixJST": "2025-04-07 14:29:59",
-        "StartTimeFixJST": "2025-03-24 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 75,
         "IsIgnore": null,
         "Memo": "エイル",
         "CharacterId": 59,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2025-04-30 14:29:59",
+        "StartTimeFixJST": "2025-04-15 14:30:00"
     },
     {
         "Id": 76,
@@ -889,5 +889,14 @@
         "IsPickup": true,
         "EndTimeFixJST": "2025-04-15 14:29:59",
         "StartTimeFixJST": "2025-03-31 14:30:00"
+    },
+    {
+        "Id": 100,
+        "IsIgnore": null,
+        "Memo": "D.D.",
+        "CharacterId": 116,
+        "IsPickup": true,
+        "EndTimeFixJST": "2025-05-07 14:29:59",
+        "StartTimeFixJST": "2025-04-15 14:30:00"
     }
 ]

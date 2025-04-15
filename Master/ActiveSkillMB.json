@@ -6045,7 +6045,7 @@
     {
         "Id": 47001,
         "IsIgnore": null,
-        "Memo": "【劫火の魔女】\\nヴァルリーデSR: /Lv1　眠っていた復讐心が、全てを焼き尽くす炎となり、ランダムな敵1体に8回攻撃力×195％の物理攻撃を行い、自身のHPをこのスキルの総与ダメージ×15%回復する。　/Lv2 物理攻撃のダメージが攻撃力×205%になる。　/Lv3 物理攻撃のダメージが攻撃力×215％、HPの回復量が総与ダメージ×25％になる。　/専用1 バーストネメシスを強化する。物理攻撃のダメージが攻撃力×230%になる。　/専用2 バーストネメシスを強化する。物理攻撃の回数が10回になる。　/専用3 バーストネメシスを強化する。物理攻撃のダメージが攻撃力×240%になる。",
+        "Memo": "ヴァルリーデSR:Lv1 眠っていた復讐心が、全てを焼き尽くす炎となり、ランダムな敵1体に8回攻撃力×195％の物理攻撃を行う（対象が戦闘不能になった場合、もしくは『透明』『ステルス』を付帯した場合、再度攻撃の対象を選びなおす）。その後自身のHPをこのスキルの総与ダメージ×15%回復する。/ Lv2 物理攻撃のダメージが攻撃力×340％、HPの回復量がこのスキルの総与ダメージ×25％になる。/ Lv3 さらにこのスキルで敵を戦闘不能にするたび、自身の『焔』のターン数を1増加させる。/ Ex1 バーストネメシスを強化する。物理攻撃の回数が10回になる。/ Ex3 バーストネメシスを強化する。物理攻撃のダメージが攻撃力×380%になる。",
         "ActiveSkillConditions": "True",
         "ActiveSkillInfos": [
             {
@@ -6058,17 +6058,17 @@
                     47001001,
                     47001002,
                     47001003,
-                    47001002,
+                    47001022,
                     47001003,
-                    47001002,
+                    47001022,
                     47001003,
-                    47001002,
+                    47001022,
                     47001003,
-                    47001002,
+                    47001022,
                     47001003,
-                    47001002,
+                    47001022,
                     47001003,
-                    47001002,
+                    47001022,
                     47001003,
                     47001004,
                     47001011
@@ -6082,22 +6082,22 @@
                 "BlessingItemId": 0,
                 "SubSetSkillIds": [
                     47001001,
-                    47001202,
+                    47001402,
                     47001003,
-                    47001202,
+                    47001422,
                     47001003,
-                    47001202,
+                    47001422,
                     47001003,
-                    47001202,
+                    47001422,
                     47001003,
-                    47001202,
+                    47001422,
                     47001003,
-                    47001202,
+                    47001422,
                     47001003,
-                    47001202,
+                    47001422,
                     47001003,
-                    47001204,
-                    47001011
+                    47001404,
+                    47001311
                 ]
             },
             {
@@ -6107,23 +6107,25 @@
                 "EquipmentRarityFlags": 0,
                 "BlessingItemId": 0,
                 "SubSetSkillIds": [
+                    47005002,
                     47001001,
-                    47001302,
+                    47001402,
                     47001003,
-                    47001302,
+                    47001422,
                     47001003,
-                    47001302,
+                    47001422,
                     47001003,
-                    47001302,
+                    47001422,
                     47001003,
-                    47001302,
+                    47001422,
                     47001003,
-                    47001302,
+                    47001422,
                     47001003,
-                    47001302,
+                    47001422,
                     47001003,
-                    47001304,
-                    47001311
+                    47001404,
+                    47001311,
+                    47005003
                 ]
             },
             {
@@ -6133,83 +6135,61 @@
                 "EquipmentRarityFlags": 128,
                 "BlessingItemId": 0,
                 "SubSetSkillIds": [
+                    47005002,
                     47001001,
                     47001402,
                     47001003,
-                    47001402,
+                    47001422,
                     47001003,
-                    47001402,
+                    47001422,
                     47001003,
-                    47001402,
+                    47001422,
                     47001003,
-                    47001402,
+                    47001422,
                     47001003,
-                    47001402,
+                    47001422,
                     47001003,
-                    47001402,
+                    47001422,
+                    47001003,
+                    47001422,
+                    47001003,
+                    47001422,
                     47001003,
                     47001404,
-                    47001311
+                    47001311,
+                    47005003
                 ]
             },
             {
                 "OrderNumber": 5,
                 "DescriptionKey": "[ActiveSkillDescription470015]",
-                "CharacterLevel": 181,
-                "EquipmentRarityFlags": 256,
-                "BlessingItemId": 0,
-                "SubSetSkillIds": [
-                    47001001,
-                    47001402,
-                    47001003,
-                    47001402,
-                    47001003,
-                    47001402,
-                    47001003,
-                    47001402,
-                    47001003,
-                    47001402,
-                    47001003,
-                    47001402,
-                    47001003,
-                    47001402,
-                    47001003,
-                    47001402,
-                    47001003,
-                    47001402,
-                    47001003,
-                    47001404,
-                    47001311
-                ]
-            },
-            {
-                "OrderNumber": 6,
-                "DescriptionKey": "[ActiveSkillDescription470016]",
                 "CharacterLevel": 240,
                 "EquipmentRarityFlags": 512,
                 "BlessingItemId": 0,
                 "SubSetSkillIds": [
+                    47005002,
                     47001001,
                     47001602,
                     47001003,
-                    47001602,
+                    47001622,
                     47001003,
-                    47001602,
+                    47001622,
                     47001003,
-                    47001602,
+                    47001622,
                     47001003,
-                    47001602,
+                    47001622,
                     47001003,
-                    47001602,
+                    47001622,
                     47001003,
-                    47001602,
+                    47001622,
                     47001003,
-                    47001602,
+                    47001622,
                     47001003,
-                    47001602,
+                    47001622,
                     47001003,
                     47001604,
-                    47001311
+                    47001311,
+                    47005003
                 ]
             }
         ],
@@ -6221,7 +6201,7 @@
     {
         "Id": 47002,
         "IsIgnore": null,
-        "Memo": "【劫火の魔女】\\nヴァルリーデSR: /Lv1　胸の奥底に眠っている「憤怒の心」が目を覚まし、HP割合が最も低い敵に3回攻撃力×460％の物理攻撃を行う。このスキルで敵を戦闘不能にした場合、残りの敵4体に攻撃力×460％の物理攻撃を行う。　/Lv2 HP割合が最も低い敵に与える物理攻撃のダメージが攻撃力×480%になる。　/Lv3 残りの敵4体に行う物理攻撃のダメージが攻撃力×480%になる。　/Lv4 さらに最初の3回攻撃で敵を戦闘不能にできなかった場合、その敵に3回攻撃力×480%の物理攻撃を行う（その敵が戦闘不能になった時点で3回攻撃は終了）。",
+        "Memo": "ヴァルリーデSR:Lv1 胸の奥底に眠っている「憤怒の心」が目を覚まし、HP割合が最も低い敵に3回攻撃力×620％の物理攻撃を行う。このスキルで敵を戦闘不能にした場合、さらにランダムな敵5体に攻撃力×460％の物理攻撃を行う。/ Lv2 ランダムな敵5体に行う物理攻撃のダメージが攻撃力×620%になる。/ Lv3 さらに最初の3回攻撃で敵を戦闘不能にできなかった場合、その敵に3回攻撃力×620%の物理攻撃を行う（その敵が戦闘不能になった時点で3回攻撃は終了）。/ Lv4 さらにこのスキルで敵を戦闘不能にするたび、自身の『焔』のターン数を1増加させる。",
         "ActiveSkillConditions": "True",
         "ActiveSkillInfos": [
             {
@@ -6231,9 +6211,9 @@
                 "EquipmentRarityFlags": 0,
                 "BlessingItemId": 0,
                 "SubSetSkillIds": [
-                    47002001,
-                    47002002,
-                    47002002,
+                    47002201,
+                    47002202,
+                    47002202,
                     47002003
                 ]
             },
@@ -6247,7 +6227,7 @@
                     47002201,
                     47002202,
                     47002202,
-                    47002003
+                    47002303
                 ]
             },
             {
@@ -6260,6 +6240,9 @@
                     47002201,
                     47002202,
                     47002202,
+                    47002404,
+                    47002404,
+                    47002404,
                     47002303
                 ]
             },
@@ -6270,25 +6253,27 @@
                 "EquipmentRarityFlags": 0,
                 "BlessingItemId": 0,
                 "SubSetSkillIds": [
+                    47005002,
                     47002201,
                     47002202,
                     47002202,
                     47002404,
                     47002404,
                     47002404,
-                    47002303
+                    47002303,
+                    47005003
                 ]
             }
         ],
         "NameKey": "[ActiveSkillName47002]",
         "SkillInitCoolTime": 0,
-        "SkillMaxCoolTime": 5,
+        "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 47002
     },
     {
         "Id": 48001,
         "IsIgnore": null,
-        "Memo": "【錆鉄の魔女】\\nＡ．Ａ．SR: /Lv1　無造作に振るわれた剣翼から錆があふれ出し、ランダムな敵に3回攻撃力×520％の魔法攻撃を行う。　/Lv2 魔法攻撃のダメージが攻撃力×710％になる。　/Lv3 魔法攻撃の回数が4回になる。",
+        "Memo": "A.A.SR:Lv1 無造作に振るわれた剣翼から錆があふれ出し、ランダムな敵に3回攻撃力×520％の魔法攻撃を行う。/ Lv2 魔法攻撃のダメージが攻撃力×710％になる。/ Lv3 魔法攻撃の回数が4回になる。",
         "ActiveSkillConditions": "True",
         "ActiveSkillInfos": [
             {
@@ -6337,7 +6322,7 @@
     {
         "Id": 48002,
         "IsIgnore": null,
-        "Memo": "【錆鉄の魔女】\\nＡ．Ａ．SR: /Lv1　造られた体に秘めるのは絶大な魔力。解放するだけで錆が周囲を埋め尽くし、こびり付き、奪い尽くす。ランダムな敵4体に自身の魔力×200％の直接攻撃を行い、自身のHPをこのスキルの総与ダメージ×15％回復する。　/Lv2 　直接攻撃のダメージが自身の魔力×300％になる。/Lv3 　HP回復量がこのスキルの総与ダメージ×20％になる。/Lv4 　直接攻撃のダメージが自身の魔力×420％になる。/専用3 リミッター解除を強化する。直接攻撃のダメージが自身の魔力×450％になる。",
+        "Memo": "A.A.SR:Lv1 造られた体に秘めるのは絶大な魔力。解放するだけで錆が周囲を埋め尽くし、こびり付き、奪い尽くす。ランダムな敵4体に自身の魔力×290％の直接攻撃を行い、自身のHPをこのスキルの総与ダメージ×15％回復する。/ Lv2 直接攻撃のダメージが自身の魔力×390%になる。/ Lv3 HP回復量がこのスキルの総与ダメージ×20％になる。/ Lv4 直接攻撃のダメージが自身の魔力×890%になる。/ Ex3 リミッター解除を強化する。直接攻撃のダメージが自身の魔力×980%になる。",
         "ActiveSkillConditions": "True",
         "ActiveSkillInfos": [
             {
@@ -6404,7 +6389,7 @@
     {
         "Id": 48101,
         "IsIgnore": null,
-        "Memo": "【錆鉄の魔女】\\nＡ．Ａ．SR: /Lv1　数えきれないほどの屍を積み上げて、その「最高傑作」は造られた。自身の通常攻撃を強化する。敵1体に魔力×150％の直接攻撃",
+        "Memo": "*",
         "ActiveSkillConditions": "True",
         "ActiveSkillInfos": [
             {
@@ -6426,7 +6411,7 @@
     {
         "Id": 48102,
         "IsIgnore": null,
-        "Memo": "【錆鉄の魔女】\\nＡ．Ａ．SR: /Lv2　直接攻撃のダメージが攻撃力×180％になる。",
+        "Memo": "*",
         "ActiveSkillConditions": "True",
         "ActiveSkillInfos": [
             {
@@ -6448,7 +6433,7 @@
     {
         "Id": 48103,
         "IsIgnore": null,
-        "Memo": "【錆鉄の魔女】\\nＡ．Ａ．SR: /Lv3　直接攻撃のダメージが攻撃力×220％になる。",
+        "Memo": "*",
         "ActiveSkillConditions": "True",
         "ActiveSkillInfos": [
             {
@@ -13867,6 +13852,138 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 115002
+    },
+    {
+        "Id": 116001,
+        "IsIgnore": null,
+        "Memo": "D.D.SR:Lv1 ランダムな敵2体に攻撃力×280％の魔法攻撃を行い、70％の確率で3ターンの間対象のクリティカル率を30％減少させる。その後70％の確率で攻撃力が最も高い敵に1ターンの間『気絶』を付与する。/ Lv2 魔法攻撃のダメージが攻撃力×420％になる。/ Lv3 魔法攻撃の対象がランダムな敵3体になる。/ Ex1 スキル1を強化する。『気絶』のターン数が2ターンになる。/ Ex3 スキル1を強化する。魔法攻撃のダメージが攻撃力×470％になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription1160011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    116001001,
+                    116001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription1160012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    116001201,
+                    116001002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription1160013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    116001301,
+                    116001002
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription1160014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    116001301,
+                    116001402
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription1160015]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    116001501,
+                    116001402
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName116001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 5,
+        "RootActiveSkillId": 116001
+    },
+    {
+        "Id": 116002,
+        "IsIgnore": null,
+        "Memo": "D.D.SR:Lv1 ランダムな敵に3回攻撃力×210％の魔法攻撃を行う。/ Lv2 魔法攻撃の回数が4回になる。/ Lv3 さらにこのスキルを7ターン目以降に発動した場合、魔法攻撃の前に5ターンの間攻撃力が高い味方2体の攻撃力を50％増加させる。/ Lv4 魔法攻撃のダメージが攻撃力×530％になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription1160021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    116002002,
+                    116002003,
+                    116002003
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription1160022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    116002002,
+                    116002003,
+                    116002003,
+                    116002003
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription1160023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    116002301,
+                    116002002,
+                    116002003,
+                    116002003,
+                    116002003
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription1160024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    116002301,
+                    116002402,
+                    116002403,
+                    116002403,
+                    116002403
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName116002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 5,
+        "RootActiveSkillId": 116002
     },
     {
         "Id": 550109001,
@@ -42611,5 +42728,137 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 115002
+    },
+    {
+        "Id": 5504116001,
+        "IsIgnore": null,
+        "Memo": "",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504116001001,
+                    5504116001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504116001201,
+                    5504116001002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504116001301,
+                    5504116001002
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504116001301,
+                    5504116001402
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504116001501,
+                    5504116001402
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName116001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 5,
+        "RootActiveSkillId": 116001
+    },
+    {
+        "Id": 5504116002,
+        "IsIgnore": null,
+        "Memo": "",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504116002002,
+                    5504116002003,
+                    5504116002003
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504116002002,
+                    5504116002003,
+                    5504116002003,
+                    5504116002003
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504116002301,
+                    5504116002002,
+                    5504116002003,
+                    5504116002003,
+                    5504116002003
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504116002301,
+                    5504116002402,
+                    5504116002403,
+                    5504116002403,
+                    5504116002403
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName116002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 5,
+        "RootActiveSkillId": 116002
     }
 ]

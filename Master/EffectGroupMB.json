@@ -8897,7 +8897,7 @@
     {
         "Id": 4700100101,
         "IsIgnore": null,
-        "Memo": "【劫火の魔女】ヴァルリーデSR　バーストネメシス：ロックオン",
+        "Memo": "*ロックオン",
         "CasterIconId": 47,
         "CasterIconType": 1,
         "DescriptionKey": "*",
@@ -8911,7 +8911,7 @@
     {
         "Id": 4700101001,
         "IsIgnore": null,
-        "Memo": "ロックオン解除",
+        "Memo": "*ロックオン解除",
         "CasterIconId": 47,
         "CasterIconType": 1,
         "DescriptionKey": "*",
@@ -8925,7 +8925,7 @@
     {
         "Id": 4700300100,
         "IsIgnore": null,
-        "Memo": "4700300101を解除",
+        "Memo": "（削除予定）4700300101を解除",
         "CasterIconId": 47,
         "CasterIconType": 1,
         "DescriptionKey": "*",
@@ -8939,21 +8939,44 @@
     {
         "Id": 4700300101,
         "IsIgnore": null,
-        "Memo": "【劫火の魔女】ヴァルリーデSR　闘志の焔 : 自身のHPが多くなるほど攻撃力が増加する（最大25％）。",
+        "Memo": "（削除予定）自身のHPが多くなるほど攻撃力が増加する（最大25％）。",
         "CasterIconId": 47,
         "CasterIconType": 1,
-        "DescriptionKey": "[EffectGroupDescription4700300101]",
+        "DescriptionKey": "*",
         "IconId": 47003,
         "IconType": 1,
-        "NameKey": "[EffectGroupName4700300101]",
+        "NameKey": "*",
         "IsHide": true,
         "IsTurnHide": true,
         "EffectGroupInfoList": null
     },
     {
+        "Id": 4700320001,
+        "IsIgnore": null,
+        "Memo": "[焔] 被ダメージが15％減少する（解除不可）。",
+        "CasterIconId": 47,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription4700320001]",
+        "IconId": 47003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName4700320001]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 4700340001,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 4700320001,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
         "Id": 4700320100,
         "IsIgnore": null,
-        "Memo": "4700320101を解除",
+        "Memo": "*攻撃力増加を解除",
         "CasterIconId": 47,
         "CasterIconType": 1,
         "DescriptionKey": "*",
@@ -8967,7 +8990,7 @@
     {
         "Id": 4700320101,
         "IsIgnore": null,
-        "Memo": "【劫火の魔女】ヴァルリーデSR　闘志の焔 : 自身のHPが多くなるほど攻撃力が増加する（最大45％）。",
+        "Memo": "*自身のHP割合が高いほど攻撃力が増加する（最大45％まで）（解除不可）。",
         "CasterIconId": 47,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4700320101]",
@@ -8981,7 +9004,7 @@
     {
         "Id": 4700330100,
         "IsIgnore": null,
-        "Memo": "4700330101を解除",
+        "Memo": "*攻撃力増加を解除",
         "CasterIconId": 47,
         "CasterIconType": 1,
         "DescriptionKey": "*",
@@ -8995,7 +9018,7 @@
     {
         "Id": 4700330101,
         "IsIgnore": null,
-        "Memo": "【劫火の魔女】ヴァルリーデSR　闘志の焔 : 自身のHPが多くなるほど攻撃力が増加する（最大70％）。",
+        "Memo": "*自身のHP割合が高いほど攻撃力が増加する（最大70％まで）（解除不可）。",
         "CasterIconId": 47,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4700330101]",
@@ -9007,93 +9030,158 @@
         "EffectGroupInfoList": null
     },
     {
+        "Id": 4700340001,
+        "IsIgnore": null,
+        "Memo": "[焔] 被ダメージが60％減少する（解除不可）。",
+        "CasterIconId": 47,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription4700340001]",
+        "IconId": 47003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName4700340001]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 4700340001,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 4700320001,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
         "Id": 4700400101,
         "IsIgnore": null,
-        "Memo": "【劫火の魔女】ヴァルリーデSR　劫火の魔女 : 被ダメージが5％減少する。<br>[再生] 毎ターンHPを最大HP×10％回復する。<br>HP割合が90%以上になるとこのスキルは解除される。",
+        "Memo": "[再生] 被ダメージが5％減少し、毎ターンHPを最大HP×10％回復する（解除不可）。",
         "CasterIconId": 47,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4700400101]",
         "IconId": 47004,
         "IconType": 1,
         "NameKey": "[EffectGroupName4700400101]",
-        "IsHide": true,
+        "IsHide": false,
         "IsTurnHide": false,
         "EffectGroupInfoList": null
     },
     {
         "Id": 4700400201,
         "IsIgnore": null,
-        "Memo": "【劫火の魔女】ヴァルリーデSR　劫火の魔女 : *自身の残りHP割合が90％以上の場合4700400101を解除する。",
+        "Memo": "*『被ダメージ減少』と『再生』を解除",
         "CasterIconId": 47,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4700400201]",
         "IconId": 47004,
         "IconType": 1,
         "NameKey": "[EffectGroupName4700400201]",
-        "IsHide": false,
-        "IsTurnHide": false,
+        "IsHide": true,
+        "IsTurnHide": true,
         "EffectGroupInfoList": null
     },
     {
         "Id": 4700420101,
         "IsIgnore": null,
-        "Memo": "【劫火の魔女】ヴァルリーデSR　劫火の魔女 : 被ダメージが5％減少する。<br>[再生] 毎ターンHPを最大HP×20％回復する。<br>HP割合が90%以上になるとこのスキルは解除される。",
+        "Memo": "[再生] 被ダメージが5％減少し、毎ターンHPを最大HP×20％回復する（解除不可）。",
         "CasterIconId": 47,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4700420101]",
         "IconId": 47004,
         "IconType": 1,
         "NameKey": "[EffectGroupName4700420101]",
-        "IsHide": true,
+        "IsHide": false,
         "IsTurnHide": false,
         "EffectGroupInfoList": null
     },
     {
         "Id": 4700420201,
         "IsIgnore": null,
-        "Memo": "【劫火の魔女】ヴァルリーデSR　劫火の魔女 : *自身の残りHP割合が90％以上の場合4700420101を解除する。",
+        "Memo": "*『被ダメージ減少』と『再生』を解除",
         "CasterIconId": 47,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4700420201]",
         "IconId": 47004,
         "IconType": 1,
         "NameKey": "[EffectGroupName4700420201]",
-        "IsHide": false,
-        "IsTurnHide": false,
+        "IsHide": true,
+        "IsTurnHide": true,
         "EffectGroupInfoList": null
     },
     {
         "Id": 4700430101,
         "IsIgnore": null,
-        "Memo": "【劫火の魔女】ヴァルリーデSR　劫火の魔女 : 被ダメージが10％減少する。<br>[再生] 毎ターンHPを最大HP×20％回復する。<br>HP割合が90%以上になるとこのスキルは解除される。",
+        "Memo": "[再生] 被ダメージが10％減少し、毎ターンHPを最大HP×20％回復する（解除不可）。",
         "CasterIconId": 47,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4700430101]",
         "IconId": 47004,
         "IconType": 1,
         "NameKey": "[EffectGroupName4700430101]",
-        "IsHide": true,
+        "IsHide": false,
         "IsTurnHide": false,
         "EffectGroupInfoList": null
     },
     {
         "Id": 4700430201,
         "IsIgnore": null,
-        "Memo": "【劫火の魔女】ヴァルリーデSR　劫火の魔女 : *自身の残りHP割合が90％以上の場合4700430101を解除する。",
+        "Memo": "*『被ダメージ減少』と『再生』を解除",
         "CasterIconId": 47,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4700430201]",
         "IconId": 47004,
         "IconType": 1,
         "NameKey": "[EffectGroupName4700430201]",
-        "IsHide": false,
-        "IsTurnHide": false,
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 4700500101,
+        "IsIgnore": null,
+        "Memo": "*『焔』のターン数を1増加させる。",
+        "CasterIconId": 47,
+        "CasterIconType": 1,
+        "DescriptionKey": "*",
+        "IconId": 1,
+        "IconType": 4,
+        "NameKey": "*",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 4700500201,
+        "IsIgnore": null,
+        "Memo": "*印付与",
+        "CasterIconId": 47,
+        "CasterIconType": 1,
+        "DescriptionKey": "*",
+        "IconId": 1,
+        "IconType": 4,
+        "NameKey": "*",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 4700500301,
+        "IsIgnore": null,
+        "Memo": "*印解除",
+        "CasterIconId": 47,
+        "CasterIconType": 1,
+        "DescriptionKey": "*",
+        "IconId": 1,
+        "IconType": 4,
+        "NameKey": "*",
+        "IsHide": true,
+        "IsTurnHide": true,
         "EffectGroupInfoList": null
     },
     {
         "Id": 4800300101,
         "IsIgnore": null,
-        "Memo": "【錆鉄の魔女】Ａ.Ａ.SR　最高傑作 : [通常攻撃強化] 通常攻撃を魔力×150％の直接攻撃に強化する。",
+        "Memo": "*[通常攻撃強化] 通常攻撃を強化する。ランダムな敵1体に魔力×150％の直接攻撃を行う。",
         "CasterIconId": 48,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4800300101]",
@@ -9107,7 +9195,7 @@
     {
         "Id": 4800320101,
         "IsIgnore": null,
-        "Memo": "【錆鉄の魔女】Ａ.Ａ.SR　最高傑作 : [通常攻撃強化] 通常攻撃を魔力×180％の直接攻撃に強化する。",
+        "Memo": "*[通常攻撃強化] 通常攻撃を強化する。ランダムな敵1体に魔力×330％の直接攻撃を行う。",
         "CasterIconId": 48,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4800320101]",
@@ -9121,7 +9209,7 @@
     {
         "Id": 4800330101,
         "IsIgnore": null,
-        "Memo": "【錆鉄の魔女】Ａ.Ａ.SR　最高傑作 : [通常攻撃強化] 通常攻撃を魔力×220％の直接攻撃に強化する。",
+        "Memo": "*[通常攻撃強化] 通常攻撃を強化する。ランダムな敵3体に魔力×330％の直接攻撃を行う。",
         "CasterIconId": 48,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4800330101]",
@@ -9135,7 +9223,7 @@
     {
         "Id": 4800500101,
         "IsIgnore": null,
-        "Memo": "【錆鉄の魔女】Ａ.Ａ.SR　 :命中率40％増（解除不可）",
+        "Memo": "*命中率が40％増加する（解除不可）。",
         "CasterIconId": 48,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4800500101]",
@@ -24323,6 +24411,172 @@
             },
             {
                 "EffectGroupId": 11500420101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 11600100102,
+        "IsIgnore": null,
+        "Memo": "クリティカル率が30％減少する。",
+        "CasterIconId": 116,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11600100102]",
+        "IconId": 116001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11600100102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 11600100201,
+        "IsIgnore": null,
+        "Memo": "[気絶] 行動不能になる。",
+        "CasterIconId": 116,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11600100201]",
+        "IconId": 116001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11600100201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11600140201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11600100201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 11600140201,
+        "IsIgnore": null,
+        "Memo": "[気絶] 行動不能になる。",
+        "CasterIconId": 116,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11600140201]",
+        "IconId": 116001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11600140201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11600140201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11600100201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 11600230101,
+        "IsIgnore": null,
+        "Memo": "攻撃力が50%増加する。",
+        "CasterIconId": 116,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11600230101]",
+        "IconId": 116002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11600230101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 11600300101,
+        "IsIgnore": null,
+        "Memo": "*クリティカル耐性率が15％増加する（解除不可）。",
+        "CasterIconId": 116,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11600300101]",
+        "IconId": 116003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11600300101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11600320101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11600300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 11600320101,
+        "IsIgnore": null,
+        "Memo": "*クリティカル耐性率が30％増加する（解除不可）。",
+        "CasterIconId": 116,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11600320101]",
+        "IconId": 116003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11600320101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11600320101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11600300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 11600400101,
+        "IsIgnore": null,
+        "Memo": "*最大HPが40％増加する（解除不可）。",
+        "CasterIconId": 116,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11600400101]",
+        "IconId": 116004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11600400101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11600430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11600400101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 11600430101,
+        "IsIgnore": null,
+        "Memo": "*最大HPが100％増加する（解除不可）。",
+        "CasterIconId": 116,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11600430101]",
+        "IconId": 116004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11600430101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11600430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11600400101,
                 "OrderNumber": 2
             }
         ]
@@ -74384,6 +74638,172 @@
             },
             {
                 "EffectGroupId": 550411500420101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550411600100102,
+        "IsIgnore": null,
+        "Memo": "クリティカル率が30％減少する。",
+        "CasterIconId": 116,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11600100102]",
+        "IconId": 116001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11600100102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550411600100201,
+        "IsIgnore": null,
+        "Memo": "[気絶] 行動不能になる。",
+        "CasterIconId": 116,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11600100201]",
+        "IconId": 116001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11600100201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411600140201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411600100201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550411600140201,
+        "IsIgnore": null,
+        "Memo": "[気絶] 行動不能になる。",
+        "CasterIconId": 116,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11600140201]",
+        "IconId": 116001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11600140201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411600140201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411600100201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550411600230101,
+        "IsIgnore": null,
+        "Memo": "攻撃力が50%増加する。",
+        "CasterIconId": 116,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11600230101]",
+        "IconId": 116002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11600230101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550411600300101,
+        "IsIgnore": null,
+        "Memo": "*クリティカル耐性率が15％増加する（解除不可）。",
+        "CasterIconId": 116,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11600300101]",
+        "IconId": 116003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11600300101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411600320101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411600300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550411600320101,
+        "IsIgnore": null,
+        "Memo": "*クリティカル耐性率が30％増加する（解除不可）。",
+        "CasterIconId": 116,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11600320101]",
+        "IconId": 116003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11600320101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411600320101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411600300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550411600400101,
+        "IsIgnore": null,
+        "Memo": "*最大HPが40％増加する（解除不可）。",
+        "CasterIconId": 116,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11600400101]",
+        "IconId": 116004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11600400101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411600430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411600400101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550411600430101,
+        "IsIgnore": null,
+        "Memo": "*最大HPが100％増加する（解除不可）。",
+        "CasterIconId": 116,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11600430101]",
+        "IconId": 116004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11600430101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411600430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411600400101,
                 "OrderNumber": 2
             }
         ]

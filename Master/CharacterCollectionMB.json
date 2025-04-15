@@ -915,5 +915,33 @@
         "RequiredPartyLv": 0,
         "EndTimeFixJST": "2100-01-01 00:00:00",
         "StartTimeFixJST": "2025-03-31 00:00:00"
+    },
+    {
+        "Id": 70,
+        "IsIgnore": null,
+        "Memo": "オクタンスの残火(D.D.,Ａ.Ａ.)",
+        "NameKey": "[CharacterCollectionName70]",
+        "RequiredCharacterIds": [
+            116,
+            48
+        ],
+        "RequiredPartyLv": 0,
+        "EndTimeFixJST": "2100-01-01 00:00:00",
+        "StartTimeFixJST": "2025-04-15 00:00:00"
+    },
+    {
+        "Id": 71,
+        "IsIgnore": null,
+        "Memo": "ミンタカの開花(アイリス,テオドラ,ロザリー,チェルナ)",
+        "NameKey": "[CharacterCollectionName71]",
+        "RequiredCharacterIds": [
+            3,
+            13,
+            23,
+            33
+        ],
+        "RequiredPartyLv": 300,
+        "EndTimeFixJST": "2100-01-01 00:00:00",
+        "StartTimeFixJST": "2025-04-15 00:00:00"
     }
 ]

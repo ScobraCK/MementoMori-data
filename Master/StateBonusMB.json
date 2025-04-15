@@ -381,5 +381,44 @@
                 "TotalActivityMedalRewardId": 5
             }
         ]
+    },
+    {
+        "Id": 15,
+        "IsIgnore": null,
+        "Memo": null,
+        "DungeonCoinBonusPercent": 15,
+        "GuildCoinBonusPercent": 15,
+        "IsActiveWeeklyBonus": true,
+        "ItemIconInfo": null,
+        "StateBonusNameTextKey": null,
+        "StateBonusNumberTextKey": null,
+        "TotalActivityMedalRewardBonusList": [
+            {
+                "BonusRewardList": [
+                    {
+                        "Item": {
+                            "ItemCount": 1,
+                            "ItemId": 7,
+                            "ItemType": 10
+                        },
+                        "RarityFlags": 0
+                    }
+                ],
+                "TotalActivityMedalRewardId": 3
+            },
+            {
+                "BonusRewardList": [
+                    {
+                        "Item": {
+                            "ItemCount": 1,
+                            "ItemId": 12,
+                            "ItemType": 10
+                        },
+                        "RarityFlags": 0
+                    }
+                ],
+                "TotalActivityMedalRewardId": 5
+            }
+        ]
     }
 ]
