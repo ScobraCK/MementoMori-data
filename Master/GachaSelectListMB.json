@@ -4734,9 +4734,10 @@
     {
         "Id": 132,
         "IsIgnore": null,
-        "Memo": "Ｄ.Ｄ.②+仮+復刻エイル②（0422切り替え用）",
+        "Memo": "Ｄ.Ｄ.②+復刻メリア①+復刻エイル②（0422切り替え用）",
         "CharacterIdList": [
             116,
+            86,
             59,
             5,
             6,
@@ -4765,6 +4766,7 @@
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
             116,
+            86,
             59
         ],
         "OrderNumber": 132,
@@ -4774,9 +4776,10 @@
     {
         "Id": 133,
         "IsIgnore": null,
-        "Memo": "仮+Ｄ.Ｄ.③+仮（0430切り替え用）",
+        "Memo": "仮+Ｄ.Ｄ.③+復刻メリア②（0430切り替え用）",
         "CharacterIdList": [
             116,
+            86,
             5,
             6,
             7,
@@ -4803,7 +4806,8 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            116
+            116,
+            86
         ],
         "OrderNumber": 133,
         "StartTimeFixJST": "2025-04-30 16:30:00",
