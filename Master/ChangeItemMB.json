@@ -11454,5 +11454,37 @@
         "ItemId": 8,
         "ItemType": 43,
         "NeedCount": 1
+    },
+    {
+        "Id": 733,
+        "IsIgnore": null,
+        "Memo": "えーちゃんの勉強道具",
+        "ChangeItems": [
+            {
+                "ItemCount": 10000,
+                "ItemId": 1,
+                "ItemType": 3
+            }
+        ],
+        "ChangeItemType": 0,
+        "ItemId": 29,
+        "ItemType": 50,
+        "NeedCount": 1
+    },
+    {
+        "Id": 734,
+        "IsIgnore": null,
+        "Memo": "制服A.A.ガチャチケット",
+        "ChangeItems": [
+            {
+                "ItemCount": 1,
+                "ItemId": 2,
+                "ItemType": 16
+            }
+        ],
+        "ChangeItemType": 0,
+        "ItemId": 1170,
+        "ItemType": 16,
+        "NeedCount": 1
     }
 ]
