@@ -11,7 +11,10 @@
         "ImageY": 0.0,
         "ImageSize": 500.0,
         "DescriptionTextKey": "[CollabMissionDescription1-2]",
+        "SweepstakesDescriptionTextKey": null,
         "TitleTextKey": "[CollabMissionTitle1]",
+        "SweepstakesTitleTextKey": null,
+        "TermsTextKey": null,
         "TargetMissionIdList": [
             1459,
             1460,
@@ -54,6 +57,7 @@
         "MypageIconDisplayLocationType": 1,
         "SweepstakesTargetTimeServerIdList": null,
         "SweepstakesTicketItemId": 0,
+        "SweepstakesEntryUpperLimit": 0,
         "SweepstakesItemList": null,
         "NoticeGroupId": 0
     }

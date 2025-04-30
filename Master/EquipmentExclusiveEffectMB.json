@@ -4969,7 +4969,7 @@
     {
         "Id": 229,
         "IsIgnore": null,
-        "Memo": "シヴィSSR200",
+        "Memo": "シヴィSSR180",
         "BaseParameterChangeInfoList": null,
         "BattleParameterChangeInfoList": [
             {
@@ -4983,7 +4983,7 @@
     {
         "Id": 230,
         "IsIgnore": null,
-        "Memo": "シヴィSSR220",
+        "Memo": "シヴィSSR200",
         "BaseParameterChangeInfoList": null,
         "BattleParameterChangeInfoList": [
             {
@@ -5002,7 +5002,7 @@
     {
         "Id": 231,
         "IsIgnore": null,
-        "Memo": "シヴィSSR240",
+        "Memo": "シヴィSSR220",
         "BaseParameterChangeInfoList": [
             {
                 "BaseParameterType": 4,
@@ -5027,7 +5027,7 @@
     {
         "Id": 232,
         "IsIgnore": null,
-        "Memo": "シヴィUR",
+        "Memo": "シヴィSSR240",
         "BaseParameterChangeInfoList": [
             {
                 "BaseParameterType": 4,
@@ -5052,7 +5052,7 @@
     {
         "Id": 233,
         "IsIgnore": null,
-        "Memo": "シヴィLR",
+        "Memo": "シヴィUR",
         "BaseParameterChangeInfoList": [
             {
                 "BaseParameterType": 4,
@@ -5077,7 +5077,7 @@
     {
         "Id": 234,
         "IsIgnore": null,
-        "Memo": "シヴィSSR180",
+        "Memo": "シヴィLR",
         "BaseParameterChangeInfoList": [
             {
                 "BaseParameterType": 4,
@@ -11004,6 +11004,135 @@
             }
         ],
         "CharacterId": 116
+    },
+    {
+        "Id": 511,
+        "IsIgnore": null,
+        "Memo": "制服A.A.SSR180",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 117
+    },
+    {
+        "Id": 512,
+        "IsIgnore": null,
+        "Memo": "制服A.A.SSR200",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1300.0
+            },
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 117
+    },
+    {
+        "Id": 513,
+        "IsIgnore": null,
+        "Memo": "制服A.A.SSR220",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1400.0
+            },
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 12,
+                "ChangeParameterType": 1,
+                "Value": 5500.0
+            }
+        ],
+        "CharacterId": 117
+    },
+    {
+        "Id": 514,
+        "IsIgnore": null,
+        "Memo": "制服A.A.SSR240",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 12,
+                "ChangeParameterType": 1,
+                "Value": 6000.0
+            }
+        ],
+        "CharacterId": 117
+    },
+    {
+        "Id": 515,
+        "IsIgnore": null,
+        "Memo": "制服A.A.UR",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1600.0
+            },
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 2000.0
+            },
+            {
+                "BattleParameterType": 12,
+                "ChangeParameterType": 1,
+                "Value": 6500.0
+            }
+        ],
+        "CharacterId": 117
+    },
+    {
+        "Id": 516,
+        "IsIgnore": null,
+        "Memo": "制服A.A.LR",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 2200.0
+            },
+            {
+                "BattleParameterType": 12,
+                "ChangeParameterType": 1,
+                "Value": 7000.0
+            }
+        ],
+        "CharacterId": 117
     },
     {
         "Id": 523,

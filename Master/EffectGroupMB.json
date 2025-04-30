@@ -24889,6 +24889,122 @@
         ]
     },
     {
+        "Id": 11700130102,
+        "IsIgnore": null,
+        "Memo": "*印1付与",
+        "CasterIconId": 117,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11700130102]",
+        "IconId": 117001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11700130102]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 11700130202,
+        "IsIgnore": null,
+        "Memo": "*印1解除",
+        "CasterIconId": 117,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11700130202]",
+        "IconId": 117001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11700130202]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 11700240102,
+        "IsIgnore": null,
+        "Memo": "*印2付与",
+        "CasterIconId": 117,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11700240102]",
+        "IconId": 117002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11700240102]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 11700240202,
+        "IsIgnore": null,
+        "Memo": "*印2解除",
+        "CasterIconId": 117,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11700240202]",
+        "IconId": 117002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11700240202]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 11700300101,
+        "IsIgnore": null,
+        "Memo": " [沈黙無効] 沈黙が付与されなくなる。",
+        "CasterIconId": 117,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11700300101]",
+        "IconId": 117003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11700300101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 11700320201,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×30%分のダメージを代わりに受ける（解除不可）。",
+        "CasterIconId": 117,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11700320201]",
+        "IconId": 117003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11700320201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11700340201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11700320201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 11700340201,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×100%分のダメージを代わりに受ける（解除不可）。",
+        "CasterIconId": 117,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11700340201]",
+        "IconId": 117003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11700340201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 11700340201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 11700320201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
         "Id": 5504600400101,
         "IsIgnore": null,
         "Memo": "削除予定　アムレートSR　誓いを果たす者  :*",
@@ -75418,6 +75534,122 @@
             },
             {
                 "EffectGroupId": 550411600400101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550411700130102,
+        "IsIgnore": null,
+        "Memo": "*印1付与",
+        "CasterIconId": 117,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11700130102]",
+        "IconId": 117001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11700130102]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550411700130202,
+        "IsIgnore": null,
+        "Memo": "*印1解除",
+        "CasterIconId": 117,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11700130202]",
+        "IconId": 117001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11700130202]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550411700240102,
+        "IsIgnore": null,
+        "Memo": "*印2付与",
+        "CasterIconId": 117,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11700240102]",
+        "IconId": 117002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11700240102]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550411700240202,
+        "IsIgnore": null,
+        "Memo": "*印2解除",
+        "CasterIconId": 117,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11700240202]",
+        "IconId": 117002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11700240202]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550411700300101,
+        "IsIgnore": null,
+        "Memo": " [沈黙無効] 沈黙が付与されなくなる。",
+        "CasterIconId": 117,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11700300101]",
+        "IconId": 117003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11700300101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550411700320201,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×30%分のダメージを代わりに受ける（解除不可）。",
+        "CasterIconId": 117,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11700320201]",
+        "IconId": 117003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11700320201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411700340201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411700320201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550411700340201,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×100%分のダメージを代わりに受ける（解除不可）。",
+        "CasterIconId": 117,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription11700340201]",
+        "IconId": 117003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName11700340201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550411700340201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550411700320201,
                 "OrderNumber": 2
             }
         ]

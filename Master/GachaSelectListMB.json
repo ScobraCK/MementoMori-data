@@ -4776,8 +4776,9 @@
     {
         "Id": 133,
         "IsIgnore": null,
-        "Memo": "仮+Ｄ.Ｄ.③+復刻メリア②（0430切り替え用）",
+        "Memo": "制服Ａ.Ａ.①+Ｄ.Ｄ.③+復刻メリア②（0430切り替え用）",
         "CharacterIdList": [
+            117,
             116,
             86,
             5,
@@ -4806,12 +4807,131 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
+            117,
             116,
             86
         ],
         "OrderNumber": 133,
-        "StartTimeFixJST": "2025-04-30 16:30:00",
+        "StartTimeFixJST": "2025-04-30 15:00:00",
         "EndTimeFixJST": "2025-05-07 14:29:59"
+    },
+    {
+        "Id": 134,
+        "IsIgnore": null,
+        "Memo": "制服Ａ.Ａ.②+復刻ユリーカ①（0507切り替え用）",
+        "CharacterIdList": [
+            117,
+            106,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            117,
+            106
+        ],
+        "OrderNumber": 134,
+        "StartTimeFixJST": "2025-04-30 15:00:00",
+        "EndTimeFixJST": "2025-05-14 14:29:59"
+    },
+    {
+        "Id": 135,
+        "IsIgnore": null,
+        "Memo": "仮+制服Ａ.Ａ.③+仮+復刻ユリーカ②（0514切り替え用）",
+        "CharacterIdList": [
+            117,
+            106,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            117,
+            106
+        ],
+        "OrderNumber": 135,
+        "StartTimeFixJST": "2025-05-14 16:30:00",
+        "EndTimeFixJST": "2025-05-19 14:29:59"
+    },
+    {
+        "Id": 136,
+        "IsIgnore": null,
+        "Memo": "仮+仮+復刻ユリーカ③（0519切り替え用）",
+        "CharacterIdList": [
+            106,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            106
+        ],
+        "OrderNumber": 136,
+        "StartTimeFixJST": "2025-05-19 14:30:00",
+        "EndTimeFixJST": "2025-05-22 14:29:59"
     },
     {
         "Id": 10000,
@@ -5216,5 +5336,23 @@
         "OrderNumber": 10210,
         "StartTimeFixJST": "2025-04-15 14:30:00",
         "EndTimeFixJST": "2025-05-07 14:29:59"
+    },
+    {
+        "Id": 10220,
+        "IsIgnore": null,
+        "Memo": "星の導きガチャ 第22回_エルフリンデ・プリシラ",
+        "CharacterIdList": [
+            45,
+            62
+        ],
+        "GachaSelectListType": 3,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            45,
+            62
+        ],
+        "OrderNumber": 10220,
+        "StartTimeFixJST": "2025-04-30 15:00:00",
+        "EndTimeFixJST": "2025-05-30 14:29:59"
     }
 ]

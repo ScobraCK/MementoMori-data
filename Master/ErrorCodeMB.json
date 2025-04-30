@@ -18,6 +18,12 @@
         "ErrorMessageType": 2
     },
     {
+        "Id": 5,
+        "IsIgnore": null,
+        "Memo": "エラーが発生しました<br>タイトルに戻ります",
+        "ErrorMessageType": 2
+    },
+    {
         "Id": 100,
         "IsIgnore": null,
         "Memo": "現在メンテナンス中のため<br>ゲームを中断してタイトル画面に戻ります",
@@ -4701,6 +4707,12 @@
         "Id": 510002,
         "IsIgnore": null,
         "Memo": "応募対象ではない景品です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 510003,
+        "IsIgnore": null,
+        "Memo": "同一アカウントで応募できる上限に達しています。",
         "ErrorMessageType": 2
     },
     {

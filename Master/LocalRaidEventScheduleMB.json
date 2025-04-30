@@ -169,5 +169,25 @@
         "EndTime": "2025-01-25 03:59:59",
         "LocalRaidEventTutorialId": 2008,
         "EventBattleCount": 0
+    },
+    {
+        "Id": 10,
+        "IsIgnore": null,
+        "Memo": "20250430制服A.A.イベント",
+        "LocalRaidStartEndTimes": [
+            {
+                "StartTime": 123000,
+                "EndTime": 133000
+            },
+            {
+                "StartTime": 193000,
+                "EndTime": 203000
+            }
+        ],
+        "RewardBonusRate": 11000,
+        "StartTime": "2025-04-30 04:00:00",
+        "EndTime": "2025-05-10 03:59:59",
+        "LocalRaidEventTutorialId": 2009,
+        "EventBattleCount": 0
     }
 ]

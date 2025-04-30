@@ -7,6 +7,7 @@
             9001,
             9002
         ],
+        "BannerText": "0",
         "BaseParameter": {
             "Energy": 10513,
             "Health": 7227,
@@ -38,6 +39,7 @@
         "CharacterRarityFlags": 16,
         "ElementType": 1,
         "EnemyRank": 240,
+        "ExclusiveEquipmentRarityFlags": 0,
         "GuildDamageBar": [
             {
                 "DamageBarCount": 1,
@@ -181,6 +183,9 @@
             }
         ],
         "GuildRaidBossType": 0,
+        "GuildRaidButtonU": 0.3499999940395355,
+        "GuildRaidButtonV": 0.49000000953674316,
+        "IsActiveMypageIcon": false,
         "JobFlags": 2,
         "NameKey": "[CharacterName9]",
         "NormalDamageBar": [
@@ -315,13 +320,9 @@
         "UnitIconType": 0,
         "StartTime": "2020-01-01 00:00:00",
         "EndTime": "2100-12-31 23:59:59",
-        "BannerText": "0",
-        "GuildRaidButtonU": 0.3499999940395355,
-        "GuildRaidButtonV": 0.49000000953674316,
-        "WorldDamageBarRewardCharacterImageX": 0.0,
-        "WorldDamageBarRewardCharacterImageY": 0.0,
         "WorldDamageBarRewardCharacterImageSize": 0.0,
-        "IsActiveMypageIcon": false
+        "WorldDamageBarRewardCharacterImageX": 0.0,
+        "WorldDamageBarRewardCharacterImageY": 0.0
     },
     {
         "Id": 2,
@@ -331,6 +332,7 @@
             5502030001,
             5502030002
         ],
+        "BannerText": "0",
         "BaseParameter": {
             "Energy": 14567,
             "Health": 17111,
@@ -362,6 +364,7 @@
         "CharacterRarityFlags": 16,
         "ElementType": 3,
         "EnemyRank": 240,
+        "ExclusiveEquipmentRarityFlags": 0,
         "GuildDamageBar": [
             {
                 "DamageBarCount": 1,
@@ -485,6 +488,9 @@
             }
         ],
         "GuildRaidBossType": 1,
+        "GuildRaidButtonU": 0.0,
+        "GuildRaidButtonV": 0.0,
+        "IsActiveMypageIcon": false,
         "JobFlags": 1,
         "NameKey": "[CharacterName30]",
         "NormalDamageBar": [
@@ -620,13 +626,9 @@
         "UnitIconType": 0,
         "StartTime": "2020-01-01 00:00:00",
         "EndTime": "2100-12-31 23:59:59",
-        "BannerText": "0",
-        "GuildRaidButtonU": 0.0,
-        "GuildRaidButtonV": 0.0,
-        "WorldDamageBarRewardCharacterImageX": 0.0,
-        "WorldDamageBarRewardCharacterImageY": 0.0,
         "WorldDamageBarRewardCharacterImageSize": 0.0,
-        "IsActiveMypageIcon": false
+        "WorldDamageBarRewardCharacterImageX": 0.0,
+        "WorldDamageBarRewardCharacterImageY": 0.0
     },
     {
         "Id": 3,
@@ -636,6 +638,7 @@
             5502055001,
             5502055002
         ],
+        "BannerText": "[GuildRaidEventRemainingTimeFormat]",
         "BaseParameter": {
             "Energy": 18208,
             "Health": 10043,
@@ -667,6 +670,7 @@
         "CharacterRarityFlags": 16,
         "ElementType": 3,
         "EnemyRank": 240,
+        "ExclusiveEquipmentRarityFlags": 0,
         "GuildDamageBar": [
             {
                 "DamageBarCount": 1,
@@ -770,6 +774,9 @@
             }
         ],
         "GuildRaidBossType": 2,
+        "GuildRaidButtonU": 0.0,
+        "GuildRaidButtonV": 0.0,
+        "IsActiveMypageIcon": false,
         "JobFlags": 2,
         "NameKey": "[CharacterName55]",
         "NormalDamageBar": [
@@ -949,13 +956,9 @@
         "UnitIconType": 0,
         "StartTime": "2023-03-31  04:00:00",
         "EndTime": "2023-04-10  03:59:59",
-        "BannerText": "[GuildRaidEventRemainingTimeFormat]",
-        "GuildRaidButtonU": 0.0,
-        "GuildRaidButtonV": 0.0,
-        "WorldDamageBarRewardCharacterImageX": 0.0,
-        "WorldDamageBarRewardCharacterImageY": 0.0,
         "WorldDamageBarRewardCharacterImageSize": 0.0,
-        "IsActiveMypageIcon": false
+        "WorldDamageBarRewardCharacterImageX": 0.0,
+        "WorldDamageBarRewardCharacterImageY": 0.0
     },
     {
         "Id": 4,
@@ -965,6 +968,7 @@
             5502070001,
             5502070002
         ],
+        "BannerText": "[GuildRaidEventRemainingTimeFormat]",
         "BaseParameter": {
             "Energy": 13891,
             "Health": 13487,
@@ -996,6 +1000,7 @@
         "CharacterRarityFlags": 16,
         "ElementType": 3,
         "EnemyRank": 240,
+        "ExclusiveEquipmentRarityFlags": 0,
         "GuildDamageBar": [
             {
                 "DamageBarCount": 1,
@@ -1099,6 +1104,9 @@
             }
         ],
         "GuildRaidBossType": 2,
+        "GuildRaidButtonU": 0.20000000298023224,
+        "GuildRaidButtonV": 0.5099999904632568,
+        "IsActiveMypageIcon": false,
         "JobFlags": 1,
         "NameKey": "[GuildRaidBossName4]",
         "NormalDamageBar": [
@@ -1278,13 +1286,9 @@
         "UnitIconType": 0,
         "StartTime": "2023-06-30  04:00:00",
         "EndTime": "2023-07-10  03:59:59",
-        "BannerText": "[GuildRaidEventRemainingTimeFormat]",
-        "GuildRaidButtonU": 0.20000000298023224,
-        "GuildRaidButtonV": 0.5099999904632568,
-        "WorldDamageBarRewardCharacterImageX": 0.0,
-        "WorldDamageBarRewardCharacterImageY": 0.0,
         "WorldDamageBarRewardCharacterImageSize": 0.0,
-        "IsActiveMypageIcon": false
+        "WorldDamageBarRewardCharacterImageX": 0.0,
+        "WorldDamageBarRewardCharacterImageY": 0.0
     },
     {
         "Id": 5,
@@ -1294,6 +1298,7 @@
             5502062001,
             5502062002
         ],
+        "BannerText": "[GuildRaidEventRemainingTimeFormat]",
         "BaseParameter": {
             "Energy": 280028,
             "Health": 266920,
@@ -1325,6 +1330,7 @@
         "CharacterRarityFlags": 16,
         "ElementType": 2,
         "EnemyRank": 240,
+        "ExclusiveEquipmentRarityFlags": 0,
         "GuildDamageBar": [
             {
                 "DamageBarCount": 1,
@@ -1428,6 +1434,9 @@
             }
         ],
         "GuildRaidBossType": 2,
+        "GuildRaidButtonU": 0.20000000298023224,
+        "GuildRaidButtonV": 0.5099999904632568,
+        "IsActiveMypageIcon": false,
         "JobFlags": 4,
         "NameKey": "[CharacterName62]",
         "NormalDamageBar": [
@@ -1606,13 +1615,9 @@
         "UnitIconType": 0,
         "StartTime": "2023-09-29  04:00:00",
         "EndTime": "2023-10-09  03:59:59",
-        "BannerText": "[GuildRaidEventRemainingTimeFormat]",
-        "GuildRaidButtonU": 0.20000000298023224,
-        "GuildRaidButtonV": 0.5099999904632568,
-        "WorldDamageBarRewardCharacterImageX": 0.0,
-        "WorldDamageBarRewardCharacterImageY": 0.0,
         "WorldDamageBarRewardCharacterImageSize": 465.0,
-        "IsActiveMypageIcon": false
+        "WorldDamageBarRewardCharacterImageX": 0.0,
+        "WorldDamageBarRewardCharacterImageY": 0.0
     },
     {
         "Id": 6,
@@ -1622,6 +1627,7 @@
             5502074001,
             5502074002
         ],
+        "BannerText": "[GuildRaidEventRemainingTimeFormat]",
         "BaseParameter": {
             "Energy": 277571,
             "Health": 224868,
@@ -1653,6 +1659,7 @@
         "CharacterRarityFlags": 16,
         "ElementType": 1,
         "EnemyRank": 240,
+        "ExclusiveEquipmentRarityFlags": 0,
         "GuildDamageBar": [
             {
                 "DamageBarCount": 1,
@@ -1756,6 +1763,9 @@
             }
         ],
         "GuildRaidBossType": 2,
+        "GuildRaidButtonU": 0.20000000298023224,
+        "GuildRaidButtonV": 0.5699999928474426,
+        "IsActiveMypageIcon": false,
         "JobFlags": 4,
         "NameKey": "[GuildRaidBossName6]",
         "NormalDamageBar": [
@@ -1934,13 +1944,9 @@
         "UnitIconType": 0,
         "StartTime": "2023-12-13  04:00:00",
         "EndTime": "2023-12-23 03:59:59",
-        "BannerText": "[GuildRaidEventRemainingTimeFormat]",
-        "GuildRaidButtonU": 0.20000000298023224,
-        "GuildRaidButtonV": 0.5699999928474426,
-        "WorldDamageBarRewardCharacterImageX": 0.0,
-        "WorldDamageBarRewardCharacterImageY": 0.0,
         "WorldDamageBarRewardCharacterImageSize": 465.0,
-        "IsActiveMypageIcon": false
+        "WorldDamageBarRewardCharacterImageX": 0.0,
+        "WorldDamageBarRewardCharacterImageY": 0.0
     },
     {
         "Id": 7,
@@ -1950,6 +1956,7 @@
             5502059001,
             5502059002
         ],
+        "BannerText": "[GuildRaidEventRemainingTimeFormat]",
         "BaseParameter": {
             "Energy": 356606,
             "Health": 242353,
@@ -1981,6 +1988,7 @@
         "CharacterRarityFlags": 16,
         "ElementType": 1,
         "EnemyRank": 240,
+        "ExclusiveEquipmentRarityFlags": 0,
         "GuildDamageBar": [
             {
                 "DamageBarCount": 1,
@@ -2084,6 +2092,9 @@
             }
         ],
         "GuildRaidBossType": 2,
+        "GuildRaidButtonU": 0.20000000298023224,
+        "GuildRaidButtonV": 0.49000000953674316,
+        "IsActiveMypageIcon": false,
         "JobFlags": 2,
         "NameKey": "[CharacterName59]",
         "NormalDamageBar": [
@@ -2263,13 +2274,9 @@
         "UnitIconType": 0,
         "StartTime": "2024-03-29  04:00:00",
         "EndTime": "2024-04-08 03:59:59",
-        "BannerText": "[GuildRaidEventRemainingTimeFormat]",
-        "GuildRaidButtonU": 0.20000000298023224,
-        "GuildRaidButtonV": 0.49000000953674316,
-        "WorldDamageBarRewardCharacterImageX": 0.0,
-        "WorldDamageBarRewardCharacterImageY": 0.0,
         "WorldDamageBarRewardCharacterImageSize": 465.0,
-        "IsActiveMypageIcon": false
+        "WorldDamageBarRewardCharacterImageX": 0.0,
+        "WorldDamageBarRewardCharacterImageY": 0.0
     },
     {
         "Id": 8,
@@ -2279,6 +2286,7 @@
             5502069001,
             5502069002
         ],
+        "BannerText": "[GuildRaidEventRemainingTimeFormat]",
         "BaseParameter": {
             "Energy": 273513,
             "Health": 276975,
@@ -2310,6 +2318,7 @@
         "CharacterRarityFlags": 16,
         "ElementType": 6,
         "EnemyRank": 240,
+        "ExclusiveEquipmentRarityFlags": 0,
         "GuildDamageBar": [
             {
                 "DamageBarCount": 1,
@@ -2413,6 +2422,9 @@
             }
         ],
         "GuildRaidBossType": 2,
+        "GuildRaidButtonU": 0.23999999463558197,
+        "GuildRaidButtonV": 0.5299999713897705,
+        "IsActiveMypageIcon": false,
         "JobFlags": 2,
         "NameKey": "[GuildRaidBossName8]",
         "NormalDamageBar": [
@@ -2592,13 +2604,9 @@
         "UnitIconType": 0,
         "StartTime": "2024-06-28  04:00:00",
         "EndTime": "2024-07-08 03:59:59",
-        "BannerText": "[GuildRaidEventRemainingTimeFormat]",
-        "GuildRaidButtonU": 0.23999999463558197,
-        "GuildRaidButtonV": 0.5299999713897705,
-        "WorldDamageBarRewardCharacterImageX": 0.0,
-        "WorldDamageBarRewardCharacterImageY": 0.0,
         "WorldDamageBarRewardCharacterImageSize": 465.0,
-        "IsActiveMypageIcon": false
+        "WorldDamageBarRewardCharacterImageX": 0.0,
+        "WorldDamageBarRewardCharacterImageY": 0.0
     },
     {
         "Id": 9,
@@ -2608,6 +2616,7 @@
             5502081001,
             5502081002
         ],
+        "BannerText": "[GuildRaidEventRemainingTimeFormat]",
         "BaseParameter": {
             "Energy": 344457,
             "Health": 236814,
@@ -2639,6 +2648,7 @@
         "CharacterRarityFlags": 16,
         "ElementType": 4,
         "EnemyRank": 240,
+        "ExclusiveEquipmentRarityFlags": 0,
         "GuildDamageBar": [
             {
                 "DamageBarCount": 1,
@@ -2742,6 +2752,9 @@
             }
         ],
         "GuildRaidBossType": 2,
+        "GuildRaidButtonU": 0.25999999046325684,
+        "GuildRaidButtonV": 0.5299999713897705,
+        "IsActiveMypageIcon": false,
         "JobFlags": 2,
         "NameKey": "[CharacterName81]",
         "NormalDamageBar": [
@@ -2919,13 +2932,9 @@
         "UnitIconType": 0,
         "StartTime": "2024-09-30  04:00:00",
         "EndTime": "2024-10-10 03:59:59",
-        "BannerText": "[GuildRaidEventRemainingTimeFormat]",
-        "GuildRaidButtonU": 0.25999999046325684,
-        "GuildRaidButtonV": 0.5299999713897705,
-        "WorldDamageBarRewardCharacterImageX": 0.0,
-        "WorldDamageBarRewardCharacterImageY": 0.0,
         "WorldDamageBarRewardCharacterImageSize": 465.0,
-        "IsActiveMypageIcon": false
+        "WorldDamageBarRewardCharacterImageX": 0.0,
+        "WorldDamageBarRewardCharacterImageY": 0.0
     },
     {
         "Id": 10,
@@ -2935,6 +2944,7 @@
             5502108001,
             5502108002
         ],
+        "BannerText": "[GuildRaidEventRemainingTimeFormat]",
         "BaseParameter": {
             "Energy": 355926,
             "Health": 236109,
@@ -2966,6 +2976,7 @@
         "CharacterRarityFlags": 16,
         "ElementType": 3,
         "EnemyRank": 240,
+        "ExclusiveEquipmentRarityFlags": 0,
         "GuildDamageBar": [
             {
                 "DamageBarCount": 1,
@@ -3069,6 +3080,9 @@
             }
         ],
         "GuildRaidBossType": 2,
+        "GuildRaidButtonU": 0.27000001072883606,
+        "GuildRaidButtonV": 0.5099999904632568,
+        "IsActiveMypageIcon": true,
         "JobFlags": 2,
         "NameKey": "[GuildRaidBossName10]",
         "NormalDamageBar": [
@@ -3246,13 +3260,9 @@
         "UnitIconType": 0,
         "StartTime": "2024-12-13  04:00:00",
         "EndTime": "2024-12-23 03:59:59",
-        "BannerText": "[GuildRaidEventRemainingTimeFormat]",
-        "GuildRaidButtonU": 0.27000001072883606,
-        "GuildRaidButtonV": 0.5099999904632568,
-        "WorldDamageBarRewardCharacterImageX": 0.0,
-        "WorldDamageBarRewardCharacterImageY": 0.0,
         "WorldDamageBarRewardCharacterImageSize": 465.0,
-        "IsActiveMypageIcon": true
+        "WorldDamageBarRewardCharacterImageX": 0.0,
+        "WorldDamageBarRewardCharacterImageY": 0.0
     },
     {
         "Id": 11,
@@ -3262,6 +3272,7 @@
             5502115001,
             115002
         ],
+        "BannerText": "[GuildRaidEventRemainingTimeFormat]",
         "BaseParameter": {
             "Energy": 360523,
             "Health": 236814,
@@ -3293,6 +3304,7 @@
         "CharacterRarityFlags": 16,
         "ElementType": 4,
         "EnemyRank": 240,
+        "ExclusiveEquipmentRarityFlags": 0,
         "GuildDamageBar": [
             {
                 "DamageBarCount": 1,
@@ -3396,6 +3408,9 @@
             }
         ],
         "GuildRaidBossType": 2,
+        "GuildRaidButtonU": 0.23499999940395355,
+        "GuildRaidButtonV": 0.49000000953674316,
+        "IsActiveMypageIcon": true,
         "JobFlags": 2,
         "NameKey": "[CharacterName115]",
         "NormalDamageBar": [
@@ -3575,12 +3590,8 @@
         "UnitIconType": 0,
         "StartTime": "2025-03-31  04:00:00",
         "EndTime": "2025-04-10 03:59:59",
-        "BannerText": "[GuildRaidEventRemainingTimeFormat]",
-        "GuildRaidButtonU": 0.23499999940395355,
-        "GuildRaidButtonV": 0.49000000953674316,
-        "WorldDamageBarRewardCharacterImageX": 0.0,
-        "WorldDamageBarRewardCharacterImageY": 0.0,
         "WorldDamageBarRewardCharacterImageSize": 465.0,
-        "IsActiveMypageIcon": true
+        "WorldDamageBarRewardCharacterImageX": 0.0,
+        "WorldDamageBarRewardCharacterImageY": 0.0
     }
 ]

@@ -5244,5 +5244,57 @@
         "RequireFragmentCount": 60,
         "EndTimeFixJST": "2100-12-31 23:59:59",
         "StartTimeFixJST": "2025-04-15 15:00:00"
+    },
+    {
+        "Id": 117,
+        "IsIgnore": null,
+        "Memo": "［錆鉄の空］Ａ.Ａ.",
+        "ActiveSkillIds": [
+            117001,
+            117002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 79,
+            "Health": 77,
+            "Intelligence": 103,
+            "Muscle": 89
+        },
+        "BaseParameterGrossCoefficient": 348,
+        "CharacterType": 2,
+        "ElementType": 5,
+        "InitialBattleParameter": {
+            "AttackPower": 5,
+            "Avoidance": 0,
+            "Critical": 0,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 0,
+            "DamageReflect": 0,
+            "DebuffHit": 0,
+            "DebuffResist": 0,
+            "Defense": 7,
+            "DefensePenetration": 0,
+            "Hit": 1,
+            "HP": 0,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": 0,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": -3,
+            "Speed": 2607
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 4,
+        "Name2Key": "[CharacterSubName117]",
+        "NameKey": "[CharacterName117]",
+        "NormalSkillId": 102,
+        "PassiveSkillIds": [
+            117003,
+            117004
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2025-04-30 15:00:00"
     }
 ]
