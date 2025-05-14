@@ -4514,6 +4514,58 @@
         "StartTimeFixJST": "2024-04-26 15:00:00"
     },
     {
+        "Id": 89,
+        "IsIgnore": null,
+        "Memo": "ルシール",
+        "ActiveSkillIds": [
+            89001,
+            89002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 83,
+            "Health": 62,
+            "Intelligence": 84,
+            "Muscle": 96
+        },
+        "BaseParameterGrossCoefficient": 325,
+        "CharacterType": 0,
+        "ElementType": 2,
+        "InitialBattleParameter": {
+            "AttackPower": -3,
+            "Avoidance": 3,
+            "Critical": 0,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 0,
+            "DamageReflect": 0,
+            "DebuffHit": 0,
+            "DebuffResist": 0,
+            "Defense": 10,
+            "DefensePenetration": 0,
+            "Hit": 0,
+            "HP": -3,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": 0,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 3,
+            "Speed": 3525
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 1,
+        "Name2Key": null,
+        "NameKey": "[CharacterName89]",
+        "NormalSkillId": 101,
+        "PassiveSkillIds": [
+            89003,
+            89004
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2025-05-14 15:00:00"
+    },
+    {
         "Id": 93,
         "IsIgnore": null,
         "Memo": "アルトリア",

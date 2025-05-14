@@ -12018,6 +12018,165 @@
         "RootActiveSkillId": 88101
     },
     {
+        "Id": 89001,
+        "IsIgnore": null,
+        "Memo": "ルシールSR:Lv1 魔女の未来のために戦うと誓った。たとえ何を犠牲にしても──自身に自身の現在HP×20%の自傷ダメージを与え、ランダムな敵に3回攻撃力×330％の物理攻撃を行う。/ Lv2 さらに物理攻撃の前に対象が弱体効果を付帯している場合、物理攻撃のダメージが攻撃力×530％になる。/ Lv3 さらに物理攻撃の前に対象が付帯している弱体効果の個数が2以上の場合、物理攻撃のダメージが攻撃力×730％になる。/ Ex1 スキル1を強化する。物理攻撃の回数が5回になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription890011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    89001001,
+                    89001002,
+                    89001003,
+                    89001003
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription890012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    89001001,
+                    89001202,
+                    89001203,
+                    89001203
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription890013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    89001001,
+                    89001302,
+                    89001303,
+                    89001303
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription890014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    89001001,
+                    89001402,
+                    89001403,
+                    89001403,
+                    89001403,
+                    89001403
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName89001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 89001
+    },
+    {
+        "Id": 89002,
+        "IsIgnore": null,
+        "Memo": "ルシールSR:Lv1 「魔女の未来を守るため、私は私の全てを捧げよう」自身に自身の現在HP×20%の自傷ダメージを与え、ランダムな敵に5回攻撃力×160％の物理攻撃を行う。/ Lv2 物理攻撃のダメージが攻撃力×320％になる。/ Lv3 さらに物理攻撃の後『彩光』を5スタック付帯している敵がいる場合、攻撃力が最も高い味方のスキルクールタイムを2減少させる。スキルクールタイムを減少させる効果はバトル中1回のみ発動する（ただしギルドバトル・グランドバトルでの連戦においては、毎バトルごとに1回発動する）。/ Lv4 物理攻撃のダメージが攻撃力×520％になる。/ Ex3 スキル2を強化する。物理攻撃のダメージが攻撃力×580％になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription890021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    89002001,
+                    89002002,
+                    89002003,
+                    89002003,
+                    89002003,
+                    89002003
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription890022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    89002001,
+                    89002202,
+                    89002203,
+                    89002203,
+                    89002203,
+                    89002203
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription890023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    89002001,
+                    89002202,
+                    89002203,
+                    89002203,
+                    89002203,
+                    89002203,
+                    89002304,
+                    89002305
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription890024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    89002001,
+                    89002402,
+                    89002403,
+                    89002403,
+                    89002403,
+                    89002403,
+                    89002304,
+                    89002305
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription890025]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    89002001,
+                    89002502,
+                    89002503,
+                    89002503,
+                    89002503,
+                    89002503,
+                    89002304,
+                    89002305
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName89002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 89002
+    },
+    {
         "Id": 93001,
         "IsIgnore": null,
         "Memo": "アルトリアSR:Lv1 仲間のためなら自身を省みない、真っすぐな心が光を放つ。自身に自身の現在HP×20％の自傷ダメージを与え、ランダムな敵に3回攻撃力×280％の物理攻撃を行う。/ Lv2 さらに物理攻撃の対象が翠属性の場合、攻撃するたび70％の確率で対象に1ターンの間『気絶』を付与する。/ Lv3 物理攻撃のダメージが攻撃力×480％になる。/ Ex1 コールブランドを強化する。物理攻撃の回数が6回になる。/ Ex3 コールブランドを強化する。物理攻撃のダメージが攻撃力×520％になる。",
@@ -41129,6 +41288,165 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 88101
+    },
+    {
+        "Id": 5504089001,
+        "IsIgnore": null,
+        "Memo": "",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504089001001,
+                    5504089001002,
+                    5504089001003,
+                    5504089001003
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504089001001,
+                    5504089001202,
+                    5504089001203,
+                    5504089001203
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504089001001,
+                    5504089001302,
+                    5504089001303,
+                    5504089001303
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504089001001,
+                    5504089001402,
+                    5504089001403,
+                    5504089001403,
+                    5504089001403,
+                    5504089001403
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName89001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 89001
+    },
+    {
+        "Id": 5504089002,
+        "IsIgnore": null,
+        "Memo": "",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504089002001,
+                    5504089002002,
+                    5504089002003,
+                    5504089002003,
+                    5504089002003,
+                    5504089002003
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504089002001,
+                    5504089002202,
+                    5504089002203,
+                    5504089002203,
+                    5504089002203,
+                    5504089002203
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504089002001,
+                    5504089002202,
+                    5504089002203,
+                    5504089002203,
+                    5504089002203,
+                    5504089002203,
+                    5504089002304,
+                    5504089002305
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504089002001,
+                    5504089002402,
+                    5504089002403,
+                    5504089002403,
+                    5504089002403,
+                    5504089002403,
+                    5504089002304,
+                    5504089002305
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504089002001,
+                    5504089002502,
+                    5504089002503,
+                    5504089002503,
+                    5504089002503,
+                    5504089002503,
+                    5504089002304,
+                    5504089002305
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName89002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 89002
     },
     {
         "Id": 5504093001,
