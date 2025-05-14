@@ -60,5 +60,81 @@
         "SweepstakesEntryUpperLimit": 0,
         "SweepstakesItemList": null,
         "NoticeGroupId": 0
+    },
+    {
+        "Id": 2,
+        "IsIgnore": null,
+        "Memo": "鈴木愛理コラボ",
+        "StartEndTimeZoneType": 0,
+        "StartTime": "2025-05-14 4:00:00",
+        "EndTime": "2025-06-02 03:59:59",
+        "ImageId": 2,
+        "ImageX": 0.0,
+        "ImageY": 0.0,
+        "ImageSize": 500.0,
+        "DescriptionTextKey": "[CollabMissionDescription2]",
+        "SweepstakesDescriptionTextKey": "[CollabMissionSweepstakesDescription1]",
+        "TitleTextKey": "[CollabMissionTitle2]",
+        "SweepstakesTitleTextKey": "[CollabMissionTitle3]",
+        "TermsTextKey": "[CollabMissionEntryFormTerms]",
+        "TargetMissionIdList": [
+            1459,
+            1460,
+            1461,
+            1462,
+            1463,
+            1464,
+            1465,
+            1466,
+            1467,
+            1468,
+            1469,
+            1470,
+            1471,
+            1472,
+            1473,
+            1474,
+            1475,
+            1476,
+            1477,
+            1478,
+            1479,
+            1480,
+            1481,
+            1482,
+            1483,
+            1484,
+            1485,
+            1486,
+            1487,
+            1488,
+            1489,
+            1491,
+            1492
+        ],
+        "Url1": "https://youtu.be/rfM8K99LLs4",
+        "Url2": null,
+        "CharacterId": 89,
+        "MypageIconDisplayLocationType": 0,
+        "SweepstakesTargetTimeServerIdList": [
+            1
+        ],
+        "SweepstakesTicketItemId": 1,
+        "SweepstakesEntryUpperLimit": 3,
+        "SweepstakesItemList": [
+            {
+                "ItemType": 37,
+                "ItemId": 27
+            },
+            {
+                "ItemType": 37,
+                "ItemId": 28
+            },
+            {
+                "ItemType": 37,
+                "ItemId": 29
+            }
+        ],
+        "NoticeGroupId": 620
     }
 ]

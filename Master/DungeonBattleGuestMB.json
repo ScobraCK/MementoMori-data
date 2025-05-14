@@ -670,9 +670,9 @@
         "IsIgnore": null,
         "Memo": "エイル",
         "CharacterId": 59,
-        "IsPickup": true,
-        "EndTimeFixJST": "2025-04-30 14:29:59",
-        "StartTimeFixJST": "2025-04-15 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 76,
@@ -787,9 +787,9 @@
         "IsIgnore": null,
         "Memo": "メリア",
         "CharacterId": 86,
-        "IsPickup": true,
-        "EndTimeFixJST": "2025-05-07 14:29:59",
-        "StartTimeFixJST": "2025-04-22 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 89,
@@ -832,9 +832,9 @@
         "IsIgnore": null,
         "Memo": "アイリーン",
         "CharacterId": 109,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2025-05-30 14:29:59",
+        "StartTimeFixJST": "2025-05-14 14:30:00"
     },
     {
         "Id": 94,
@@ -895,9 +895,9 @@
         "IsIgnore": null,
         "Memo": "D.D.",
         "CharacterId": 116,
-        "IsPickup": true,
-        "EndTimeFixJST": "2025-05-07 14:29:59",
-        "StartTimeFixJST": "2025-04-15 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 101,
@@ -907,5 +907,14 @@
         "IsPickup": true,
         "EndTimeFixJST": "2025-05-19 14:29:59",
         "StartTimeFixJST": "2025-04-30 14:30:00"
+    },
+    {
+        "Id": 102,
+        "IsIgnore": null,
+        "Memo": "ルシール",
+        "CharacterId": 89,
+        "IsPickup": true,
+        "EndTimeFixJST": "2025-05-30 14:29:59",
+        "StartTimeFixJST": "2025-05-14 14:30:00"
     }
 ]

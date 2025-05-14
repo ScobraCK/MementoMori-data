@@ -11135,6 +11135,135 @@
         "CharacterId": 117
     },
     {
+        "Id": 517,
+        "IsIgnore": null,
+        "Memo": "ルシールSSR180",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 89
+    },
+    {
+        "Id": 518,
+        "IsIgnore": null,
+        "Memo": "ルシールSSR200",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1300.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 600.0
+            }
+        ],
+        "CharacterId": 89
+    },
+    {
+        "Id": 519,
+        "IsIgnore": null,
+        "Memo": "ルシールSSR220",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1400.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            },
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            }
+        ],
+        "CharacterId": 89
+    },
+    {
+        "Id": 520,
+        "IsIgnore": null,
+        "Memo": "ルシールSSR240",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            },
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            }
+        ],
+        "CharacterId": 89
+    },
+    {
+        "Id": 521,
+        "IsIgnore": null,
+        "Memo": "ルシールUR",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1600.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 900.0
+            },
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 2000.0
+            }
+        ],
+        "CharacterId": 89
+    },
+    {
+        "Id": 522,
+        "IsIgnore": null,
+        "Memo": "ルシールLR",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 1000.0
+            },
+            {
+                "BattleParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 2200.0
+            }
+        ],
+        "CharacterId": 89
+    },
+    {
         "Id": 523,
         "IsIgnore": null,
         "Memo": "ネブラSSR180",

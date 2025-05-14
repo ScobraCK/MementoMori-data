@@ -20953,6 +20953,172 @@
         ]
     },
     {
+        "Id": 8900230401,
+        "IsIgnore": null,
+        "Memo": "*印付与",
+        "CasterIconId": 89,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8900230401]",
+        "IconId": 89002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8900230401]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8900230501,
+        "IsIgnore": null,
+        "Memo": "*スキルクールタイムカウントを2減少させる。",
+        "CasterIconId": 89,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8900230501]",
+        "IconId": 89002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8900230501]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8900300101,
+        "IsIgnore": null,
+        "Memo": "*攻撃力が付与者の攻撃力×10％増加する（解除不可）。",
+        "CasterIconId": 89,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8900300101]",
+        "IconId": 89003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8900300101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8900330101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8900300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 8900320201,
+        "IsIgnore": null,
+        "Memo": "*スピードを5％増加する（解除不可）。",
+        "CasterIconId": 89,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8900320201]",
+        "IconId": 89003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8900320201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8900340201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8900320201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 8900330101,
+        "IsIgnore": null,
+        "Memo": "*攻撃力が付与者の攻撃力×25％増加する（解除不可）。",
+        "CasterIconId": 89,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8900330101]",
+        "IconId": 89003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8900330101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8900330101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8900300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 8900340201,
+        "IsIgnore": null,
+        "Memo": "*スピードを20％増加する（解除不可）。",
+        "CasterIconId": 89,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8900340201]",
+        "IconId": 89003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8900340201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8900340201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8900320201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 8900400101,
+        "IsIgnore": null,
+        "Memo": "[彩光] 被ダメージが1%増加する（最大5スタックまで）。現在のスタック数：{stack}",
+        "CasterIconId": 89,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8900400101]",
+        "IconId": 89004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8900400101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8900430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8900400101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 8900430101,
+        "IsIgnore": null,
+        "Memo": "[彩光] 被ダメージが2%増加する（最大5スタックまで）。現在のスタック数：{stack}",
+        "CasterIconId": 89,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8900430101]",
+        "IconId": 89004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8900430101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8900430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8900400101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
         "Id": 9300120202,
         "IsIgnore": null,
         "Memo": " [気絶] 行動不能になる。",
@@ -71599,6 +71765,172 @@
             {
                 "EffectGroupId": 550408800400101,
                 "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 550408900230401,
+        "IsIgnore": null,
+        "Memo": "*印付与",
+        "CasterIconId": 89,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8900230401]",
+        "IconId": 89002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8900230401]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550408900230501,
+        "IsIgnore": null,
+        "Memo": "*スキルクールタイムカウントを2減少させる。",
+        "CasterIconId": 89,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8900230501]",
+        "IconId": 89002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8900230501]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550408900300101,
+        "IsIgnore": null,
+        "Memo": "*攻撃力が付与者の攻撃力×10％増加する（解除不可）。",
+        "CasterIconId": 89,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8900300101]",
+        "IconId": 89003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8900300101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550408900330101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550408900300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550408900320201,
+        "IsIgnore": null,
+        "Memo": "*スピードを5％増加する（解除不可）。",
+        "CasterIconId": 89,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8900320201]",
+        "IconId": 89003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8900320201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550408900340201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550408900320201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550408900330101,
+        "IsIgnore": null,
+        "Memo": "*攻撃力が付与者の攻撃力×25％増加する（解除不可）。",
+        "CasterIconId": 89,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8900330101]",
+        "IconId": 89003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8900330101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550408900330101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550408900300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550408900340201,
+        "IsIgnore": null,
+        "Memo": "*スピードを20％増加する（解除不可）。",
+        "CasterIconId": 89,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8900340201]",
+        "IconId": 89003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8900340201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550408900340201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550408900320201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550408900400101,
+        "IsIgnore": null,
+        "Memo": "[彩光] 被ダメージが1%増加する（最大5スタックまで）。現在のスタック数：{stack}",
+        "CasterIconId": 89,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8900400101]",
+        "IconId": 89004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8900400101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550408900430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550408900400101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550408900430101,
+        "IsIgnore": null,
+        "Memo": "[彩光] 被ダメージが2%増加する（最大5スタックまで）。現在のスタック数：{stack}",
+        "CasterIconId": 89,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8900430101]",
+        "IconId": 89004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8900430101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550408900430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550408900400101,
+                "OrderNumber": 2
             }
         ]
     },

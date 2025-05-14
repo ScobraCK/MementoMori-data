@@ -4858,9 +4858,11 @@
     {
         "Id": 135,
         "IsIgnore": null,
-        "Memo": "仮+制服Ａ.Ａ.③+仮+復刻ユリーカ②（0514切り替え用）",
+        "Memo": "ルシール①+制服Ａ.Ａ.③+復刻アイリーン①+復刻ユリーカ②（0514切り替え用）",
         "CharacterIdList": [
+            89,
             117,
+            109,
             106,
             5,
             6,
@@ -4888,18 +4890,22 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
+            89,
             117,
+            109,
             106
         ],
         "OrderNumber": 135,
-        "StartTimeFixJST": "2025-05-14 16:30:00",
+        "StartTimeFixJST": "2025-05-14 15:00:00",
         "EndTimeFixJST": "2025-05-19 14:29:59"
     },
     {
         "Id": 136,
         "IsIgnore": null,
-        "Memo": "仮+仮+復刻ユリーカ③（0519切り替え用）",
+        "Memo": "ルシール②+復刻アイリーン②+復刻ユリーカ③（0519切り替え用）",
         "CharacterIdList": [
+            89,
+            109,
             106,
             5,
             6,
@@ -4927,11 +4933,53 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
+            89,
+            109,
             106
         ],
         "OrderNumber": 136,
         "StartTimeFixJST": "2025-05-19 14:30:00",
         "EndTimeFixJST": "2025-05-22 14:29:59"
+    },
+    {
+        "Id": 137,
+        "IsIgnore": null,
+        "Memo": "ルシール③+復刻アイリーン③+仮（0522切り替え用）",
+        "CharacterIdList": [
+            89,
+            109,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            89,
+            109
+        ],
+        "OrderNumber": 137,
+        "StartTimeFixJST": "2025-05-22 14:30:00",
+        "EndTimeFixJST": "2025-05-30 14:29:59"
     },
     {
         "Id": 10000,
