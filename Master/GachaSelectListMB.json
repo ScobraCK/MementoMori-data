@@ -4944,9 +4944,10 @@
     {
         "Id": 137,
         "IsIgnore": null,
-        "Memo": "ルシール③+復刻アイリーン③+仮（0522切り替え用）",
+        "Memo": "ルシール③+復刻アイリーン③+復刻アレクサンドラ①（0522切り替え用）",
         "CharacterIdList": [
             89,
+            82,
             109,
             5,
             6,
@@ -4975,11 +4976,50 @@
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
             89,
+            82,
             109
         ],
         "OrderNumber": 137,
         "StartTimeFixJST": "2025-05-22 14:30:00",
         "EndTimeFixJST": "2025-05-30 14:29:59"
+    },
+    {
+        "Id": 138,
+        "IsIgnore": null,
+        "Memo": "仮+復刻アレクサンドラ②+仮（0530切り替え用）",
+        "CharacterIdList": [
+            82,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            82
+        ],
+        "OrderNumber": 138,
+        "StartTimeFixJST": "2025-05-30 16:30:00",
+        "EndTimeFixJST": "2025-06-09 14:29:59"
     },
     {
         "Id": 10000,
