@@ -1626,5 +1626,74 @@
         "SortOrder": 0,
         "TimeServerIdList": null,
         "ImageId": 0
+    },
+    {
+        "Id": 10081,
+        "IsIgnore": null,
+        "Memo": "イベント_デイリーミッション1_モワノー",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 20,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 30,
+                    "ItemType": 50
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2025-05-30 04:00:00",
+        "EndTime": "2025-06-09 03:59:59",
+        "SortOrder": 0,
+        "TimeServerIdList": null,
+        "ImageId": 0
+    },
+    {
+        "Id": 10082,
+        "IsIgnore": null,
+        "Memo": "イベント_デイリーミッション3_モワノー",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 60,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 30,
+                    "ItemType": 50
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2025-05-30 04:00:00",
+        "EndTime": "2025-06-09 03:59:59",
+        "SortOrder": 0,
+        "TimeServerIdList": null,
+        "ImageId": 0
+    },
+    {
+        "Id": 10083,
+        "IsIgnore": null,
+        "Memo": "イベント_デイリーミッション5_モワノー",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 100,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 10,
+                    "ItemId": 30,
+                    "ItemType": 50
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2025-05-30 04:00:00",
+        "EndTime": "2025-06-09 03:59:59",
+        "SortOrder": 0,
+        "TimeServerIdList": null,
+        "ImageId": 0
     }
 ]

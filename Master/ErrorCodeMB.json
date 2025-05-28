@@ -3144,6 +3144,12 @@
         "ErrorMessageType": 2
     },
     {
+        "Id": 271003,
+        "IsIgnore": null,
+        "Memo": "ギルドデータが見つかりません",
+        "ErrorMessageType": 2
+    },
+    {
         "Id": 272000,
         "IsIgnore": null,
         "Memo": null,
@@ -3243,6 +3249,42 @@
         "Id": 272016,
         "IsIgnore": null,
         "Memo": "選択できない文字サイズです",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 272017,
+        "IsIgnore": null,
+        "Memo": "共有できないバトルの種類です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 272018,
+        "IsIgnore": null,
+        "Memo": "バトルレポートのダウンロードに失敗しました",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 272019,
+        "IsIgnore": null,
+        "Memo": "バトルレポートの保存期間が終了しました",
+        "ErrorMessageType": 3
+    },
+    {
+        "Id": 272020,
+        "IsIgnore": null,
+        "Memo": "共有できないチャットです",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 272021,
+        "IsIgnore": null,
+        "Memo": "クリアパーティ情報が存在しません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 272022,
+        "IsIgnore": null,
+        "Memo": "バトルデータが存在しません",
         "ErrorMessageType": 2
     },
     {
@@ -4158,6 +4200,24 @@
         "ErrorMessageType": 2
     },
     {
+        "Id": 421002,
+        "IsIgnore": null,
+        "Memo": "情報が存在しません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 421003,
+        "IsIgnore": null,
+        "Memo": "情報が存在しません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 421004,
+        "IsIgnore": null,
+        "Memo": "認証コードを受け取り済みです",
+        "ErrorMessageType": 2
+    },
+    {
         "Id": 431000,
         "IsIgnore": null,
         "Memo": "データがありません",
@@ -4713,6 +4773,30 @@
         "Id": 510003,
         "IsIgnore": null,
         "Memo": "同一アカウントで応募できる上限に達しています。",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 520000,
+        "IsIgnore": null,
+        "Memo": "限定動画の開催期間外です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 520001,
+        "IsIgnore": null,
+        "Memo": "本日分のコメントは投稿済みです",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 520002,
+        "IsIgnore": null,
+        "Memo": "チャット禁止中はコメントの投稿ができません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 520003,
+        "IsIgnore": null,
+        "Memo": "コメント内容を入力してください",
         "ErrorMessageType": 2
     },
     {
