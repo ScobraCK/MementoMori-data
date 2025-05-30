@@ -4722,6 +4722,58 @@
         "StartTimeFixJST": "2024-07-31 15:00:00"
     },
     {
+        "Id": 100,
+        "IsIgnore": null,
+        "Memo": "モワノー",
+        "ActiveSkillIds": [
+            100001,
+            100002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 97,
+            "Health": 73,
+            "Intelligence": 90,
+            "Muscle": 73
+        },
+        "BaseParameterGrossCoefficient": 333,
+        "CharacterType": 0,
+        "ElementType": 4,
+        "InitialBattleParameter": {
+            "AttackPower": -2,
+            "Avoidance": 0,
+            "Critical": 0,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 0,
+            "DamageReflect": 0,
+            "DebuffHit": 5,
+            "DebuffResist": 0,
+            "Defense": 7,
+            "DefensePenetration": 0,
+            "Hit": 0,
+            "HP": 0,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": 0,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 0,
+            "Speed": 3145
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 2,
+        "Name2Key": null,
+        "NameKey": "[CharacterName100]",
+        "NormalSkillId": 101,
+        "PassiveSkillIds": [
+            100003,
+            100004
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2025-05-30 15:00:00"
+    },
+    {
         "Id": 105,
         "IsIgnore": null,
         "Memo": "花束ナターシャ",

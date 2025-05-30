@@ -12606,6 +12606,130 @@
         "RootActiveSkillId": 96002
     },
     {
+        "Id": 100001,
+        "IsIgnore": null,
+        "Memo": "モワノーSR:Lv1 触れた者の力を奪うという夜花の雫をしみ込ませた刃で、ランダムな敵3体に攻撃力×540%の物理攻撃を行い、2ターンの間対象に『脱力』を付与する。付帯者のバトル中ステータスの攻撃力が20％減少する。/ Lv2 さらに物理攻撃の前に4ターンの間対象の物理防御力を25%減少させる。オートバトル・ボスバトルで使用した場合、『物理防御力減少』が解除不可になる。無窮の塔で使用した場合、物理防御力の減少量が50%になる。/ Lv3 『脱力』の攻撃力の減少量が40%になり、ターン数が4ターンになる。/ Ex1 宵闇の羽刃を強化する。宵闇の羽刃の対象がランダムな敵5体になる。/ Ex3 宵闇の羽刃を強化する。物理攻撃のダメージが攻撃力×590%になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription1000011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    100001001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription1000012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    100001201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription1000013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    100001301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription1000014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    100001401
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription1000015]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    100001501
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName100001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 100001
+    },
+    {
+        "Id": 100002,
+        "IsIgnore": null,
+        "Memo": "モワノーSR:Lv1 「急ぐ必要はございません。どうぞごゆるりと」ランダムな敵3体に攻撃力×360%の物理攻撃を行い、40%の確率で1ターンの間対象に『遅延』を付与する。毎ターン行動終了時にスキルクールタイムカウントの減少を1遅らせ、次回のスキル発動が遅くなる。/ Lv2 『遅延』を付与する確率が70%になる。/ Lv3 物理攻撃のダメージが攻撃力×980%になる。/ Lv4 バトル中このスキルを発動するのが3回目以降の場合、物理攻撃のダメージが攻撃力×1960%になる。/ Ex2 優雅なる執事を強化する。バトル中このスキルを発動するのが3回目以降の場合、物理攻撃のダメージが攻撃力×2450%になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription1000021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    100002001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription1000022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    100002201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription1000023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    100002301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription1000024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    100002401
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription1000025]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 256,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    100002501
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName100002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 100002
+    },
+    {
         "Id": 105001,
         "IsIgnore": null,
         "Memo": "花束ナターシャSR:Lv1 「幸せのおすそ分けです」ランダムな敵3体に攻撃力×280%の物理攻撃を行う。このスキルを再発動する（再発動は1回まで）。/ Lv2 さらに物理攻撃の前に自身の『心に咲く花』のスタック数が5以上の場合、再発動の回数が2回までになり、最後の物理攻撃の後に自身の『心に咲く花』のスタック数を5消費する。/ Lv3 物理攻撃のダメージが攻撃力×380%になる。/ Ex1 フラワーギフトを強化する。物理攻撃のダメージが攻撃力×680%になる。",
@@ -41876,6 +42000,130 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 96002
+    },
+    {
+        "Id": 5504100001,
+        "IsIgnore": null,
+        "Memo": "",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504100001001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504100001201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504100001301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504100001401
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504100001501
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName100001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 100001
+    },
+    {
+        "Id": 5504100002,
+        "IsIgnore": null,
+        "Memo": "",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504100002001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504100002201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504100002301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504100002401
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 256,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504100002501
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName100002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 100002
     },
     {
         "Id": 5504105001,
