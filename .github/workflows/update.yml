@@ -56,7 +56,8 @@ jobs:
       run: git push origin HEAD
 
     - name: Trigger API update if version changed
-      if: ${{ env.current_version != env.new_version }}
       run: |
-        curl --fail --retry 2 --retry-delay 5 \
+        if [ "${{ env.current_version }}" != "${{ env.new_version }}" ]; then
+          curl --fail --retry 2 --retry-delay 5 \
           "https://aabot.dev/admin/update?key=${{ secrets.API_KEY }}" || echo "API update failed after retries"
+        fi
