@@ -706,18 +706,18 @@
         "IsIgnore": null,
         "Memo": "アレクサンドラ",
         "CharacterId": 82,
-        "IsPickup": true,
-        "EndTimeFixJST": "2025-06-09 14:29:59",
-        "StartTimeFixJST": "2025-05-22 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 80,
         "IsIgnore": null,
         "Memo": "ミナシュマリ",
         "CharacterId": 77,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2025-06-30 14:29:59",
+        "StartTimeFixJST": "2025-06-16 16:30:00"
     },
     {
         "Id": 81,
@@ -925,5 +925,14 @@
         "IsPickup": true,
         "EndTimeFixJST": "2025-06-16 14:29:59",
         "StartTimeFixJST": "2025-05-30 14:30:00"
+    },
+    {
+        "Id": 104,
+        "IsIgnore": null,
+        "Memo": "フラック",
+        "CharacterId": 122,
+        "IsPickup": true,
+        "EndTimeFixJST": "2025-06-30 14:29:59",
+        "StartTimeFixJST": "2025-06-16 16:30:00"
     }
 ]

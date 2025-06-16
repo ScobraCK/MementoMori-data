@@ -2059,7 +2059,7 @@
     {
         "Id": 41,
         "IsIgnore": null,
-        "Memo": "【弔花の魔女】ナターシャ",
+        "Memo": "ナターシャ",
         "ActiveSkillIds": [
             41001,
             41002
@@ -2111,7 +2111,7 @@
     {
         "Id": 42,
         "IsIgnore": null,
-        "Memo": "【聖剣の魔女】フォルティナ",
+        "Memo": "フォルティナ",
         "ActiveSkillIds": [
             42001,
             42002
@@ -2163,7 +2163,7 @@
     {
         "Id": 43,
         "IsIgnore": null,
-        "Memo": "【雷啼の魔女】ケルベロス",
+        "Memo": "ケルベロス",
         "ActiveSkillIds": [
             43001,
             43002
@@ -2215,7 +2215,7 @@
     {
         "Id": 44,
         "IsIgnore": null,
-        "Memo": "【天泣の魔女】ルサールカ",
+        "Memo": "ルサールカ",
         "ActiveSkillIds": [
             44001,
             44002
@@ -2268,7 +2268,7 @@
     {
         "Id": 45,
         "IsIgnore": null,
-        "Memo": "【聖槍の魔女】エルフリンデ",
+        "Memo": "エルフリンデ",
         "ActiveSkillIds": [
             45001,
             45002
@@ -2320,7 +2320,7 @@
     {
         "Id": 46,
         "IsIgnore": null,
-        "Memo": "【雪幻の魔女】ルナリンド",
+        "Memo": "ルナリンド",
         "ActiveSkillIds": [
             46001,
             46002
@@ -2372,7 +2372,7 @@
     {
         "Id": 47,
         "IsIgnore": null,
-        "Memo": "【劫火の魔女】ヴァルリーデ",
+        "Memo": "ヴァルリーデ",
         "ActiveSkillIds": [
             47001,
             47002
@@ -2425,7 +2425,7 @@
     {
         "Id": 48,
         "IsIgnore": null,
-        "Memo": "【錆鉄の魔女】Ａ.Ａ.",
+        "Memo": "Ａ.Ａ.",
         "ActiveSkillIds": [
             48001,
             48002
@@ -2478,7 +2478,7 @@
     {
         "Id": 49,
         "IsIgnore": null,
-        "Memo": "【骸晶の魔女】オフィーリア",
+        "Memo": "オフィーリア",
         "ActiveSkillIds": [
             49001,
             49002
@@ -2531,7 +2531,7 @@
     {
         "Id": 50,
         "IsIgnore": null,
-        "Memo": "【英霊の魔女】アームストロング",
+        "Memo": "アームストロング",
         "ActiveSkillIds": [
             50001,
             50002
@@ -3105,7 +3105,7 @@
     {
         "Id": 61,
         "IsIgnore": null,
-        "Memo": "[神呪の魔女]イリア",
+        "Memo": "神呪イリア",
         "ActiveSkillIds": [
             61001,
             61002
@@ -3367,7 +3367,7 @@
     {
         "Id": 66,
         "IsIgnore": null,
-        "Memo": "[黒鎧の従者]アイリス",
+        "Memo": "黒鎧アイリス",
         "ActiveSkillIds": [
             66001,
             66002
@@ -4359,7 +4359,7 @@
     {
         "Id": 86,
         "IsIgnore": null,
-        "Memo": "【災芽の魔女】メリア",
+        "Memo": "メリア",
         "ActiveSkillIds": [
             86001,
             86002
@@ -4411,7 +4411,7 @@
     {
         "Id": 87,
         "IsIgnore": null,
-        "Memo": "【泡沫の魔女】ネブラ",
+        "Memo": "ネブラ",
         "ActiveSkillIds": [
             87001,
             87002
@@ -5352,7 +5352,7 @@
     {
         "Id": 117,
         "IsIgnore": null,
-        "Memo": "［錆鉄の空］Ａ.Ａ.",
+        "Memo": "制服Ａ.Ａ.",
         "ActiveSkillIds": [
             117001,
             117002
@@ -5400,5 +5400,57 @@
         "RequireFragmentCount": 60,
         "EndTimeFixJST": "2100-12-31 23:59:59",
         "StartTimeFixJST": "2025-04-30 15:00:00"
+    },
+    {
+        "Id": 122,
+        "IsIgnore": null,
+        "Memo": "フラック",
+        "ActiveSkillIds": [
+            122001,
+            122002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 97,
+            "Health": 75,
+            "Intelligence": 90,
+            "Muscle": 73
+        },
+        "BaseParameterGrossCoefficient": 335,
+        "CharacterType": 0,
+        "ElementType": 2,
+        "InitialBattleParameter": {
+            "AttackPower": -1,
+            "Avoidance": 0,
+            "Critical": 0,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 0,
+            "DamageReflect": 0,
+            "DebuffHit": 5,
+            "DebuffResist": 0,
+            "Defense": 6,
+            "DefensePenetration": 0,
+            "Hit": 0,
+            "HP": 0,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": 0,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 0,
+            "Speed": 3048
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 2,
+        "Name2Key": null,
+        "NameKey": "[CharacterName122]",
+        "NormalSkillId": 101,
+        "PassiveSkillIds": [
+            122003,
+            122004
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2025-06-16 15:00:00"
     }
 ]

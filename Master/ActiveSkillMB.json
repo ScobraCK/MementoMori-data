@@ -14506,6 +14506,154 @@
         "RootActiveSkillId": 117002
     },
     {
+        "Id": 122001,
+        "IsIgnore": null,
+        "Memo": "フラックSR:Lv1 「種も仕掛けもございませーん！」自身に自身の現在HP×20%の自傷ダメージを与え、ランダムな敵3体に攻撃力×440％の物理攻撃を行う。/ Lv2 さらに物理攻撃の前に1ターンの間対象の回避率と被回復量をそれぞれ20％減少させる。自身以外の紅属性の味方の編成数が1体以上の場合、回避率と被回復量の減少量がそれぞれ50％になる。/ Lv3 物理攻撃のダメージが攻撃力×740%になる。/ Ex1 トリック＆シュートを強化する。トリック＆シュートの対象がランダムな敵5体になる。/ Ex2 トリック＆シュートを強化する。『回避率減少』と『被回復量減少』のターン数がそれぞれ4ターンになる。/ Ex3 トリック＆シュートを強化する。物理攻撃のダメージが攻撃力×790%になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription1220011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    122001001,
+                    122001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription1220012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    122001001,
+                    122001202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription1220013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    122001001,
+                    122001302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription1220014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    122001001,
+                    122001402
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription1220015]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 256,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    122001001,
+                    122001502
+                ]
+            },
+            {
+                "OrderNumber": 6,
+                "DescriptionKey": "[ActiveSkillDescription1220016]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    122001001,
+                    122001602
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName122001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 122001
+    },
+    {
+        "Id": 122002,
+        "IsIgnore": null,
+        "Memo": "フラックSR:Lv1 「うちの出番ッスね！」自身に自身の現在HP×20%の自傷ダメージを与える。「続いての演目はこちらッス！」カラフルな紙吹雪に目を奪われた敵を狙い撃ち、ランダムな敵に4回攻撃力×320％の物理攻撃を行う。/ Lv2 物理攻撃のダメージが攻撃力×560%になる。/ Lv3 物理攻撃の回数が5回になる。/ Lv4 物理攻撃の前に自身が『笑顔の才能』を付帯している場合、物理攻撃のダメージが攻撃力×1120％になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription1220021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    122002001,
+                    122002002,
+                    122002003,
+                    122002003,
+                    122002003
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription1220022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    122002001,
+                    122002202,
+                    122002203,
+                    122002203,
+                    122002203
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription1220023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    122002001,
+                    122002302,
+                    122002303,
+                    122002303,
+                    122002303,
+                    122002303
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription1220024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    122002001,
+                    122002402,
+                    122002403,
+                    122002403,
+                    122002403,
+                    122002403
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName122002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 122002
+    },
+    {
         "Id": 550109001,
         "IsIgnore": null,
         "Memo": "ギルドレイド通常ソーニャSR：ソーニャSR:旋風の如き素早い急襲。HPが最も低い敵に攻撃力×800％の物理攻撃を行う。弱った敵にも容赦しないヴァイキングの本能により、敵のHP割合が40％以下の場合、この攻撃は必ずクリティカルヒットする。／さらに自身の腕力×400％の直接攻撃を行う。／追加攻撃のダメージが腕力×600%になる。／さらにこのスキルで敵を戦闘不能にした場合、このスキルを再発動する。",
@@ -43900,5 +44048,153 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 117002
+    },
+    {
+        "Id": 5504122001,
+        "IsIgnore": null,
+        "Memo": "",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504122001001,
+                    5504122001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504122001001,
+                    5504122001202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504122001001,
+                    5504122001302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504122001001,
+                    5504122001402
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 256,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504122001001,
+                    5504122001502
+                ]
+            },
+            {
+                "OrderNumber": 6,
+                "DescriptionKey": "",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504122001001,
+                    5504122001602
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName122001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 122001
+    },
+    {
+        "Id": 5504122002,
+        "IsIgnore": null,
+        "Memo": "",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504122002001,
+                    5504122002002,
+                    5504122002003,
+                    5504122002003,
+                    5504122002003
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504122002001,
+                    5504122002202,
+                    5504122002203,
+                    5504122002203,
+                    5504122002203
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504122002001,
+                    5504122002302,
+                    5504122002303,
+                    5504122002303,
+                    5504122002303,
+                    5504122002303
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504122002001,
+                    5504122002402,
+                    5504122002403,
+                    5504122002403,
+                    5504122002403,
+                    5504122002403
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName122002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 122002
     }
 ]
