@@ -5070,9 +5070,11 @@
     {
         "Id": 140,
         "IsIgnore": null,
-        "Memo": "仮+復刻花束ナターシャ②（0616切り替え用）",
+        "Memo": "フラック①+復刻花束ナターシャ②+復刻ミナシュマリ①（0616切り替え用）",
         "CharacterIdList": [
+            122,
             105,
+            77,
             5,
             6,
             7,
@@ -5099,11 +5101,53 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            105
+            122,
+            105,
+            77
         ],
         "OrderNumber": 140,
-        "StartTimeFixJST": "2025-06-16 16:30:00",
+        "StartTimeFixJST": "2025-06-16 15:00:00",
         "EndTimeFixJST": "2025-06-23 14:29:59"
+    },
+    {
+        "Id": 141,
+        "IsIgnore": null,
+        "Memo": "フラック②+仮+復刻ミナシュマリ②（0623切り替え用）",
+        "CharacterIdList": [
+            122,
+            77,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            122,
+            77
+        ],
+        "OrderNumber": 141,
+        "StartTimeFixJST": "2025-06-23 14:30:00",
+        "EndTimeFixJST": "2025-06-30 14:29:59"
     },
     {
         "Id": 10000,
