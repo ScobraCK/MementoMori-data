@@ -5112,9 +5112,10 @@
     {
         "Id": 141,
         "IsIgnore": null,
-        "Memo": "フラック②+仮+復刻ミナシュマリ②（0623切り替え用）",
+        "Memo": "フラック②+復刻使徒ロザリー①+復刻ミナシュマリ②（0623切り替え用）",
         "CharacterIdList": [
             122,
+            88,
             77,
             5,
             6,
@@ -5143,11 +5144,50 @@
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
             122,
+            88,
             77
         ],
         "OrderNumber": 141,
         "StartTimeFixJST": "2025-06-23 14:30:00",
         "EndTimeFixJST": "2025-06-30 14:29:59"
+    },
+    {
+        "Id": 142,
+        "IsIgnore": null,
+        "Memo": "仮+復刻使徒ロザリー②（0630切り替え用）",
+        "CharacterIdList": [
+            88,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            88
+        ],
+        "OrderNumber": 142,
+        "StartTimeFixJST": "2025-06-30 16:30:00",
+        "EndTimeFixJST": "2025-07-08 14:29:59"
     },
     {
         "Id": 10000,
@@ -5588,5 +5628,23 @@
         "OrderNumber": 10230,
         "StartTimeFixJST": "2025-05-30 14:30:00",
         "EndTimeFixJST": "2025-06-23 14:29:59"
+    },
+    {
+        "Id": 10240,
+        "IsIgnore": null,
+        "Memo": "星の導きガチャ 第24回_ギルウィアル・黒鎧アイリス",
+        "CharacterIdList": [
+            64,
+            66
+        ],
+        "GachaSelectListType": 3,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            64,
+            66
+        ],
+        "OrderNumber": 10240,
+        "StartTimeFixJST": "2025-06-23 14:30:00",
+        "EndTimeFixJST": "2025-07-15 14:29:59"
     }
 ]
