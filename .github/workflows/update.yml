@@ -55,7 +55,7 @@ jobs:
     - name: Push committed changes
       run: git push origin HEAD
 
-    - name: Trigger API update if version changed
+    - name: Trigger API update
       run:
         curl --fail --retry 2 --retry-delay 5 \
-        "https://aabot.dev/admin/update?key=${{ secrets.API_KEY }}" || echo "API update failed after retries"
+        "https://api.aabot.dev/admin/update?key=${{ secrets.API_KEY }}" || echo "API update failed after retries"
