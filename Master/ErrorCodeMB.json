@@ -2022,6 +2022,24 @@
         "ErrorMessageType": 2
     },
     {
+        "Id": 200213,
+        "IsIgnore": null,
+        "Memo": "ピックアップキャラに設定できないキャラが選択されています",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 200214,
+        "IsIgnore": null,
+        "Memo": "対象のキャラが選択されていません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 200215,
+        "IsIgnore": null,
+        "Memo": "データが不正です",
+        "ErrorMessageType": 2
+    },
+    {
         "Id": 200500,
         "IsIgnore": null,
         "Memo": null,
@@ -2037,6 +2055,12 @@
         "Id": 200502,
         "IsIgnore": null,
         "Memo": null,
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 200503,
+        "IsIgnore": null,
+        "Memo": "セレクトリストデータがありません",
         "ErrorMessageType": 2
     },
     {
@@ -4803,6 +4827,12 @@
         "Id": 520003,
         "IsIgnore": null,
         "Memo": "コメント内容を入力してください",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 520004,
+        "IsIgnore": null,
+        "Memo": "コメント機能は使えません",
         "ErrorMessageType": 2
     },
     {
