@@ -57,5 +57,4 @@ jobs:
 
     - name: Trigger API update
       run:
-        curl --fail --retry 2 --retry-delay 5 \
-        "https://api.aabot.dev/admin/update?key=${{ secrets.API_KEY }}" || echo "API update failed after retries"
+        curl --fail --retry 2 --retry-delay 5 "https://api.aabot.dev/admin/update?key=${{secrets.API_KEY}}" || echo "API update failed after retries"
