@@ -5402,6 +5402,58 @@
         "StartTimeFixJST": "2025-04-30 15:00:00"
     },
     {
+        "Id": 121,
+        "IsIgnore": null,
+        "Memo": "ルミカ",
+        "ActiveSkillIds": [
+            121001,
+            121002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 84,
+            "Health": 65,
+            "Intelligence": 83,
+            "Muscle": 103
+        },
+        "BaseParameterGrossCoefficient": 335,
+        "CharacterType": 0,
+        "ElementType": 5,
+        "InitialBattleParameter": {
+            "AttackPower": 5,
+            "Avoidance": 0,
+            "Critical": -3,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 1,
+            "DamageReflect": 0,
+            "DebuffHit": 0,
+            "DebuffResist": 0,
+            "Defense": 7,
+            "DefensePenetration": 0,
+            "Hit": 0,
+            "HP": 0,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": 0,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 0,
+            "Speed": 3046
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 1,
+        "Name2Key": null,
+        "NameKey": "[CharacterName121]",
+        "NormalSkillId": 101,
+        "PassiveSkillIds": [
+            121003,
+            121004
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2025-06-30 15:00:00"
+    },
+    {
         "Id": 122,
         "IsIgnore": null,
         "Memo": "フラック",

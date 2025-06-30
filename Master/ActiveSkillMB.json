@@ -14506,6 +14506,138 @@
         "RootActiveSkillId": 117002
     },
     {
+        "Id": 121001,
+        "IsIgnore": null,
+        "Memo": "ルミカSR:Lv1 「ネグちゃんと会ってからすごーく元気なんです！　見てください！　こんなことも出来ちゃうんですよっ！」ランダムな敵に2回攻撃力×290%の物理攻撃を行う。この攻撃は対象の『多重バリア』を無視する。/ Lv2 物理攻撃の回数が3回になる。/ Lv3 物理攻撃のダメージが攻撃力×580％になる。/ Ex1 元気いっぱい！を強化する。さらに物理攻撃の前に対象が『多重バリア』を付帯している場合、物理攻撃のダメージが攻撃力×870%になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription1210011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    121001001,
+                    121001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription1210012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    121001001,
+                    121001002,
+                    121001002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription1210013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    121001301,
+                    121001302,
+                    121001302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription1210014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    121001401,
+                    121001402,
+                    121001402
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName121001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 121001
+    },
+    {
+        "Id": 121002,
+        "IsIgnore": null,
+        "Memo": "ルミカSR:Lv1 「ずっと一緒にいられますように──」子供同士の、小さな小さな約束。だがそれは、図らずも契約の効力を持つこととなり、少女に力を授けた──ランダムな敵に攻撃力×820％の物理攻撃を行う。このスキルで敵を戦闘不能にできなかった場合、このスキルを再発動する（再発動は1回まで）。/ Lv2 再発動の回数が2回までになる。/ Lv3 物理攻撃のダメージが攻撃力×1240％になる。/ Lv4 再発動の回数が3回までになる。/ Ex3 小指の契約を強化する。物理攻撃のダメージが攻撃力×1360％になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription1210021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    121002001,
+                    121002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription1210022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    121002001,
+                    121002002,
+                    121002002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription1210023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    121002301,
+                    121002302,
+                    121002302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription1210024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    121002301,
+                    121002302,
+                    121002302,
+                    121002302
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription1210025]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    121002501,
+                    121002502,
+                    121002502,
+                    121002502
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName121002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 121002
+    },
+    {
         "Id": 122001,
         "IsIgnore": null,
         "Memo": "フラックSR:Lv1 「種も仕掛けもございませーん！」自身に自身の現在HP×20%の自傷ダメージを与え、ランダムな敵3体に攻撃力×440％の物理攻撃を行う。/ Lv2 さらに物理攻撃の前に1ターンの間対象の回避率と被回復量をそれぞれ20％減少させる。自身以外の紅属性の味方の編成数が1体以上の場合、回避率と被回復量の減少量がそれぞれ50％になる。/ Lv3 物理攻撃のダメージが攻撃力×740%になる。/ Ex1 トリック＆シュートを強化する。トリック＆シュートの対象がランダムな敵5体になる。/ Ex2 トリック＆シュートを強化する。『回避率減少』と『被回復量減少』のターン数がそれぞれ4ターンになる。/ Ex3 トリック＆シュートを強化する。物理攻撃のダメージが攻撃力×790%になる。",
@@ -44048,6 +44180,138 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 117002
+    },
+    {
+        "Id": 5504121001,
+        "IsIgnore": null,
+        "Memo": "",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504121001001,
+                    5504121001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504121001001,
+                    5504121001002,
+                    5504121001002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504121001301,
+                    5504121001302,
+                    5504121001302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504121001401,
+                    5504121001402,
+                    5504121001402
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName121001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 121001
+    },
+    {
+        "Id": 5504121002,
+        "IsIgnore": null,
+        "Memo": "",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504121002001,
+                    5504121002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504121002001,
+                    5504121002002,
+                    5504121002002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504121002301,
+                    5504121002302,
+                    5504121002302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504121002301,
+                    5504121002302,
+                    5504121002302,
+                    5504121002302
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504121002501,
+                    5504121002502,
+                    5504121002502,
+                    5504121002502
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName121002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 121002
     },
     {
         "Id": 5504122001,

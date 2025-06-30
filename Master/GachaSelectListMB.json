@@ -5154,8 +5154,9 @@
     {
         "Id": 142,
         "IsIgnore": null,
-        "Memo": "仮+復刻使徒ロザリー②（0630切り替え用）",
+        "Memo": "ルミカ①+復刻使徒ロザリー②（0630切り替え用）",
         "CharacterIdList": [
+            121,
             88,
             5,
             6,
@@ -5183,11 +5184,88 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
+            121,
             88
         ],
         "OrderNumber": 142,
-        "StartTimeFixJST": "2025-06-30 16:30:00",
+        "StartTimeFixJST": "2025-06-30 15:00:00",
         "EndTimeFixJST": "2025-07-08 14:29:59"
+    },
+    {
+        "Id": 143,
+        "IsIgnore": null,
+        "Memo": "ルミカ②+仮・仮・仮（0708切り替え用）",
+        "CharacterIdList": [
+            121,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            121
+        ],
+        "OrderNumber": 143,
+        "StartTimeFixJST": "2025-07-08 15:30:00",
+        "EndTimeFixJST": "2025-07-15 14:29:59"
+    },
+    {
+        "Id": 144,
+        "IsIgnore": null,
+        "Memo": "仮+ルミカ③+仮+仮（0715切り替え用）",
+        "CharacterIdList": [
+            121,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            121
+        ],
+        "OrderNumber": 144,
+        "StartTimeFixJST": "2025-07-15 16:30:00",
+        "EndTimeFixJST": "2025-07-19 14:29:59"
     },
     {
         "Id": 10000,

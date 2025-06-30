@@ -25428,6 +25428,108 @@
         ]
     },
     {
+        "Id": 12100300101,
+        "IsIgnore": null,
+        "Memo": "攻撃力が10%増加する（解除不可）。",
+        "CasterIconId": 121,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12100300101]",
+        "IconId": 121003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12100300101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 12100320101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 12100300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 12100320101,
+        "IsIgnore": null,
+        "Memo": "攻撃力が30%増加する（解除不可）。",
+        "CasterIconId": 121,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12100320101]",
+        "IconId": 121003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12100320101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 12100320101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 12100300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 12100330102,
+        "IsIgnore": null,
+        "Memo": "*スキルクールタイムカウントを1減少させる。",
+        "CasterIconId": 121,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12100330102]",
+        "IconId": 121003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12100330102]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 12100400101,
+        "IsIgnore": null,
+        "Memo": "攻撃力が30%増加する（解除不可）。",
+        "CasterIconId": 121,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12100400101]",
+        "IconId": 121004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12100400101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 12100420102,
+        "IsIgnore": null,
+        "Memo": "命中率が30%増加する（解除不可）。",
+        "CasterIconId": 121,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12100420102]",
+        "IconId": 121004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12100420102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 12100430201,
+        "IsIgnore": null,
+        "Memo": "スピードが30%増加する（解除不可）。",
+        "CasterIconId": 121,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12100430201]",
+        "IconId": 121004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12100430201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 12200120201,
         "IsIgnore": null,
         "Memo": "回避率が{0}%減少する。",
@@ -76799,6 +76901,108 @@
                 "OrderNumber": 2
             }
         ]
+    },
+    {
+        "Id": 550412100300101,
+        "IsIgnore": null,
+        "Memo": "攻撃力が10%増加する（解除不可）。",
+        "CasterIconId": 121,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12100300101]",
+        "IconId": 121003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12100300101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550412100320101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550412100300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550412100320101,
+        "IsIgnore": null,
+        "Memo": "攻撃力が30%増加する（解除不可）。",
+        "CasterIconId": 121,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12100320101]",
+        "IconId": 121003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12100320101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550412100320101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550412100300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550412100330102,
+        "IsIgnore": null,
+        "Memo": "*スキルクールタイムカウントを1減少させる。",
+        "CasterIconId": 121,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12100330102]",
+        "IconId": 121003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12100330102]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550412100400101,
+        "IsIgnore": null,
+        "Memo": "攻撃力が30%増加する（解除不可）。",
+        "CasterIconId": 121,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12100400101]",
+        "IconId": 121004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12100400101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550412100420102,
+        "IsIgnore": null,
+        "Memo": "命中率が30%増加する（解除不可）。",
+        "CasterIconId": 121,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12100420102]",
+        "IconId": 121004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12100420102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550412100430201,
+        "IsIgnore": null,
+        "Memo": "スピードが30%増加する（解除不可）。",
+        "CasterIconId": 121,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12100430201]",
+        "IconId": 121004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12100430201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
     },
     {
         "Id": 550412200120201,
