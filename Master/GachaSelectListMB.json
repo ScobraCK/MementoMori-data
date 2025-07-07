@@ -5194,9 +5194,12 @@
     {
         "Id": 143,
         "IsIgnore": null,
-        "Memo": "ルミカ②+仮・仮・仮（0708切り替え用）",
+        "Memo": "ルミカ②+選択水着サブリナ①+選択水着モーザ①+選択浴衣コルディ①（0708切り替え用）",
         "CharacterIdList": [
             121,
+            70,
+            71,
+            72,
             5,
             6,
             7,
@@ -5223,18 +5226,24 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            121
+            121,
+            70,
+            71,
+            72
         ],
         "OrderNumber": 143,
-        "StartTimeFixJST": "2025-07-08 15:30:00",
+        "StartTimeFixJST": "2025-07-08 14:30:00",
         "EndTimeFixJST": "2025-07-15 14:29:59"
     },
     {
         "Id": 144,
         "IsIgnore": null,
-        "Memo": "仮+ルミカ③+仮+仮（0715切り替え用）",
+        "Memo": "仮+ルミカ③+仮+仮+選択水着サブリナ②+選択水着モーザ②+選択浴衣コルディ②（0715切り替え用）",
         "CharacterIdList": [
             121,
+            70,
+            71,
+            72,
             5,
             6,
             7,
@@ -5261,11 +5270,56 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            121
+            121,
+            70,
+            71,
+            72
         ],
         "OrderNumber": 144,
         "StartTimeFixJST": "2025-07-15 16:30:00",
         "EndTimeFixJST": "2025-07-19 14:29:59"
+    },
+    {
+        "Id": 145,
+        "IsIgnore": null,
+        "Memo": "仮+仮+仮+選択水着サブリナ③+選択水着モーザ③+選択浴衣コルディ③（0719切り替え用）",
+        "CharacterIdList": [
+            70,
+            71,
+            72,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            70,
+            71,
+            72
+        ],
+        "OrderNumber": 145,
+        "StartTimeFixJST": "2025-07-19 14:30:00",
+        "EndTimeFixJST": "2025-07-23 14:29:59"
     },
     {
         "Id": 10000,
@@ -5724,5 +5778,21 @@
         "OrderNumber": 10240,
         "StartTimeFixJST": "2025-06-23 14:30:00",
         "EndTimeFixJST": "2025-07-15 14:29:59"
+    },
+    {
+        "Id": 30001,
+        "IsIgnore": null,
+        "Memo": "選択水着サブリナ①+選択水着モーザ①+選択浴衣コルディ①（選択PUガチャ用）",
+        "CharacterIdList": [
+            70,
+            71,
+            72
+        ],
+        "GachaSelectListType": 4,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": null,
+        "OrderNumber": 30001,
+        "StartTimeFixJST": "2025-07-08 14:30:00",
+        "EndTimeFixJST": "2025-07-23 14:29:59"
     }
 ]
