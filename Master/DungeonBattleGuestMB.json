@@ -688,9 +688,9 @@
         "IsIgnore": null,
         "Memo": "使徒ロザリー",
         "CharacterId": 88,
-        "IsPickup": true,
-        "EndTimeFixJST": "2025-07-08 14:29:59",
-        "StartTimeFixJST": "2025-06-23 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 78,
@@ -733,18 +733,18 @@
         "IsIgnore": null,
         "Memo": "夏ニーナ",
         "CharacterId": 95,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2025-07-31 14:29:59",
+        "StartTimeFixJST": "2025-07-15 14:30:00"
     },
     {
         "Id": 83,
         "IsIgnore": null,
         "Memo": "夏アムレート",
         "CharacterId": 96,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2025-07-31 14:29:59",
+        "StartTimeFixJST": "2025-07-15 14:30:00"
     },
     {
         "Id": 84,
@@ -943,5 +943,14 @@
         "IsPickup": true,
         "EndTimeFixJST": "2025-07-19 14:29:59",
         "StartTimeFixJST": "2025-06-30 16:30:00"
+    },
+    {
+        "Id": 106,
+        "IsIgnore": null,
+        "Memo": "ネブラ",
+        "CharacterId": 87,
+        "IsPickup": true,
+        "EndTimeFixJST": "2025-07-31 14:29:59",
+        "StartTimeFixJST": "2025-07-15 14:30:00"
     }
 ]

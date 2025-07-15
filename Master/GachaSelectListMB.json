@@ -5238,9 +5238,12 @@
     {
         "Id": 144,
         "IsIgnore": null,
-        "Memo": "仮+ルミカ③+仮+仮+選択水着サブリナ②+選択水着モーザ②+選択浴衣コルディ②（0715切り替え用）",
+        "Memo": "ネブラ①+ルミカ③+復刻夏ニーナ①+復刻夏アムレート①+選択水着サブリナ②+選択水着モーザ②+選択浴衣コルディ②（0715切り替え用）",
         "CharacterIdList": [
+            87,
             121,
+            95,
+            96,
             70,
             71,
             72,
@@ -5270,20 +5273,26 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
+            87,
             121,
+            95,
+            96,
             70,
             71,
             72
         ],
         "OrderNumber": 144,
-        "StartTimeFixJST": "2025-07-15 16:30:00",
+        "StartTimeFixJST": "2025-07-15 15:00:00",
         "EndTimeFixJST": "2025-07-19 14:29:59"
     },
     {
         "Id": 145,
         "IsIgnore": null,
-        "Memo": "仮+仮+仮+選択水着サブリナ③+選択水着モーザ③+選択浴衣コルディ③（0719切り替え用）",
+        "Memo": "ネブラ②+復刻夏ニーナ②+復刻夏アムレート②+選択水着サブリナ③+選択水着モーザ③+選択浴衣コルディ③（0719切り替え用）",
         "CharacterIdList": [
+            87,
+            95,
+            96,
             70,
             71,
             72,
@@ -5313,6 +5322,9 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
+            87,
+            95,
+            96,
             70,
             71,
             72
@@ -5320,6 +5332,48 @@
         "OrderNumber": 145,
         "StartTimeFixJST": "2025-07-19 14:30:00",
         "EndTimeFixJST": "2025-07-23 14:29:59"
+    },
+    {
+        "Id": 146,
+        "IsIgnore": null,
+        "Memo": "ネブラ③+復刻夏ニーナ③+復刻夏アムレート③+仮（0723切り替え用）",
+        "CharacterIdList": [
+            87,
+            95,
+            96,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            87,
+            95,
+            96
+        ],
+        "OrderNumber": 146,
+        "StartTimeFixJST": "2025-07-23 14:30:00",
+        "EndTimeFixJST": "2025-07-31 14:29:59"
     },
     {
         "Id": 10000,
@@ -5778,6 +5832,24 @@
         "OrderNumber": 10240,
         "StartTimeFixJST": "2025-06-23 14:30:00",
         "EndTimeFixJST": "2025-07-15 14:29:59"
+    },
+    {
+        "Id": 10250,
+        "IsIgnore": null,
+        "Memo": "星の導きガチャ 第25回_アームストロング・アーティ",
+        "CharacterIdList": [
+            50,
+            58
+        ],
+        "GachaSelectListType": 3,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            50,
+            58
+        ],
+        "OrderNumber": 10250,
+        "StartTimeFixJST": "2025-07-15 14:30:00",
+        "EndTimeFixJST": "2025-08-07 14:29:59"
     },
     {
         "Id": 30001,

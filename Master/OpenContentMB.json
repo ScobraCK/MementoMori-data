@@ -1232,6 +1232,54 @@
         "TutorialId": 0
     },
     {
+        "Id": 520,
+        "IsIgnore": null,
+        "Memo": "武具Lvを超える強化Lv継承",
+        "AssetPath": null,
+        "DescriptionKey": null,
+        "GuideDescriptionKey": null,
+        "GuideOrderNumber": 0,
+        "GuideStartValue": 0,
+        "IsActiveGuide": false,
+        "OpenCommandType": 520,
+        "OpenContentType": 1,
+        "OpenContentValue": 472,
+        "ToastKey": null,
+        "TutorialId": 0
+    },
+    {
+        "Id": 530,
+        "IsIgnore": null,
+        "Memo": "選択継承",
+        "AssetPath": null,
+        "DescriptionKey": null,
+        "GuideDescriptionKey": null,
+        "GuideOrderNumber": 0,
+        "GuideStartValue": 0,
+        "IsActiveGuide": false,
+        "OpenCommandType": 530,
+        "OpenContentType": 1,
+        "OpenContentValue": 472,
+        "ToastKey": null,
+        "TutorialId": 0
+    },
+    {
+        "Id": 540,
+        "IsIgnore": null,
+        "Memo": "武具比較",
+        "AssetPath": null,
+        "DescriptionKey": null,
+        "GuideDescriptionKey": null,
+        "GuideOrderNumber": 0,
+        "GuideStartValue": 0,
+        "IsActiveGuide": false,
+        "OpenCommandType": 540,
+        "OpenContentType": 1,
+        "OpenContentValue": 472,
+        "ToastKey": null,
+        "TutorialId": 0
+    },
+    {
         "Id": 1000,
         "IsIgnore": null,
         "Memo": "装備固定",
@@ -1261,6 +1309,22 @@
         "OpenContentType": 1,
         "OpenContentValue": 472,
         "ToastKey": "[OpenContentToast1001]",
+        "TutorialId": 0
+    },
+    {
+        "Id": 1002,
+        "IsIgnore": null,
+        "Memo": "装備固定（属性の塔用）",
+        "AssetPath": "Prefabs/CommonParts/PartsCommonContentReleaseEffect",
+        "DescriptionKey": null,
+        "GuideDescriptionKey": null,
+        "GuideOrderNumber": 0,
+        "GuideStartValue": 0,
+        "IsActiveGuide": false,
+        "OpenCommandType": 1002,
+        "OpenContentType": 1,
+        "OpenContentValue": 472,
+        "ToastKey": "[OpenContentToast1002]",
         "TutorialId": 0
     }
 ]
