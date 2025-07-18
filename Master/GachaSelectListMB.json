@@ -5336,9 +5336,10 @@
     {
         "Id": 146,
         "IsIgnore": null,
-        "Memo": "ネブラ③+復刻夏ニーナ③+復刻夏アムレート③+仮（0723切り替え用）",
+        "Memo": "ネブラ③+復刻夏ニーナ③+復刻夏アムレート③+復刻カグヤ①（0723切り替え用）",
         "CharacterIdList": [
             87,
+            69,
             95,
             96,
             5,
@@ -5368,12 +5369,51 @@
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
             87,
+            69,
             95,
             96
         ],
         "OrderNumber": 146,
         "StartTimeFixJST": "2025-07-23 14:30:00",
         "EndTimeFixJST": "2025-07-31 14:29:59"
+    },
+    {
+        "Id": 147,
+        "IsIgnore": null,
+        "Memo": "復刻カグヤ②+仮（0731切り替え用）",
+        "CharacterIdList": [
+            69,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            69
+        ],
+        "OrderNumber": 147,
+        "StartTimeFixJST": "2025-07-31 16:30:00",
+        "EndTimeFixJST": "2025-08-07 14:29:59"
     },
     {
         "Id": 10000,
