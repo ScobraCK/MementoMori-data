@@ -499,18 +499,18 @@
         "IsIgnore": null,
         "Memo": "水着サブリナ",
         "CharacterId": 70,
-        "IsPickup": true,
-        "EndTimeFixJST": "2025-07-23 14:29:59",
-        "StartTimeFixJST": "2025-07-08 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 57,
         "IsIgnore": null,
         "Memo": "水着モーザ",
         "CharacterId": 71,
-        "IsPickup": true,
-        "EndTimeFixJST": "2025-07-23 14:29:59",
-        "StartTimeFixJST": "2025-07-08 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 58,
@@ -526,9 +526,9 @@
         "IsIgnore": null,
         "Memo": "浴衣コルディ",
         "CharacterId": 72,
-        "IsPickup": true,
-        "EndTimeFixJST": "2025-07-23 14:29:59",
-        "StartTimeFixJST": "2025-07-08 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 60,
@@ -724,9 +724,9 @@
         "IsIgnore": null,
         "Memo": "カグヤ",
         "CharacterId": 69,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2025-08-07 14:29:59",
+        "StartTimeFixJST": "2025-07-23 14:30:00"
     },
     {
         "Id": 82,
@@ -841,9 +841,9 @@
         "IsIgnore": null,
         "Memo": "アルトリア",
         "CharacterId": 93,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2025-08-14 14:29:59",
+        "StartTimeFixJST": "2025-07-31 14:30:00"
     },
     {
         "Id": 95,
@@ -940,9 +940,9 @@
         "IsIgnore": null,
         "Memo": "ルミカ",
         "CharacterId": 121,
-        "IsPickup": true,
-        "EndTimeFixJST": "2025-07-19 14:29:59",
-        "StartTimeFixJST": "2025-06-30 16:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 106,
@@ -952,5 +952,14 @@
         "IsPickup": true,
         "EndTimeFixJST": "2025-07-31 14:29:59",
         "StartTimeFixJST": "2025-07-15 14:30:00"
+    },
+    {
+        "Id": 107,
+        "IsIgnore": null,
+        "Memo": "団長コルディ",
+        "CharacterId": 123,
+        "IsPickup": true,
+        "EndTimeFixJST": "2025-08-14 14:29:59",
+        "StartTimeFixJST": "2025-07-31 14:30:00"
     }
 ]

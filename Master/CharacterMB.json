@@ -5504,5 +5504,58 @@
         "RequireFragmentCount": 60,
         "EndTimeFixJST": "2100-12-31 23:59:59",
         "StartTimeFixJST": "2025-06-16 15:00:00"
+    },
+    {
+        "Id": 123,
+        "IsIgnore": null,
+        "Memo": "団長コルディ",
+        "ActiveSkillIds": [
+            123001,
+            123002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 85,
+            "Health": 74,
+            "Intelligence": 84,
+            "Muscle": 105
+        },
+        "BaseParameterGrossCoefficient": 348,
+        "CharacterType": 2,
+        "ElementType": 1,
+        "InitialBattleParameter": {
+            "AttackPower": 5,
+            "Avoidance": 0,
+            "Critical": -3,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 1,
+            "DamageReflect": 0,
+            "DebuffHit": -3,
+            "DebuffResist": 0,
+            "Defense": 10,
+            "DefensePenetration": 0,
+            "Hit": 0,
+            "HP": 0,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": 0,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 0,
+            "Speed": 2662
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 1,
+        "Name2Key": "[CharacterSubName123]",
+        "NameKey": "[CharacterName123]",
+        "NormalSkillId": 101,
+        "PassiveSkillIds": [
+            123003,
+            123004,
+            123005
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2025-07-31 15:00:00"
     }
 ]
