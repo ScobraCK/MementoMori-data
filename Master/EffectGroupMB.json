@@ -25830,6 +25830,164 @@
         ]
     },
     {
+        "Id": 12300100101,
+        "IsIgnore": null,
+        "Memo": "スピードが5%減少する。",
+        "CasterIconId": 123,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12300100101]",
+        "IconId": 123001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12300100101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 12300220101,
+        "IsIgnore": null,
+        "Memo": "*印付与",
+        "CasterIconId": 123,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12300220101]",
+        "IconId": 123002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12300220101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 12300220401,
+        "IsIgnore": null,
+        "Memo": "*印解除",
+        "CasterIconId": 123,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12300220401]",
+        "IconId": 123002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12300220401]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 12300300101,
+        "IsIgnore": null,
+        "Memo": "[笑顔喝采] 攻撃力が10%増加する（最大5スタックまで）（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 123,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12300300101]",
+        "IconId": 123003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12300300101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 12300320201,
+        "IsIgnore": null,
+        "Memo": "*『笑顔喝采』のスタック数が4増加する。",
+        "CasterIconId": 123,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12300320201]",
+        "IconId": 123003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12300320201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 12300330301,
+        "IsIgnore": null,
+        "Memo": "*弱体効果を3つ解除",
+        "CasterIconId": 123,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12300330301]",
+        "IconId": 123003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12300330301]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 12300400101,
+        "IsIgnore": null,
+        "Memo": "*被ダメージが30%減少する（解除不可）。",
+        "CasterIconId": 123,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12300400101]",
+        "IconId": 123004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12300400101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 12300430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 12300400101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 12300420201,
+        "IsIgnore": null,
+        "Memo": "[シールド]攻撃力×500％分のダメージを代わりに受ける（解除不可）。",
+        "CasterIconId": 123,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12300420201]",
+        "IconId": 123004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12300420201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 12300430101,
+        "IsIgnore": null,
+        "Memo": "*被ダメージが60%減少する（解除不可）。",
+        "CasterIconId": 123,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12300430101]",
+        "IconId": 123004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12300430101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 12300430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 12300400101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 12300500101,
+        "IsIgnore": null,
+        "Memo": " [多重バリア] 最大HP×10％以上のダメージを1層消費して無効化する（解除不可）。",
+        "CasterIconId": 123,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12300500101]",
+        "IconId": 1,
+        "IconType": 4,
+        "NameKey": "[EffectGroupName12300500101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 5504600400101,
         "IsIgnore": null,
         "Memo": "削除予定　アムレートSR　誓いを果たす者  :*",
@@ -77303,5 +77461,163 @@
                 "OrderNumber": 2
             }
         ]
+    },
+    {
+        "Id": 550412300100101,
+        "IsIgnore": null,
+        "Memo": "スピードが5%減少する。",
+        "CasterIconId": 123,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12300100101]",
+        "IconId": 123001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12300100101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550412300220101,
+        "IsIgnore": null,
+        "Memo": "*印付与",
+        "CasterIconId": 123,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12300220101]",
+        "IconId": 123002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12300220101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550412300220401,
+        "IsIgnore": null,
+        "Memo": "*印解除",
+        "CasterIconId": 123,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12300220401]",
+        "IconId": 123002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12300220401]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550412300300101,
+        "IsIgnore": null,
+        "Memo": "[笑顔喝采] 攻撃力が10%増加する（最大5スタックまで）（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 123,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12300300101]",
+        "IconId": 123003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12300300101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550412300320201,
+        "IsIgnore": null,
+        "Memo": "*『笑顔喝采』のスタック数が4増加する。",
+        "CasterIconId": 123,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12300320201]",
+        "IconId": 123003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12300320201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550412300330301,
+        "IsIgnore": null,
+        "Memo": "*弱体効果を3つ解除",
+        "CasterIconId": 123,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12300330301]",
+        "IconId": 123003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12300330301]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550412300400101,
+        "IsIgnore": null,
+        "Memo": "*被ダメージが30%減少する（解除不可）。",
+        "CasterIconId": 123,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12300400101]",
+        "IconId": 123004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12300400101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550412300430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550412300400101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550412300420201,
+        "IsIgnore": null,
+        "Memo": "[シールド]攻撃力×500％分のダメージを代わりに受ける（解除不可）。",
+        "CasterIconId": 123,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12300420201]",
+        "IconId": 123004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12300420201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550412300430101,
+        "IsIgnore": null,
+        "Memo": "*被ダメージが60%減少する（解除不可）。",
+        "CasterIconId": 123,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12300430101]",
+        "IconId": 123004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12300430101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550412300430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550412300400101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550412300500101,
+        "IsIgnore": null,
+        "Memo": " [多重バリア] 最大HP×10％以上のダメージを1層消費して無効化する（解除不可）。",
+        "CasterIconId": 123,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12300500101]",
+        "IconId": 1,
+        "IconType": 4,
+        "NameKey": "[EffectGroupName12300500101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
     }
 ]
