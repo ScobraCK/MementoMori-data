@@ -2130,6 +2130,18 @@
         "ErrorMessageType": 2
     },
     {
+        "Id": 231011,
+        "IsIgnore": null,
+        "Memo": "武具データが存在しません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 231012,
+        "IsIgnore": null,
+        "Memo": "武器シンクロのデータが存在しません",
+        "ErrorMessageType": 2
+    },
+    {
         "Id": 232000,
         "IsIgnore": null,
         "Memo": null,
@@ -2487,6 +2499,126 @@
         "Id": 232063,
         "IsIgnore": null,
         "Memo": "選択継承で継承できない項目が選択されています。",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 232064,
+        "IsIgnore": null,
+        "Memo": "武具進化リセットの条件を満たしていません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 232065,
+        "IsIgnore": null,
+        "Memo": "武具進化リセット機能が解放されていません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 232066,
+        "IsIgnore": null,
+        "Memo": "武具進化リセット制限回数を超えています",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 232067,
+        "IsIgnore": null,
+        "Memo": "未開放の武器シンクロ枠です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 232068,
+        "IsIgnore": null,
+        "Memo": "武器シンクロ機能が解放されていません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 232069,
+        "IsIgnore": null,
+        "Memo": "シンクロ枠が設定済みです",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 232070,
+        "IsIgnore": null,
+        "Memo": "シンクロ対象外の武具です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 232071,
+        "IsIgnore": null,
+        "Memo": "他のシンクロ枠に設定済みの武具です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 232072,
+        "IsIgnore": null,
+        "Memo": "解除対象のシンクロ枠に武具が設定されていません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 232073,
+        "IsIgnore": null,
+        "Memo": "シンクロ枠がクールタイム中です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 232074,
+        "IsIgnore": null,
+        "Memo": "ベース枠は全ての枠に武具をセットするか、解除してください",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 232075,
+        "IsIgnore": null,
+        "Memo": "ベース枠に同一の武具がセットされています",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 232076,
+        "IsIgnore": null,
+        "Memo": "すでに解放済みのシンクロ枠です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 232077,
+        "IsIgnore": null,
+        "Memo": "解放出来ないシンクロ枠です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 232078,
+        "IsIgnore": null,
+        "Memo": "ベース枠が空のため、一括進化ができません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 232079,
+        "IsIgnore": null,
+        "Memo": "一括進化が出来ないレベルが指定されています",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 232080,
+        "IsIgnore": null,
+        "Memo": "受け取れるシンクロミッション報酬がありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 232081,
+        "IsIgnore": null,
+        "Memo": "武器シンクロのシンクロ枠にセットされている武具は進化できません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 232082,
+        "IsIgnore": null,
+        "Memo": "武器シンクロにセットされている武具は分解できません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 232083,
+        "IsIgnore": null,
+        "Memo": "武器シンクロベース枠にセットされている武具はリセットできません",
         "ErrorMessageType": 2
     },
     {
