@@ -5557,5 +5557,57 @@
         "RequireFragmentCount": 60,
         "EndTimeFixJST": "2100-12-31 23:59:59",
         "StartTimeFixJST": "2025-07-31 15:00:00"
+    },
+    {
+        "Id": 124,
+        "IsIgnore": null,
+        "Memo": "ユルディズ",
+        "ActiveSkillIds": [
+            124001,
+            124002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 83,
+            "Health": 70,
+            "Intelligence": 84,
+            "Muscle": 96
+        },
+        "BaseParameterGrossCoefficient": 333,
+        "CharacterType": 0,
+        "ElementType": 3,
+        "InitialBattleParameter": {
+            "AttackPower": -3,
+            "Avoidance": 3,
+            "Critical": 0,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 0,
+            "DamageReflect": 0,
+            "DebuffHit": 0,
+            "DebuffResist": 0,
+            "Defense": 10,
+            "DefensePenetration": 0,
+            "Hit": 0,
+            "HP": -3,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": 0,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 3,
+            "Speed": 3146
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 1,
+        "Name2Key": null,
+        "NameKey": "[CharacterName124]",
+        "NormalSkillId": 101,
+        "PassiveSkillIds": [
+            124003,
+            124004
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2025-08-14 15:00:00"
     }
 ]

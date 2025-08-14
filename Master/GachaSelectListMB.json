@@ -5464,9 +5464,11 @@
     {
         "Id": 149,
         "IsIgnore": null,
-        "Memo": "団長コルディ③+復刻ミラ②+仮（0814切り替え用）",
+        "Memo": "ユルディズ①+団長コルディ③+復刻セルリア①+復刻ミラ②（0814切り替え用）",
         "CharacterIdList": [
+            124,
             123,
+            79,
             80,
             5,
             6,
@@ -5494,19 +5496,23 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
+            124,
             123,
+            79,
             80
         ],
         "OrderNumber": 149,
-        "StartTimeFixJST": "2025-08-14 16:30:00",
+        "StartTimeFixJST": "2025-08-14 15:00:00",
         "EndTimeFixJST": "2025-08-21 14:29:59"
     },
     {
         "Id": 150,
         "IsIgnore": null,
-        "Memo": "仮+団長コルディ④+仮+仮（0821切り替え用）",
+        "Memo": "ユルディズ②+団長コルディ④+復刻セルリア②+仮（0821切り替え用）",
         "CharacterIdList": [
+            124,
             123,
+            79,
             5,
             6,
             7,
@@ -5533,7 +5539,9 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            123
+            124,
+            123,
+            79
         ],
         "OrderNumber": 150,
         "StartTimeFixJST": "2025-08-21 14:30:00",

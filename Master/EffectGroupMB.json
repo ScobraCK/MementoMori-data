@@ -25988,6 +25988,190 @@
         "EffectGroupInfoList": null
     },
     {
+        "Id": 12400100202,
+        "IsIgnore": null,
+        "Memo": "[バフ無効] バフが付与されなくなる。",
+        "CasterIconId": 124,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12400100202]",
+        "IconId": 124001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12400100202]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 12400120202,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 12400100202,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 12400120202,
+        "IsIgnore": null,
+        "Memo": "[バフ無効] バフが付与されなくなる。",
+        "CasterIconId": 124,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12400120202]",
+        "IconId": 124001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12400120202]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 12400120202,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 12400100202,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 12400300101,
+        "IsIgnore": null,
+        "Memo": "*最大HPが40%増加する（解除不可）。",
+        "CasterIconId": 124,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12400300101]",
+        "IconId": 124003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12400300101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 12400330101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 12400300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 12400320201,
+        "IsIgnore": null,
+        "Memo": "*防御力を20%、物理防御力を20%、物理クリダメ緩和を20%増加させる（解除不可）。",
+        "CasterIconId": 124,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12400320201]",
+        "IconId": 124003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12400320201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 12400340201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 12400320201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 12400330101,
+        "IsIgnore": null,
+        "Memo": "*最大HPが100%増加する（解除不可）。",
+        "CasterIconId": 124,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12400330101]",
+        "IconId": 124003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12400330101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 12400330101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 12400300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 12400340201,
+        "IsIgnore": null,
+        "Memo": "*防御力を20%、物理防御力を20%、物理クリダメ緩和を20%増加させる（解除不可）。対象が翠属性の場合、防御力の増加量が80%、物理防御力の増加量が80%、物理クリダメ緩和の増加量が40%になる。",
+        "CasterIconId": 124,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12400340201]",
+        "IconId": 124003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12400340201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 12400340201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 12400320201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 12400400101,
+        "IsIgnore": null,
+        "Memo": "[狼と人の絆] 攻撃力が4%増加し、命中率が4%増加する（最大10スタックまで）（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 124,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12400400101]",
+        "IconId": 124004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12400400101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 12400430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 12400400101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 12400430101,
+        "IsIgnore": null,
+        "Memo": "[狼と人の絆] 攻撃力が8%増加し、命中率が8%増加する（最大10スタックまで）（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 124,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12400430101]",
+        "IconId": 124004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12400430101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 12400430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 12400400101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
         "Id": 5504600400101,
         "IsIgnore": null,
         "Memo": "削除予定　アムレートSR　誓いを果たす者  :*",
@@ -77619,5 +77803,189 @@
         "IsHide": false,
         "IsTurnHide": true,
         "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550412400100202,
+        "IsIgnore": null,
+        "Memo": "[バフ無効] バフが付与されなくなる。",
+        "CasterIconId": 124,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12400100202]",
+        "IconId": 124001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12400100202]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550412400120202,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550412400100202,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550412400120202,
+        "IsIgnore": null,
+        "Memo": "[バフ無効] バフが付与されなくなる。",
+        "CasterIconId": 124,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12400120202]",
+        "IconId": 124001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12400120202]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550412400120202,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550412400100202,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550412400300101,
+        "IsIgnore": null,
+        "Memo": "*最大HPが40%増加する（解除不可）。",
+        "CasterIconId": 124,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12400300101]",
+        "IconId": 124003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12400300101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550412400330101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550412400300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550412400320201,
+        "IsIgnore": null,
+        "Memo": "*防御力を20%、物理防御力を20%、物理クリダメ緩和を20%増加させる（解除不可）。",
+        "CasterIconId": 124,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12400320201]",
+        "IconId": 124003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12400320201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550412400340201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550412400320201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550412400330101,
+        "IsIgnore": null,
+        "Memo": "*最大HPが100%増加する（解除不可）。",
+        "CasterIconId": 124,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12400330101]",
+        "IconId": 124003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12400330101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550412400330101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550412400300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550412400340201,
+        "IsIgnore": null,
+        "Memo": "*防御力を20%、物理防御力を20%、物理クリダメ緩和を20%増加させる（解除不可）。対象が翠属性の場合、防御力の増加量が80%、物理防御力の増加量が80%、物理クリダメ緩和の増加量が40%になる。",
+        "CasterIconId": 124,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12400340201]",
+        "IconId": 124003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12400340201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550412400340201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550412400320201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550412400400101,
+        "IsIgnore": null,
+        "Memo": "[狼と人の絆] 攻撃力が4%増加し、命中率が4%増加する（最大10スタックまで）（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 124,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12400400101]",
+        "IconId": 124004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12400400101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550412400430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550412400400101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550412400430101,
+        "IsIgnore": null,
+        "Memo": "[狼と人の絆] 攻撃力が8%増加し、命中率が8%増加する（最大10スタックまで）（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 124,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12400430101]",
+        "IconId": 124004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12400430101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550412400430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550412400400101,
+                "OrderNumber": 2
+            }
+        ]
     }
 ]
