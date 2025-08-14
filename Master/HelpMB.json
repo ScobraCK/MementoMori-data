@@ -1105,6 +1105,48 @@
         "DisplayDeviceTypes": null
     },
     {
+        "Id": 2341,
+        "IsIgnore": null,
+        "Memo": "キャラ育成画面 - 武具DLG - 進化タブ(武具進化リセット解放後)",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine2340]",
+                "MainTextList": [
+                    {
+                        "MainText": "[HelpMainText2340]"
+                    }
+                ],
+                "MainText": "[HelpMainText2340]",
+                "HelpParameterType": 0
+            },
+            {
+                "HeadLine": "[HelpHeadLine2341]",
+                "MainTextList": [
+                    {
+                        "MainText": "[HelpMainText2341]"
+                    }
+                ],
+                "MainText": "[HelpMainText2341]",
+                "HelpParameterType": 0
+            },
+            {
+                "HeadLine": "[HelpHeadLine2342]",
+                "MainTextList": [
+                    {
+                        "MainText": "[HelpMainText2342]"
+                    }
+                ],
+                "MainText": "[HelpMainText2342]",
+                "HelpParameterType": 0
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0,
+        "DialogType": 1,
+        "DisplayDeviceTypes": null
+    },
+    {
         "Id": 2350,
         "IsIgnore": null,
         "Memo": "キャラ育成画面 - 武具DLG - スフィアタブ",
@@ -2622,6 +2664,28 @@
         "HelpTitle": "[HelpTitleKey]",
         "IsDisplayed": true,
         "TutorialDescriptionId": 0,
+        "DialogType": 1,
+        "DisplayDeviceTypes": null
+    },
+    {
+        "Id": 7300,
+        "IsIgnore": null,
+        "Memo": "キャラ画面 - 武器シンクロタブ",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine7300]",
+                "MainTextList": [
+                    {
+                        "MainText": "[HelpMainText7300]"
+                    }
+                ],
+                "MainText": "[HelpMainText7300]",
+                "HelpParameterType": 0
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 40,
         "DialogType": 1,
         "DisplayDeviceTypes": null
     }

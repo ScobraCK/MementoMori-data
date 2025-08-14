@@ -724,9 +724,9 @@
         "IsIgnore": null,
         "Memo": "カグヤ",
         "CharacterId": 69,
-        "IsPickup": true,
-        "EndTimeFixJST": "2025-08-07 14:29:59",
-        "StartTimeFixJST": "2025-07-23 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 82,
@@ -769,9 +769,9 @@
         "IsIgnore": null,
         "Memo": "セルリア",
         "CharacterId": 79,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2025-08-28 14:29:59",
+        "StartTimeFixJST": "2025-08-14 14:30:00"
     },
     {
         "Id": 87,
@@ -959,7 +959,16 @@
         "Memo": "団長コルディ",
         "CharacterId": 123,
         "IsPickup": true,
-        "EndTimeFixJST": "2025-08-14 14:29:59",
-        "StartTimeFixJST": "2025-07-31 14:30:00"
+        "EndTimeFixJST": "2025-08-28 14:29:59",
+        "StartTimeFixJST": "2025-07-31 16:30:00"
+    },
+    {
+        "Id": 108,
+        "IsIgnore": null,
+        "Memo": "ユルディズ",
+        "CharacterId": 124,
+        "IsPickup": true,
+        "EndTimeFixJST": "2025-08-28 14:29:59",
+        "StartTimeFixJST": "2025-08-14 14:30:00"
     }
 ]
