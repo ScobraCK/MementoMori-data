@@ -5508,10 +5508,11 @@
     {
         "Id": 150,
         "IsIgnore": null,
-        "Memo": "ユルディズ②+団長コルディ④+復刻セルリア②+仮（0821切り替え用）",
+        "Memo": "ユルディズ②+団長コルディ④+復刻アイネ①+復刻セルリア②（0821切り替え用）",
         "CharacterIdList": [
             124,
             123,
+            65,
             79,
             5,
             6,
@@ -5541,11 +5542,50 @@
         "NewCharacterIdList": [
             124,
             123,
+            65,
             79
         ],
         "OrderNumber": 150,
         "StartTimeFixJST": "2025-08-21 14:30:00",
         "EndTimeFixJST": "2025-08-28 14:29:59"
+    },
+    {
+        "Id": 151,
+        "IsIgnore": null,
+        "Memo": "復刻アイネ②+仮（0828切り替え用）",
+        "CharacterIdList": [
+            65,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            65
+        ],
+        "OrderNumber": 151,
+        "StartTimeFixJST": "2025-08-28 16:30:00",
+        "EndTimeFixJST": "2025-09-08 14:29:59"
     },
     {
         "Id": 10000,
