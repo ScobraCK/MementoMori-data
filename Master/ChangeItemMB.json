@@ -11566,5 +11566,37 @@
         "ItemId": 870,
         "ItemType": 16,
         "NeedCount": 1
+    },
+    {
+        "Id": 740,
+        "IsIgnore": null,
+        "Memo": "夜の一族の印章",
+        "ChangeItems": [
+            {
+                "ItemCount": 10000,
+                "ItemId": 1,
+                "ItemType": 3
+            }
+        ],
+        "ChangeItemType": 0,
+        "ItemId": 33,
+        "ItemType": 50,
+        "NeedCount": 1
+    },
+    {
+        "Id": 741,
+        "IsIgnore": null,
+        "Memo": "カーミラガチャチケット",
+        "ChangeItems": [
+            {
+                "ItemCount": 1,
+                "ItemId": 2,
+                "ItemType": 16
+            }
+        ],
+        "ChangeItemType": 0,
+        "ItemId": 1250,
+        "ItemType": 16,
+        "NeedCount": 1
     }
 ]
