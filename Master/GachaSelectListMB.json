@@ -5502,16 +5502,17 @@
             80
         ],
         "OrderNumber": 149,
-        "StartTimeFixJST": "2025-08-14 15:00:00",
+        "StartTimeFixJST": "2025-08-14 16:30:00",
         "EndTimeFixJST": "2025-08-21 14:29:59"
     },
     {
         "Id": 150,
         "IsIgnore": null,
-        "Memo": "ユルディズ②+団長コルディ④+復刻セルリア②+仮（0821切り替え用）",
+        "Memo": "ユルディズ②+団長コルディ④+復刻アイネ①+復刻セルリア②（0821切り替え用）",
         "CharacterIdList": [
             124,
             123,
+            65,
             79,
             5,
             6,
@@ -5541,11 +5542,90 @@
         "NewCharacterIdList": [
             124,
             123,
+            65,
             79
         ],
         "OrderNumber": 150,
         "StartTimeFixJST": "2025-08-21 14:30:00",
         "EndTimeFixJST": "2025-08-28 14:29:59"
+    },
+    {
+        "Id": 151,
+        "IsIgnore": null,
+        "Memo": "カーミラ①+復刻アイネ②（0828切り替え用）",
+        "CharacterIdList": [
+            125,
+            65,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            125,
+            65
+        ],
+        "OrderNumber": 151,
+        "StartTimeFixJST": "2025-08-28 15:00:00",
+        "EndTimeFixJST": "2025-09-08 14:29:59"
+    },
+    {
+        "Id": 152,
+        "IsIgnore": null,
+        "Memo": "カーミラ②+仮（0908切り替え用）",
+        "CharacterIdList": [
+            125,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            125
+        ],
+        "OrderNumber": 152,
+        "StartTimeFixJST": "2025-09-08 14:30:00",
+        "EndTimeFixJST": "2025-09-16 14:29:59"
     },
     {
         "Id": 10000,
@@ -6048,6 +6128,24 @@
         "OrderNumber": 10260,
         "StartTimeFixJST": "2025-08-07 16:00:00",
         "EndTimeFixJST": "2025-08-28 14:29:59"
+    },
+    {
+        "Id": 10270,
+        "IsIgnore": null,
+        "Memo": "星の導きガチャ 第27回_モルガナ・クラウディア",
+        "CharacterIdList": [
+            75,
+            56
+        ],
+        "GachaSelectListType": 3,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            75,
+            56
+        ],
+        "OrderNumber": 10270,
+        "StartTimeFixJST": "2025-08-28 16:30:00",
+        "EndTimeFixJST": "2025-09-22 14:29:59"
     },
     {
         "Id": 30001,

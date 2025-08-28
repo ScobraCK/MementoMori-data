@@ -12046,5 +12046,138 @@
             }
         ],
         "CharacterId": 124
+    },
+    {
+        "Id": 559,
+        "IsIgnore": null,
+        "Memo": "カーミラSSR180",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 125
+    },
+    {
+        "Id": 560,
+        "IsIgnore": null,
+        "Memo": "カーミラSSR200",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1300.0
+            },
+            {
+                "BattleParameterType": 11,
+                "ChangeParameterType": 1,
+                "Value": 2300.0
+            }
+        ],
+        "CharacterId": 125
+    },
+    {
+        "Id": 561,
+        "IsIgnore": null,
+        "Memo": "カーミラSSR220",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 650.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1400.0
+            },
+            {
+                "BattleParameterType": 11,
+                "ChangeParameterType": 1,
+                "Value": 2600.0
+            }
+        ],
+        "CharacterId": 125
+    },
+    {
+        "Id": 562,
+        "IsIgnore": null,
+        "Memo": "カーミラSSR240",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 11,
+                "ChangeParameterType": 1,
+                "Value": 2900.0
+            }
+        ],
+        "CharacterId": 125
+    },
+    {
+        "Id": 563,
+        "IsIgnore": null,
+        "Memo": "カーミラUR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 750.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1600.0
+            },
+            {
+                "BattleParameterType": 11,
+                "ChangeParameterType": 1,
+                "Value": 3200.0
+            }
+        ],
+        "CharacterId": 125
+    },
+    {
+        "Id": 564,
+        "IsIgnore": null,
+        "Memo": "カーミラLR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 11,
+                "ChangeParameterType": 1,
+                "Value": 3500.0
+            }
+        ],
+        "CharacterId": 125
     }
 ]

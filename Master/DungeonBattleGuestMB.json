@@ -751,18 +751,18 @@
         "IsIgnore": null,
         "Memo": "ミラ",
         "CharacterId": 80,
-        "IsPickup": true,
-        "EndTimeFixJST": "2025-08-21 14:29:59",
-        "StartTimeFixJST": "2025-08-07 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 85,
         "IsIgnore": null,
         "Memo": "アイネ",
         "CharacterId": 65,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2025-09-08 14:29:59",
+        "StartTimeFixJST": "2025-08-21 14:30:00"
     },
     {
         "Id": 86,
@@ -841,9 +841,9 @@
         "IsIgnore": null,
         "Memo": "アルトリア",
         "CharacterId": 93,
-        "IsPickup": true,
-        "EndTimeFixJST": "2025-08-14 14:29:59",
-        "StartTimeFixJST": "2025-07-31 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 95,
@@ -970,5 +970,14 @@
         "IsPickup": true,
         "EndTimeFixJST": "2025-08-28 14:29:59",
         "StartTimeFixJST": "2025-08-14 14:30:00"
+    },
+    {
+        "Id": 109,
+        "IsIgnore": null,
+        "Memo": "カーミラ",
+        "CharacterId": 125,
+        "IsPickup": true,
+        "EndTimeFixJST": "2025-09-16 14:29:59",
+        "StartTimeFixJST": "2025-08-28 14:30:00"
     }
 ]
