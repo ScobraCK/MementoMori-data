@@ -5609,5 +5609,58 @@
         "RequireFragmentCount": 60,
         "EndTimeFixJST": "2100-12-31 23:59:59",
         "StartTimeFixJST": "2025-08-14 15:00:00"
+    },
+    {
+        "Id": 125,
+        "IsIgnore": null,
+        "Memo": "カーミラ",
+        "ActiveSkillIds": [
+            125001,
+            125002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 74,
+            "Health": 87,
+            "Intelligence": 90,
+            "Muscle": 97
+        },
+        "BaseParameterGrossCoefficient": 348,
+        "CharacterType": 0,
+        "ElementType": 6,
+        "InitialBattleParameter": {
+            "AttackPower": -2,
+            "Avoidance": 0,
+            "Critical": 0,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 0,
+            "DamageReflect": 0,
+            "DebuffHit": 5,
+            "DebuffResist": 0,
+            "Defense": 7,
+            "DefensePenetration": 0,
+            "Hit": 0,
+            "HP": 0,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": 0,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 0,
+            "Speed": 2672
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 1,
+        "Name2Key": "",
+        "NameKey": "[CharacterName125]",
+        "NormalSkillId": 101,
+        "PassiveSkillIds": [
+            125003,
+            125004,
+            125005
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2025-08-28 15:00:00"
     }
 ]
