@@ -4506,6 +4506,24 @@
         "ErrorMessageType": 2
     },
     {
+        "Id": 442011,
+        "IsIgnore": null,
+        "Memo": "グループ投票形式ではありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 442012,
+        "IsIgnore": null,
+        "Memo": "リクエストが不正です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 442013,
+        "IsIgnore": null,
+        "Memo": "設定できないキャラです",
+        "ErrorMessageType": 2
+    },
+    {
         "Id": 450006,
         "IsIgnore": null,
         "Memo": "入力されたシリアルコードはBOI版アプリ内のコード入力でのみ使用可能です",
@@ -5769,6 +5787,12 @@
         "Id": 4000004,
         "IsIgnore": null,
         "Memo": null,
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 4000005,
+        "IsIgnore": null,
+        "Memo": "不正なリクエストです",
         "ErrorMessageType": 2
     },
     {
