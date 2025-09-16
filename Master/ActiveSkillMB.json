@@ -15167,6 +15167,141 @@
         "RootActiveSkillId": 125002
     },
     {
+        "Id": 126001,
+        "IsIgnore": null,
+        "Memo": "ミフリSR:Lv1 「今度は私が、誰かを守れるようにならなきゃ！」2ターンの間味方全体にステータス増減前の対象の最大HP×10%の『シールド』を付与する。その後ランダムな敵4体に攻撃力×410%の魔法攻撃を行う。バトル中このスキルを使うのが3回目以降の場合、『シールド』の付与は行わず、魔法攻撃のダメージが攻撃力×1640%になる。/ Lv2 さらに『シールド』を付与する対象が黄属性の場合、『シールド』の大きさがステータス増減前の付与者自身の攻撃力×100%大きくなる。/ Lv3 『シールド』のターン数が4ターンになる。/ Ex1 継がれた灯火を強化する。『シールド』の大きさがステータス増減前の対象の最大HP×30%になる。対象が黄属性の場合に得られる『シールド』の増加量がステータス増減前の付与者自身の攻撃力×400%になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription1260011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    126001001,
+                    126001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription1260012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    126001201,
+                    126001002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription1260013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    126001301,
+                    126001002
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription1260014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    126001401,
+                    126001002
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName126001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 126001
+    },
+    {
+        "Id": 126002,
+        "IsIgnore": null,
+        "Memo": "ミフリSR:Lv1 「どこからでもかかってこーい！　おりゃー！」ランダムな敵に3回攻撃力×260%の魔法攻撃を行う。/ Lv2 魔法攻撃の回数が4回になる。/ Lv3 さらに最後の魔法攻撃の後、自身に1ターンの間『軽快』を付与する。毎ターン行動終了時にスキルクールタイムの減少を1早め、次回のスキル発動が早くなる。/ Lv4 バトル中このスキルを使うのが3回目以降の場合、魔法攻撃のダメージが攻撃力×1040%になる。/ Ex3 アレヴ・セラープを強化する。魔法攻撃のダメージが攻撃力×280%になる。バトル中このスキルを使うのが3回目以降の場合、魔法攻撃のダメージが攻撃力×1120%になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription1260021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    126002001,
+                    126002002,
+                    126002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription1260022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    126002001,
+                    126002002,
+                    126002002,
+                    126002002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription1260023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    126002001,
+                    126002002,
+                    126002002,
+                    126002002,
+                    126002303
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription1260024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    126002401,
+                    126002402,
+                    126002402,
+                    126002402,
+                    126002303
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription1260025]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    126002501,
+                    126002502,
+                    126002502,
+                    126002502,
+                    126002303
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName126002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 126002
+    },
+    {
         "Id": 550109001,
         "IsIgnore": null,
         "Memo": "ギルドレイド通常ソーニャSR：ソーニャSR:旋風の如き素早い急襲。HPが最も低い敵に攻撃力×800％の物理攻撃を行う。弱った敵にも容赦しないヴァイキングの本能により、敵のHP割合が40％以下の場合、この攻撃は必ずクリティカルヒットする。／さらに自身の腕力×400％の直接攻撃を行う。／追加攻撃のダメージが腕力×600%になる。／さらにこのスキルで敵を戦闘不能にした場合、このスキルを再発動する。",
@@ -45222,5 +45357,140 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 125002
+    },
+    {
+        "Id": 5504126001,
+        "IsIgnore": null,
+        "Memo": "",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504126001001,
+                    5504126001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504126001201,
+                    5504126001002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504126001301,
+                    5504126001002
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504126001401,
+                    5504126001002
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName126001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 126001
+    },
+    {
+        "Id": 5504126002,
+        "IsIgnore": null,
+        "Memo": "",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504126002001,
+                    5504126002002,
+                    5504126002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504126002001,
+                    5504126002002,
+                    5504126002002,
+                    5504126002002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504126002001,
+                    5504126002002,
+                    5504126002002,
+                    5504126002002,
+                    5504126002303
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504126002401,
+                    5504126002402,
+                    5504126002402,
+                    5504126002402,
+                    5504126002303
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504126002501,
+                    5504126002502,
+                    5504126002502,
+                    5504126002502,
+                    5504126002303
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName126002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 126002
     }
 ]
