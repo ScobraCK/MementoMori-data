@@ -2754,6 +2754,20 @@
         "EffectGroupInfoList": null
     },
     {
+        "Id": 1900120100,
+        "IsIgnore": null,
+        "Memo": "ベルSR　バーストエンド :*印付与",
+        "CasterIconId": 19,
+        "CasterIconType": 1,
+        "DescriptionKey": "*",
+        "IconId": 19001,
+        "IconType": 1,
+        "NameKey": "*",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 1900120102,
         "IsIgnore": null,
         "Memo": "ベルSR　バーストエンド : [出血] 毎ターン付与者の攻撃力×{0}%のダメージを受ける。",
@@ -2786,8 +2800,22 @@
         "IconId": 19001,
         "IconType": 1,
         "NameKey": "[EffectGroupName1900120103]",
-        "IsHide": false,
-        "IsTurnHide": false,
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 1900120104,
+        "IsIgnore": null,
+        "Memo": "ベルSR　バーストエンド :*印解除",
+        "CasterIconId": 19,
+        "CasterIconType": 1,
+        "DescriptionKey": "*",
+        "IconId": 19001,
+        "IconType": 1,
+        "NameKey": "*",
+        "IsHide": true,
+        "IsTurnHide": true,
         "EffectGroupInfoList": null
     },
     {
@@ -4032,6 +4060,20 @@
         "EffectGroupInfoList": null
     },
     {
+        "Id": 2600100100,
+        "IsIgnore": null,
+        "Memo": "マーリンSR　お師匠さまのように : *印付与",
+        "CasterIconId": 26,
+        "CasterIconType": 1,
+        "DescriptionKey": "*",
+        "IconId": 26001,
+        "IconType": 1,
+        "NameKey": "*",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 2600100101,
         "IsIgnore": null,
         "Memo": "マーリンSR　お師匠さまのように : *弱体効果を1つ解除する。",
@@ -4041,14 +4083,14 @@
         "IconId": 26001,
         "IconType": 1,
         "NameKey": "[EffectGroupName2600100101]",
-        "IsHide": false,
-        "IsTurnHide": false,
+        "IsHide": true,
+        "IsTurnHide": true,
         "EffectGroupInfoList": null
     },
     {
         "Id": 2600100102,
         "IsIgnore": null,
-        "Memo": "マーリンSR　お師匠さまのように : 攻撃力が0%増加する。",
+        "Memo": "削除予定　マーリンSR　お師匠さまのように : 攻撃力が0%増加する。",
         "CasterIconId": 26,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription2600100102]",
@@ -4057,20 +4099,7 @@
         "NameKey": "[EffectGroupName2600100102]",
         "IsHide": false,
         "IsTurnHide": false,
-        "EffectGroupInfoList": [
-            {
-                "EffectGroupId": 2600130102,
-                "OrderNumber": 1
-            },
-            {
-                "EffectGroupId": 2600120102,
-                "OrderNumber": 2
-            },
-            {
-                "EffectGroupId": 2600100102,
-                "OrderNumber": 3
-            }
-        ]
+        "EffectGroupInfoList": null
     },
     {
         "Id": 2600120102,
@@ -4092,10 +4121,6 @@
             {
                 "EffectGroupId": 2600120102,
                 "OrderNumber": 2
-            },
-            {
-                "EffectGroupId": 2600100102,
-                "OrderNumber": 3
             }
         ]
     },
@@ -4119,12 +4144,22 @@
             {
                 "EffectGroupId": 2600120102,
                 "OrderNumber": 2
-            },
-            {
-                "EffectGroupId": 2600100102,
-                "OrderNumber": 3
             }
         ]
+    },
+    {
+        "Id": 2600140100,
+        "IsIgnore": null,
+        "Memo": "マーリンSR　お師匠さまのように : *印2付与",
+        "CasterIconId": 26,
+        "CasterIconType": 1,
+        "DescriptionKey": "*",
+        "IconId": 26001,
+        "IconType": 1,
+        "NameKey": "*",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
     },
     {
         "Id": 2600140103,
@@ -4150,6 +4185,20 @@
         ]
     },
     {
+        "Id": 2600140105,
+        "IsIgnore": null,
+        "Memo": "マーリンSR　お師匠さまのように : *印2解除",
+        "CasterIconId": 26,
+        "CasterIconType": 1,
+        "DescriptionKey": "*",
+        "IconId": 26001,
+        "IconType": 1,
+        "NameKey": "*",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 2600150101,
         "IsIgnore": null,
         "Memo": "マーリンSR　お師匠さまのように : *弱体効果を2つ解除する。",
@@ -4159,8 +4208,8 @@
         "IconId": 26001,
         "IconType": 1,
         "NameKey": "[EffectGroupName2600150101]",
-        "IsHide": false,
-        "IsTurnHide": false,
+        "IsHide": true,
+        "IsTurnHide": true,
         "EffectGroupInfoList": null
     },
     {
@@ -26371,6 +26420,473 @@
         "IsHide": false,
         "IsTurnHide": false,
         "EffectGroupInfoList": null
+    },
+    {
+        "Id": 12600100101,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×10%分のダメージを代わりに受ける。",
+        "CasterIconId": 126,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12600100101]",
+        "IconId": 126001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12600100101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 12600140101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 12600130101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 12600120101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 12600140102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 12600130102,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 12600120102,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 12600100101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 12600120101,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×10%と付与者のステータス増減前の攻撃力×100%の合計分のダメージを代わりに受ける。",
+        "CasterIconId": 126,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12600120101]",
+        "IconId": 126001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12600120101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 12600140101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 12600130101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 12600120101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 12600140102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 12600130102,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 12600120102,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 12600100101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 12600120102,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×10%分のダメージを代わりに受ける。",
+        "CasterIconId": 126,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12600120102]",
+        "IconId": 126001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12600120102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 12600140101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 12600130101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 12600120101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 12600140102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 12600130102,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 12600120102,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 12600100101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 12600130101,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×10%と付与者のステータス増減前の攻撃力×100%の合計分のダメージを代わりに受ける。",
+        "CasterIconId": 126,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12600130101]",
+        "IconId": 126001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12600130101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 12600140101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 12600130101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 12600120101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 12600140102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 12600130102,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 12600120102,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 12600100101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 12600130102,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×10%分のダメージを代わりに受ける。",
+        "CasterIconId": 126,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12600130102]",
+        "IconId": 126001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12600130102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 12600140101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 12600130101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 12600120101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 12600140102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 12600130102,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 12600120102,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 12600100101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 12600140101,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×30%と付与者のステータス増減前の攻撃力×400%の合計分のダメージを代わりに受ける。",
+        "CasterIconId": 126,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12600140101]",
+        "IconId": 126001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12600140101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 12600140101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 12600130101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 12600120101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 12600140102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 12600130102,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 12600120102,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 12600100101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 12600140102,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×30%分のダメージを代わりに受ける。",
+        "CasterIconId": 126,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12600140102]",
+        "IconId": 126001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12600140102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 12600140101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 12600130101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 12600120101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 12600140102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 12600130102,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 12600120102,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 12600100101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 12600230301,
+        "IsIgnore": null,
+        "Memo": "[軽快] 毎ターン行動終了時にスキルクールタイムカウントの減少を1早める。",
+        "CasterIconId": 126,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12600230301]",
+        "IconId": 126002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12600230301]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 12600300101,
+        "IsIgnore": null,
+        "Memo": "[陽炎の灯] 攻撃力が5%増加する（最大15スタックまで）（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 126,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12600300101]",
+        "IconId": 126003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12600300101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 12600320102,
+        "IsIgnore": null,
+        "Memo": "*『陽炎の灯』のスタック数を1増加させる。",
+        "CasterIconId": 126,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12600320102]",
+        "IconId": 126003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12600320102]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 12600400101,
+        "IsIgnore": null,
+        "Memo": "*被ダメージが20%減少する（解除不可）。",
+        "CasterIconId": 126,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12600400101]",
+        "IconId": 126004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12600400101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 12600440101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 12600430101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 12600420101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 12600400101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 12600420101,
+        "IsIgnore": null,
+        "Memo": "*被ダメージが20%減少し、物理クリダメ緩和が15%増加する（解除不可）。",
+        "CasterIconId": 126,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12600420101]",
+        "IconId": 126004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12600420101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 12600440101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 12600430101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 12600420101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 12600400101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 12600430101,
+        "IsIgnore": null,
+        "Memo": "*被ダメージが20%減少し、物理クリダメ緩和が30%増加する（解除不可）。",
+        "CasterIconId": 126,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12600430101]",
+        "IconId": 126004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12600430101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 12600440101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 12600430101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 12600420101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 12600400101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 12600440101,
+        "IsIgnore": null,
+        "Memo": "*被ダメージが75%減少し、物理クリダメ緩和が30%増加する（解除不可）。",
+        "CasterIconId": 126,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12600440101]",
+        "IconId": 126004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12600440101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 12600440101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 12600430101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 12600420101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 12600400101,
+                "OrderNumber": 4
+            }
+        ]
     },
     {
         "Id": 5504600400101,
@@ -78389,5 +78905,472 @@
         "IsHide": false,
         "IsTurnHide": false,
         "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550412600100101,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×10%分のダメージを代わりに受ける。",
+        "CasterIconId": 126,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12600100101]",
+        "IconId": 126001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12600100101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550412600140101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550412600130101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550412600120101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550412600140102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550412600130102,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 550412600120102,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 550412600100101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 550412600120101,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×10%と付与者のステータス増減前の攻撃力×100%の合計分のダメージを代わりに受ける。",
+        "CasterIconId": 126,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12600120101]",
+        "IconId": 126001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12600120101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550412600140101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550412600130101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550412600120101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550412600140102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550412600130102,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 550412600120102,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 550412600100101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 550412600120102,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×10%分のダメージを代わりに受ける。",
+        "CasterIconId": 126,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12600120102]",
+        "IconId": 126001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12600120102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550412600140101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550412600130101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550412600120101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550412600140102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550412600130102,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 550412600120102,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 550412600100101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 550412600130101,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×10%と付与者のステータス増減前の攻撃力×100%の合計分のダメージを代わりに受ける。",
+        "CasterIconId": 126,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12600130101]",
+        "IconId": 126001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12600130101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550412600140101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550412600130101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550412600120101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550412600140102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550412600130102,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 550412600120102,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 550412600100101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 550412600130102,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×10%分のダメージを代わりに受ける。",
+        "CasterIconId": 126,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12600130102]",
+        "IconId": 126001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12600130102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550412600140101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550412600130101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550412600120101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550412600140102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550412600130102,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 550412600120102,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 550412600100101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 550412600140101,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×30%と付与者のステータス増減前の攻撃力×400%の合計分のダメージを代わりに受ける。",
+        "CasterIconId": 126,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12600140101]",
+        "IconId": 126001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12600140101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550412600140101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550412600130101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550412600120101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550412600140102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550412600130102,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 550412600120102,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 550412600100101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 550412600140102,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×30%分のダメージを代わりに受ける。",
+        "CasterIconId": 126,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12600140102]",
+        "IconId": 126001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12600140102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550412600140101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550412600130101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550412600120101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550412600140102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550412600130102,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 550412600120102,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 550412600100101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 550412600230301,
+        "IsIgnore": null,
+        "Memo": "[軽快] 毎ターン行動終了時にスキルクールタイムカウントの減少を1早める。",
+        "CasterIconId": 126,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12600230301]",
+        "IconId": 126002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12600230301]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550412600300101,
+        "IsIgnore": null,
+        "Memo": "[陽炎の灯] 攻撃力が5%増加する（最大15スタックまで）（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 126,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12600300101]",
+        "IconId": 126003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12600300101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550412600320102,
+        "IsIgnore": null,
+        "Memo": "*『陽炎の灯』のスタック数を1増加させる。",
+        "CasterIconId": 126,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12600320102]",
+        "IconId": 126003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12600320102]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550412600400101,
+        "IsIgnore": null,
+        "Memo": "*被ダメージが20%減少する（解除不可）。",
+        "CasterIconId": 126,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12600400101]",
+        "IconId": 126004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12600400101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550412600440101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550412600430101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550412600420101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550412600400101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 550412600420101,
+        "IsIgnore": null,
+        "Memo": "*被ダメージが20%減少し、物理クリダメ緩和が15%増加する（解除不可）。",
+        "CasterIconId": 126,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12600420101]",
+        "IconId": 126004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12600420101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550412600440101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550412600430101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550412600420101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550412600400101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 550412600430101,
+        "IsIgnore": null,
+        "Memo": "*被ダメージが20%減少し、物理クリダメ緩和が30%増加する（解除不可）。",
+        "CasterIconId": 126,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12600430101]",
+        "IconId": 126004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12600430101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550412600440101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550412600430101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550412600420101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550412600400101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 550412600440101,
+        "IsIgnore": null,
+        "Memo": "*被ダメージが75%減少し、物理クリダメ緩和が30%増加する（解除不可）。",
+        "CasterIconId": 126,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12600440101]",
+        "IconId": 126004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12600440101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550412600440101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550412600430101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550412600420101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550412600400101,
+                "OrderNumber": 4
+            }
+        ]
     }
 ]

@@ -96,5 +96,33 @@
         "TitleKey": "[LocalPushNotificationTitleKey7]",
         "EndTime": "2100-12-31 23:59:59",
         "StartTime": "2024-11-01 04:00:00"
+    },
+    {
+        "Id": 8,
+        "IsIgnore": null,
+        "Memo": null,
+        "GroupId": 5,
+        "LocalNotificationSendType": 1,
+        "LocalNotificationType": 5,
+        "MessageKey": "[LocalPushNotificationMessageKey8]",
+        "Priority": 1,
+        "SendTime": null,
+        "TitleKey": "[LocalPushNotificationTitleKey8]",
+        "EndTime": "2100-12-31 23:59:59",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 9,
+        "IsIgnore": null,
+        "Memo": null,
+        "GroupId": 6,
+        "LocalNotificationSendType": 1,
+        "LocalNotificationType": 6,
+        "MessageKey": "[LocalPushNotificationMessageKey9]",
+        "Priority": 1,
+        "SendTime": null,
+        "TitleKey": "[LocalPushNotificationTitleKey9]",
+        "EndTime": "2100-12-31 23:59:59",
+        "StartTime": "2020-01-01 00:00:00"
     }
 ]
