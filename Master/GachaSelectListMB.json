@@ -5674,9 +5674,10 @@
     {
         "Id": 154,
         "IsIgnore": null,
-        "Memo": "ミフリ②+復刻ユリーカ②+仮（0922切り替え用）",
+        "Memo": "ミフリ②+復刻メリア①+復刻ユリーカ②（0922切り替え用）",
         "CharacterIdList": [
             126,
+            86,
             106,
             5,
             6,
@@ -5705,11 +5706,50 @@
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
             126,
+            86,
             106
         ],
         "OrderNumber": 154,
-        "StartTimeFixJST": "2025-09-22 16:00:00",
+        "StartTimeFixJST": "2025-09-22 14:30:00",
         "EndTimeFixJST": "2025-09-30 14:29:59"
+    },
+    {
+        "Id": 155,
+        "IsIgnore": null,
+        "Memo": "復刻メリア②+仮（0930切り替え用）",
+        "CharacterIdList": [
+            86,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            86
+        ],
+        "OrderNumber": 155,
+        "StartTimeFixJST": "2025-09-30 16:30:00",
+        "EndTimeFixJST": "2025-10-08 14:29:59"
     },
     {
         "Id": 10000,
@@ -6232,6 +6272,32 @@
         "EndTimeFixJST": "2025-09-22 14:29:59"
     },
     {
+        "Id": 10280,
+        "IsIgnore": null,
+        "Memo": "星の導きガチャ 第28回_フォルティナ・ヴァルリーデ・ソーニャ・ベル・ルーク・カロル",
+        "CharacterIdList": [
+            42,
+            47,
+            9,
+            19,
+            30,
+            40
+        ],
+        "GachaSelectListType": 3,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            42,
+            47,
+            9,
+            19,
+            30,
+            40
+        ],
+        "OrderNumber": 10280,
+        "StartTimeFixJST": "2025-09-22 14:30:00",
+        "EndTimeFixJST": "2025-10-16 14:29:59"
+    },
+    {
         "Id": 30001,
         "IsIgnore": null,
         "Memo": "選択水着サブリナ①+選択水着モーザ①+選択浴衣コルディ①（選択PUガチャ用）",
@@ -6262,5 +6328,21 @@
         "OrderNumber": 40001,
         "StartTimeFixJST": "2025-08-07 16:00:00",
         "EndTimeFixJST": "2100-01-01 00:00:00"
+    },
+    {
+        "Id": 40002,
+        "IsIgnore": null,
+        "Memo": "セレクトフォルティナ+セレクトヴァルリーデ+セレクトルーク(SPセレクトガチャ用)",
+        "CharacterIdList": [
+            42,
+            47,
+            30
+        ],
+        "GachaSelectListType": 5,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": null,
+        "OrderNumber": 40002,
+        "StartTimeFixJST": "2025-09-22 14:30:00",
+        "EndTimeFixJST": "2025-11-13 14:29:59"
     }
 ]
