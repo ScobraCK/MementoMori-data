@@ -7453,7 +7453,7 @@
     {
         "Id": 4200100101,
         "IsIgnore": null,
-        "Memo": "【聖剣の魔女】フォルティナSR　聖女の祈り : [シールド] 付与者の攻撃力×120％分のダメージを代わりに受ける。",
+        "Memo": "[シールド] 付与者の攻撃力×120％分のダメージを代わりに受ける。",
         "CasterIconId": 42,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4200100101]",
@@ -7464,35 +7464,39 @@
         "IsTurnHide": false,
         "EffectGroupInfoList": [
             {
-                "EffectGroupId": 4200160101,
+                "EffectGroupId": 4200150101,
                 "OrderNumber": 1
             },
             {
-                "EffectGroupId": 4200150101,
+                "EffectGroupId": 4200140101,
                 "OrderNumber": 2
             },
             {
-                "EffectGroupId": 4200140101,
+                "EffectGroupId": 4200150102,
                 "OrderNumber": 3
             },
             {
-                "EffectGroupId": 4200130101,
+                "EffectGroupId": 4200140102,
                 "OrderNumber": 4
             },
             {
-                "EffectGroupId": 4200120101,
+                "EffectGroupId": 4200130101,
                 "OrderNumber": 5
             },
             {
-                "EffectGroupId": 4200100101,
+                "EffectGroupId": 4200120101,
                 "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 4200100101,
+                "OrderNumber": 7
             }
         ]
     },
     {
         "Id": 4200100102,
         "IsIgnore": null,
-        "Memo": "【聖剣の魔女】フォルティナSR　聖女の祈り : [再生] 毎ターンHPを最大HP×7％回復する。",
+        "Memo": "[再生] 毎ターンHPを付与者の最大HP×7％回復する。",
         "CasterIconId": 42,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4200100102]",
@@ -7501,12 +7505,21 @@
         "NameKey": "[EffectGroupName4200100102]",
         "IsHide": false,
         "IsTurnHide": false,
-        "EffectGroupInfoList": null
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 4200130102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 4200100102,
+                "OrderNumber": 2
+            }
+        ]
     },
     {
         "Id": 4200120101,
         "IsIgnore": null,
-        "Memo": "【聖剣の魔女】フォルティナSR　聖女の祈り : [シールド] 付与者の攻撃力×150％分のダメージを代わりに受ける。",
+        "Memo": "[シールド] 付与者の攻撃力×150％分のダメージを代わりに受ける。",
         "CasterIconId": 42,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4200120101]",
@@ -7517,35 +7530,39 @@
         "IsTurnHide": false,
         "EffectGroupInfoList": [
             {
-                "EffectGroupId": 4200160101,
+                "EffectGroupId": 4200150101,
                 "OrderNumber": 1
             },
             {
-                "EffectGroupId": 4200150101,
+                "EffectGroupId": 4200140101,
                 "OrderNumber": 2
             },
             {
-                "EffectGroupId": 4200140101,
+                "EffectGroupId": 4200150102,
                 "OrderNumber": 3
             },
             {
-                "EffectGroupId": 4200130101,
+                "EffectGroupId": 4200140102,
                 "OrderNumber": 4
             },
             {
-                "EffectGroupId": 4200120101,
+                "EffectGroupId": 4200130101,
                 "OrderNumber": 5
             },
             {
-                "EffectGroupId": 4200100101,
+                "EffectGroupId": 4200120101,
                 "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 4200100101,
+                "OrderNumber": 7
             }
         ]
     },
     {
         "Id": 4200130101,
         "IsIgnore": null,
-        "Memo": "【聖剣の魔女】フォルティナSR　聖女の祈り : [シールド] 付与者の攻撃力×150％分のダメージを代わりに受ける。",
+        "Memo": "[シールド] 付与者の攻撃力×150％分のダメージを代わりに受ける。",
         "CasterIconId": 42,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4200130101]",
@@ -7556,35 +7573,39 @@
         "IsTurnHide": false,
         "EffectGroupInfoList": [
             {
-                "EffectGroupId": 4200160101,
+                "EffectGroupId": 4200150101,
                 "OrderNumber": 1
             },
             {
-                "EffectGroupId": 4200150101,
+                "EffectGroupId": 4200140101,
                 "OrderNumber": 2
             },
             {
-                "EffectGroupId": 4200140101,
+                "EffectGroupId": 4200150102,
                 "OrderNumber": 3
             },
             {
-                "EffectGroupId": 4200130101,
+                "EffectGroupId": 4200140102,
                 "OrderNumber": 4
             },
             {
-                "EffectGroupId": 4200120101,
+                "EffectGroupId": 4200130101,
                 "OrderNumber": 5
             },
             {
-                "EffectGroupId": 4200100101,
+                "EffectGroupId": 4200120101,
                 "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 4200100101,
+                "OrderNumber": 7
             }
         ]
     },
     {
         "Id": 4200130102,
         "IsIgnore": null,
-        "Memo": "【聖剣の魔女】フォルティナSR　聖女の祈り : [再生] 毎ターンHPを最大HP×7％回復する。",
+        "Memo": "[再生] 毎ターンHPを付与者の最大HP×7％回復する。",
         "CasterIconId": 42,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4200130102]",
@@ -7593,12 +7614,21 @@
         "NameKey": "[EffectGroupName4200130102]",
         "IsHide": false,
         "IsTurnHide": false,
-        "EffectGroupInfoList": null
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 4200130102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 4200100102,
+                "OrderNumber": 2
+            }
+        ]
     },
     {
         "Id": 4200140101,
         "IsIgnore": null,
-        "Memo": "【聖剣の魔女】フォルティナSR　聖女の祈り : [シールド] 付与者の攻撃力×180％分のダメージを代わりに受ける。",
+        "Memo": "[シールド] 付与者の攻撃力×600％分のダメージを代わりに受ける。",
         "CasterIconId": 42,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4200140101]",
@@ -7609,35 +7639,82 @@
         "IsTurnHide": false,
         "EffectGroupInfoList": [
             {
-                "EffectGroupId": 4200160101,
+                "EffectGroupId": 4200150101,
                 "OrderNumber": 1
             },
             {
-                "EffectGroupId": 4200150101,
+                "EffectGroupId": 4200140101,
                 "OrderNumber": 2
             },
             {
-                "EffectGroupId": 4200140101,
+                "EffectGroupId": 4200150102,
                 "OrderNumber": 3
             },
             {
-                "EffectGroupId": 4200130101,
+                "EffectGroupId": 4200140102,
                 "OrderNumber": 4
             },
             {
-                "EffectGroupId": 4200120101,
+                "EffectGroupId": 4200130101,
                 "OrderNumber": 5
             },
             {
-                "EffectGroupId": 4200100101,
+                "EffectGroupId": 4200120101,
                 "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 4200100101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 4200140102,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付与者の攻撃力×400％分のダメージを代わりに受ける。",
+        "CasterIconId": 42,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription4200140102]",
+        "IconId": 42001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName4200140102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 4200150101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 4200140101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 4200150102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 4200140102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 4200130101,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 4200120101,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 4200100101,
+                "OrderNumber": 7
             }
         ]
     },
     {
         "Id": 4200150101,
         "IsIgnore": null,
-        "Memo": "【聖剣の魔女】フォルティナSR　聖女の祈り : [シールド] 付与者の攻撃力×180％分のダメージを代わりに受ける。",
+        "Memo": "[シールド] 付与者の攻撃力×660％分のダメージを代わりに受ける。",
         "CasterIconId": 42,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4200150101]",
@@ -7648,35 +7725,39 @@
         "IsTurnHide": false,
         "EffectGroupInfoList": [
             {
-                "EffectGroupId": 4200160101,
+                "EffectGroupId": 4200150101,
                 "OrderNumber": 1
             },
             {
-                "EffectGroupId": 4200150101,
+                "EffectGroupId": 4200140101,
                 "OrderNumber": 2
             },
             {
-                "EffectGroupId": 4200140101,
+                "EffectGroupId": 4200150102,
                 "OrderNumber": 3
             },
             {
-                "EffectGroupId": 4200130101,
+                "EffectGroupId": 4200140102,
                 "OrderNumber": 4
             },
             {
-                "EffectGroupId": 4200120101,
+                "EffectGroupId": 4200130101,
                 "OrderNumber": 5
             },
             {
-                "EffectGroupId": 4200100101,
+                "EffectGroupId": 4200120101,
                 "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 4200100101,
+                "OrderNumber": 7
             }
         ]
     },
     {
         "Id": 4200150102,
         "IsIgnore": null,
-        "Memo": "【聖剣の魔女】フォルティナSR　聖女の祈り : [再生] 毎ターンHPを最大HP×7％回復する。",
+        "Memo": "[シールド] 付与者の攻撃力×440％分のダメージを代わりに受ける。",
         "CasterIconId": 42,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4200150102]",
@@ -7685,18 +7766,47 @@
         "NameKey": "[EffectGroupName4200150102]",
         "IsHide": false,
         "IsTurnHide": false,
-        "EffectGroupInfoList": null
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 4200150101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 4200140101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 4200150102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 4200140102,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 4200130101,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 4200120101,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 4200100101,
+                "OrderNumber": 7
+            }
+        ]
     },
     {
         "Id": 4200160101,
         "IsIgnore": null,
-        "Memo": "【聖剣の魔女】フォルティナSR　聖女の祈り : [シールド] 付与者の攻撃力×200％分のダメージを代わりに受ける。",
+        "Memo": "削除予定　【聖剣の魔女】フォルティナSR　聖女の祈り : [シールド] 付与者の攻撃力×200％分のダメージを代わりに受ける。",
         "CasterIconId": 42,
         "CasterIconType": 1,
-        "DescriptionKey": "[EffectGroupDescription4200160101]",
+        "DescriptionKey": "*",
         "IconId": 42001,
         "IconType": 1,
-        "NameKey": "[EffectGroupName4200160101]",
+        "NameKey": "*",
         "IsHide": false,
         "IsTurnHide": false,
         "EffectGroupInfoList": [
@@ -7729,7 +7839,7 @@
     {
         "Id": 4200220602,
         "IsIgnore": null,
-        "Memo": "【聖剣の魔女】フォルティナSR　*",
+        "Memo": "*印解除",
         "CasterIconId": 42,
         "CasterIconType": 1,
         "DescriptionKey": "*",
@@ -7743,7 +7853,7 @@
     {
         "Id": 4200230102,
         "IsIgnore": null,
-        "Memo": "【聖剣の魔女】フォルティナSR　*",
+        "Memo": "*ロックオン付与",
         "CasterIconId": 42,
         "CasterIconType": 1,
         "DescriptionKey": "*",
@@ -7757,7 +7867,7 @@
     {
         "Id": 4200230202,
         "IsIgnore": null,
-        "Memo": "【聖剣の魔女】フォルティナSR　*",
+        "Memo": "*ロックオン解除",
         "CasterIconId": 42,
         "CasterIconType": 1,
         "DescriptionKey": "*",
@@ -7771,7 +7881,7 @@
     {
         "Id": 4200240301,
         "IsIgnore": null,
-        "Memo": "【聖剣の魔女】フォルティナSR　*",
+        "Memo": "*印付与",
         "CasterIconId": 42,
         "CasterIconType": 1,
         "DescriptionKey": "*",
@@ -7785,14 +7895,14 @@
     {
         "Id": 4200300101,
         "IsIgnore": null,
-        "Memo": "【聖剣の魔女】フォルティナSR　聖剣の守護 : [行動阻害無効] 行動阻害が付与されなくなる。",
+        "Memo": "[行動阻害無効] 行動阻害が付与されなくなる（解除不可）。",
         "CasterIconId": 42,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4200300101]",
         "IconId": 42003,
         "IconType": 1,
         "NameKey": "[EffectGroupName4200300101]",
-        "IsHide": true,
+        "IsHide": false,
         "IsTurnHide": false,
         "EffectGroupInfoList": [
             {
@@ -7808,14 +7918,14 @@
     {
         "Id": 4200320101,
         "IsIgnore": null,
-        "Memo": "【聖剣の魔女】フォルティナSR　聖剣の守護 : [行動阻害無効] 行動阻害が付与されなくなる。",
+        "Memo": "[行動阻害無効] 行動阻害が付与されなくなる（解除不可）。",
         "CasterIconId": 42,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4200320101]",
         "IconId": 42003,
         "IconType": 1,
         "NameKey": "[EffectGroupName4200320101]",
-        "IsHide": true,
+        "IsHide": false,
         "IsTurnHide": false,
         "EffectGroupInfoList": [
             {
@@ -7831,7 +7941,7 @@
     {
         "Id": 4200400101,
         "IsIgnore": null,
-        "Memo": "【聖剣の魔女】フォルティナSR　神様からの贈り物 : 防御力が15％増加する。",
+        "Memo": "防御力が20％増加する（解除不可）。",
         "CasterIconId": 42,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4200400101]",
@@ -7840,12 +7950,29 @@
         "NameKey": "[EffectGroupName4200400101]",
         "IsHide": true,
         "IsTurnHide": true,
-        "EffectGroupInfoList": null
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 4200440101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 4200430101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 4200420101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 4200400101,
+                "OrderNumber": 4
+            }
+        ]
     },
     {
         "Id": 4200420101,
         "IsIgnore": null,
-        "Memo": "【聖剣の魔女】フォルティナSR　神様からの贈り物 : 防御力が15％増加し、カウンタが15％増加する。",
+        "Memo": "防御力が20％増加し、カウンタが20％増加する（解除不可）。",
         "CasterIconId": 42,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4200420101]",
@@ -7854,12 +7981,29 @@
         "NameKey": "[EffectGroupName4200420101]",
         "IsHide": true,
         "IsTurnHide": true,
-        "EffectGroupInfoList": null
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 4200440101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 4200430101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 4200420101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 4200400101,
+                "OrderNumber": 4
+            }
+        ]
     },
     {
         "Id": 4200430101,
         "IsIgnore": null,
-        "Memo": "【聖剣の魔女】フォルティナSR　神様からの贈り物 : 防御力が20％増加し、カウンタが20％増加する。",
+        "Memo": "防御力が20％増加し、物理防御力が50％増加し、カウンタが20％増加する（解除不可）。",
         "CasterIconId": 42,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4200430101]",
@@ -7868,7 +8012,55 @@
         "NameKey": "[EffectGroupName4200430101]",
         "IsHide": true,
         "IsTurnHide": true,
-        "EffectGroupInfoList": null
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 4200440101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 4200430101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 4200420101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 4200400101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 4200440101,
+        "IsIgnore": null,
+        "Memo": "防御力が150%増加し、物理防御力が150%増加し、カウンタが20%増加する。",
+        "CasterIconId": 42,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription4200440101]",
+        "IconId": 42004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName4200440101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 4200440101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 4200430101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 4200420101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 4200400101,
+                "OrderNumber": 4
+            }
+        ]
     },
     {
         "Id": 4300100102,
@@ -37281,13 +37473,13 @@
     {
         "Id": 55044200160101,
         "IsIgnore": null,
-        "Memo": "【聖剣の魔女】フォルティナSR　聖女の祈り : [シールド] 付与者の攻撃力×200％分のダメージを代わりに受ける。",
+        "Memo": "削除予定　【聖剣の魔女】フォルティナSR　聖女の祈り : [シールド] 付与者の攻撃力×200％分のダメージを代わりに受ける。",
         "CasterIconId": 42,
         "CasterIconType": 1,
-        "DescriptionKey": "[EffectGroupDescription4200160101]",
+        "DescriptionKey": "*",
         "IconId": 42001,
         "IconType": 1,
-        "NameKey": "[EffectGroupName4200160101]",
+        "NameKey": "*",
         "IsHide": false,
         "IsTurnHide": false,
         "EffectGroupInfoList": [
@@ -60147,13 +60339,13 @@
     {
         "Id": 550404200160101,
         "IsIgnore": null,
-        "Memo": "【聖剣の魔女】フォルティナSR　聖女の祈り : [シールド] 付与者の攻撃力×200％分のダメージを代わりに受ける。",
+        "Memo": "削除予定　【聖剣の魔女】フォルティナSR　聖女の祈り : [シールド] 付与者の攻撃力×200％分のダメージを代わりに受ける。",
         "CasterIconId": 42,
         "CasterIconType": 1,
-        "DescriptionKey": "[EffectGroupDescription4200160101]",
+        "DescriptionKey": "*",
         "IconId": 42001,
         "IconType": 1,
-        "NameKey": "[EffectGroupName4200160101]",
+        "NameKey": "*",
         "IsHide": false,
         "IsTurnHide": false,
         "EffectGroupInfoList": [
