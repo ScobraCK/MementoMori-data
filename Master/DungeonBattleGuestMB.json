@@ -778,9 +778,9 @@
         "IsIgnore": null,
         "Memo": "タマ",
         "CharacterId": 81,
-        "IsPickup": true,
-        "EndTimeFixJST": "2025-09-22 14:29:59",
-        "StartTimeFixJST": "2025-09-08 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 88,
@@ -850,9 +850,9 @@
         "IsIgnore": null,
         "Memo": "ティリー",
         "CharacterId": 111,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2025-10-16 14:29:59",
+        "StartTimeFixJST": "2025-09-30 14:30:00"
     },
     {
         "Id": 96,
@@ -988,5 +988,14 @@
         "IsPickup": true,
         "EndTimeFixJST": "2025-09-30 14:29:59",
         "StartTimeFixJST": "2025-09-16 14:30:00"
+    },
+    {
+        "Id": 111,
+        "IsIgnore": null,
+        "Memo": "リーベ",
+        "CharacterId": 102,
+        "IsPickup": true,
+        "EndTimeFixJST": "2025-10-16 14:29:59",
+        "StartTimeFixJST": "2025-09-30 14:30:00"
     }
 ]

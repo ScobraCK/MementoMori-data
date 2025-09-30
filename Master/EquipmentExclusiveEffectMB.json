@@ -12308,5 +12308,134 @@
             }
         ],
         "CharacterId": 126
+    },
+    {
+        "Id": 571,
+        "IsIgnore": null,
+        "Memo": "リーベSSR180",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 102
+    },
+    {
+        "Id": 572,
+        "IsIgnore": null,
+        "Memo": "リーベSSR200",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1300.0
+            },
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 600.0
+            }
+        ],
+        "CharacterId": 102
+    },
+    {
+        "Id": 573,
+        "IsIgnore": null,
+        "Memo": "リーベSSR220",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1400.0
+            },
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            },
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "CharacterId": 102
+    },
+    {
+        "Id": 574,
+        "IsIgnore": null,
+        "Memo": "リーベSSR240",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            },
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "CharacterId": 102
+    },
+    {
+        "Id": 575,
+        "IsIgnore": null,
+        "Memo": "リーベUR",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1600.0
+            },
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 900.0
+            },
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 900.0
+            }
+        ],
+        "CharacterId": 102
+    },
+    {
+        "Id": 576,
+        "IsIgnore": null,
+        "Memo": "リーベLR",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 1000.0
+            },
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 1000.0
+            }
+        ],
+        "CharacterId": 102
     }
 ]

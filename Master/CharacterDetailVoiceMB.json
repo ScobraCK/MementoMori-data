@@ -37502,6 +37502,23 @@
         "UnlockQuestId": 0
     },
     {
+        "Id": 7922,
+        "IsIgnore": null,
+        "Memo": "セルリア朗読",
+        "CharacterId": 79,
+        "CharacterVoiceCategory": 10,
+        "Path": {
+            "TimelineId": 1,
+            "VoiceId": 0,
+            "TimelineType": 6
+        },
+        "SortOrder": 200,
+        "SubtitleKey": null,
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText31]",
+        "UnlockQuestId": 0
+    },
+    {
         "Id": 7990,
         "IsIgnore": null,
         "Memo": "セルリア",
@@ -40389,6 +40406,23 @@
         "SubtitleKey": "[CharacterDetailVoiceSubtitle8621]",
         "UnlockCondition": 6,
         "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText20]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 8622,
+        "IsIgnore": null,
+        "Memo": "メリア朗読",
+        "CharacterId": 86,
+        "CharacterVoiceCategory": 10,
+        "Path": {
+            "TimelineId": 1,
+            "VoiceId": 0,
+            "TimelineType": 6
+        },
+        "SortOrder": 200,
+        "SubtitleKey": null,
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText31]",
         "UnlockQuestId": 0
     },
     {
@@ -44000,6 +44034,482 @@
         "IsIgnore": null,
         "Memo": "モワノー",
         "CharacterId": 100,
+        "CharacterVoiceCategory": 5,
+        "Path": {
+            "TimelineId": 4,
+            "VoiceId": 0,
+            "TimelineType": 4
+        },
+        "SortOrder": 103,
+        "SubtitleKey": null,
+        "UnlockCondition": 8,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText30]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 10202,
+        "IsIgnore": null,
+        "Memo": "リーベ",
+        "CharacterId": 102,
+        "CharacterVoiceCategory": 3,
+        "Path": {
+            "TimelineId": 2,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 2,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle10202]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText1]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 10203,
+        "IsIgnore": null,
+        "Memo": "リーベ",
+        "CharacterId": 102,
+        "CharacterVoiceCategory": 2,
+        "Path": {
+            "TimelineId": 3,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 3,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle10203]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText2]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 10204,
+        "IsIgnore": null,
+        "Memo": "リーベ",
+        "CharacterId": 102,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 4,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 4,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle10204]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText3]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 10205,
+        "IsIgnore": null,
+        "Memo": "リーベ",
+        "CharacterId": 102,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 5,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 5,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle10205]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText4]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 10206,
+        "IsIgnore": null,
+        "Memo": "リーベ",
+        "CharacterId": 102,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 6,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 6,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle10206]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText5]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 10207,
+        "IsIgnore": null,
+        "Memo": "リーベ",
+        "CharacterId": 102,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 7,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 7,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle10207]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText6]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 10208,
+        "IsIgnore": null,
+        "Memo": "リーベ",
+        "CharacterId": 102,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 8,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 8,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle10208]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText7]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 10209,
+        "IsIgnore": null,
+        "Memo": "リーベ",
+        "CharacterId": 102,
+        "CharacterVoiceCategory": 1,
+        "Path": {
+            "TimelineId": 9,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 9,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle10209]",
+        "UnlockCondition": 7,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText8]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 10210,
+        "IsIgnore": null,
+        "Memo": "リーベ",
+        "CharacterId": 102,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 10,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 10,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle10210]",
+        "UnlockCondition": 1,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText9]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 10211,
+        "IsIgnore": null,
+        "Memo": "リーベ",
+        "CharacterId": 102,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 11,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 11,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle10211]",
+        "UnlockCondition": 2,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText10]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 10212,
+        "IsIgnore": null,
+        "Memo": "リーベ",
+        "CharacterId": 102,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 12,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 12,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle10212]",
+        "UnlockCondition": 3,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText11]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 10213,
+        "IsIgnore": null,
+        "Memo": "リーベ",
+        "CharacterId": 102,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 13,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 13,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle10213]",
+        "UnlockCondition": 4,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText12]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 10214,
+        "IsIgnore": null,
+        "Memo": "リーベ",
+        "CharacterId": 102,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 14,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 14,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle10214]",
+        "UnlockCondition": 5,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText13]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 10215,
+        "IsIgnore": null,
+        "Memo": "リーベ",
+        "CharacterId": 102,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 15,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 15,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle10215]",
+        "UnlockCondition": 6,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText14]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 10216,
+        "IsIgnore": null,
+        "Memo": "リーベ",
+        "CharacterId": 102,
+        "CharacterVoiceCategory": 4,
+        "Path": {
+            "TimelineId": 16,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 16,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle10216]",
+        "UnlockCondition": 1,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText15]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 10217,
+        "IsIgnore": null,
+        "Memo": "リーベ",
+        "CharacterId": 102,
+        "CharacterVoiceCategory": 4,
+        "Path": {
+            "TimelineId": 17,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 17,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle10217]",
+        "UnlockCondition": 2,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText16]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 10218,
+        "IsIgnore": null,
+        "Memo": "リーベ",
+        "CharacterId": 102,
+        "CharacterVoiceCategory": 4,
+        "Path": {
+            "TimelineId": 18,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 18,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle10218]",
+        "UnlockCondition": 3,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText17]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 10219,
+        "IsIgnore": null,
+        "Memo": "リーベ",
+        "CharacterId": 102,
+        "CharacterVoiceCategory": 4,
+        "Path": {
+            "TimelineId": 19,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 19,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle10219]",
+        "UnlockCondition": 4,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText18]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 10220,
+        "IsIgnore": null,
+        "Memo": "リーベ",
+        "CharacterId": 102,
+        "CharacterVoiceCategory": 4,
+        "Path": {
+            "TimelineId": 20,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 20,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle10220]",
+        "UnlockCondition": 5,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText19]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 10221,
+        "IsIgnore": null,
+        "Memo": "リーベ",
+        "CharacterId": 102,
+        "CharacterVoiceCategory": 4,
+        "Path": {
+            "TimelineId": 21,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 21,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle10221]",
+        "UnlockCondition": 6,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText20]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 10290,
+        "IsIgnore": null,
+        "Memo": "リーベ",
+        "CharacterId": 102,
+        "CharacterVoiceCategory": 8,
+        "Path": {
+            "TimelineId": 20,
+            "VoiceId": 0,
+            "TimelineType": 1
+        },
+        "SortOrder": 90,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle10290]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText21]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 10291,
+        "IsIgnore": null,
+        "Memo": "リーベ",
+        "CharacterId": 102,
+        "CharacterVoiceCategory": 9,
+        "Path": {
+            "TimelineId": 21,
+            "VoiceId": 0,
+            "TimelineType": 1
+        },
+        "SortOrder": 91,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle10291]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText22]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 10292,
+        "IsIgnore": null,
+        "Memo": "リーベ",
+        "CharacterId": 102,
+        "CharacterVoiceCategory": 5,
+        "Path": {
+            "TimelineId": 1,
+            "VoiceId": 0,
+            "TimelineType": 2
+        },
+        "SortOrder": 92,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle10292]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText23]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 10293,
+        "IsIgnore": null,
+        "Memo": "リーベ",
+        "CharacterId": 102,
+        "CharacterVoiceCategory": 5,
+        "Path": {
+            "TimelineId": 2,
+            "VoiceId": 0,
+            "TimelineType": 2
+        },
+        "SortOrder": 93,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle10293]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText24]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 10296,
+        "IsIgnore": null,
+        "Memo": "リーベ",
+        "CharacterId": 102,
+        "CharacterVoiceCategory": 5,
+        "Path": {
+            "TimelineId": 2,
+            "VoiceId": 0,
+            "TimelineType": 4
+        },
+        "SortOrder": 100,
+        "SubtitleKey": null,
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText27]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 10297,
+        "IsIgnore": null,
+        "Memo": "リーベ",
+        "CharacterId": 102,
+        "CharacterVoiceCategory": 5,
+        "Path": {
+            "TimelineId": 1,
+            "VoiceId": 0,
+            "TimelineType": 4
+        },
+        "SortOrder": 101,
+        "SubtitleKey": null,
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText28]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 10298,
+        "IsIgnore": null,
+        "Memo": "リーベ",
+        "CharacterId": 102,
+        "CharacterVoiceCategory": 5,
+        "Path": {
+            "TimelineId": 3,
+            "VoiceId": 0,
+            "TimelineType": 4
+        },
+        "SortOrder": 102,
+        "SubtitleKey": null,
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText29]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 10299,
+        "IsIgnore": null,
+        "Memo": "リーベ",
+        "CharacterId": 102,
         "CharacterVoiceCategory": 5,
         "Path": {
             "TimelineId": 4,
