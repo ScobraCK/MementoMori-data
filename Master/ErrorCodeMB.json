@@ -4134,6 +4134,30 @@
         "ErrorMessageType": 3
     },
     {
+        "Id": 392008,
+        "IsIgnore": null,
+        "Memo": "プレイリストのシェアコード生成に失敗しました",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 392009,
+        "IsIgnore": null,
+        "Memo": "プレイリストに楽曲が存在しないため共有できません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 392010,
+        "IsIgnore": null,
+        "Memo": "プレイリストの共有期限がきれました",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 392011,
+        "IsIgnore": null,
+        "Memo": "プレイリストの共有期限がきれました",
+        "ErrorMessageType": 2
+    },
+    {
         "Id": 401000,
         "IsIgnore": null,
         "Memo": null,
@@ -5013,6 +5037,132 @@
         "Id": 520004,
         "IsIgnore": null,
         "Memo": "コメント機能は使えません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 530000,
+        "IsIgnore": null,
+        "Memo": "プレイヤーデータがありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 530001,
+        "IsIgnore": null,
+        "Memo": "プレイヤーデータがありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 530002,
+        "IsIgnore": null,
+        "Memo": "プレイヤーデータがありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 530003,
+        "IsIgnore": null,
+        "Memo": "レベルリンクデータがありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 530004,
+        "IsIgnore": null,
+        "Memo": "キャラデータがありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 530005,
+        "IsIgnore": null,
+        "Memo": "キャラデータがありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 531000,
+        "IsIgnore": null,
+        "Memo": "開催期間外です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 531001,
+        "IsIgnore": null,
+        "Memo": "受取可能な報酬がありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 531002,
+        "IsIgnore": null,
+        "Memo": "既に受取済みです",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 531003,
+        "IsIgnore": null,
+        "Memo": "協力ポイントが足りません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 531004,
+        "IsIgnore": null,
+        "Memo": "人形たちのお遊戯会が解放されていません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 532010,
+        "IsIgnore": null,
+        "Memo": "挑戦できないバトルです",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 532011,
+        "IsIgnore": null,
+        "Memo": "クリア済みのステージです",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 532012,
+        "IsIgnore": null,
+        "Memo": "ステージが解放されていません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 532013,
+        "IsIgnore": null,
+        "Memo": "挑戦できないバトルです",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 532014,
+        "IsIgnore": null,
+        "Memo": "ステージが解放されていません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 532015,
+        "IsIgnore": null,
+        "Memo": "挑戦期間が終了しました",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 532016,
+        "IsIgnore": null,
+        "Memo": "バトルデータがありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 542000,
+        "IsIgnore": null,
+        "Memo": "購入できない商品です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 542001,
+        "IsIgnore": null,
+        "Memo": "購入済みです",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 542010,
+        "IsIgnore": null,
+        "Memo": "不正なアイテム種類です",
         "ErrorMessageType": 2
     },
     {
