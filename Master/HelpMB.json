@@ -2344,6 +2344,26 @@
                 ],
                 "MainText": "[HelpMainText5301]",
                 "HelpParameterType": 0
+            },
+            {
+                "HeadLine": "[HelpHeadLine5302]",
+                "MainTextList": [
+                    {
+                        "MainText": "[HelpMainText5302]"
+                    }
+                ],
+                "MainText": "[HelpMainText5302]",
+                "HelpParameterType": 0
+            },
+            {
+                "HeadLine": "[HelpHeadLine5303]",
+                "MainTextList": [
+                    {
+                        "MainText": "[HelpMainText5303]"
+                    }
+                ],
+                "MainText": "[HelpMainText5303]",
+                "HelpParameterType": 0
             }
         ],
         "HelpTitle": "[HelpTitleKey]",
@@ -2800,6 +2820,28 @@
         "HelpTitle": "[HelpTitleKey]",
         "IsDisplayed": true,
         "TutorialDescriptionId": 0,
+        "DialogType": 1,
+        "DisplayDeviceTypes": null
+    },
+    {
+        "Id": 7200,
+        "IsIgnore": null,
+        "Memo": "人形たちのお遊戯会",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine7200]",
+                "MainTextList": [
+                    {
+                        "MainText": "[HelpMainText7200]"
+                    }
+                ],
+                "MainText": "[HelpMainText7200]",
+                "HelpParameterType": 0
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 39,
         "DialogType": 1,
         "DisplayDeviceTypes": null
     },

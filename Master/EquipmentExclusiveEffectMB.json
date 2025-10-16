@@ -12437,5 +12437,139 @@
             }
         ],
         "CharacterId": 102
+    },
+    {
+        "Id": 583,
+        "IsIgnore": null,
+        "Memo": "宝物フェンリルSSR180",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 83
+    },
+    {
+        "Id": 584,
+        "IsIgnore": null,
+        "Memo": "宝物フェンリルSSR200",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 600.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1300.0
+            }
+        ],
+        "CharacterId": 83
+    },
+    {
+        "Id": 585,
+        "IsIgnore": null,
+        "Memo": "宝物フェンリルSSR220",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 650.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1400.0
+            },
+            {
+                "BattleParameterType": 18,
+                "ChangeParameterType": 1,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 83
+    },
+    {
+        "Id": 586,
+        "IsIgnore": null,
+        "Memo": "宝物フェンリルSSR240",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 18,
+                "ChangeParameterType": 1,
+                "Value": 1300.0
+            }
+        ],
+        "CharacterId": 83
+    },
+    {
+        "Id": 587,
+        "IsIgnore": null,
+        "Memo": "宝物フェンリルUR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 750.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1600.0
+            },
+            {
+                "BattleParameterType": 18,
+                "ChangeParameterType": 1,
+                "Value": 1400.0
+            }
+        ],
+        "CharacterId": 83
+    },
+    {
+        "Id": 588,
+        "IsIgnore": null,
+        "Memo": "宝物フェンリルLR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 18,
+                "ChangeParameterType": 1,
+                "Value": 1500.0
+            }
+        ],
+        "CharacterId": 83
     }
 ]

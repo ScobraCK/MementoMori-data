@@ -19705,6 +19705,108 @@
         "EffectGroupInfoList": null
     },
     {
+        "Id": 8300100201,
+        "IsIgnore": null,
+        "Memo": "[隠し味] 攻撃力が6%増加する（最大15スタックまで）（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 83,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8300100201]",
+        "IconId": 83001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8300100201]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8300130202,
+        "IsIgnore": null,
+        "Memo": "*隠し味のスタック数を2増加させる。",
+        "CasterIconId": 83,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8300130202]",
+        "IconId": 83001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8300130202]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8300240401,
+        "IsIgnore": null,
+        "Memo": "*スキルクールタイムカウントを5減少させる。",
+        "CasterIconId": 83,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8300240401]",
+        "IconId": 83002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8300240401]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 8300320201,
+        "IsIgnore": null,
+        "Memo": "[結界] 最大HP×10%を超えた分のダメージを20%遮断する（解除不可）。",
+        "CasterIconId": 83,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8300320201]",
+        "IconId": 83003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8300320201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8300340201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8300320201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 8300340201,
+        "IsIgnore": null,
+        "Memo": "[結界] 最大HP×10%を超えた分のダメージを50%遮断する（解除不可）。",
+        "CasterIconId": 83,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8300340201]",
+        "IconId": 83003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8300340201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 8300340201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 8300320201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 8300420201,
+        "IsIgnore": null,
+        "Memo": "クリティカル耐性率が60%増加する。",
+        "CasterIconId": 83,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8300420201]",
+        "IconId": 83004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8300420201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 8400200102,
         "IsIgnore": null,
         "Memo": "[気絶] 行動不能になる。",
@@ -28747,6 +28849,140 @@
                 "OrderNumber": 4
             }
         ]
+    },
+    {
+        "Id": 13000300101,
+        "IsIgnore": null,
+        "Memo": "[解析] 攻撃力が3%増加する（最大6スタックまで）（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 130,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13000300101]",
+        "IconId": 130003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13000300101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 13000340101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 13000300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 13000320102,
+        "IsIgnore": null,
+        "Memo": "スピードが15%増加する（解除不可）。",
+        "CasterIconId": 130,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13000320102]",
+        "IconId": 130003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13000320102]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 13000330102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 13000320102,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 13000330102,
+        "IsIgnore": null,
+        "Memo": "スピードが30%増加する（解除不可）。",
+        "CasterIconId": 130,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13000330102]",
+        "IconId": 130003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13000330102]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 13000330102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 13000320102,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 13000340101,
+        "IsIgnore": null,
+        "Memo": "[解析] 攻撃力が10%増加する（最大6スタックまで）（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 130,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13000340101]",
+        "IconId": 130003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13000340101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 13000340101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 13000300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 13000400101,
+        "IsIgnore": null,
+        "Memo": "*バフ1つのターン数を1減少",
+        "CasterIconId": 130,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13000400101]",
+        "IconId": 130004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13000400101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 13000420201,
+        "IsIgnore": null,
+        "Memo": " [多重バリア] 最大HP×20％以上のダメージを1層消費して無効化する（解除不可）。",
+        "CasterIconId": 130,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13000420201]",
+        "IconId": 130004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13000420201]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 13000430101,
+        "IsIgnore": null,
+        "Memo": "*バフ1つのターン数を1減少",
+        "CasterIconId": 130,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13000430101]",
+        "IconId": 130004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13000430101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
     },
     {
         "Id": 5504600400101,
@@ -53181,6 +53417,48 @@
         "EffectGroupInfoList": null
     },
     {
+        "Id": 550200000600101,
+        "IsIgnore": null,
+        "Memo": "*最大HPが増加する（解除不可）。最大HPの増加量は自身の印1スタックとレンタルレイドのワールド経過日数に応じて大きくなる。",
+        "CasterIconId": 0,
+        "CasterIconType": 0,
+        "DescriptionKey": "*",
+        "IconId": 5500000002,
+        "IconType": 1,
+        "NameKey": "*",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550200000600103,
+        "IsIgnore": null,
+        "Memo": "*印付与",
+        "CasterIconId": 0,
+        "CasterIconType": 0,
+        "DescriptionKey": "*",
+        "IconId": 5500000002,
+        "IconType": 1,
+        "NameKey": "*",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550200000600201,
+        "IsIgnore": null,
+        "Memo": "味方全体がダメージを受けるほど敵へのダメージが大きくなる（解除不可）。",
+        "CasterIconId": 0,
+        "CasterIconType": 0,
+        "DescriptionKey": "[EffectGroupDescription550200000600201]",
+        "IconId": 5500000002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName550200000600201]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 550203000100101,
         "IsIgnore": null,
         "Memo": "毎ターン、累計被ダメージに応じて与ダメージ基準値が増加する。このバフは解除できない。",
@@ -73858,6 +74136,108 @@
         "EffectGroupInfoList": null
     },
     {
+        "Id": 550408300100201,
+        "IsIgnore": null,
+        "Memo": "[隠し味] 攻撃力が6%増加する（最大15スタックまで）（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 83,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8300100201]",
+        "IconId": 83001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8300100201]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550408300130202,
+        "IsIgnore": null,
+        "Memo": "*隠し味のスタック数を2増加させる。",
+        "CasterIconId": 83,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8300130202]",
+        "IconId": 83001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8300130202]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550408300240401,
+        "IsIgnore": null,
+        "Memo": "*スキルクールタイムカウントを5減少させる。",
+        "CasterIconId": 83,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8300240401]",
+        "IconId": 83002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8300240401]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550408300320201,
+        "IsIgnore": null,
+        "Memo": "[結界] 最大HP×10%を超えた分のダメージを20%遮断する（解除不可）。",
+        "CasterIconId": 83,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8300320201]",
+        "IconId": 83003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8300320201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550408300340201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550408300320201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550408300340201,
+        "IsIgnore": null,
+        "Memo": "[結界] 最大HP×10%を超えた分のダメージを50%遮断する（解除不可）。",
+        "CasterIconId": 83,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8300340201]",
+        "IconId": 83003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8300340201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550408300340201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550408300320201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550408300420201,
+        "IsIgnore": null,
+        "Memo": "クリティカル耐性率が60%増加する。",
+        "CasterIconId": 83,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription8300420201]",
+        "IconId": 83004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName8300420201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 550408400200102,
         "IsIgnore": null,
         "Memo": "[気絶] 行動不能になる。",
@@ -82900,5 +83280,139 @@
                 "OrderNumber": 4
             }
         ]
+    },
+    {
+        "Id": 550413000300101,
+        "IsIgnore": null,
+        "Memo": "[解析] 攻撃力が3%増加する（最大6スタックまで）（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 130,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13000300101]",
+        "IconId": 130003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13000300101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550413000340101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550413000300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550413000320102,
+        "IsIgnore": null,
+        "Memo": "スピードが15%増加する（解除不可）。",
+        "CasterIconId": 130,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13000320102]",
+        "IconId": 130003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13000320102]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550413000330102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550413000320102,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550413000330102,
+        "IsIgnore": null,
+        "Memo": "スピードが30%増加する（解除不可）。",
+        "CasterIconId": 130,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13000330102]",
+        "IconId": 130003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13000330102]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550413000330102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550413000320102,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550413000340101,
+        "IsIgnore": null,
+        "Memo": "[解析] 攻撃力が10%増加する（最大6スタックまで）（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 130,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13000340101]",
+        "IconId": 130003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13000340101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550413000340101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550413000300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550413000400101,
+        "IsIgnore": null,
+        "Memo": "*バフ1つのターン数を1減少",
+        "CasterIconId": 130,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13000400101]",
+        "IconId": 130004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13000400101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550413000420201,
+        "IsIgnore": null,
+        "Memo": " [多重バリア] 最大HP×20％以上のダメージを1層消費して無効化する（解除不可）。",
+        "CasterIconId": 130,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13000420201]",
+        "IconId": 130004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13000420201]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550413000430101,
+        "IsIgnore": null,
+        "Memo": "*バフ1つのターン数を1減少",
+        "CasterIconId": 130,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13000430101]",
+        "IconId": 130004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13000430101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
     }
 ]
