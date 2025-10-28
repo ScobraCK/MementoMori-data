@@ -11630,5 +11630,37 @@
         "ItemId": 11,
         "ItemType": 16,
         "NeedCount": 1
+    },
+    {
+        "Id": 744,
+        "IsIgnore": null,
+        "Memo": "キラキラの宝石箱",
+        "ChangeItems": [
+            {
+                "ItemCount": 10000,
+                "ItemId": 1,
+                "ItemType": 3
+            }
+        ],
+        "ChangeItemType": 0,
+        "ItemId": 35,
+        "ItemType": 50,
+        "NeedCount": 1
+    },
+    {
+        "Id": 745,
+        "IsIgnore": null,
+        "Memo": "宝物ケルベロスガチャチケット",
+        "ChangeItems": [
+            {
+                "ItemCount": 1,
+                "ItemId": 2,
+                "ItemType": 16
+            }
+        ],
+        "ChangeItemType": 0,
+        "ItemId": 1290,
+        "ItemType": 16,
+        "NeedCount": 1
     }
 ]

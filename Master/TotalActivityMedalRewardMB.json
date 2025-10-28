@@ -2428,5 +2428,74 @@
         "SortOrder": 0,
         "TimeServerIdList": null,
         "ImageId": 0
+    },
+    {
+        "Id": 10131,
+        "IsIgnore": null,
+        "Memo": "イベント_デイリーミッション1_宝物ケルベロス",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 20,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 35,
+                    "ItemType": 50
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2025-10-30 04:00:00",
+        "EndTime": "2025-11-09 03:59:59",
+        "SortOrder": 0,
+        "TimeServerIdList": null,
+        "ImageId": 0
+    },
+    {
+        "Id": 10132,
+        "IsIgnore": null,
+        "Memo": "イベント_デイリーミッション3_宝物ケルベロス",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 60,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 35,
+                    "ItemType": 50
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2025-10-30 04:00:00",
+        "EndTime": "2025-11-09 03:59:59",
+        "SortOrder": 0,
+        "TimeServerIdList": null,
+        "ImageId": 0
+    },
+    {
+        "Id": 10133,
+        "IsIgnore": null,
+        "Memo": "イベント_デイリーミッション5_宝物ケルベロス",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 100,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 10,
+                    "ItemId": 35,
+                    "ItemType": 50
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2025-10-30 04:00:00",
+        "EndTime": "2025-11-09 03:59:59",
+        "SortOrder": 0,
+        "TimeServerIdList": null,
+        "ImageId": 0
     }
 ]
