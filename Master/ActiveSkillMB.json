@@ -5497,7 +5497,7 @@
     {
         "Id": 43001,
         "IsIgnore": null,
-        "Memo": "【雷啼の魔女】\\nケルベロスSR: /Lv1　制御不能な雷装の力によって、ランダムな敵に3回攻撃力×380％の物理攻撃を行う。容赦のない獣の爪は、力なき者を鎧ごと切り裂き、対象の腕力が自身よりも低い場合、1ターンの間物理防御力を50％減少させる。　/Lv2 物理攻撃の回数が6回になる。　/Lv3 物理攻撃のダメージが攻撃力×480%になる。　/専用1 雷啼の爪を強化する。さらにこのスキルで敵を戦闘不能にした場合、2ターンの間自身のクリティカルダメージが30％増加する。　/専用2 雷啼の爪を強化する。物理攻撃のダメージが攻撃力×520%になる。　/専用3 雷啼の爪を強化する。クリティカルダメージの増加量が60％になる。",
+        "Memo": "ケルベロスSR:Lv1 制御不能な雷装の力によって、ランダムな敵に3回攻撃力×350%の物理攻撃を行う。容赦のない獣の爪は、力なき者を鎧ごと切り裂き、対象の腕力が自身よりも低い場合、1ターンの間物理防御力を50%減少させる。/ Lv2 物理攻撃の回数が6回になる。/ Lv3 物理攻撃のダメージが攻撃力×520%になる。/ Ex1 雷啼の爪を強化する。さらにこのスキルで敵を戦闘不能にした場合、2ターンの間自身のクリダメ強化が30%増加する。/ Ex3 雷啼の爪を強化する。クリダメ強化の増加量が60%になる。",
         "ActiveSkillConditions": "True",
         "ActiveSkillInfos": [
             {
@@ -5561,33 +5561,17 @@
             {
                 "OrderNumber": 5,
                 "DescriptionKey": "[ActiveSkillDescription430015]",
-                "CharacterLevel": 181,
-                "EquipmentRarityFlags": 256,
-                "BlessingItemId": 0,
-                "SubSetSkillIds": [
-                    43001501,
-                    43001502,
-                    43001502,
-                    43001502,
-                    43001502,
-                    43001502,
-                    43001403
-                ]
-            },
-            {
-                "OrderNumber": 6,
-                "DescriptionKey": "[ActiveSkillDescription430016]",
                 "CharacterLevel": 240,
                 "EquipmentRarityFlags": 512,
                 "BlessingItemId": 0,
                 "SubSetSkillIds": [
-                    43001501,
-                    43001502,
-                    43001502,
-                    43001502,
-                    43001502,
-                    43001502,
-                    43001603
+                    43001301,
+                    43001302,
+                    43001302,
+                    43001302,
+                    43001302,
+                    43001302,
+                    43001503
                 ]
             }
         ],
@@ -5599,7 +5583,7 @@
     {
         "Id": 43002,
         "IsIgnore": null,
-        "Memo": "【雷啼の魔女】\\nケルベロスSR: /Lv1　呪われた雷が弱った敵を狙い撃つ。HP割合が最も低い敵に3回攻撃力×350%の物理攻撃を行う。　/Lv2 さらに対象のHP割合が15％以下かつ現在HPが自身の攻撃力×1500％以下の場合、即時戦闘不能にする。　/Lv3 物理攻撃の回数が5回になる。　/Lv4 物理攻撃のダメージが攻撃力×480%になる。",
+        "Memo": "ケルベロスSR:Lv1 呪われた雷が弱った敵を狙い撃つ。HP割合が最も低い敵に3回攻撃力×380%の物理攻撃を行う。/ Lv2 さらにこのスキルで敵を戦闘不能にできず、対象のHP割合が15%以下かつ現在HPが自身の攻撃力×1500%以下の場合、即時戦闘不能にする。/ Lv3 物理攻撃の回数が5回になる。/ Lv4 物理攻撃のダメージが攻撃力×480%になる。",
         "ActiveSkillConditions": "True",
         "ActiveSkillInfos": [
             {
@@ -15608,6 +15592,138 @@
         "RootActiveSkillId": 126002
     },
     {
+        "Id": 129001,
+        "IsIgnore": null,
+        "Memo": "宝物ケルベロスSR:Lv1 冥府を守る獣の咆哮が、愚者の魂を消し飛ばす。「がうがう～！」ランダムな敵に6回攻撃力×240%の魔法攻撃を行う。/ Lv2 魔法攻撃のダメージが攻撃力×340%になる。/ Lv3 魔法攻撃の前に自身が『優しい魔法』を付帯している場合、魔法攻撃のダメージが攻撃力×510%になる。/ Ex1 守護獣の咆哮を強化する。魔法攻撃の回数が10回になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription1290011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    129001001,
+                    129001002,
+                    129001002,
+                    129001002,
+                    129001002,
+                    129001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription1290012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    129001201,
+                    129001202,
+                    129001202,
+                    129001202,
+                    129001202,
+                    129001202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription1290013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    129001301,
+                    129001302,
+                    129001302,
+                    129001302,
+                    129001302,
+                    129001302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription1290014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    129001301,
+                    129001302,
+                    129001302,
+                    129001302,
+                    129001302,
+                    129001302,
+                    129001302,
+                    129001302,
+                    129001302,
+                    129001302
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName129001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 129001
+    },
+    {
+        "Id": 129002,
+        "IsIgnore": null,
+        "Memo": "宝物ケルベロスSR:Lv1 罪人を裁く冥界の雷が、穢れた魂を打ち砕く。「ビリビリどっかーん！」ランダムな敵2体に攻撃力×720%の魔法攻撃を行う。魔法攻撃の後、このターン中に『多重バリア』でダメージを無効化した敵に、対象がこのターン中に『多重バリア』で無効化にしたダメージ×20%の直接攻撃を行う。この直接攻撃は対象の『多重バリア』を無視し、クリティカルヒットしない。/ Lv2 魔法攻撃の対象がランダムな敵3体になる。/ Lv3 魔法攻撃のダメージが攻撃力×1320%になる。/ Lv4 魔法攻撃の前に自身が『優しい魔法』を付帯している場合、魔法攻撃のダメージが攻撃力×1980%になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription1290021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    129002001,
+                    129002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription1290022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    129002201,
+                    129002002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription1290023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    129002301,
+                    129002002
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription1290024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    129002401,
+                    129002002
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName129002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 129002
+    },
+    {
         "Id": 130001,
         "IsIgnore": null,
         "Memo": "アイシェSR:Lv1 「私の知識が必要かしら？」自身に自身の現在HP×10%の自傷ダメージを与え、ランダムな敵に3回攻撃力×300%の物理攻撃を行う。/ Lv2 さらに最後の物理攻撃の後自身の『解析』のスタック数が3以上の場合、このスキルを再発動する（再発動は1回まで）。/ Lv3 物理攻撃のダメージが攻撃力×610%になる。/ Ex1 英知の標を強化する。物理攻撃の回数が4回になる。/ Ex3 英知の標を強化する。物理攻撃のダメージが攻撃力×670%になる。",
@@ -22347,7 +22463,7 @@
     {
         "Id": 550443001,
         "IsIgnore": null,
-        "Memo": "",
+        "Memo": null,
         "ActiveSkillConditions": "True",
         "ActiveSkillInfos": [
             {
@@ -22426,7 +22542,7 @@
             },
             {
                 "OrderNumber": 6,
-                "DescriptionKey": "[ActiveSkillDescription430016]",
+                "DescriptionKey": "",
                 "CharacterLevel": 240,
                 "EquipmentRarityFlags": 512,
                 "BlessingItemId": 0,
@@ -22449,7 +22565,7 @@
     {
         "Id": 550443002,
         "IsIgnore": null,
-        "Memo": "",
+        "Memo": null,
         "ActiveSkillConditions": "True",
         "ActiveSkillInfos": [
             {
@@ -36393,7 +36509,7 @@
             },
             {
                 "OrderNumber": 6,
-                "DescriptionKey": "[ActiveSkillDescription430016]",
+                "DescriptionKey": "",
                 "CharacterLevel": 240,
                 "EquipmentRarityFlags": 512,
                 "BlessingItemId": 0,
@@ -46438,6 +46554,138 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 126002
+    },
+    {
+        "Id": 5504129001,
+        "IsIgnore": null,
+        "Memo": "",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504129001001,
+                    5504129001002,
+                    5504129001002,
+                    5504129001002,
+                    5504129001002,
+                    5504129001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504129001201,
+                    5504129001202,
+                    5504129001202,
+                    5504129001202,
+                    5504129001202,
+                    5504129001202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504129001301,
+                    5504129001302,
+                    5504129001302,
+                    5504129001302,
+                    5504129001302,
+                    5504129001302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504129001301,
+                    5504129001302,
+                    5504129001302,
+                    5504129001302,
+                    5504129001302,
+                    5504129001302,
+                    5504129001302,
+                    5504129001302,
+                    5504129001302,
+                    5504129001302
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName129001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 129001
+    },
+    {
+        "Id": 5504129002,
+        "IsIgnore": null,
+        "Memo": "",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504129002001,
+                    5504129002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504129002201,
+                    5504129002002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504129002301,
+                    5504129002002
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504129002401,
+                    5504129002002
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName129002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 129002
     },
     {
         "Id": 5504130001,

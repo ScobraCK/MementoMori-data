@@ -868,9 +868,9 @@
         "IsIgnore": null,
         "Memo": "ルスティカ",
         "CharacterId": 113,
-        "IsPickup": true,
-        "EndTimeFixJST": "2025-10-23 14:29:59",
-        "StartTimeFixJST": "2025-10-08 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 98,
@@ -1006,5 +1006,14 @@
         "IsPickup": true,
         "EndTimeFixJST": "2025-11-13 14:29:59",
         "StartTimeFixJST": "2025-10-16 14:30:00"
+    },
+    {
+        "Id": 113,
+        "IsIgnore": null,
+        "Memo": "宝物ケルベロス",
+        "CharacterId": 129,
+        "IsPickup": true,
+        "EndTimeFixJST": "2025-11-27 14:29:59",
+        "StartTimeFixJST": "2025-10-30 14:30:00"
     }
 ]

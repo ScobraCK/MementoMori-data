@@ -8065,7 +8065,7 @@
     {
         "Id": 4300100102,
         "IsIgnore": null,
-        "Memo": "【雷啼の魔女】ケルベロスSR　雷啼の爪 : 物理防御力が50%減少する。",
+        "Memo": "物理防御力が50%減少する。",
         "CasterIconId": 43,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4300100102]",
@@ -8079,7 +8079,7 @@
     {
         "Id": 4300140301,
         "IsIgnore": null,
-        "Memo": "【雷啼の魔女】ケルベロスSR　雷啼の爪 : クリティカルダメージが30％増加する。",
+        "Memo": "クリダメ強化が30%増加する。",
         "CasterIconId": 43,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4300140301]",
@@ -8090,7 +8090,30 @@
         "IsTurnHide": false,
         "EffectGroupInfoList": [
             {
-                "EffectGroupId": 4300160301,
+                "EffectGroupId": 4300150301,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 4300140301,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 4300150301,
+        "IsIgnore": null,
+        "Memo": "クリダメ強化が60%増加する。",
+        "CasterIconId": 43,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription4300150301]",
+        "IconId": 43001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName4300150301]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 4300150301,
                 "OrderNumber": 1
             },
             {
@@ -8102,13 +8125,13 @@
     {
         "Id": 4300160301,
         "IsIgnore": null,
-        "Memo": "【雷啼の魔女】ケルベロスSR　雷啼の爪 : クリティカルダメージが60％増加する。",
+        "Memo": "削除予定　クリティカルダメージが60％増加する。",
         "CasterIconId": 43,
         "CasterIconType": 1,
-        "DescriptionKey": "[EffectGroupDescription4300160301]",
+        "DescriptionKey": "*",
         "IconId": 43001,
         "IconType": 1,
-        "NameKey": "[EffectGroupName4300160301]",
+        "NameKey": "*",
         "IsHide": false,
         "IsTurnHide": false,
         "EffectGroupInfoList": [
@@ -8125,7 +8148,7 @@
     {
         "Id": 4300300101,
         "IsIgnore": null,
-        "Memo": "自身の付帯しているデバフを2つ解除する。",
+        "Memo": "*弱体効果を2つ解除する。",
         "CasterIconId": 43,
         "CasterIconType": 1,
         "DescriptionKey": "*",
@@ -8139,7 +8162,7 @@
     {
         "Id": 4300320101,
         "IsIgnore": null,
-        "Memo": "自身の付帯しているデバフをすべて解除する。",
+        "Memo": "*弱体効果を全て解除する。",
         "CasterIconId": 43,
         "CasterIconType": 1,
         "DescriptionKey": "*",
@@ -8153,7 +8176,7 @@
     {
         "Id": 4300330101,
         "IsIgnore": null,
-        "Memo": "デバフを付帯している場合、自身の付帯しているデバフをすべて解除する。",
+        "Memo": "*弱体効果を全て解除する。",
         "CasterIconId": 43,
         "CasterIconType": 1,
         "DescriptionKey": "*",
@@ -8167,7 +8190,7 @@
     {
         "Id": 4300330102,
         "IsIgnore": null,
-        "Memo": "【雷啼の魔女】ケルベロスSR　魔法の言葉 : [弱体効果無効] 弱体効果が付与されなくなる。",
+        "Memo": "[弱体効果無効] 弱体効果が付与されなくなる。",
         "CasterIconId": 43,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4300330102]",
@@ -8181,7 +8204,7 @@
     {
         "Id": 4300400101,
         "IsIgnore": null,
-        "Memo": "【雷啼の魔女】ケルベロスSR　制御不能の力 : 攻撃力が20％増加する。",
+        "Memo": "攻撃力が20%増加する（解除不可）。",
         "CasterIconId": 43,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4300400101]",
@@ -8195,7 +8218,7 @@
     {
         "Id": 4300420101,
         "IsIgnore": null,
-        "Memo": "【雷啼の魔女】ケルベロスSR　制御不能の力 : 攻撃力が40％増加する。",
+        "Memo": "攻撃力が40%増加する（解除不可）。",
         "CasterIconId": 43,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4300420101]",
@@ -8209,7 +8232,7 @@
     {
         "Id": 4300430101,
         "IsIgnore": null,
-        "Memo": "【雷啼の魔女】ケルベロスSR　制御不能の力 : 攻撃力が40％増加し、クリティカル率が20％増加する。",
+        "Memo": "攻撃力が40％増加し、クリティカル率が20％増加する（解除不可）。",
         "CasterIconId": 43,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription4300430101]",
@@ -8218,6 +8241,20 @@
         "NameKey": "[EffectGroupName4300430101]",
         "IsHide": true,
         "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 4300440201,
+        "IsIgnore": null,
+        "Memo": "スピードが20%増加する（解除不可）。",
+        "CasterIconId": 43,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription4300440201]",
+        "IconId": 43004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName4300440201]",
+        "IsHide": false,
+        "IsTurnHide": false,
         "EffectGroupInfoList": null
     },
     {
@@ -28847,6 +28884,189 @@
             {
                 "EffectGroupId": 12600400101,
                 "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 12900300202,
+        "IsIgnore": null,
+        "Memo": "[優しい魔法] ダメージを30%遮断する（解除不可）。",
+        "CasterIconId": 129,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12900300202]",
+        "IconId": 129003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12900300202]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 12900340202,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 12900320202,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 12900300202,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 12900300203,
+        "IsIgnore": null,
+        "Memo": "*印付与",
+        "CasterIconId": 129,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12900300203]",
+        "IconId": 129003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12900300203]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 12900320202,
+        "IsIgnore": null,
+        "Memo": "[優しい魔法] ダメージを30%遮断する（解除不可）。解除された後に自身が攻撃を受けたとき、ダメージを20%遮断する。",
+        "CasterIconId": 129,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12900320202]",
+        "IconId": 129003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12900320202]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 12900340202,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 12900320202,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 12900300202,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 12900330201,
+        "IsIgnore": null,
+        "Memo": "*弱体効果を1つ解除",
+        "CasterIconId": 129,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12900330201]",
+        "IconId": 129003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12900330201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 12900340202,
+        "IsIgnore": null,
+        "Memo": "[優しい魔法] ダメージを85%遮断する（解除不可）。解除された後に自身が攻撃を受けたとき、ダメージを70%遮断する。",
+        "CasterIconId": 129,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12900340202]",
+        "IconId": 129003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12900340202]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 12900340202,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 12900320202,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 12900300202,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 12900400101,
+        "IsIgnore": null,
+        "Memo": "*命中率が40%増加する（解除不可）。",
+        "CasterIconId": 129,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12900400101]",
+        "IconId": 129004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12900400101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 12900440101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 12900400101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 12900420201,
+        "IsIgnore": null,
+        "Memo": "*攻撃力が10%増加する（解除不可）。",
+        "CasterIconId": 129,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12900420201]",
+        "IconId": 129004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12900420201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 12900430301,
+        "IsIgnore": null,
+        "Memo": "*スピードが10%増加する（解除不可）。",
+        "CasterIconId": 129,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12900430301]",
+        "IconId": 129004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12900430301]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 12900440101,
+        "IsIgnore": null,
+        "Memo": "*命中率が50%増加する（解除不可）。",
+        "CasterIconId": 129,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12900440101]",
+        "IconId": 129004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12900440101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 12900440101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 12900400101,
+                "OrderNumber": 2
             }
         ]
     },
@@ -83278,6 +83498,189 @@
             {
                 "EffectGroupId": 550412600400101,
                 "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 550412900300202,
+        "IsIgnore": null,
+        "Memo": "[優しい魔法] ダメージを30%遮断する（解除不可）。",
+        "CasterIconId": 129,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12900300202]",
+        "IconId": 129003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12900300202]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550412900340202,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550412900320202,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550412900300202,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 550412900300203,
+        "IsIgnore": null,
+        "Memo": "*印付与",
+        "CasterIconId": 129,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12900300203]",
+        "IconId": 129003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12900300203]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550412900320202,
+        "IsIgnore": null,
+        "Memo": "[優しい魔法] ダメージを30%遮断する（解除不可）。解除された後に自身が攻撃を受けたとき、ダメージを20%遮断する。",
+        "CasterIconId": 129,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12900320202]",
+        "IconId": 129003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12900320202]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550412900340202,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550412900320202,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550412900300202,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 550412900330201,
+        "IsIgnore": null,
+        "Memo": "*弱体効果を1つ解除",
+        "CasterIconId": 129,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12900330201]",
+        "IconId": 129003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12900330201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550412900340202,
+        "IsIgnore": null,
+        "Memo": "[優しい魔法] ダメージを85%遮断する（解除不可）。解除された後に自身が攻撃を受けたとき、ダメージを70%遮断する。",
+        "CasterIconId": 129,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12900340202]",
+        "IconId": 129003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12900340202]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550412900340202,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550412900320202,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550412900300202,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 550412900400101,
+        "IsIgnore": null,
+        "Memo": "*命中率が40%増加する（解除不可）。",
+        "CasterIconId": 129,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12900400101]",
+        "IconId": 129004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12900400101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550412900440101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550412900400101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550412900420201,
+        "IsIgnore": null,
+        "Memo": "*攻撃力が10%増加する（解除不可）。",
+        "CasterIconId": 129,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12900420201]",
+        "IconId": 129004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12900420201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550412900430301,
+        "IsIgnore": null,
+        "Memo": "*スピードが10%増加する（解除不可）。",
+        "CasterIconId": 129,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12900430301]",
+        "IconId": 129004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12900430301]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550412900440101,
+        "IsIgnore": null,
+        "Memo": "*命中率が50%増加する（解除不可）。",
+        "CasterIconId": 129,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription12900440101]",
+        "IconId": 129004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName12900440101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550412900440101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550412900400101,
+                "OrderNumber": 2
             }
         ]
     },
