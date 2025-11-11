@@ -1920,6 +1920,12 @@
         "ErrorMessageType": 2
     },
     {
+        "Id": 192017,
+        "IsIgnore": null,
+        "Memo": "受け取り済みのワールド報酬です",
+        "ErrorMessageType": 2
+    },
+    {
         "Id": 200110,
         "IsIgnore": null,
         "Memo": null,
@@ -3597,6 +3603,12 @@
         "Id": 302004,
         "IsIgnore": null,
         "Memo": "パーティ編成データがありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 302005,
+        "IsIgnore": null,
+        "Memo": "マッチング処理中です",
         "ErrorMessageType": 2
     },
     {
@@ -5727,6 +5739,12 @@
         "Id": 900319,
         "IsIgnore": null,
         "Memo": "グランドバトルの参加条件を満たしていません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 900320,
+        "IsIgnore": null,
+        "Memo": "マッチング処理中です",
         "ErrorMessageType": 2
     },
     {
