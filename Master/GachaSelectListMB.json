@@ -6012,10 +6012,11 @@
     {
         "Id": 162,
         "IsIgnore": null,
-        "Memo": "アイシェ②+宝物ケルベロス④+復刻D.D.②+仮（1120切り替え用）",
+        "Memo": "アイシェ②+宝物ケルベロス④+復刻制服A.A.①+復刻D.D.②（1120切り替え用）",
         "CharacterIdList": [
             130,
             129,
+            117,
             116,
             5,
             6,
@@ -6045,11 +6046,50 @@
         "NewCharacterIdList": [
             130,
             129,
+            117,
             116
         ],
         "OrderNumber": 162,
         "StartTimeFixJST": "2025-11-20 14:30:00",
         "EndTimeFixJST": "2025-11-27 14:29:59"
+    },
+    {
+        "Id": 163,
+        "IsIgnore": null,
+        "Memo": "復刻制服A.A.②+仮（1127切り替え用）",
+        "CharacterIdList": [
+            117,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            117
+        ],
+        "OrderNumber": 163,
+        "StartTimeFixJST": "2025-11-27 16:30:00",
+        "EndTimeFixJST": "2025-12-04 14:29:59"
     },
     {
         "Id": 10000,
