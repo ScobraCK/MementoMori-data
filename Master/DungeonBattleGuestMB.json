@@ -589,18 +589,18 @@
         "IsIgnore": null,
         "Memo": "聖夜アモール",
         "CharacterId": 73,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2025-12-11 14:29:59",
+        "StartTimeFixJST": "2025-11-27 14:30:00"
     },
     {
         "Id": 67,
         "IsIgnore": null,
         "Memo": "聖夜トロポン",
         "CharacterId": 74,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2025-12-11 14:29:59",
+        "StartTimeFixJST": "2025-11-27 14:30:00"
     },
     {
         "Id": 68,
@@ -886,9 +886,9 @@
         "IsIgnore": null,
         "Memo": "ポプリ",
         "CharacterId": 115,
-        "IsPickup": true,
-        "EndTimeFixJST": "2025-11-20 14:29:59",
-        "StartTimeFixJST": "2025-11-06 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 100,
@@ -1024,5 +1024,14 @@
         "IsPickup": true,
         "EndTimeFixJST": "2025-11-27 14:29:59",
         "StartTimeFixJST": "2025-11-13 14:30:00"
+    },
+    {
+        "Id": 115,
+        "IsIgnore": null,
+        "Memo": "冬マーリン",
+        "CharacterId": 131,
+        "IsPickup": true,
+        "EndTimeFixJST": "2025-12-25 14:29:59",
+        "StartTimeFixJST": "2025-11-27 14:30:00"
     }
 ]

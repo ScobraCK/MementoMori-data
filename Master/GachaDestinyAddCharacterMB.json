@@ -1449,6 +1449,15 @@
         "EndGachaSelectListId": 163
     },
     {
+        "Id": 200,
+        "IsIgnore": null,
+        "Memo": "冬マーリン追加",
+        "CharacterId": 131,
+        "GachaAddCharacterType": 2,
+        "StartGachaSelectListId": 163,
+        "EndGachaSelectListId": 166
+    },
+    {
         "Id": 3000101,
         "IsIgnore": null,
         "Memo": "水着サブリナ追加",
@@ -1474,5 +1483,23 @@
         "GachaAddCharacterType": 2,
         "StartGachaSelectListId": 143,
         "EndGachaSelectListId": 145
+    },
+    {
+        "Id": 3000201,
+        "IsIgnore": null,
+        "Memo": "聖夜アモール復刻追加",
+        "CharacterId": 73,
+        "GachaAddCharacterType": 2,
+        "StartGachaSelectListId": 163,
+        "EndGachaSelectListId": 164
+    },
+    {
+        "Id": 3000202,
+        "IsIgnore": null,
+        "Memo": "聖夜トロポン復刻追加",
+        "CharacterId": 74,
+        "GachaAddCharacterType": 2,
+        "StartGachaSelectListId": 163,
+        "EndGachaSelectListId": 164
     }
 ]
