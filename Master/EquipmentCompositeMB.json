@@ -1905,6 +1905,21 @@
         ]
     },
     {
+        "Id": 129,
+        "IsIgnore": null,
+        "Memo": "アイシェ銃",
+        "EquipmentId": 1300920180,
+        "ItemRarityFlags": 128,
+        "RequiredFragmentCount": 80,
+        "RequiredItemList": [
+            {
+                "ItemCount": 75000,
+                "ItemId": 1,
+                "ItemType": 3
+            }
+        ]
+    },
+    {
         "Id": 130,
         "IsIgnore": null,
         "Memo": "宝物フェンリル剣",
@@ -1924,6 +1939,21 @@
         "IsIgnore": null,
         "Memo": "宝物ケルベロス魔導書",
         "EquipmentId": 1290930180,
+        "ItemRarityFlags": 128,
+        "RequiredFragmentCount": 80,
+        "RequiredItemList": [
+            {
+                "ItemCount": 75000,
+                "ItemId": 1,
+                "ItemType": 3
+            }
+        ]
+    },
+    {
+        "Id": 132,
+        "IsIgnore": null,
+        "Memo": "冬マーリン魔導書",
+        "EquipmentId": 1310930180,
         "ItemRarityFlags": 128,
         "RequiredFragmentCount": 80,
         "RequiredItemList": [

@@ -5968,9 +5968,11 @@
     {
         "Id": 161,
         "IsIgnore": null,
-        "Memo": "宝物ケルベロス③+復刻ポプリ②+仮（1113切り替え用）",
+        "Memo": "アイシェ①+宝物ケルベロス③+復刻D.D.①+復刻ポプリ②（1113切り替え用）",
         "CharacterIdList": [
+            130,
             129,
+            116,
             115,
             5,
             6,
@@ -5998,7 +6000,9 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
+            130,
             129,
+            116,
             115
         ],
         "OrderNumber": 161,
@@ -6008,9 +6012,12 @@
     {
         "Id": 162,
         "IsIgnore": null,
-        "Memo": "宝物ケルベロス④+仮（1120切り替え用）",
+        "Memo": "アイシェ②+宝物ケルベロス④+復刻制服A.A.①+復刻D.D.②（1120切り替え用）",
         "CharacterIdList": [
+            130,
             129,
+            117,
+            116,
             5,
             6,
             7,
@@ -6037,11 +6044,176 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            129
+            130,
+            129,
+            117,
+            116
         ],
         "OrderNumber": 162,
         "StartTimeFixJST": "2025-11-20 14:30:00",
         "EndTimeFixJST": "2025-11-27 14:29:59"
+    },
+    {
+        "Id": 163,
+        "IsIgnore": null,
+        "Memo": "冬マーリン①+復刻制服A.A.②+選択聖夜アモール①+復刻聖夜トロポン①（1127切り替え用）",
+        "CharacterIdList": [
+            131,
+            117,
+            73,
+            74,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            131,
+            117,
+            73,
+            74
+        ],
+        "OrderNumber": 163,
+        "StartTimeFixJST": "2025-11-27 17:30:00",
+        "EndTimeFixJST": "2025-12-04 14:29:59"
+    },
+    {
+        "Id": 164,
+        "IsIgnore": null,
+        "Memo": "冬マーリン②+選択聖夜アモール②+選択聖夜トロポン②+仮（1204切り替え用）",
+        "CharacterIdList": [
+            131,
+            73,
+            74,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            131,
+            73,
+            74
+        ],
+        "OrderNumber": 164,
+        "StartTimeFixJST": "2025-12-04 14:30:00",
+        "EndTimeFixJST": "2025-12-11 14:29:59"
+    },
+    {
+        "Id": 165,
+        "IsIgnore": null,
+        "Memo": "冬マーリン③+仮（1211切り替え用）",
+        "CharacterIdList": [
+            131,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            131
+        ],
+        "OrderNumber": 165,
+        "StartTimeFixJST": "2025-12-11 16:30:00",
+        "EndTimeFixJST": "2025-12-18 14:29:59"
+    },
+    {
+        "Id": 166,
+        "IsIgnore": null,
+        "Memo": "冬マーリン④+仮（1218切り替え用）",
+        "CharacterIdList": [
+            131,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            131
+        ],
+        "OrderNumber": 166,
+        "StartTimeFixJST": "2025-12-18 14:30:00",
+        "EndTimeFixJST": "2025-12-25 14:29:59"
     },
     {
         "Id": 10000,
@@ -6636,6 +6808,26 @@
         "EndTimeFixJST": "2025-11-27 14:29:59"
     },
     {
+        "Id": 10310,
+        "IsIgnore": null,
+        "Memo": "星の導きガチャ 第31回_カグヤ・ミナシュマリ・ミラ",
+        "CharacterIdList": [
+            69,
+            77,
+            80
+        ],
+        "GachaSelectListType": 3,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            69,
+            77,
+            80
+        ],
+        "OrderNumber": 10310,
+        "StartTimeFixJST": "2025-11-27 17:30:00",
+        "EndTimeFixJST": "2025-12-18 14:29:59"
+    },
+    {
         "Id": 30001,
         "IsIgnore": null,
         "Memo": "選択水着サブリナ①+選択水着モーザ①+選択浴衣コルディ①（選択PUガチャ用）",
@@ -6650,6 +6842,21 @@
         "OrderNumber": 30001,
         "StartTimeFixJST": "2025-07-08 15:30:00",
         "EndTimeFixJST": "2025-07-23 14:29:59"
+    },
+    {
+        "Id": 30002,
+        "IsIgnore": null,
+        "Memo": "選択聖夜アモール①+選択聖夜トロポン①（選択PUガチャ用）",
+        "CharacterIdList": [
+            73,
+            74
+        ],
+        "GachaSelectListType": 4,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": null,
+        "OrderNumber": 30002,
+        "StartTimeFixJST": "2025-11-27 17:30:00",
+        "EndTimeFixJST": "2025-12-11 14:29:59"
     },
     {
         "Id": 40001,
