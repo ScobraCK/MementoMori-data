@@ -6100,9 +6100,11 @@
     {
         "Id": 164,
         "IsIgnore": null,
-        "Memo": "冬マーリン②+選択聖夜アモール②+選択聖夜トロポン②+仮（1204切り替え用）",
+        "Memo": "冬マーリン②+復刻冬ソルティーナ①+復刻冬ルナリンド①+復刻聖夜アモール②+選択聖夜トロポン②（1204切り替え用）",
         "CharacterIdList": [
             131,
+            107,
+            108,
             73,
             74,
             5,
@@ -6132,6 +6134,8 @@
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
             131,
+            107,
+            108,
             73,
             74
         ],
@@ -6142,9 +6146,11 @@
     {
         "Id": 165,
         "IsIgnore": null,
-        "Memo": "冬マーリン③+仮（1211切り替え用）",
+        "Memo": "冬マーリン③+復刻冬ソルティーナ②+復刻冬ルナリンド②+仮（1211切り替え用）",
         "CharacterIdList": [
             131,
+            107,
+            108,
             5,
             6,
             7,
@@ -6171,7 +6177,9 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            131
+            131,
+            107,
+            108
         ],
         "OrderNumber": 165,
         "StartTimeFixJST": "2025-12-11 16:30:00",
