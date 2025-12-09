@@ -4926,6 +4926,24 @@
         "ErrorMessageType": 2
     },
     {
+        "Id": 500001,
+        "IsIgnore": null,
+        "Memo": "クエスト情報が見つかりません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 500002,
+        "IsIgnore": null,
+        "Memo": "キャラ情報が見つかりません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 500003,
+        "IsIgnore": null,
+        "Memo": "お手伝い派遣情報が見つかりません",
+        "ErrorMessageType": 2
+    },
+    {
         "Id": 501000,
         "IsIgnore": null,
         "Memo": "魔女の書庫整理が解放されていません",
@@ -4995,6 +5013,66 @@
         "Id": 501011,
         "IsIgnore": null,
         "Memo": "選択できない報酬です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 501012,
+        "IsIgnore": null,
+        "Memo": "派遣期間が終了しています",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 501013,
+        "IsIgnore": null,
+        "Memo": "データが不正です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 501014,
+        "IsIgnore": null,
+        "Memo": "一括派遣が解放されていません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 501015,
+        "IsIgnore": null,
+        "Memo": "派遣できないクエストです",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 501016,
+        "IsIgnore": null,
+        "Memo": "派遣できないクエストです",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 501017,
+        "IsIgnore": null,
+        "Memo": "派遣済みのキャラです",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 501018,
+        "IsIgnore": null,
+        "Memo": "報酬の受け取りができない状態です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 501019,
+        "IsIgnore": null,
+        "Memo": "解放できる派遣枠がありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 501020,
+        "IsIgnore": null,
+        "Memo": "同じクエストを複数選択しています",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 501021,
+        "IsIgnore": null,
+        "Memo": "同じキャラを複数選択しています",
         "ErrorMessageType": 2
     },
     {
