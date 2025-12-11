@@ -58744,6 +58744,32 @@
     {
         "Id": 2007,
         "IsIgnore": null,
+        "Memo": "魔女の書庫整理_フロア25に到達する",
+        "AchievementType": 26010200,
+        "DescriptionKey": null,
+        "MissionType": 14,
+        "NameKey": "[MissionNameBookSortFloorsCount]",
+        "OpeningPeriod": 0,
+        "RequireValue": 25,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 8,
+                    "ItemType": 43
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 1,
+        "TransitionDestination": 2601,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2008,
+        "IsIgnore": null,
         "Memo": "魔女の書庫整理_フロア30に到達する",
         "AchievementType": 26010200,
         "DescriptionKey": null,
@@ -58768,7 +58794,7 @@
         "StartTime": "2020-01-01 00:00:00"
     },
     {
-        "Id": 2008,
+        "Id": 2009,
         "IsIgnore": null,
         "Memo": "魔女の書庫整理_フロア40に到達する",
         "AchievementType": 26010200,
@@ -58777,32 +58803,6 @@
         "NameKey": "[MissionNameBookSortFloorsCount]",
         "OpeningPeriod": 0,
         "RequireValue": 40,
-        "RewardList": [
-            {
-                "Item": {
-                    "ItemCount": 1,
-                    "ItemId": 8,
-                    "ItemType": 43
-                },
-                "RarityFlags": 0
-            }
-        ],
-        "SortOrderA": 1,
-        "SortOrderB": 1,
-        "TransitionDestination": 2601,
-        "EndTime": "2100-01-01 00:00:00",
-        "StartTime": "2020-01-01 00:00:00"
-    },
-    {
-        "Id": 2009,
-        "IsIgnore": null,
-        "Memo": "魔女の書庫整理_フロア50に到達する",
-        "AchievementType": 26010200,
-        "DescriptionKey": null,
-        "MissionType": 14,
-        "NameKey": "[MissionNameBookSortFloorsCount]",
-        "OpeningPeriod": 0,
-        "RequireValue": 50,
         "RewardList": [
             {
                 "Item": {
