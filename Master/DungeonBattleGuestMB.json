@@ -904,18 +904,18 @@
         "IsIgnore": null,
         "Memo": "制服A.A.",
         "CharacterId": 117,
-        "IsPickup": true,
-        "EndTimeFixJST": "2025-12-04 14:29:59",
-        "StartTimeFixJST": "2025-11-20 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 102,
         "IsIgnore": null,
         "Memo": "ルシール",
         "CharacterId": 89,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2025-12-25 14:29:59",
+        "StartTimeFixJST": "2025-12-11 14:30:00"
     },
     {
         "Id": 103,
@@ -1033,5 +1033,14 @@
         "IsPickup": true,
         "EndTimeFixJST": "2025-12-25 14:29:59",
         "StartTimeFixJST": "2025-11-27 14:30:00"
+    },
+    {
+        "Id": 116,
+        "IsIgnore": null,
+        "Memo": "冬ステラ",
+        "CharacterId": 132,
+        "IsPickup": true,
+        "EndTimeFixJST": "2026-01-06 14:29:59",
+        "StartTimeFixJST": "2025-12-11 14:30:00"
     }
 ]
