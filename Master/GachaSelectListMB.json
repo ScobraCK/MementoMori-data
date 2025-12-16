@@ -6192,10 +6192,11 @@
     {
         "Id": 166,
         "IsIgnore": null,
-        "Memo": "冬ステラ②+冬マーリン④+復刻ルシール②+仮（1218切り替え用）",
+        "Memo": "冬ステラ②+冬マーリン④+復刻アイリーン①+復刻ルシール②（1218切り替え用）",
         "CharacterIdList": [
             132,
             131,
+            109,
             89,
             5,
             6,
@@ -6225,6 +6226,7 @@
         "NewCharacterIdList": [
             132,
             131,
+            109,
             89
         ],
         "OrderNumber": 166,
@@ -6234,9 +6236,10 @@
     {
         "Id": 167,
         "IsIgnore": null,
-        "Memo": "冬ステラ③+仮（1225切り替え用）",
+        "Memo": "冬ステラ③+復刻アイリーン②+仮（1225切り替え用）",
         "CharacterIdList": [
             132,
+            109,
             5,
             6,
             7,
@@ -6263,7 +6266,8 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            132
+            132,
+            109
         ],
         "OrderNumber": 167,
         "StartTimeFixJST": "2025-12-25 16:30:00",
@@ -6272,9 +6276,10 @@
     {
         "Id": 168,
         "IsIgnore": null,
-        "Memo": "冬ステラ④+仮（1231切り替え用）",
+        "Memo": "冬ステラ④+復刻アイリーン③+仮（1231切り替え用）",
         "CharacterIdList": [
             132,
+            109,
             5,
             6,
             7,
@@ -6301,7 +6306,8 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            132
+            132,
+            109
         ],
         "OrderNumber": 168,
         "StartTimeFixJST": "2025-12-31 14:30:00",
@@ -6918,6 +6924,32 @@
         "OrderNumber": 10310,
         "StartTimeFixJST": "2025-11-27 17:30:00",
         "EndTimeFixJST": "2025-12-18 14:29:59"
+    },
+    {
+        "Id": 10320,
+        "IsIgnore": null,
+        "Memo": "星の導きガチャ 第32回_エルフリンデ・アームストロング・フェーネ・アーティ・クラウディア・アサヒ",
+        "CharacterIdList": [
+            45,
+            50,
+            68,
+            58,
+            56,
+            78
+        ],
+        "GachaSelectListType": 3,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            45,
+            50,
+            68,
+            58,
+            56,
+            78
+        ],
+        "OrderNumber": 10320,
+        "StartTimeFixJST": "2025-12-18 14:30:00",
+        "EndTimeFixJST": "2026-01-15 14:29:59"
     },
     {
         "Id": 30001,
