@@ -58958,6 +58958,40 @@
         "StartTime": "2020-01-01 00:00:00"
     },
     {
+        "Id": 2024,
+        "IsIgnore": null,
+        "Memo": "パネル(汎用2枚版)_シート1_洞窟でスナイパー3人以上で7回勝利",
+        "AchievementType": 10010332,
+        "DescriptionKey": null,
+        "MissionType": 901,
+        "NameKey": "[PanelMissionName1421]",
+        "OpeningPeriod": 0,
+        "RequireValue": 7,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1002,
+                    "ItemType": 31
+                },
+                "RarityFlags": 0
+            },
+            {
+                "Item": {
+                    "ItemCount": 30,
+                    "ItemId": 4,
+                    "ItemType": 13
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 2,
+        "SortOrderB": 2,
+        "TransitionDestination": 1001,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
         "Id": 2025,
         "IsIgnore": null,
         "Memo": "メイン_メインクエスト50章をクリアする",
@@ -59438,6 +59472,888 @@
         "SortOrderA": 1,
         "SortOrderB": 9,
         "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2043,
+        "IsIgnore": null,
+        "Memo": "期間限定2026ニューイヤー_ボスバトルを18回クリアする",
+        "AchievementType": 9010300,
+        "DescriptionKey": null,
+        "MissionType": 632,
+        "NameKey": "[EventMissionName2043]",
+        "OpeningPeriod": 3,
+        "RequireValue": 18,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 100000,
+                    "ItemId": 1,
+                    "ItemType": 3
+                },
+                "RarityFlags": 0
+            },
+            {
+                "Item": {
+                    "ItemCount": 20,
+                    "ItemId": 1,
+                    "ItemType": 18
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 1,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2044,
+        "IsIgnore": null,
+        "Memo": "期間限定2026ニューイヤー_ボスバトルを24回クリアする",
+        "AchievementType": 9010300,
+        "DescriptionKey": null,
+        "MissionType": 632,
+        "NameKey": "[EventMissionName2044]",
+        "OpeningPeriod": 3,
+        "RequireValue": 24,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150000,
+                    "ItemId": 1,
+                    "ItemType": 3
+                },
+                "RarityFlags": 0
+            },
+            {
+                "Item": {
+                    "ItemCount": 20,
+                    "ItemId": 1,
+                    "ItemType": 18
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 1,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2045,
+        "IsIgnore": null,
+        "Memo": "期間限定2026ニューイヤー_ボスバトルを30回クリアする",
+        "AchievementType": 9010300,
+        "DescriptionKey": null,
+        "MissionType": 632,
+        "NameKey": "[EventMissionName2045]",
+        "OpeningPeriod": 3,
+        "RequireValue": 30,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 200000,
+                    "ItemId": 1,
+                    "ItemType": 3
+                },
+                "RarityFlags": 0
+            },
+            {
+                "Item": {
+                    "ItemCount": 30,
+                    "ItemId": 1,
+                    "ItemType": 18
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 1,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2046,
+        "IsIgnore": null,
+        "Memo": "メイン_無窮の塔で2110階をクリアする",
+        "AchievementType": 11010100,
+        "DescriptionKey": "[OpenContentToast9]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainTowerBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2110,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 250,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 17,
+        "SortOrderB": 24,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2047,
+        "IsIgnore": null,
+        "Memo": "メイン_無窮の塔で2120階をクリアする",
+        "AchievementType": 11010100,
+        "DescriptionKey": "[OpenContentToast9]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainTowerBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2120,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 250,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 17,
+        "SortOrderB": 24,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2048,
+        "IsIgnore": null,
+        "Memo": "メイン_無窮の塔で2130階をクリアする",
+        "AchievementType": 11010100,
+        "DescriptionKey": "[OpenContentToast9]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainTowerBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2130,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 250,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 17,
+        "SortOrderB": 24,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2049,
+        "IsIgnore": null,
+        "Memo": "メイン_無窮の塔で2140階をクリアする",
+        "AchievementType": 11010100,
+        "DescriptionKey": "[OpenContentToast9]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainTowerBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2140,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 250,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 17,
+        "SortOrderB": 24,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2050,
+        "IsIgnore": null,
+        "Memo": "メイン_無窮の塔で2150階をクリアする",
+        "AchievementType": 11010100,
+        "DescriptionKey": "[OpenContentToast9]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainTowerBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2150,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 250,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 17,
+        "SortOrderB": 24,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2051,
+        "IsIgnore": null,
+        "Memo": "メイン_無窮の塔で2160階をクリアする",
+        "AchievementType": 11010100,
+        "DescriptionKey": "[OpenContentToast9]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainTowerBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2160,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 250,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 17,
+        "SortOrderB": 24,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2052,
+        "IsIgnore": null,
+        "Memo": "メイン_無窮の塔で2170階をクリアする",
+        "AchievementType": 11010100,
+        "DescriptionKey": "[OpenContentToast9]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainTowerBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2170,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 250,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 17,
+        "SortOrderB": 24,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2053,
+        "IsIgnore": null,
+        "Memo": "メイン_無窮の塔で2180階をクリアする",
+        "AchievementType": 11010100,
+        "DescriptionKey": "[OpenContentToast9]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainTowerBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2180,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 250,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 17,
+        "SortOrderB": 24,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2054,
+        "IsIgnore": null,
+        "Memo": "メイン_無窮の塔で2190階をクリアする",
+        "AchievementType": 11010100,
+        "DescriptionKey": "[OpenContentToast9]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainTowerBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2190,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 250,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 17,
+        "SortOrderB": 24,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2055,
+        "IsIgnore": null,
+        "Memo": "メイン_無窮の塔で2200階をクリアする",
+        "AchievementType": 11010100,
+        "DescriptionKey": "[OpenContentToast9]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainTowerBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2200,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 250,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 17,
+        "SortOrderB": 24,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2056,
+        "IsIgnore": null,
+        "Memo": "メイン_無窮の塔で2210階をクリアする",
+        "AchievementType": 11010100,
+        "DescriptionKey": "[OpenContentToast9]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainTowerBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2210,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 250,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 17,
+        "SortOrderB": 24,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2057,
+        "IsIgnore": null,
+        "Memo": "メイン_無窮の塔で2220階をクリアする",
+        "AchievementType": 11010100,
+        "DescriptionKey": "[OpenContentToast9]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainTowerBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2220,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 250,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 17,
+        "SortOrderB": 24,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2058,
+        "IsIgnore": null,
+        "Memo": "メイン_無窮の塔で2230階をクリアする",
+        "AchievementType": 11010100,
+        "DescriptionKey": "[OpenContentToast9]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainTowerBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2230,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 250,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 17,
+        "SortOrderB": 24,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2059,
+        "IsIgnore": null,
+        "Memo": "メイン_無窮の塔で2240階をクリアする",
+        "AchievementType": 11010100,
+        "DescriptionKey": "[OpenContentToast9]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainTowerBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2240,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 250,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 17,
+        "SortOrderB": 24,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2060,
+        "IsIgnore": null,
+        "Memo": "メイン_無窮の塔で2250階をクリアする",
+        "AchievementType": 11010100,
+        "DescriptionKey": "[OpenContentToast9]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainTowerBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2250,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 250,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 17,
+        "SortOrderB": 24,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2061,
+        "IsIgnore": null,
+        "Memo": "メイン_無窮の塔で2260階をクリアする",
+        "AchievementType": 11010100,
+        "DescriptionKey": "[OpenContentToast9]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainTowerBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2260,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 250,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 17,
+        "SortOrderB": 24,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2062,
+        "IsIgnore": null,
+        "Memo": "メイン_無窮の塔で2270階をクリアする",
+        "AchievementType": 11010100,
+        "DescriptionKey": "[OpenContentToast9]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainTowerBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2270,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 250,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 17,
+        "SortOrderB": 24,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2063,
+        "IsIgnore": null,
+        "Memo": "メイン_無窮の塔で2280階をクリアする",
+        "AchievementType": 11010100,
+        "DescriptionKey": "[OpenContentToast9]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainTowerBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2280,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 250,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 17,
+        "SortOrderB": 24,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2064,
+        "IsIgnore": null,
+        "Memo": "メイン_無窮の塔で2290階をクリアする",
+        "AchievementType": 11010100,
+        "DescriptionKey": "[OpenContentToast9]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainTowerBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2290,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 250,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 17,
+        "SortOrderB": 24,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2065,
+        "IsIgnore": null,
+        "Memo": "メイン_無窮の塔で2300階をクリアする",
+        "AchievementType": 11010100,
+        "DescriptionKey": "[OpenContentToast9]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainTowerBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2300,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 250,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 17,
+        "SortOrderB": 24,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2066,
+        "IsIgnore": null,
+        "Memo": "メイン_無窮の塔で2310階をクリアする",
+        "AchievementType": 11010100,
+        "DescriptionKey": "[OpenContentToast9]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainTowerBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2310,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 250,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 17,
+        "SortOrderB": 24,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2067,
+        "IsIgnore": null,
+        "Memo": "メイン_無窮の塔で2320階をクリアする",
+        "AchievementType": 11010100,
+        "DescriptionKey": "[OpenContentToast9]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainTowerBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2320,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 250,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 17,
+        "SortOrderB": 24,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2068,
+        "IsIgnore": null,
+        "Memo": "メイン_無窮の塔で2330階をクリアする",
+        "AchievementType": 11010100,
+        "DescriptionKey": "[OpenContentToast9]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainTowerBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2330,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 250,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 17,
+        "SortOrderB": 24,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2069,
+        "IsIgnore": null,
+        "Memo": "メイン_無窮の塔で2340階をクリアする",
+        "AchievementType": 11010100,
+        "DescriptionKey": "[OpenContentToast9]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainTowerBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2340,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 250,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 17,
+        "SortOrderB": 24,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2070,
+        "IsIgnore": null,
+        "Memo": "メイン_無窮の塔で2350階をクリアする",
+        "AchievementType": 11010100,
+        "DescriptionKey": "[OpenContentToast9]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainTowerBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2350,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 250,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 17,
+        "SortOrderB": 24,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2071,
+        "IsIgnore": null,
+        "Memo": "メイン_無窮の塔で2360階をクリアする",
+        "AchievementType": 11010100,
+        "DescriptionKey": "[OpenContentToast9]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainTowerBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2360,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 250,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 17,
+        "SortOrderB": 24,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2072,
+        "IsIgnore": null,
+        "Memo": "メイン_無窮の塔で2370階をクリアする",
+        "AchievementType": 11010100,
+        "DescriptionKey": "[OpenContentToast9]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainTowerBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2370,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 250,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 17,
+        "SortOrderB": 24,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2073,
+        "IsIgnore": null,
+        "Memo": "メイン_無窮の塔で2380階をクリアする",
+        "AchievementType": 11010100,
+        "DescriptionKey": "[OpenContentToast9]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainTowerBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2380,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 250,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 17,
+        "SortOrderB": 24,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2074,
+        "IsIgnore": null,
+        "Memo": "メイン_無窮の塔で2390階をクリアする",
+        "AchievementType": 11010100,
+        "DescriptionKey": "[OpenContentToast9]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainTowerBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2390,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 250,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 17,
+        "SortOrderB": 24,
+        "TransitionDestination": 1101,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2075,
+        "IsIgnore": null,
+        "Memo": "メイン_無窮の塔で2400階をクリアする",
+        "AchievementType": 11010100,
+        "DescriptionKey": "[OpenContentToast9]",
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainTowerBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2400,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 250,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 17,
+        "SortOrderB": 24,
+        "TransitionDestination": 1101,
         "EndTime": "2100-01-01 00:00:00",
         "StartTime": "2020-01-01 00:00:00"
     }

@@ -28747,6 +28747,23 @@
         "UnlockQuestId": 0
     },
     {
+        "Id": 6122,
+        "IsIgnore": null,
+        "Memo": "イリア朗読",
+        "CharacterId": 61,
+        "CharacterVoiceCategory": 10,
+        "Path": {
+            "TimelineId": 1,
+            "VoiceId": 0,
+            "TimelineType": 6
+        },
+        "SortOrder": 200,
+        "SubtitleKey": null,
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText31]",
+        "UnlockQuestId": 0
+    },
+    {
         "Id": 6190,
         "IsIgnore": null,
         "Memo": "冥イリア",
@@ -47308,6 +47325,23 @@
         "SubtitleKey": "[CharacterDetailVoiceSubtitle10921]",
         "UnlockCondition": 6,
         "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText20]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 10922,
+        "IsIgnore": null,
+        "Memo": "アイリーン朗読",
+        "CharacterId": 109,
+        "CharacterVoiceCategory": 10,
+        "Path": {
+            "TimelineId": 1,
+            "VoiceId": 0,
+            "TimelineType": 6
+        },
+        "SortOrder": 200,
+        "SubtitleKey": null,
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText31]",
         "UnlockQuestId": 0
     },
     {

@@ -3983,6 +3983,82 @@
         "TreasureChestItemListType": 3
     },
     {
+        "Id": 149,
+        "IsIgnore": null,
+        "Memo": "ニューイヤーボックス（2026）",
+        "FixItemList": null,
+        "LotteryRewardId": 0,
+        "SelectItemList": [
+            {
+                "SelectItem": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 20
+                },
+                "SacredTreasureType": 0
+            },
+            {
+                "SelectItem": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 19
+                },
+                "SacredTreasureType": 0
+            },
+            {
+                "SelectItem": {
+                    "ItemCount": 3,
+                    "ItemId": 16,
+                    "ItemType": 10
+                },
+                "SacredTreasureType": 0
+            }
+        ],
+        "TreasureChestItemListType": 3
+    },
+    {
+        "Id": 150,
+        "IsIgnore": null,
+        "Memo": "新年のチケットケース（2026）",
+        "FixItemList": null,
+        "LotteryRewardId": 0,
+        "SelectItemList": [
+            {
+                "SelectItem": {
+                    "ItemCount": 5,
+                    "ItemId": 1,
+                    "ItemType": 16
+                },
+                "SacredTreasureType": 0
+            },
+            {
+                "SelectItem": {
+                    "ItemCount": 5,
+                    "ItemId": 12,
+                    "ItemType": 16
+                },
+                "SacredTreasureType": 0
+            },
+            {
+                "SelectItem": {
+                    "ItemCount": 5,
+                    "ItemId": 3,
+                    "ItemType": 16
+                },
+                "SacredTreasureType": 0
+            },
+            {
+                "SelectItem": {
+                    "ItemCount": 60,
+                    "ItemId": 4,
+                    "ItemType": 13
+                },
+                "SacredTreasureType": 0
+            }
+        ],
+        "TreasureChestItemListType": 3
+    },
+    {
         "Id": 999,
         "IsIgnore": null,
         "Memo": "運命ガチャ毎回報酬（潜在宝珠50＋精錬水50）、本番データ（削除禁止）",
