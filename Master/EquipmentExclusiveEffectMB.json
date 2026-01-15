@@ -13224,5 +13224,134 @@
             }
         ],
         "CharacterId": 128
+    },
+    {
+        "Id": 613,
+        "IsIgnore": null,
+        "Memo": "エヴリンSSR180",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 101
+    },
+    {
+        "Id": 614,
+        "IsIgnore": null,
+        "Memo": "エヴリンSSR200",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1300.0
+            },
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 600.0
+            }
+        ],
+        "CharacterId": 101
+    },
+    {
+        "Id": 615,
+        "IsIgnore": null,
+        "Memo": "エヴリンSSR220",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1400.0
+            },
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            },
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 2,
+                "Value": 350.0
+            }
+        ],
+        "CharacterId": 101
+    },
+    {
+        "Id": 616,
+        "IsIgnore": null,
+        "Memo": "エヴリンSSR240",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            },
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 2,
+                "Value": 400.0
+            }
+        ],
+        "CharacterId": 101
+    },
+    {
+        "Id": 617,
+        "IsIgnore": null,
+        "Memo": "エヴリンUR",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1600.0
+            },
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 900.0
+            },
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 2,
+                "Value": 450.0
+            }
+        ],
+        "CharacterId": 101
+    },
+    {
+        "Id": 618,
+        "IsIgnore": null,
+        "Memo": "エヴリンLR",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 15,
+                "ChangeParameterType": 2,
+                "Value": 1000.0
+            },
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 2,
+                "Value": 500.0
+            }
+        ],
+        "CharacterId": 101
     }
 ]

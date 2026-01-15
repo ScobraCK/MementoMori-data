@@ -6364,8 +6364,9 @@
     {
         "Id": 170,
         "IsIgnore": null,
-        "Memo": "復刻ネブラ②+仮（0115切り替え用）",
+        "Memo": "エヴリン①+復刻ネブラ②（0115切り替え用）",
         "CharacterIdList": [
+            101,
             87,
             5,
             6,
@@ -6393,11 +6394,50 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
+            101,
             87
         ],
         "OrderNumber": 170,
-        "StartTimeFixJST": "2026-01-15 16:30:00",
+        "StartTimeFixJST": "2026-01-15 15:00:00",
         "EndTimeFixJST": "2026-01-22 14:29:59"
+    },
+    {
+        "Id": 171,
+        "IsIgnore": null,
+        "Memo": "エヴリン②+仮（0122切り替え用）",
+        "CharacterIdList": [
+            101,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            101
+        ],
+        "OrderNumber": 171,
+        "StartTimeFixJST": "2026-01-22 14:30:00",
+        "EndTimeFixJST": "2026-01-29 14:29:59"
     },
     {
         "Id": 10000,
@@ -7036,6 +7076,32 @@
         "OrderNumber": 10320,
         "StartTimeFixJST": "2025-12-18 14:30:00",
         "EndTimeFixJST": "2026-01-15 14:29:59"
+    },
+    {
+        "Id": 10330,
+        "IsIgnore": null,
+        "Memo": "星の導きガチャ 第33回_使徒ロザリー・神呪イリア・ギルウィアル・プリシラ・ユニ・黒鎧アイリス",
+        "CharacterIdList": [
+            88,
+            61,
+            64,
+            62,
+            76,
+            66
+        ],
+        "GachaSelectListType": 3,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            88,
+            61,
+            64,
+            62,
+            76,
+            66
+        ],
+        "OrderNumber": 10330,
+        "StartTimeFixJST": "2026-01-15 15:00:00",
+        "EndTimeFixJST": "2026-02-05 15:59:59"
     },
     {
         "Id": 30001,

@@ -4826,6 +4826,58 @@
         "StartTimeFixJST": "2025-05-30 15:00:00"
     },
     {
+        "Id": 101,
+        "IsIgnore": null,
+        "Memo": "エヴリン",
+        "ActiveSkillIds": [
+            101001,
+            101002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 85,
+            "Health": 75,
+            "Intelligence": 99,
+            "Muscle": 84
+        },
+        "BaseParameterGrossCoefficient": 343,
+        "CharacterType": 0,
+        "ElementType": 1,
+        "InitialBattleParameter": {
+            "AttackPower": -3,
+            "Avoidance": 0,
+            "Critical": 0,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 0,
+            "DamageReflect": 0,
+            "DebuffHit": 0,
+            "DebuffResist": 0,
+            "Defense": 10,
+            "DefensePenetration": 0,
+            "Hit": 0,
+            "HP": -2,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": 5,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 0,
+            "Speed": 2819
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 4,
+        "Name2Key": "",
+        "NameKey": "[CharacterName101]",
+        "NormalSkillId": 102,
+        "PassiveSkillIds": [
+            101003,
+            101004
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2026-01-15 15:00:00"
+    },
+    {
         "Id": 102,
         "IsIgnore": null,
         "Memo": "リーベ",
