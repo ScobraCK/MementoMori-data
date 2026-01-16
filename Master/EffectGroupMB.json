@@ -22467,6 +22467,444 @@
         ]
     },
     {
+        "Id": 10100100101,
+        "IsIgnore": null,
+        "Memo": "攻撃力が25%、命中率が25%増加する（解除不可）。",
+        "CasterIconId": 101,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10100100101]",
+        "IconId": 101001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10100100101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 10100140101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 10100120101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 10100100101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 10100120101,
+        "IsIgnore": null,
+        "Memo": "攻撃力が25%、命中率が25%増加する（解除不可）。",
+        "CasterIconId": 101,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10100120101]",
+        "IconId": 101001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10100120101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 10100140101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 10100120101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 10100100101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 10100140101,
+        "IsIgnore": null,
+        "Memo": "攻撃力が50%、命中率が50%増加する（解除不可）。",
+        "CasterIconId": 101,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10100140101]",
+        "IconId": 101001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10100140101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 10100140101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 10100120101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 10100100101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 10100200101,
+        "IsIgnore": null,
+        "Memo": "*印付与",
+        "CasterIconId": 101,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10100200101]",
+        "IconId": 101002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10100200101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 10100200301,
+        "IsIgnore": null,
+        "Memo": "[反照] 回避率を5%減少する（最大2スタックまで）。現在のスタック数：{stack}",
+        "CasterIconId": 101,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10100200301]",
+        "IconId": 101002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10100200301]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 10100300101,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×30%分のダメージを代わりに受ける。",
+        "CasterIconId": 101,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10100300101]",
+        "IconId": 101003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10100300101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 10100340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 10100340101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 10100330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 10100330101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 10100320102,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 10100320101,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 10100300101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 10100320101,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×30%分のダメージを代わりに受ける。",
+        "CasterIconId": 101,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10100320101]",
+        "IconId": 101003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10100320101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 10100340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 10100340101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 10100330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 10100330101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 10100320102,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 10100320101,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 10100300101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 10100320102,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×30%と付与者の攻撃力×200%の合計分のダメージを代わりに受ける。",
+        "CasterIconId": 101,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10100320102]",
+        "IconId": 101003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10100320102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 10100340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 10100340101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 10100330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 10100330101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 10100320102,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 10100320101,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 10100300101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 10100330101,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×30%分のダメージを代わりに受ける。",
+        "CasterIconId": 101,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10100330101]",
+        "IconId": 101003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10100330101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 10100340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 10100340101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 10100330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 10100330101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 10100320102,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 10100320101,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 10100300101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 10100330102,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×30%と付与者の攻撃力×200%の合計分のダメージを代わりに受ける。",
+        "CasterIconId": 101,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10100330102]",
+        "IconId": 101003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10100330102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 10100340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 10100340101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 10100330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 10100330101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 10100320102,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 10100320101,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 10100300101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 10100340101,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×80%分のダメージを代わりに受ける。",
+        "CasterIconId": 101,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10100340101]",
+        "IconId": 101003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10100340101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 10100340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 10100340101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 10100330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 10100330101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 10100320102,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 10100320101,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 10100300101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 10100340102,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×80%と付与者の攻撃力×600%の合計分のダメージを代わりに受ける。",
+        "CasterIconId": 101,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10100340102]",
+        "IconId": 101003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10100340102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 10100340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 10100340101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 10100330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 10100330101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 10100320102,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 10100320101,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 10100300101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 10100420301,
+        "IsIgnore": null,
+        "Memo": "*弱体効果を2つ解除する。",
+        "CasterIconId": 101,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10100420301]",
+        "IconId": 101004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10100420301]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 10100430401,
+        "IsIgnore": null,
+        "Memo": "*被ダメージが60%減少する（解除不可）。",
+        "CasterIconId": 101,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10100430401]",
+        "IconId": 101004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10100430401]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 10200100401,
         "IsIgnore": null,
         "Memo": "[気絶] 行動不能になる。",
@@ -77921,6 +78359,444 @@
                 "OrderNumber": 3
             }
         ]
+    },
+    {
+        "Id": 550410100100101,
+        "IsIgnore": null,
+        "Memo": "攻撃力が25%、命中率が25%増加する（解除不可）。",
+        "CasterIconId": 101,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10100100101]",
+        "IconId": 101001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10100100101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550410100140101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550410100120101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550410100100101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 550410100120101,
+        "IsIgnore": null,
+        "Memo": "攻撃力が25%、命中率が25%増加する（解除不可）。",
+        "CasterIconId": 101,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10100120101]",
+        "IconId": 101001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10100120101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550410100140101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550410100120101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550410100100101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 550410100140101,
+        "IsIgnore": null,
+        "Memo": "攻撃力が50%、命中率が50%増加する（解除不可）。",
+        "CasterIconId": 101,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10100140101]",
+        "IconId": 101001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10100140101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550410100140101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550410100120101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550410100100101,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 550410100200101,
+        "IsIgnore": null,
+        "Memo": "*印付与",
+        "CasterIconId": 101,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10100200101]",
+        "IconId": 101002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10100200101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550410100200301,
+        "IsIgnore": null,
+        "Memo": "[反照] 回避率を5%減少する（最大2スタックまで）。現在のスタック数：{stack}",
+        "CasterIconId": 101,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10100200301]",
+        "IconId": 101002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10100200301]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550410100300101,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×30%分のダメージを代わりに受ける。",
+        "CasterIconId": 101,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10100300101]",
+        "IconId": 101003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10100300101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550410100340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550410100340101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550410100330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550410100330101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550410100320102,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 550410100320101,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 550410100300101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 550410100320101,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×30%分のダメージを代わりに受ける。",
+        "CasterIconId": 101,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10100320101]",
+        "IconId": 101003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10100320101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550410100340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550410100340101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550410100330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550410100330101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550410100320102,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 550410100320101,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 550410100300101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 550410100320102,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×30%と付与者の攻撃力×200%の合計分のダメージを代わりに受ける。",
+        "CasterIconId": 101,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10100320102]",
+        "IconId": 101003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10100320102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550410100340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550410100340101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550410100330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550410100330101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550410100320102,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 550410100320101,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 550410100300101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 550410100330101,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×30%分のダメージを代わりに受ける。",
+        "CasterIconId": 101,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10100330101]",
+        "IconId": 101003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10100330101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550410100340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550410100340101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550410100330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550410100330101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550410100320102,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 550410100320101,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 550410100300101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 550410100330102,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×30%と付与者の攻撃力×200%の合計分のダメージを代わりに受ける。",
+        "CasterIconId": 101,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10100330102]",
+        "IconId": 101003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10100330102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550410100340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550410100340101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550410100330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550410100330101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550410100320102,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 550410100320101,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 550410100300101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 550410100340101,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×80%分のダメージを代わりに受ける。",
+        "CasterIconId": 101,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10100340101]",
+        "IconId": 101003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10100340101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550410100340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550410100340101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550410100330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550410100330101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550410100320102,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 550410100320101,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 550410100300101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 550410100340102,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付帯者のステータス増減前の最大HP×80%と付与者の攻撃力×600%の合計分のダメージを代わりに受ける。",
+        "CasterIconId": 101,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10100340102]",
+        "IconId": 101003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10100340102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550410100340102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550410100340101,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550410100330102,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550410100330101,
+                "OrderNumber": 4
+            },
+            {
+                "EffectGroupId": 550410100320102,
+                "OrderNumber": 5
+            },
+            {
+                "EffectGroupId": 550410100320101,
+                "OrderNumber": 6
+            },
+            {
+                "EffectGroupId": 550410100300101,
+                "OrderNumber": 7
+            }
+        ]
+    },
+    {
+        "Id": 550410100420301,
+        "IsIgnore": null,
+        "Memo": "*弱体効果を2つ解除する。",
+        "CasterIconId": 101,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10100420301]",
+        "IconId": 101004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10100420301]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550410100430401,
+        "IsIgnore": null,
+        "Memo": "*被ダメージが60%減少する（解除不可）。",
+        "CasterIconId": 101,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription10100430401]",
+        "IconId": 101004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName10100430401]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
     },
     {
         "Id": 550410200100401,

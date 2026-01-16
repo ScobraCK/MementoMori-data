@@ -1266,6 +1266,12 @@
         "ErrorMessageType": 2
     },
     {
+        "Id": 132022,
+        "IsIgnore": null,
+        "Memo": "アイコン報酬購入上限回数を超えました",
+        "ErrorMessageType": 2
+    },
+    {
         "Id": 141000,
         "IsIgnore": null,
         "Memo": null,
@@ -5253,6 +5259,30 @@
         "Id": 542010,
         "IsIgnore": null,
         "Memo": "不正なアイテム種類です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 552000,
+        "IsIgnore": null,
+        "Memo": "交換条件を満たしていません。",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 552001,
+        "IsIgnore": null,
+        "Memo": "既に解放済みのアイコンエフェクトです。",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 552002,
+        "IsIgnore": null,
+        "Memo": "アイコンエフェクトが解放されていません。",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 552010,
+        "IsIgnore": null,
+        "Memo": "アイコンエフェクト設定に失敗しました。",
         "ErrorMessageType": 2
     },
     {

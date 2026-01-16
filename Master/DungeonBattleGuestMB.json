@@ -589,18 +589,18 @@
         "IsIgnore": null,
         "Memo": "聖夜アモール",
         "CharacterId": 73,
-        "IsPickup": true,
-        "EndTimeFixJST": "2025-12-11 14:29:59",
-        "StartTimeFixJST": "2025-11-27 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 67,
         "IsIgnore": null,
         "Memo": "聖夜トロポン",
         "CharacterId": 74,
-        "IsPickup": true,
-        "EndTimeFixJST": "2025-12-11 14:29:59",
-        "StartTimeFixJST": "2025-11-27 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 68,
@@ -814,18 +814,18 @@
         "IsIgnore": null,
         "Memo": "冬ソルティーナ",
         "CharacterId": 107,
-        "IsPickup": true,
-        "EndTimeFixJST": "2025-12-18 14:29:59",
-        "StartTimeFixJST": "2025-12-04 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 92,
         "IsIgnore": null,
         "Memo": "冬ルナリンド",
         "CharacterId": 108,
-        "IsPickup": true,
-        "EndTimeFixJST": "2025-12-18 14:29:59",
-        "StartTimeFixJST": "2025-12-04 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 93,
@@ -859,9 +859,9 @@
         "IsIgnore": null,
         "Memo": "春シズ",
         "CharacterId": 112,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2026-01-15 14:29:59",
+        "StartTimeFixJST": "2025-12-31 14:30:00"
     },
     {
         "Id": 97,
@@ -913,9 +913,9 @@
         "IsIgnore": null,
         "Memo": "ルシール",
         "CharacterId": 89,
-        "IsPickup": true,
-        "EndTimeFixJST": "2025-12-25 14:29:59",
-        "StartTimeFixJST": "2025-12-11 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 103,
@@ -949,9 +949,9 @@
         "IsIgnore": null,
         "Memo": "ネブラ",
         "CharacterId": 87,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2026-01-22 14:29:59",
+        "StartTimeFixJST": "2026-01-06 14:30:00"
     },
     {
         "Id": 107,
@@ -1030,17 +1030,35 @@
         "IsIgnore": null,
         "Memo": "冬マーリン",
         "CharacterId": 131,
-        "IsPickup": true,
-        "EndTimeFixJST": "2025-12-25 14:29:59",
-        "StartTimeFixJST": "2025-11-27 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 116,
         "IsIgnore": null,
         "Memo": "冬ステラ",
         "CharacterId": 132,
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
+    },
+    {
+        "Id": 117,
+        "IsIgnore": null,
+        "Memo": "リヴェリア",
+        "CharacterId": 128,
         "IsPickup": true,
-        "EndTimeFixJST": "2026-01-06 14:29:59",
-        "StartTimeFixJST": "2025-12-11 14:30:00"
+        "EndTimeFixJST": "2026-01-15 14:29:59",
+        "StartTimeFixJST": "2025-12-25 14:30:00"
+    },
+    {
+        "Id": 118,
+        "IsIgnore": null,
+        "Memo": "エヴリン",
+        "CharacterId": 101,
+        "IsPickup": true,
+        "EndTimeFixJST": "2026-01-29 14:29:59",
+        "StartTimeFixJST": "2026-01-15 14:30:00"
     }
 ]

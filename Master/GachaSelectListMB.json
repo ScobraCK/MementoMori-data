@@ -6192,10 +6192,11 @@
     {
         "Id": 166,
         "IsIgnore": null,
-        "Memo": "冬ステラ②+冬マーリン④+復刻ルシール②+仮（1218切り替え用）",
+        "Memo": "冬ステラ②+冬マーリン④+復刻アイリーン①+復刻ルシール②（1218切り替え用）",
         "CharacterIdList": [
             132,
             131,
+            109,
             89,
             5,
             6,
@@ -6225,6 +6226,7 @@
         "NewCharacterIdList": [
             132,
             131,
+            109,
             89
         ],
         "OrderNumber": 166,
@@ -6234,9 +6236,11 @@
     {
         "Id": 167,
         "IsIgnore": null,
-        "Memo": "冬ステラ③+仮（1225切り替え用）",
+        "Memo": "リヴェリア①+冬ステラ③+復刻アイリーン②（1225切り替え用）",
         "CharacterIdList": [
+            128,
             132,
+            109,
             5,
             6,
             7,
@@ -6263,7 +6267,9 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            132
+            128,
+            132,
+            109
         ],
         "OrderNumber": 167,
         "StartTimeFixJST": "2025-12-25 16:30:00",
@@ -6272,9 +6278,12 @@
     {
         "Id": 168,
         "IsIgnore": null,
-        "Memo": "冬ステラ④+仮（1231切り替え用）",
+        "Memo": "リヴェリア②+冬ステラ④+復刻アイリーン③+復刻春シズ①（1231切り替え用）",
         "CharacterIdList": [
+            128,
             132,
+            109,
+            112,
             5,
             6,
             7,
@@ -6301,11 +6310,134 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            132
+            128,
+            132,
+            109,
+            112
         ],
         "OrderNumber": 168,
         "StartTimeFixJST": "2025-12-31 14:30:00",
         "EndTimeFixJST": "2026-01-06 14:29:59"
+    },
+    {
+        "Id": 169,
+        "IsIgnore": null,
+        "Memo": "リヴェリア③+復刻ネブラ①+復刻春シズ②（0106切り替え用）",
+        "CharacterIdList": [
+            128,
+            87,
+            112,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            128,
+            87,
+            112
+        ],
+        "OrderNumber": 169,
+        "StartTimeFixJST": "2026-01-06 14:30:00",
+        "EndTimeFixJST": "2026-01-15 14:29:59"
+    },
+    {
+        "Id": 170,
+        "IsIgnore": null,
+        "Memo": "エヴリン①+復刻ネブラ②（0115切り替え用）",
+        "CharacterIdList": [
+            101,
+            87,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            101,
+            87
+        ],
+        "OrderNumber": 170,
+        "StartTimeFixJST": "2026-01-15 16:30:00",
+        "EndTimeFixJST": "2026-01-22 14:29:59"
+    },
+    {
+        "Id": 171,
+        "IsIgnore": null,
+        "Memo": "エヴリン②+仮（0122切り替え用）",
+        "CharacterIdList": [
+            101,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            101
+        ],
+        "OrderNumber": 171,
+        "StartTimeFixJST": "2026-01-22 14:30:00",
+        "EndTimeFixJST": "2026-01-29 14:29:59"
     },
     {
         "Id": 10000,
@@ -6918,6 +7050,58 @@
         "OrderNumber": 10310,
         "StartTimeFixJST": "2025-11-27 17:30:00",
         "EndTimeFixJST": "2025-12-18 14:29:59"
+    },
+    {
+        "Id": 10320,
+        "IsIgnore": null,
+        "Memo": "星の導きガチャ 第32回_エルフリンデ・アームストロング・フェーネ・アーティ・クラウディア・アサヒ",
+        "CharacterIdList": [
+            45,
+            50,
+            68,
+            58,
+            56,
+            78
+        ],
+        "GachaSelectListType": 3,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            45,
+            50,
+            68,
+            58,
+            56,
+            78
+        ],
+        "OrderNumber": 10320,
+        "StartTimeFixJST": "2025-12-18 14:30:00",
+        "EndTimeFixJST": "2026-01-15 14:29:59"
+    },
+    {
+        "Id": 10330,
+        "IsIgnore": null,
+        "Memo": "星の導きガチャ 第33回_使徒ロザリー・神呪イリア・ギルウィアル・プリシラ・ユニ・黒鎧アイリス",
+        "CharacterIdList": [
+            88,
+            61,
+            64,
+            62,
+            76,
+            66
+        ],
+        "GachaSelectListType": 3,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            88,
+            61,
+            64,
+            62,
+            76,
+            66
+        ],
+        "OrderNumber": 10330,
+        "StartTimeFixJST": "2026-01-15 16:30:00",
+        "EndTimeFixJST": "2026-02-05 15:59:59"
     },
     {
         "Id": 30001,

@@ -12848,6 +12848,137 @@
         "RootActiveSkillId": 100002
     },
     {
+        "Id": 101001,
+        "IsIgnore": null,
+        "Memo": "エヴリンSR:Lv1 私だけの一番星。約束の証。これがあるだけで、力が湧いてくる──。1ターンの間攻撃力が最も高い味方の攻撃力と命中率をそれぞれ25%増加させる（解除不可）。これらは一つのバフとして扱う。その後ランダムな敵5体に攻撃力×240%の魔法攻撃を行う。/ Lv2 『攻撃力増加』と『命中率増加』のターン数が4ターンになる。/ Lv3 魔法攻撃のダメージが攻撃力×440%になる。/ Ex1 証の銀貨を強化する。攻撃力と命中率の増加量がそれぞれ50%になる。/ Ex3 証の銀貨を強化する。魔法攻撃のダメージが攻撃力×480%になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription1010011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    101001001,
+                    101001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription1010012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    101001201,
+                    101001002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription1010013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    101001201,
+                    101001302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription1010014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    101001401,
+                    101001302
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription1010015]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    101001401,
+                    101001502
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName101001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 101001
+    },
+    {
+        "Id": 101002,
+        "IsIgnore": null,
+        "Memo": "エヴリンSR:Lv1 その罪悪感は時折色鮮やかに蘇り、無自覚のうちに彼女の力をより研ぎ澄ます。自身以外の味方全体とランダムな敵5体に4ターンの間『反照』を1スタック付与する（最大2スタックまで）。この弱体効果は1スタックにつき付帯者の回避率を5%減少させる。その後ランダムな敵2体に攻撃力×460%の魔法攻撃を行う。/ Lv2 魔法攻撃の対象がランダムな敵3体になる。/ Lv3 魔法攻撃のダメージが攻撃力×660%になる。/ Lv4 魔法攻撃の前に『反照』を付帯している敵が3体以上いる場合、魔法攻撃のダメージが攻撃力×990%になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription1010021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    101002001,
+                    101002002,
+                    101002003,
+                    101002004
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription1010022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    101002001,
+                    101002002,
+                    101002003,
+                    101002204
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription1010023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    101002001,
+                    101002002,
+                    101002003,
+                    101002304
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription1010024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    101002001,
+                    101002002,
+                    101002003,
+                    101002404
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName101002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 101002
+    },
+    {
         "Id": 102001,
         "IsIgnore": null,
         "Memo": "リーベSR:Lv1 込めた想いを守るように、封蝋は手紙を閉じる。便りを待つ人へ必ず伝えるために。自身に自身の現在HP×20%の自傷ダメージを与え、ランダムな敵に3回攻撃力×210%の物理攻撃を行う。その後70%の確率で攻撃力が最も高い敵に1ターンの間『気絶』を付与する。/ Lv2 さらに物理攻撃の前に2ターンの間対象の防御力と物理防御力をそれぞれ10%減少させる。/ Lv3 物理攻撃の回数が5回になる。/ Ex1 シーリングスタンプを強化する。物理攻撃のダメージが攻撃力×360%になる。/ Ex2 シーリングスタンプを強化する。さらに自身以外の紅属性の味方の編成数が4体以上の場合、『気絶』の対象が攻撃力が高い敵2体になる。/ Ex3 シーリングスタンプを強化する。物理攻撃のダメージが攻撃力×390%になる。",
@@ -44373,6 +44504,137 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 100002
+    },
+    {
+        "Id": 5504101001,
+        "IsIgnore": null,
+        "Memo": "",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504101001001,
+                    5504101001002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504101001201,
+                    5504101001002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504101001201,
+                    5504101001302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504101001401,
+                    5504101001302
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504101001401,
+                    5504101001502
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName101001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 101001
+    },
+    {
+        "Id": 5504101002,
+        "IsIgnore": null,
+        "Memo": "",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504101002001,
+                    5504101002002,
+                    5504101002003,
+                    5504101002004
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504101002001,
+                    5504101002002,
+                    5504101002003,
+                    5504101002204
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504101002001,
+                    5504101002002,
+                    5504101002003,
+                    5504101002304
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504101002001,
+                    5504101002002,
+                    5504101002003,
+                    5504101002404
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName101002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 101002
     },
     {
         "Id": 5504102001,

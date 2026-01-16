@@ -2171,5 +2171,111 @@
         ],
         "EndTime": "2025-12-10 03:59:59",
         "StartTime": "2025-12-06 04:00:00"
+    },
+    {
+        "Id": 42,
+        "IsIgnore": null,
+        "Memo": "ソロ報酬2倍（26/1/2～1/6）",
+        "EventDescriptionKey": "[BountyQuestEventDescription1]",
+        "EventNameKey": "[BountyQuestEventName1]",
+        "MultipleNumber": 100,
+        "TargetItemList": [
+            {
+                "ItemId": 1,
+                "ItemType": 3
+            },
+            {
+                "ItemId": 2,
+                "ItemType": 11
+            },
+            {
+                "ItemId": 1,
+                "ItemType": 1
+            },
+            {
+                "ItemId": 27,
+                "ItemType": 17
+            },
+            {
+                "ItemId": 4,
+                "ItemType": 17
+            },
+            {
+                "ItemId": 5,
+                "ItemType": 17
+            },
+            {
+                "ItemId": 6,
+                "ItemType": 17
+            },
+            {
+                "ItemId": 7,
+                "ItemType": 17
+            },
+            {
+                "ItemId": 8,
+                "ItemType": 17
+            }
+        ],
+        "TargetQuestTypeList": [
+            {
+                "BountyQuestType": 0
+            }
+        ],
+        "EndTime": "2026-01-06 03:59:59",
+        "StartTime": "2026-01-02 04:00:00"
+    },
+    {
+        "Id": 43,
+        "IsIgnore": null,
+        "Memo": "ソロ報酬2倍（26/1/23～1/27）",
+        "EventDescriptionKey": "[BountyQuestEventDescription1]",
+        "EventNameKey": "[BountyQuestEventName1]",
+        "MultipleNumber": 100,
+        "TargetItemList": [
+            {
+                "ItemId": 1,
+                "ItemType": 3
+            },
+            {
+                "ItemId": 2,
+                "ItemType": 11
+            },
+            {
+                "ItemId": 1,
+                "ItemType": 1
+            },
+            {
+                "ItemId": 27,
+                "ItemType": 17
+            },
+            {
+                "ItemId": 4,
+                "ItemType": 17
+            },
+            {
+                "ItemId": 5,
+                "ItemType": 17
+            },
+            {
+                "ItemId": 6,
+                "ItemType": 17
+            },
+            {
+                "ItemId": 7,
+                "ItemType": 17
+            },
+            {
+                "ItemId": 8,
+                "ItemType": 17
+            }
+        ],
+        "TargetQuestTypeList": [
+            {
+                "BountyQuestType": 0
+            }
+        ],
+        "EndTime": "2026-01-27 03:59:59",
+        "StartTime": "2026-01-23 04:00:00"
     }
 ]
