@@ -6404,9 +6404,10 @@
     {
         "Id": 171,
         "IsIgnore": null,
-        "Memo": "エヴリン②+仮（0122切り替え用）",
+        "Memo": "エヴリン②+復刻モワノー①（0122切り替え用）",
         "CharacterIdList": [
             101,
+            100,
             5,
             6,
             7,
@@ -6433,11 +6434,50 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            101
+            101,
+            100
         ],
         "OrderNumber": 171,
         "StartTimeFixJST": "2026-01-22 14:30:00",
         "EndTimeFixJST": "2026-01-29 14:29:59"
+    },
+    {
+        "Id": 172,
+        "IsIgnore": null,
+        "Memo": "復刻モワノー②+仮（0129切り替え用）",
+        "CharacterIdList": [
+            100,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            100
+        ],
+        "OrderNumber": 172,
+        "StartTimeFixJST": "2026-01-29 16:30:00",
+        "EndTimeFixJST": "2026-02-05 15:59:59"
     },
     {
         "Id": 10000,
