@@ -16448,6 +16448,146 @@
         "RootActiveSkillId": 132002
     },
     {
+        "Id": 135001,
+        "IsIgnore": null,
+        "Memo": "メルランSR:Lv1 メルランの操る光が魔力の結合を解離させ、干渉を阻害する。ランダムな敵3体に攻撃力×130%の魔法攻撃を行う。魔法攻撃の前に5ターンの間対象に魔法防御力が5%減少する弱体効果を1スタック付与する（最大8スタックまで）。/ Lv2 さらに『魔法防御力減少』付与の判定の後、このスキルを発動するのが3回目以降の場合、このスキルで付与した対象の『魔法防御力減少』のスタック数を2増加させる。/ Lv3 魔法攻撃のダメージが攻撃力×400%になる。/ Ex1 ディソシエーションを強化する。魔法攻撃の対象がランダムな敵5体になる。/ Ex3 ディソシエーションを強化する。魔法攻撃のダメージが攻撃力×440%になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription1350011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    135001001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription1350012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    135001201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription1350013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    135001301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription1350014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    135001401
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription1350015]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    135001501
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName135001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 135001
+    },
+    {
+        "Id": 135002,
+        "IsIgnore": null,
+        "Memo": "メルランSR:Lv1 収束した光の一射が万物を貫く。魔法防御力が最も低い敵に7回攻撃力×420%の魔法攻撃を行う。/ Lv2 さらにこのスキルを発動するのが3回目以降の場合、魔法攻撃のダメージが攻撃力×630%になる。/ Lv3 さらにこのスキルを発動するのが4回目以降の場合、魔法攻撃のダメージが攻撃力×840%になる。/ Lv4 このスキルを発動するのが4回目以降の場合、さらにこの攻撃は対象の『シールド』を無視する。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription1350021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    135002001,
+                    135002002,
+                    135002002,
+                    135002002,
+                    135002002,
+                    135002002,
+                    135002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription1350022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    135002201,
+                    135002202,
+                    135002202,
+                    135002202,
+                    135002202,
+                    135002202,
+                    135002202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription1350023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    135002301,
+                    135002302,
+                    135002302,
+                    135002302,
+                    135002302,
+                    135002302,
+                    135002302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription1350024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    135002403,
+                    135002301,
+                    135002302,
+                    135002302,
+                    135002302,
+                    135002302,
+                    135002302,
+                    135002302,
+                    135002404
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName135002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 135002
+    },
+    {
         "Id": 550109001,
         "IsIgnore": null,
         "Memo": "ギルドレイド通常ソーニャSR：ソーニャSR:旋風の如き素早い急襲。HPが最も低い敵に攻撃力×800％の物理攻撃を行う。弱った敵にも容赦しないヴァイキングの本能により、敵のHP割合が40％以下の場合、この攻撃は必ずクリティカルヒットする。／さらに自身の腕力×400％の直接攻撃を行う。／追加攻撃のダメージが腕力×600%になる。／さらにこのスキルで敵を戦闘不能にした場合、このスキルを再発動する。",
@@ -48104,5 +48244,145 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 132002
+    },
+    {
+        "Id": 5504135001,
+        "IsIgnore": null,
+        "Memo": "",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504135001001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504135001201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504135001301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504135001401
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504135001501
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName135001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 135001
+    },
+    {
+        "Id": 5504135002,
+        "IsIgnore": null,
+        "Memo": "",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504135002001,
+                    5504135002002,
+                    5504135002002,
+                    5504135002002,
+                    5504135002002,
+                    5504135002002,
+                    5504135002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504135002201,
+                    5504135002202,
+                    5504135002202,
+                    5504135002202,
+                    5504135002202,
+                    5504135002202,
+                    5504135002202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504135002301,
+                    5504135002302,
+                    5504135002302,
+                    5504135002302,
+                    5504135002302,
+                    5504135002302,
+                    5504135002302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504135002403,
+                    5504135002301,
+                    5504135002302,
+                    5504135002302,
+                    5504135002302,
+                    5504135002302,
+                    5504135002302,
+                    5504135002302,
+                    5504135002404
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName135002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 135002
     }
 ]

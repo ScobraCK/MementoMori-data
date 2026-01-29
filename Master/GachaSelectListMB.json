@@ -6444,8 +6444,10 @@
     {
         "Id": 172,
         "IsIgnore": null,
-        "Memo": "復刻モワノー②+仮（0129切り替え用）",
+        "Memo": "メルラン①+復刻アルトリア①+復刻モワノー②（0129切り替え用）",
         "CharacterIdList": [
+            135,
+            93,
             100,
             5,
             6,
@@ -6473,11 +6475,53 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
+            135,
+            93,
             100
         ],
         "OrderNumber": 172,
-        "StartTimeFixJST": "2026-01-29 16:30:00",
+        "StartTimeFixJST": "2026-01-29 15:00:00",
         "EndTimeFixJST": "2026-02-05 15:59:59"
+    },
+    {
+        "Id": 173,
+        "IsIgnore": null,
+        "Memo": "メルラン②+復刻アルトリア②+仮（0205切り替え用）",
+        "CharacterIdList": [
+            135,
+            93,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            135,
+            93
+        ],
+        "OrderNumber": 173,
+        "StartTimeFixJST": "2026-02-05 16:00:00",
+        "EndTimeFixJST": "2026-02-12 14:29:59"
     },
     {
         "Id": 10000,
@@ -7204,6 +7248,22 @@
         "NewCharacterIdList": null,
         "OrderNumber": 40002,
         "StartTimeFixJST": "2025-09-22 16:00:00",
+        "EndTimeFixJST": "2100-01-01 00:00:00"
+    },
+    {
+        "Id": 40003,
+        "IsIgnore": null,
+        "Memo": "セレクトルサールカ+セレクトオフィーリア+セレクトフィアー(SPセレクトガチャ用)",
+        "CharacterIdList": [
+            44,
+            49,
+            60
+        ],
+        "GachaSelectListType": 5,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": null,
+        "OrderNumber": 40003,
+        "StartTimeFixJST": "2026-01-29 15:00:00",
         "EndTimeFixJST": "2100-01-01 00:00:00"
     }
 ]

@@ -30485,6 +30485,228 @@
         ]
     },
     {
+        "Id": 13500100102,
+        "IsIgnore": null,
+        "Memo": "魔法防御力が5%減少する（最大8スタックまで）。現在のスタック数：{stack}",
+        "CasterIconId": 135,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13500100102]",
+        "IconId": 135001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13500100102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 13500120103,
+        "IsIgnore": null,
+        "Memo": "*『魔法防御力減少』のスタック数を2増加する。",
+        "CasterIconId": 135,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13500120103]",
+        "IconId": 135001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13500120103]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 13500240301,
+        "IsIgnore": null,
+        "Memo": "*印付与",
+        "CasterIconId": 135,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13500240301]",
+        "IconId": 135002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13500240301]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 13500240401,
+        "IsIgnore": null,
+        "Memo": "*印解除",
+        "CasterIconId": 135,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13500240401]",
+        "IconId": 135002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13500240401]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 13500300101,
+        "IsIgnore": null,
+        "Memo": "[妖精さん] 攻撃力が3%、物理防御力が5%増加する。（最大30スタックまで）。現在のスタック数：{stack}",
+        "CasterIconId": 135,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13500300101]",
+        "IconId": 135003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13500300101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 13500320201,
+        "IsIgnore": null,
+        "Memo": "[シールド] 攻撃力×200%分のダメージを代わりに受ける。",
+        "CasterIconId": 135,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13500320201]",
+        "IconId": 135003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13500320201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 13500340201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 13500320201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 13500330102,
+        "IsIgnore": null,
+        "Memo": "*『妖精さん』のスタック数を1増加する。",
+        "CasterIconId": 135,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13500330102]",
+        "IconId": 135003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13500330102]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 13500340201,
+        "IsIgnore": null,
+        "Memo": "[シールド] 攻撃力×1000%分のダメージを代わりに受ける。",
+        "CasterIconId": 135,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13500340201]",
+        "IconId": 135003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13500340201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 13500340201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 13500320201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 13500400101,
+        "IsIgnore": null,
+        "Memo": "被ダメージが10%減少する。",
+        "CasterIconId": 135,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13500400101]",
+        "IconId": 135004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13500400101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 13500430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 13500400101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 13500400102,
+        "IsIgnore": null,
+        "Memo": "防御力が30%増加する。",
+        "CasterIconId": 135,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13500400102]",
+        "IconId": 135004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13500400102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 13500420102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 13500400102,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 13500420102,
+        "IsIgnore": null,
+        "Memo": "防御力が150%増加する。",
+        "CasterIconId": 135,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13500420102]",
+        "IconId": 135004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13500420102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 13500420102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 13500400102,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 13500430101,
+        "IsIgnore": null,
+        "Memo": "被ダメージが30%減少する。",
+        "CasterIconId": 135,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13500430101]",
+        "IconId": 135004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13500430101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 13500430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 13500400101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
         "Id": 5504600400101,
         "IsIgnore": null,
         "Memo": "削除予定　アムレートSR　誓いを果たす者  :*",
@@ -86375,6 +86597,228 @@
             {
                 "EffectGroupId": 550413200400101,
                 "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 550413500100102,
+        "IsIgnore": null,
+        "Memo": "魔法防御力が5%減少する（最大8スタックまで）。現在のスタック数：{stack}",
+        "CasterIconId": 135,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13500100102]",
+        "IconId": 135001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13500100102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550413500120103,
+        "IsIgnore": null,
+        "Memo": "*『魔法防御力減少』のスタック数を2増加する。",
+        "CasterIconId": 135,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13500120103]",
+        "IconId": 135001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13500120103]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550413500240301,
+        "IsIgnore": null,
+        "Memo": "*印付与",
+        "CasterIconId": 135,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13500240301]",
+        "IconId": 135002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13500240301]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550413500240401,
+        "IsIgnore": null,
+        "Memo": "*印解除",
+        "CasterIconId": 135,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13500240401]",
+        "IconId": 135002,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13500240401]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550413500300101,
+        "IsIgnore": null,
+        "Memo": "[妖精さん] 攻撃力が3%、物理防御力が5%増加する。（最大30スタックまで）。現在のスタック数：{stack}",
+        "CasterIconId": 135,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13500300101]",
+        "IconId": 135003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13500300101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550413500320201,
+        "IsIgnore": null,
+        "Memo": "[シールド] 攻撃力×200%分のダメージを代わりに受ける。",
+        "CasterIconId": 135,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13500320201]",
+        "IconId": 135003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13500320201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550413500340201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550413500320201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550413500330102,
+        "IsIgnore": null,
+        "Memo": "*『妖精さん』のスタック数を1増加する。",
+        "CasterIconId": 135,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13500330102]",
+        "IconId": 135003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13500330102]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550413500340201,
+        "IsIgnore": null,
+        "Memo": "[シールド] 攻撃力×1000%分のダメージを代わりに受ける。",
+        "CasterIconId": 135,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13500340201]",
+        "IconId": 135003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13500340201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550413500340201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550413500320201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550413500400101,
+        "IsIgnore": null,
+        "Memo": "被ダメージが10%減少する。",
+        "CasterIconId": 135,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13500400101]",
+        "IconId": 135004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13500400101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550413500430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550413500400101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550413500400102,
+        "IsIgnore": null,
+        "Memo": "防御力が30%増加する。",
+        "CasterIconId": 135,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13500400102]",
+        "IconId": 135004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13500400102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550413500420102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550413500400102,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550413500420102,
+        "IsIgnore": null,
+        "Memo": "防御力が150%増加する。",
+        "CasterIconId": 135,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13500420102]",
+        "IconId": 135004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13500420102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550413500420102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550413500400102,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550413500430101,
+        "IsIgnore": null,
+        "Memo": "被ダメージが30%減少する。",
+        "CasterIconId": 135,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription13500430101]",
+        "IconId": 135004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName13500430101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550413500430101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550413500400101,
+                "OrderNumber": 2
             }
         ]
     }

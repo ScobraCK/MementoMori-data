@@ -841,9 +841,9 @@
         "IsIgnore": null,
         "Memo": "アルトリア",
         "CharacterId": 93,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2026-02-12 14:29:59",
+        "StartTimeFixJST": "2026-01-29 14:30:00"
     },
     {
         "Id": 95,
@@ -949,9 +949,9 @@
         "IsIgnore": null,
         "Memo": "ネブラ",
         "CharacterId": 87,
-        "IsPickup": true,
-        "EndTimeFixJST": "2026-01-22 14:29:59",
-        "StartTimeFixJST": "2026-01-06 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 107,
@@ -1060,5 +1060,14 @@
         "IsPickup": true,
         "EndTimeFixJST": "2026-01-29 14:29:59",
         "StartTimeFixJST": "2026-01-15 14:30:00"
+    },
+    {
+        "Id": 119,
+        "IsIgnore": null,
+        "Memo": "メルラン",
+        "CharacterId": 135,
+        "IsPickup": true,
+        "EndTimeFixJST": "2026-02-12 14:29:59",
+        "StartTimeFixJST": "2026-01-29 14:30:00"
     }
 ]

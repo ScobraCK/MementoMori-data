@@ -11618,11 +11618,11 @@
     {
         "Id": 743,
         "IsIgnore": null,
-        "Memo": "スペシャルセレクトガチャチケット(第一回→第二回)",
+        "Memo": "スペシャルセレクトガチャチケット(第一回→第三回)",
         "ChangeItems": [
             {
                 "ItemCount": 1,
-                "ItemId": 13,
+                "ItemId": 14,
                 "ItemType": 16
             }
         ],
@@ -11725,6 +11725,22 @@
         "ChangeItemType": 0,
         "ItemId": 38,
         "ItemType": 50,
+        "NeedCount": 1
+    },
+    {
+        "Id": 751,
+        "IsIgnore": null,
+        "Memo": "スペシャルセレクトガチャチケット(第二回→第三回)",
+        "ChangeItems": [
+            {
+                "ItemCount": 1,
+                "ItemId": 14,
+                "ItemType": 16
+            }
+        ],
+        "ChangeItemType": 0,
+        "ItemId": 13,
+        "ItemType": 16,
         "NeedCount": 1
     }
 ]
