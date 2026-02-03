@@ -6486,9 +6486,10 @@
     {
         "Id": 173,
         "IsIgnore": null,
-        "Memo": "メルラン②+復刻アルトリア②+仮（0205切り替え用）",
+        "Memo": "メルラン②+復刻フラック①+復刻アルトリア②（0205切り替え用）",
         "CharacterIdList": [
             135,
+            122,
             93,
             5,
             6,
@@ -6517,11 +6518,50 @@
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
             135,
+            122,
             93
         ],
         "OrderNumber": 173,
         "StartTimeFixJST": "2026-02-05 16:00:00",
         "EndTimeFixJST": "2026-02-12 14:29:59"
+    },
+    {
+        "Id": 174,
+        "IsIgnore": null,
+        "Memo": "復刻フラック②+仮（0212切り替え用）",
+        "CharacterIdList": [
+            122,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            122
+        ],
+        "OrderNumber": 174,
+        "StartTimeFixJST": "2026-02-12 16:30:00",
+        "EndTimeFixJST": "2026-02-19 14:29:59"
     },
     {
         "Id": 10000,
@@ -7186,6 +7226,32 @@
         "OrderNumber": 10330,
         "StartTimeFixJST": "2026-01-15 16:30:00",
         "EndTimeFixJST": "2026-02-05 15:59:59"
+    },
+    {
+        "Id": 10340,
+        "IsIgnore": null,
+        "Memo": "星の導きガチャ 第34回_ルサールカ・オフィーリア・ステラ・シフォン・フィアー・リシェス",
+        "CharacterIdList": [
+            44,
+            49,
+            57,
+            54,
+            60,
+            67
+        ],
+        "GachaSelectListType": 3,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            44,
+            49,
+            57,
+            54,
+            60,
+            67
+        ],
+        "OrderNumber": 10340,
+        "StartTimeFixJST": "2026-02-05 16:00:00",
+        "EndTimeFixJST": "2026-02-26 14:29:59"
     },
     {
         "Id": 30001,
