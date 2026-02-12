@@ -922,9 +922,9 @@
         "IsIgnore": null,
         "Memo": "モワノー",
         "CharacterId": 100,
-        "IsPickup": true,
-        "EndTimeFixJST": "2026-02-05 15:59:59",
-        "StartTimeFixJST": "2026-01-22 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 104,
@@ -958,9 +958,9 @@
         "IsIgnore": null,
         "Memo": "団長コルディ",
         "CharacterId": 123,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2026-02-26 14:29:59",
+        "StartTimeFixJST": "2026-02-12 14:30:00"
     },
     {
         "Id": 108,
@@ -1069,5 +1069,14 @@
         "IsPickup": true,
         "EndTimeFixJST": "2026-02-12 14:29:59",
         "StartTimeFixJST": "2026-01-29 14:30:00"
+    },
+    {
+        "Id": 120,
+        "IsIgnore": null,
+        "Memo": "コベル",
+        "CharacterId": 103,
+        "IsPickup": true,
+        "EndTimeFixJST": "2026-02-26 14:29:59",
+        "StartTimeFixJST": "2026-02-12 14:30:00"
     }
 ]

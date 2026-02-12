@@ -1155,5 +1155,18 @@
         "RequiredPartyLv": 300,
         "EndTimeFixJST": "2100-01-01 00:00:00",
         "StartTimeFixJST": "2025-10-16 00:00:00"
+    },
+    {
+        "Id": 89,
+        "IsIgnore": null,
+        "Memo": "ラケルタの試練​(コベル,ケルベロス)",
+        "NameKey": "[CharacterCollectionName89]",
+        "RequiredCharacterIds": [
+            103,
+            43
+        ],
+        "RequiredPartyLv": 0,
+        "EndTimeFixJST": "2100-01-01 00:00:00",
+        "StartTimeFixJST": "2026-02-12 00:00:00"
     }
 ]

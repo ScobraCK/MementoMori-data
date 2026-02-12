@@ -4774,6 +4774,58 @@
         "StartTimeFixJST": "2024-07-31 15:00:00"
     },
     {
+        "Id": 99,
+        "IsIgnore": null,
+        "Memo": "リリコット",
+        "ActiveSkillIds": [
+            99001,
+            99002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 97,
+            "Health": 74,
+            "Intelligence": 91,
+            "Muscle": 73
+        },
+        "BaseParameterGrossCoefficient": 335,
+        "CharacterType": 0,
+        "ElementType": 2,
+        "InitialBattleParameter": {
+            "AttackPower": -1,
+            "Avoidance": 0,
+            "Critical": 0,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 0,
+            "DamageReflect": 0,
+            "DebuffHit": 5,
+            "DebuffResist": 0,
+            "Defense": 6,
+            "DefensePenetration": 0,
+            "Hit": 0,
+            "HP": 0,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": 0,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 0,
+            "Speed": 3064
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 2,
+        "Name2Key": "",
+        "NameKey": "[CharacterName99]",
+        "NormalSkillId": 101,
+        "PassiveSkillIds": [
+            99003,
+            99004
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2026-03-16 15:00:00"
+    },
+    {
         "Id": 100,
         "IsIgnore": null,
         "Memo": "モワノー",
@@ -4928,6 +4980,59 @@
         "RequireFragmentCount": 60,
         "EndTimeFixJST": "2100-12-31 23:59:59",
         "StartTimeFixJST": "2025-09-30 15:00:00"
+    },
+    {
+        "Id": 103,
+        "IsIgnore": null,
+        "Memo": "コベル",
+        "ActiveSkillIds": [
+            103001,
+            103002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 97,
+            "Health": 73,
+            "Intelligence": 89,
+            "Muscle": 73
+        },
+        "BaseParameterGrossCoefficient": 332,
+        "CharacterType": 0,
+        "ElementType": 3,
+        "InitialBattleParameter": {
+            "AttackPower": -2,
+            "Avoidance": 0,
+            "Critical": 0,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 0,
+            "DamageReflect": 0,
+            "DebuffHit": 5,
+            "DebuffResist": 0,
+            "Defense": 7,
+            "DefensePenetration": 0,
+            "Hit": 0,
+            "HP": 0,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": 0,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 0,
+            "Speed": 3179
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 2,
+        "Name2Key": "",
+        "NameKey": "[CharacterName103]",
+        "NormalSkillId": 101,
+        "PassiveSkillIds": [
+            103003,
+            103004,
+            103005
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2026-02-12 15:00:00"
     },
     {
         "Id": 105,

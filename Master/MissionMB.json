@@ -60356,5 +60356,489 @@
         "TransitionDestination": 1101,
         "EndTime": "2100-01-01 00:00:00",
         "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2076,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト52章をクリアする",
+        "AchievementType": 9010500,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionName2076]",
+        "OpeningPeriod": 0,
+        "RequireValue": 52,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 20,
+                    "ItemId": 4,
+                    "ItemType": 16
+                },
+                "RarityFlags": 0
+            },
+            {
+                "Item": {
+                    "ItemCount": 6,
+                    "ItemId": 12,
+                    "ItemType": 16
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 6,
+        "SortOrderB": 14,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2077,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト53章をクリアする",
+        "AchievementType": 9010500,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionName2077]",
+        "OpeningPeriod": 0,
+        "RequireValue": 53,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 20,
+                    "ItemId": 4,
+                    "ItemType": 16
+                },
+                "RarityFlags": 0
+            },
+            {
+                "Item": {
+                    "ItemCount": 6,
+                    "ItemId": 12,
+                    "ItemType": 16
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 6,
+        "SortOrderB": 14,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2078,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト52-8をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2048,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2079,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト52-16をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2056,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2080,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト52-24をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2064,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2081,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト52-32をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2072,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 300,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2082,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト52-40をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2080,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2083,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト52-48をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2088,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2084,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト52-56をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2096,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2085,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト52-60をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2100,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 300,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2086,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト53-8をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2108,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2087,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト53-16をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2116,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2088,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト53-24をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2124,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2089,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト53-32をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2132,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 300,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2090,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト53-40をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2140,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2091,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト53-48をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2148,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2092,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト53-56をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2156,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 150,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2093,
+        "IsIgnore": null,
+        "Memo": "メイン_メインクエスト53-60をクリアする",
+        "AchievementType": 9010400,
+        "DescriptionKey": null,
+        "MissionType": 0,
+        "NameKey": "[MissionNameMainBossBattle]",
+        "OpeningPeriod": 0,
+        "RequireValue": 2160,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 300,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 9,
+        "TransitionDestination": 901,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
     }
 ]
