@@ -6570,9 +6570,10 @@
     {
         "Id": 175,
         "IsIgnore": null,
-        "Memo": "コベル②+復刻団長コルディ②+仮（0219切り替え用）",
+        "Memo": "コベル②+復刻ルミカ①+復刻団長コルディ②（0219切り替え用）",
         "CharacterIdList": [
             103,
+            121,
             123,
             5,
             6,
@@ -6601,11 +6602,50 @@
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
             103,
+            121,
             123
         ],
         "OrderNumber": 175,
         "StartTimeFixJST": "2026-02-19 14:30:00",
         "EndTimeFixJST": "2026-02-26 14:29:59"
+    },
+    {
+        "Id": 176,
+        "IsIgnore": null,
+        "Memo": "復刻ルミカ②+仮（0226切り替え用）",
+        "CharacterIdList": [
+            121,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            121
+        ],
+        "OrderNumber": 176,
+        "StartTimeFixJST": "2026-02-26 16:30:00",
+        "EndTimeFixJST": "2026-03-09 14:29:59"
     },
     {
         "Id": 10000,
