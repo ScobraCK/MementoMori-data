@@ -6612,9 +6612,12 @@
     {
         "Id": 176,
         "IsIgnore": null,
-        "Memo": "復刻ルミカ②+仮（0226切り替え用）",
+        "Memo": "レジーナ①+復刻ルミカ②+復刻リズ①+復刻マチルダ①（0226切り替え用）",
         "CharacterIdList": [
+            137,
             121,
+            84,
+            85,
             5,
             6,
             7,
@@ -6641,11 +6644,56 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            121
+            137,
+            121,
+            84,
+            85
         ],
         "OrderNumber": 176,
-        "StartTimeFixJST": "2026-02-26 16:30:00",
+        "StartTimeFixJST": "2026-02-26 15:00:00",
         "EndTimeFixJST": "2026-03-09 14:29:59"
+    },
+    {
+        "Id": 177,
+        "IsIgnore": null,
+        "Memo": "レジーナ②+復刻リズ②+復刻マチルダ②+仮（0309切り替え用）",
+        "CharacterIdList": [
+            137,
+            84,
+            85,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            137,
+            84,
+            85
+        ],
+        "OrderNumber": 177,
+        "StartTimeFixJST": "2026-03-09 14:30:00",
+        "EndTimeFixJST": "2026-03-16 14:29:59"
     },
     {
         "Id": 10000,
@@ -7338,6 +7386,26 @@
         "EndTimeFixJST": "2026-02-26 14:29:59"
     },
     {
+        "Id": 10350,
+        "IsIgnore": null,
+        "Memo": "星の導きガチャ 第35回_アイネ・モルガナ・タマ",
+        "CharacterIdList": [
+            65,
+            75,
+            81
+        ],
+        "GachaSelectListType": 3,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            65,
+            75,
+            81
+        ],
+        "OrderNumber": 10350,
+        "StartTimeFixJST": "2026-02-26 15:00:00",
+        "EndTimeFixJST": "2026-03-24 14:29:59"
+    },
+    {
         "Id": 30001,
         "IsIgnore": null,
         "Memo": "選択水着サブリナ①+選択水着モーザ①+選択浴衣コルディ①（選択PUガチャ用）",
@@ -7367,6 +7435,21 @@
         "OrderNumber": 30002,
         "StartTimeFixJST": "2025-11-27 17:30:00",
         "EndTimeFixJST": "2025-12-11 14:29:59"
+    },
+    {
+        "Id": 30003,
+        "IsIgnore": null,
+        "Memo": "選択リズ①+選択マチルダ①（選択PUガチャ用）",
+        "CharacterIdList": [
+            84,
+            85
+        ],
+        "GachaSelectListType": 4,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": null,
+        "OrderNumber": 30003,
+        "StartTimeFixJST": "2026-02-26 15:00:00",
+        "EndTimeFixJST": "2026-03-16 14:29:59"
     },
     {
         "Id": 40001,

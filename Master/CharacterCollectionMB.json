@@ -1130,12 +1130,12 @@
     {
         "Id": 87,
         "IsIgnore": null,
-        "Memo": "アケルナルの神童​(メルラン,アルトリア,？)",
+        "Memo": "アケルナルの神童​(メルラン,アルトリア,モルガナ)",
         "NameKey": "[CharacterCollectionName87]",
         "RequiredCharacterIds": [
             135,
             93,
-            0
+            75
         ],
         "RequiredPartyLv": 0,
         "EndTimeFixJST": "2100-01-01 00:00:00",
@@ -1168,5 +1168,18 @@
         "RequiredPartyLv": 0,
         "EndTimeFixJST": "2100-01-01 00:00:00",
         "StartTimeFixJST": "2026-02-12 00:00:00"
+    },
+    {
+        "Id": 90,
+        "IsIgnore": null,
+        "Memo": "アラネアの悪夢​(レジーナ,？)",
+        "NameKey": "[CharacterCollectionName90]",
+        "RequiredCharacterIds": [
+            137,
+            0
+        ],
+        "RequiredPartyLv": 0,
+        "EndTimeFixJST": "2100-01-01 00:00:00",
+        "StartTimeFixJST": "2026-02-26 00:00:00"
     }
 ]

@@ -1602,6 +1602,15 @@
         "EndGachaSelectListId": 176
     },
     {
+        "Id": 218,
+        "IsIgnore": null,
+        "Memo": "レジーナ追加",
+        "CharacterId": 137,
+        "GachaAddCharacterType": 2,
+        "StartGachaSelectListId": 176,
+        "EndGachaSelectListId": 177
+    },
+    {
         "Id": 3000101,
         "IsIgnore": null,
         "Memo": "水着サブリナ追加",
@@ -1645,5 +1654,23 @@
         "GachaAddCharacterType": 2,
         "StartGachaSelectListId": 163,
         "EndGachaSelectListId": 164
+    },
+    {
+        "Id": 3000301,
+        "IsIgnore": null,
+        "Memo": "リズ復刻追加",
+        "CharacterId": 84,
+        "GachaAddCharacterType": 2,
+        "StartGachaSelectListId": 176,
+        "EndGachaSelectListId": 177
+    },
+    {
+        "Id": 3000302,
+        "IsIgnore": null,
+        "Memo": "マチルダ復刻追加",
+        "CharacterId": 85,
+        "GachaAddCharacterType": 2,
+        "StartGachaSelectListId": 176,
+        "EndGachaSelectListId": 177
     }
 ]

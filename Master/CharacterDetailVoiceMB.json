@@ -40035,6 +40035,23 @@
         "UnlockQuestId": 0
     },
     {
+        "Id": 8422,
+        "IsIgnore": null,
+        "Memo": "リズ朗読",
+        "CharacterId": 84,
+        "CharacterVoiceCategory": 10,
+        "Path": {
+            "TimelineId": 1,
+            "VoiceId": 0,
+            "TimelineType": 6
+        },
+        "SortOrder": 200,
+        "SubtitleKey": null,
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText31]",
+        "UnlockQuestId": 0
+    },
+    {
         "Id": 8490,
         "IsIgnore": null,
         "Memo": "リズ",
@@ -40508,6 +40525,23 @@
         "SubtitleKey": "[CharacterDetailVoiceSubtitle8521]",
         "UnlockCondition": 6,
         "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText20]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 8522,
+        "IsIgnore": null,
+        "Memo": "マチルダ朗読",
+        "CharacterId": 85,
+        "CharacterVoiceCategory": 10,
+        "Path": {
+            "TimelineId": 1,
+            "VoiceId": 0,
+            "TimelineType": 6
+        },
+        "SortOrder": 200,
+        "SubtitleKey": null,
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText31]",
         "UnlockQuestId": 0
     },
     {
@@ -58042,6 +58076,482 @@
         "IsIgnore": null,
         "Memo": "メルラン",
         "CharacterId": 135,
+        "CharacterVoiceCategory": 5,
+        "Path": {
+            "TimelineId": 4,
+            "VoiceId": 0,
+            "TimelineType": 4
+        },
+        "SortOrder": 103,
+        "SubtitleKey": null,
+        "UnlockCondition": 8,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText30]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 13702,
+        "IsIgnore": null,
+        "Memo": "レジーナ",
+        "CharacterId": 137,
+        "CharacterVoiceCategory": 3,
+        "Path": {
+            "TimelineId": 2,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 2,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle13702]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText1]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 13703,
+        "IsIgnore": null,
+        "Memo": "レジーナ",
+        "CharacterId": 137,
+        "CharacterVoiceCategory": 2,
+        "Path": {
+            "TimelineId": 3,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 3,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle13703]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText2]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 13704,
+        "IsIgnore": null,
+        "Memo": "レジーナ",
+        "CharacterId": 137,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 4,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 4,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle13704]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText3]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 13705,
+        "IsIgnore": null,
+        "Memo": "レジーナ",
+        "CharacterId": 137,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 5,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 5,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle13705]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText4]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 13706,
+        "IsIgnore": null,
+        "Memo": "レジーナ",
+        "CharacterId": 137,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 6,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 6,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle13706]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText5]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 13707,
+        "IsIgnore": null,
+        "Memo": "レジーナ",
+        "CharacterId": 137,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 7,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 7,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle13707]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText6]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 13708,
+        "IsIgnore": null,
+        "Memo": "レジーナ",
+        "CharacterId": 137,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 8,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 8,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle13708]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText7]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 13709,
+        "IsIgnore": null,
+        "Memo": "レジーナ",
+        "CharacterId": 137,
+        "CharacterVoiceCategory": 1,
+        "Path": {
+            "TimelineId": 9,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 9,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle13709]",
+        "UnlockCondition": 7,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText8]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 13710,
+        "IsIgnore": null,
+        "Memo": "レジーナ",
+        "CharacterId": 137,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 10,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 10,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle13710]",
+        "UnlockCondition": 1,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText9]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 13711,
+        "IsIgnore": null,
+        "Memo": "レジーナ",
+        "CharacterId": 137,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 11,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 11,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle13711]",
+        "UnlockCondition": 2,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText10]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 13712,
+        "IsIgnore": null,
+        "Memo": "レジーナ",
+        "CharacterId": 137,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 12,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 12,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle13712]",
+        "UnlockCondition": 3,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText11]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 13713,
+        "IsIgnore": null,
+        "Memo": "レジーナ",
+        "CharacterId": 137,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 13,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 13,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle13713]",
+        "UnlockCondition": 4,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText12]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 13714,
+        "IsIgnore": null,
+        "Memo": "レジーナ",
+        "CharacterId": 137,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 14,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 14,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle13714]",
+        "UnlockCondition": 5,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText13]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 13715,
+        "IsIgnore": null,
+        "Memo": "レジーナ",
+        "CharacterId": 137,
+        "CharacterVoiceCategory": 0,
+        "Path": {
+            "TimelineId": 15,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 15,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle13715]",
+        "UnlockCondition": 6,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText14]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 13716,
+        "IsIgnore": null,
+        "Memo": "レジーナ",
+        "CharacterId": 137,
+        "CharacterVoiceCategory": 4,
+        "Path": {
+            "TimelineId": 16,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 16,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle13716]",
+        "UnlockCondition": 1,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText15]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 13717,
+        "IsIgnore": null,
+        "Memo": "レジーナ",
+        "CharacterId": 137,
+        "CharacterVoiceCategory": 4,
+        "Path": {
+            "TimelineId": 17,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 17,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle13717]",
+        "UnlockCondition": 2,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText16]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 13718,
+        "IsIgnore": null,
+        "Memo": "レジーナ",
+        "CharacterId": 137,
+        "CharacterVoiceCategory": 4,
+        "Path": {
+            "TimelineId": 18,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 18,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle13718]",
+        "UnlockCondition": 3,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText17]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 13719,
+        "IsIgnore": null,
+        "Memo": "レジーナ",
+        "CharacterId": 137,
+        "CharacterVoiceCategory": 4,
+        "Path": {
+            "TimelineId": 19,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 19,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle13719]",
+        "UnlockCondition": 4,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText18]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 13720,
+        "IsIgnore": null,
+        "Memo": "レジーナ",
+        "CharacterId": 137,
+        "CharacterVoiceCategory": 4,
+        "Path": {
+            "TimelineId": 20,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 20,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle13720]",
+        "UnlockCondition": 5,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText19]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 13721,
+        "IsIgnore": null,
+        "Memo": "レジーナ",
+        "CharacterId": 137,
+        "CharacterVoiceCategory": 4,
+        "Path": {
+            "TimelineId": 21,
+            "VoiceId": 0,
+            "TimelineType": 0
+        },
+        "SortOrder": 21,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle13721]",
+        "UnlockCondition": 6,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText20]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 13790,
+        "IsIgnore": null,
+        "Memo": "レジーナ",
+        "CharacterId": 137,
+        "CharacterVoiceCategory": 8,
+        "Path": {
+            "TimelineId": 20,
+            "VoiceId": 0,
+            "TimelineType": 1
+        },
+        "SortOrder": 90,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle13790]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText21]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 13791,
+        "IsIgnore": null,
+        "Memo": "レジーナ",
+        "CharacterId": 137,
+        "CharacterVoiceCategory": 9,
+        "Path": {
+            "TimelineId": 21,
+            "VoiceId": 0,
+            "TimelineType": 1
+        },
+        "SortOrder": 91,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle13791]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText22]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 13792,
+        "IsIgnore": null,
+        "Memo": "レジーナ",
+        "CharacterId": 137,
+        "CharacterVoiceCategory": 5,
+        "Path": {
+            "TimelineId": 1,
+            "VoiceId": 0,
+            "TimelineType": 2
+        },
+        "SortOrder": 92,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle13792]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText23]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 13793,
+        "IsIgnore": null,
+        "Memo": "レジーナ",
+        "CharacterId": 137,
+        "CharacterVoiceCategory": 5,
+        "Path": {
+            "TimelineId": 2,
+            "VoiceId": 0,
+            "TimelineType": 2
+        },
+        "SortOrder": 93,
+        "SubtitleKey": "[CharacterDetailVoiceSubtitle13793]",
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText24]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 13796,
+        "IsIgnore": null,
+        "Memo": "レジーナ",
+        "CharacterId": 137,
+        "CharacterVoiceCategory": 5,
+        "Path": {
+            "TimelineId": 2,
+            "VoiceId": 0,
+            "TimelineType": 4
+        },
+        "SortOrder": 100,
+        "SubtitleKey": null,
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText27]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 13797,
+        "IsIgnore": null,
+        "Memo": "レジーナ",
+        "CharacterId": 137,
+        "CharacterVoiceCategory": 5,
+        "Path": {
+            "TimelineId": 1,
+            "VoiceId": 0,
+            "TimelineType": 4
+        },
+        "SortOrder": 101,
+        "SubtitleKey": null,
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText28]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 13798,
+        "IsIgnore": null,
+        "Memo": "レジーナ",
+        "CharacterId": 137,
+        "CharacterVoiceCategory": 5,
+        "Path": {
+            "TimelineId": 3,
+            "VoiceId": 0,
+            "TimelineType": 4
+        },
+        "SortOrder": 102,
+        "SubtitleKey": null,
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText29]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 13799,
+        "IsIgnore": null,
+        "Memo": "レジーナ",
+        "CharacterId": 137,
         "CharacterVoiceCategory": 5,
         "Path": {
             "TimelineId": 4,
