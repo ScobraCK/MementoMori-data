@@ -6700,9 +6700,11 @@
     {
         "Id": 178,
         "IsIgnore": null,
-        "Memo": "復刻ユルディズ②+仮（0316切り替え用）",
+        "Memo": "リリコット①+復刻ユルディズ②+復刻ミフリ①（0316切り替え用）",
         "CharacterIdList": [
+            99,
             124,
+            126,
             5,
             6,
             7,
@@ -6729,11 +6731,53 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            124
+            99,
+            124,
+            126
         ],
         "OrderNumber": 178,
-        "StartTimeFixJST": "2026-03-16 16:30:00",
+        "StartTimeFixJST": "2026-03-16 15:00:00",
         "EndTimeFixJST": "2026-03-24 14:29:59"
+    },
+    {
+        "Id": 179,
+        "IsIgnore": null,
+        "Memo": "リリコット②+復刻ミフリ②+仮（0324切り替え用）",
+        "CharacterIdList": [
+            99,
+            126,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            99,
+            126
+        ],
+        "OrderNumber": 179,
+        "StartTimeFixJST": "2026-03-24 14:30:00",
+        "EndTimeFixJST": "2026-03-31 14:29:59"
     },
     {
         "Id": 10000,
