@@ -850,9 +850,9 @@
         "IsIgnore": null,
         "Memo": "ティリー",
         "CharacterId": 111,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2026-04-15 14:29:59",
+        "StartTimeFixJST": "2026-03-31 14:30:00"
     },
     {
         "Id": 96,
@@ -967,9 +967,9 @@
         "IsIgnore": null,
         "Memo": "ユルディズ",
         "CharacterId": 124,
-        "IsPickup": true,
-        "EndTimeFixJST": "2026-03-24 14:29:59",
-        "StartTimeFixJST": "2026-03-09 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 109,
@@ -1096,5 +1096,14 @@
         "IsPickup": true,
         "EndTimeFixJST": "2026-03-31 14:29:59",
         "StartTimeFixJST": "2026-03-16 14:30:00"
+    },
+    {
+        "Id": 123,
+        "IsIgnore": null,
+        "Memo": "トリクシー",
+        "CharacterId": 139,
+        "IsPickup": true,
+        "EndTimeFixJST": "2026-04-15 14:29:59",
+        "StartTimeFixJST": "2026-03-31 14:30:00"
     }
 ]
