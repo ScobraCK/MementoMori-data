@@ -6826,10 +6826,11 @@
     {
         "Id": 181,
         "IsIgnore": null,
-        "Memo": "トリクシー②+復刻ティリー②+仮（0408切り替え用）",
+        "Memo": "トリクシー②+復刻ティリー②+復刻ルスティカ①（0408切り替え用）",
         "CharacterIdList": [
             139,
             111,
+            113,
             5,
             6,
             7,
@@ -6857,11 +6858,50 @@
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
             139,
-            111
+            111,
+            113
         ],
         "OrderNumber": 181,
         "StartTimeFixJST": "2026-04-08 14:30:00",
         "EndTimeFixJST": "2026-04-15 14:29:59"
+    },
+    {
+        "Id": 182,
+        "IsIgnore": null,
+        "Memo": "復刻ルスティカ②+仮（0415切り替え用）",
+        "CharacterIdList": [
+            113,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            113
+        ],
+        "OrderNumber": 182,
+        "StartTimeFixJST": "2026-04-15 16:30:00",
+        "EndTimeFixJST": "2026-04-22 14:29:59"
     },
     {
         "Id": 10000,
