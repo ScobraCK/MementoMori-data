@@ -13998,5 +13998,139 @@
             }
         ],
         "CharacterId": 139
+    },
+    {
+        "Id": 649,
+        "IsIgnore": null,
+        "Memo": "面影フィアーSSR180",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 134
+    },
+    {
+        "Id": 650,
+        "IsIgnore": null,
+        "Memo": "面影フィアーSSR200",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 600.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1300.0
+            }
+        ],
+        "CharacterId": 134
+    },
+    {
+        "Id": 651,
+        "IsIgnore": null,
+        "Memo": "面影フィアーSSR220",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 650.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1400.0
+            },
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "CharacterId": 134
+    },
+    {
+        "Id": 652,
+        "IsIgnore": null,
+        "Memo": "面影フィアーSSR240",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "CharacterId": 134
+    },
+    {
+        "Id": 653,
+        "IsIgnore": null,
+        "Memo": "面影フィアーUR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 750.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1600.0
+            },
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 900.0
+            }
+        ],
+        "CharacterId": 134
+    },
+    {
+        "Id": 654,
+        "IsIgnore": null,
+        "Memo": "面影フィアーLR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 5,
+                "ChangeParameterType": 2,
+                "Value": 1000.0
+            }
+        ],
+        "CharacterId": 134
     }
 ]

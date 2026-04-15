@@ -6826,10 +6826,11 @@
     {
         "Id": 181,
         "IsIgnore": null,
-        "Memo": "トリクシー②+復刻ティリー②+仮（0408切り替え用）",
+        "Memo": "トリクシー②+復刻ティリー②+復刻ルスティカ①（0408切り替え用）",
         "CharacterIdList": [
             139,
             111,
+            113,
             5,
             6,
             7,
@@ -6857,11 +6858,132 @@
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
             139,
-            111
+            111,
+            113
         ],
         "OrderNumber": 181,
         "StartTimeFixJST": "2026-04-08 14:30:00",
         "EndTimeFixJST": "2026-04-15 14:29:59"
+    },
+    {
+        "Id": 182,
+        "IsIgnore": null,
+        "Memo": "面影フィアー①+復刻宝物フェンリル①+復刻ルスティカ②（0415切り替え用）",
+        "CharacterIdList": [
+            134,
+            83,
+            113,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            134,
+            83,
+            113
+        ],
+        "OrderNumber": 182,
+        "StartTimeFixJST": "2026-04-15 16:30:00",
+        "EndTimeFixJST": "2026-04-22 14:29:59"
+    },
+    {
+        "Id": 183,
+        "IsIgnore": null,
+        "Memo": "面影フィアー②+復刻宝物フェンリル②+仮（0422切り替え用）",
+        "CharacterIdList": [
+            134,
+            83,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            134,
+            83
+        ],
+        "OrderNumber": 183,
+        "StartTimeFixJST": "2026-04-22 14:30:00",
+        "EndTimeFixJST": "2026-04-30 14:29:59"
+    },
+    {
+        "Id": 184,
+        "IsIgnore": null,
+        "Memo": "面影フィアー③+仮（0430切り替え用）",
+        "CharacterIdList": [
+            134,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            134
+        ],
+        "OrderNumber": 184,
+        "StartTimeFixJST": "2026-04-30 16:30:00",
+        "EndTimeFixJST": "2026-05-07 14:29:59"
     },
     {
         "Id": 10000,
@@ -7598,6 +7720,26 @@
         "OrderNumber": 10360,
         "StartTimeFixJST": "2026-03-24 14:30:00",
         "EndTimeFixJST": "2026-04-15 14:29:59"
+    },
+    {
+        "Id": 10370,
+        "IsIgnore": null,
+        "Memo": "星の導きガチャ 第37回_パラデア・エイル・アレクサンドラ",
+        "CharacterIdList": [
+            63,
+            59,
+            82
+        ],
+        "GachaSelectListType": 3,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            63,
+            59,
+            82
+        ],
+        "OrderNumber": 10370,
+        "StartTimeFixJST": "2026-04-15 16:30:00",
+        "EndTimeFixJST": "2026-05-07 14:29:59"
     },
     {
         "Id": 30001,

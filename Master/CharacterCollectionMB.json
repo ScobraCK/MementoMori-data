@@ -1207,5 +1207,18 @@
         "RequiredPartyLv": 0,
         "EndTimeFixJST": "2100-01-01 00:00:00",
         "StartTimeFixJST": "2026-03-31 00:00:00"
+    },
+    {
+        "Id": 93,
+        "IsIgnore": null,
+        "Memo": "サジテリアスの光源​(新フィアー,フィアー)",
+        "NameKey": "[CharacterCollectionName93]",
+        "RequiredCharacterIds": [
+            134,
+            60
+        ],
+        "RequiredPartyLv": 0,
+        "EndTimeFixJST": "2100-01-01 00:00:00",
+        "StartTimeFixJST": "2026-04-15 00:00:00"
     }
 ]
