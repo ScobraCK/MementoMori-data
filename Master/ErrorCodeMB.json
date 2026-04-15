@@ -582,6 +582,18 @@
         "ErrorMessageType": 2
     },
     {
+        "Id": 97011,
+        "IsIgnore": null,
+        "Memo": "最大スタック数のデータがありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 97012,
+        "IsIgnore": null,
+        "Memo": "スタック数のデータがありません",
+        "ErrorMessageType": 2
+    },
+    {
         "Id": 100113,
         "IsIgnore": null,
         "Memo": "このパーティは現在使用できません",
@@ -1833,6 +1845,12 @@
         "Id": 191004,
         "IsIgnore": null,
         "Memo": null,
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 191005,
+        "IsIgnore": null,
+        "Memo": "ギルドレイド準備中です",
         "ErrorMessageType": 2
     },
     {
@@ -4785,6 +4803,36 @@
         "Id": 471028,
         "IsIgnore": null,
         "Memo": "建物名を全角で入力してください",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 471029,
+        "IsIgnore": null,
+        "Memo": "景品キャラが選択されていません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 471030,
+        "IsIgnore": null,
+        "Memo": "景品キャラが選択済みです",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 471031,
+        "IsIgnore": null,
+        "Memo": "キャラ選択対象の景品がありません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 471032,
+        "IsIgnore": null,
+        "Memo": "住所登録が完了していません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 471033,
+        "IsIgnore": null,
+        "Memo": "選択対象外のキャラです",
         "ErrorMessageType": 2
     },
     {

@@ -6493,5 +6493,35 @@
                 "ItemType": 1
             }
         ]
+    },
+    {
+        "Id": 434,
+        "IsIgnore": null,
+        "Memo": "メインクエスト54-60クリア",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetMainQuest]",
+        "RankingDataType": 3,
+        "RequireValue": 2220,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
+    },
+    {
+        "Id": 435,
+        "IsIgnore": null,
+        "Memo": "メインクエスト55-60クリア",
+        "AchieveTargetDescriptionKey": "[AchieveRankingTargetMainQuest]",
+        "RankingDataType": 3,
+        "RequireValue": 2280,
+        "RewardItemList": [
+            {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ]
     }
 ]
