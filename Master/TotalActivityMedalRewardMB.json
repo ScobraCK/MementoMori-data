@@ -3072,5 +3072,74 @@
         "SortOrder": 0,
         "TimeServerIdList": null,
         "ImageId": 0
+    },
+    {
+        "Id": 10551,
+        "IsIgnore": null,
+        "Memo": "イベント_デイリーミッション1_リリー",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 20,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 41,
+                    "ItemType": 50
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2026-04-30 04:00:00",
+        "EndTime": "2026-05-10 03:59:59",
+        "SortOrder": 0,
+        "TimeServerIdList": null,
+        "ImageId": 0
+    },
+    {
+        "Id": 10552,
+        "IsIgnore": null,
+        "Memo": "イベント_デイリーミッション3_リリー",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 60,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 41,
+                    "ItemType": 50
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2026-04-30 04:00:00",
+        "EndTime": "2026-05-10 03:59:59",
+        "SortOrder": 0,
+        "TimeServerIdList": null,
+        "ImageId": 0
+    },
+    {
+        "Id": 10553,
+        "IsIgnore": null,
+        "Memo": "イベント_デイリーミッション5_リリー",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 100,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 10,
+                    "ItemId": 41,
+                    "ItemType": 50
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2026-04-30 04:00:00",
+        "EndTime": "2026-05-10 03:59:59",
+        "SortOrder": 0,
+        "TimeServerIdList": null,
+        "ImageId": 0
     }
 ]

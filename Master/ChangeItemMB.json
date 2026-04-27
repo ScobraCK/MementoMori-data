@@ -11792,6 +11792,38 @@
         "NeedCount": 1
     },
     {
+        "Id": 754,
+        "IsIgnore": null,
+        "Memo": "リリーのアイテム",
+        "ChangeItems": [
+            {
+                "ItemCount": 10000,
+                "ItemId": 1,
+                "ItemType": 3
+            }
+        ],
+        "ChangeItemType": 0,
+        "ItemId": 41,
+        "ItemType": 50,
+        "NeedCount": 1
+    },
+    {
+        "Id": 755,
+        "IsIgnore": null,
+        "Memo": "リリーガチャチケット",
+        "ChangeItems": [
+            {
+                "ItemCount": 1,
+                "ItemId": 2,
+                "ItemType": 16
+            }
+        ],
+        "ChangeItemType": 0,
+        "ItemId": 1410,
+        "ItemType": 16,
+        "NeedCount": 1
+    },
+    {
         "Id": 756,
         "IsIgnore": null,
         "Memo": "第２回ラッキーチャンス_ラッキーチャンスガチャチケット",
