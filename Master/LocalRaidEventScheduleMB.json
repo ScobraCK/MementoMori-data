@@ -249,5 +249,25 @@
         "EndTime": "2026-01-25 03:59:59",
         "LocalRaidEventTutorialId": 2012,
         "EventBattleCount": 0
+    },
+    {
+        "Id": 14,
+        "IsIgnore": null,
+        "Memo": "20260430リリーイベント",
+        "LocalRaidStartEndTimes": [
+            {
+                "StartTime": 123000,
+                "EndTime": 133000
+            },
+            {
+                "StartTime": 193000,
+                "EndTime": 203000
+            }
+        ],
+        "RewardBonusRate": 11000,
+        "StartTime": "2026-04-30 04:00:00",
+        "EndTime": "2026-05-10 03:59:59",
+        "LocalRaidEventTutorialId": 2013,
+        "EventBattleCount": 0
     }
 ]

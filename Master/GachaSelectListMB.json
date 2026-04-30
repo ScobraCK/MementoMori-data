@@ -6952,10 +6952,12 @@
     {
         "Id": 184,
         "IsIgnore": null,
-        "Memo": "面影フィアー③+復刻宝物ケルベロス②+仮（0430切り替え用）",
+        "Memo": "リリー①+面影フィアー③+復刻宝物ケルベロス②+復刻リーベ①（0430切り替え用）",
         "CharacterIdList": [
+            141,
             134,
             129,
+            102,
             5,
             6,
             7,
@@ -6982,12 +6984,96 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
+            141,
             134,
-            129
+            129,
+            102
         ],
         "OrderNumber": 184,
         "StartTimeFixJST": "2026-04-30 16:30:00",
         "EndTimeFixJST": "2026-05-07 14:29:59"
+    },
+    {
+        "Id": 185,
+        "IsIgnore": null,
+        "Memo": "リリー②+復刻リーベ②+復刻ポーラ①（0507切り替え用）",
+        "CharacterIdList": [
+            141,
+            102,
+            114,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            141,
+            102,
+            114
+        ],
+        "OrderNumber": 185,
+        "StartTimeFixJST": "2026-05-07 14:30:00",
+        "EndTimeFixJST": "2026-05-14 14:29:59"
+    },
+    {
+        "Id": 186,
+        "IsIgnore": null,
+        "Memo": "リリー②+復刻ポーラ②+仮（0514切り替え用）",
+        "CharacterIdList": [
+            141,
+            114,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            141,
+            114
+        ],
+        "OrderNumber": 186,
+        "StartTimeFixJST": "2026-05-14 16:30:00",
+        "EndTimeFixJST": "2026-05-21 14:29:59"
     },
     {
         "Id": 10000,
@@ -7744,6 +7830,26 @@
         "OrderNumber": 10370,
         "StartTimeFixJST": "2026-04-15 16:30:00",
         "EndTimeFixJST": "2026-05-07 14:29:59"
+    },
+    {
+        "Id": 10380,
+        "IsIgnore": null,
+        "Memo": "星の導きガチャ 第38回_カグヤ・ミナシュマリ・ミラ",
+        "CharacterIdList": [
+            69,
+            77,
+            80
+        ],
+        "GachaSelectListType": 3,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            69,
+            77,
+            80
+        ],
+        "OrderNumber": 10380,
+        "StartTimeFixJST": "2026-05-07 14:30:00",
+        "EndTimeFixJST": "2026-05-28 14:29:59"
     },
     {
         "Id": 30001,

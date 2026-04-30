@@ -868,18 +868,18 @@
         "IsIgnore": null,
         "Memo": "ルスティカ",
         "CharacterId": 113,
-        "IsPickup": true,
-        "EndTimeFixJST": "2026-04-22 14:29:59",
-        "StartTimeFixJST": "2026-04-08 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 98,
         "IsIgnore": null,
         "Memo": "ポーラ",
         "CharacterId": 114,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2026-05-21 14:29:59",
+        "StartTimeFixJST": "2026-05-07 14:30:00"
     },
     {
         "Id": 99,
@@ -994,9 +994,9 @@
         "IsIgnore": null,
         "Memo": "リーベ",
         "CharacterId": 102,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2026-05-14 14:29:59",
+        "StartTimeFixJST": "2026-04-30 14:30:00"
     },
     {
         "Id": 112,
@@ -1114,5 +1114,14 @@
         "IsPickup": true,
         "EndTimeFixJST": "2026-05-07 14:29:59",
         "StartTimeFixJST": "2026-04-15 14:30:00"
+    },
+    {
+        "Id": 125,
+        "IsIgnore": null,
+        "Memo": "リリー",
+        "CharacterId": 141,
+        "IsPickup": true,
+        "EndTimeFixJST": "2026-05-21 14:29:59",
+        "StartTimeFixJST": "2026-04-30 14:30:00"
     }
 ]
