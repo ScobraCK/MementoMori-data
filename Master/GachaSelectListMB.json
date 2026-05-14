@@ -7038,10 +7038,12 @@
     {
         "Id": 186,
         "IsIgnore": null,
-        "Memo": "リリー②+復刻ポーラ②+仮（0514切り替え用）",
+        "Memo": "イディーネ+リリー+ポーラ+D.D.",
         "CharacterIdList": [
+            92,
             141,
             114,
+            116,
             5,
             6,
             7,
@@ -7068,12 +7070,54 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
+            92,
             141,
-            114
+            114,
+            116
         ],
         "OrderNumber": 186,
         "StartTimeFixJST": "2026-05-14 16:30:00",
         "EndTimeFixJST": "2026-05-21 14:29:59"
+    },
+    {
+        "Id": 187,
+        "IsIgnore": null,
+        "Memo": "イディーネ+D.D.+仮",
+        "CharacterIdList": [
+            92,
+            116,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            92,
+            116
+        ],
+        "OrderNumber": 187,
+        "StartTimeFixJST": "2026-05-21 14:30:00",
+        "EndTimeFixJST": "2026-05-28 14:29:59"
     },
     {
         "Id": 10000,
