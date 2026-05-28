@@ -7124,9 +7124,11 @@
     {
         "Id": 188,
         "IsIgnore": null,
-        "Memo": "制服A.A.+仮",
+        "Memo": "カトレア+制服A.A.+ポプリ",
         "CharacterIdList": [
+            90,
             117,
+            115,
             5,
             6,
             7,
@@ -7153,11 +7155,53 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            117
+            90,
+            117,
+            115
         ],
         "OrderNumber": 188,
-        "StartTimeFixJST": "2026-05-28 16:30:00",
+        "StartTimeFixJST": "2026-05-28 14:30:00",
         "EndTimeFixJST": "2026-06-08 14:29:59"
+    },
+    {
+        "Id": 189,
+        "IsIgnore": null,
+        "Memo": "カトレア+ポプリ+仮",
+        "CharacterIdList": [
+            90,
+            115,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            90,
+            115
+        ],
+        "OrderNumber": 189,
+        "StartTimeFixJST": "2026-06-08 14:30:00",
+        "EndTimeFixJST": "2026-06-15 14:29:59"
     },
     {
         "Id": 10000,
@@ -7934,6 +7978,32 @@
         "OrderNumber": 10380,
         "StartTimeFixJST": "2026-05-07 14:30:00",
         "EndTimeFixJST": "2026-05-28 14:29:59"
+    },
+    {
+        "Id": 10390,
+        "IsIgnore": null,
+        "Memo": "星の導きガチャ ケルベロス・A.A.・シヴィ・ソフィア・レア・ウィーラ",
+        "CharacterIdList": [
+            43,
+            48,
+            52,
+            51,
+            55,
+            53
+        ],
+        "GachaSelectListType": 3,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            43,
+            48,
+            52,
+            51,
+            55,
+            53
+        ],
+        "OrderNumber": 10390,
+        "StartTimeFixJST": "2026-05-28 14:30:00",
+        "EndTimeFixJST": "2026-06-23 14:29:59"
     },
     {
         "Id": 30001,

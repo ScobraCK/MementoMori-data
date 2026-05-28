@@ -12295,6 +12295,172 @@
         "RootActiveSkillId": 89002
     },
     {
+        "Id": 90001,
+        "IsIgnore": null,
+        "Memo": "カトレアSR:Lv1 鞭は振るわれるたびに力の解放条件を積み上げていく──4ターンの間自身の攻撃力が20%増加する。その後ランダムな敵に2回攻撃力×360%の物理攻撃を行う。回数を重ねると、やがて本来の力を芽吹かせる──バトル中このスキルを発動するのが2回目以降の場合、攻撃力の増加量が40%になる。/ Lv2 物理攻撃の回数が4回になる。/ Lv3 物理攻撃のダメージが攻撃力×590%になる。/ Ex1 バーナリゼーションを強化する。バトル中このスキルを発動するのが3回目以降の場合、さらに攻撃力の増加量が80%になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription900011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    90001001,
+                    90001002,
+                    90001003
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription900012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    90001001,
+                    90001002,
+                    90001003,
+                    90001003,
+                    90001003
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription900013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    90001001,
+                    90001302,
+                    90001303,
+                    90001303,
+                    90001303
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription900014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    90001401,
+                    90001302,
+                    90001303,
+                    90001303,
+                    90001303
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName90001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 90001
+    },
+    {
+        "Id": 90002,
+        "IsIgnore": null,
+        "Memo": "カトレアSR:Lv1 生命に共通する分裂の摂理を人為的に再現し、鞭撃を増殖させる。物理防御力が最も低い敵に4回攻撃力×410%の物理攻撃を行う。/ Lv2 物理攻撃の回数が6回になる。/ Lv3 さらにバトル中このスキルを発動するのが2回目以降の場合、物理攻撃の回数が9回になる。/ Lv4 さらにバトル中このスキルを発動するのが3回目以降の場合、物理攻撃の回数が12回になる。/ Ex3 トリア・メリステムを強化する。物理攻撃のダメージが攻撃力×470%になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription900021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    90002001,
+                    90002002,
+                    90002002,
+                    90002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription900022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    90002201,
+                    90002202,
+                    90002202,
+                    90002202,
+                    90002202,
+                    90002202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription900023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    90002201,
+                    90002202,
+                    90002202,
+                    90002202,
+                    90002202,
+                    90002202,
+                    90002303,
+                    90002303,
+                    90002303
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription900024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    90002201,
+                    90002202,
+                    90002202,
+                    90002202,
+                    90002202,
+                    90002202,
+                    90002303,
+                    90002303,
+                    90002303,
+                    90002404,
+                    90002404,
+                    90002404
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription900025]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    90002501,
+                    90002502,
+                    90002502,
+                    90002502,
+                    90002502,
+                    90002502,
+                    90002503,
+                    90002503,
+                    90002503,
+                    90002504,
+                    90002504,
+                    90002504
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName90002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 90002
+    },
+    {
         "Id": 92001,
         "IsIgnore": null,
         "Memo": "イディーネSR:Lv1 「……練習は何度もやった。けど、上手くいくかな……」4ターンの間自身に『再生』を付与する（解除不可）。毎ターン行動開始時に付帯者のHPを付帯者自身の最大HP×10%回復する。『再生』付与の後、ランダムな敵に4回攻撃力×240%の魔法攻撃を行う。/ Lv2 さらに『再生』付与の前に、自身の最大HPが10%増加する（最大2スタックまで）（解除不可）。/ Lv3 魔法攻撃のダメージが攻撃力×440%になる。/ Ex1 ウィリディタスの解放を強化する。『最大HP増加』と『再生』を付与する対象が味方全体になる。/ Ex2 ウィリディタスの解放を強化する。最大HPの増加量が40%になる。/ Ex3 ウィリディタスの解放を強化する。魔法攻撃のダメージが攻撃力×480%になる。",
@@ -45084,6 +45250,172 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 89002
+    },
+    {
+        "Id": 5504090001,
+        "IsIgnore": null,
+        "Memo": null,
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504090001001,
+                    5504090001002,
+                    5504090001003
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504090001001,
+                    5504090001002,
+                    5504090001003,
+                    5504090001003,
+                    5504090001003
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504090001001,
+                    5504090001302,
+                    5504090001303,
+                    5504090001303,
+                    5504090001303
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504090001401,
+                    5504090001302,
+                    5504090001303,
+                    5504090001303,
+                    5504090001303
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName90001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 90001
+    },
+    {
+        "Id": 5504090002,
+        "IsIgnore": null,
+        "Memo": null,
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504090002001,
+                    5504090002002,
+                    5504090002002,
+                    5504090002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504090002201,
+                    5504090002202,
+                    5504090002202,
+                    5504090002202,
+                    5504090002202,
+                    5504090002202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504090002201,
+                    5504090002202,
+                    5504090002202,
+                    5504090002202,
+                    5504090002202,
+                    5504090002202,
+                    5504090002303,
+                    5504090002303,
+                    5504090002303
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504090002201,
+                    5504090002202,
+                    5504090002202,
+                    5504090002202,
+                    5504090002202,
+                    5504090002202,
+                    5504090002303,
+                    5504090002303,
+                    5504090002303,
+                    5504090002404,
+                    5504090002404,
+                    5504090002404
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": null,
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504090002501,
+                    5504090002502,
+                    5504090002502,
+                    5504090002502,
+                    5504090002502,
+                    5504090002502,
+                    5504090002503,
+                    5504090002503,
+                    5504090002503,
+                    5504090002504,
+                    5504090002504,
+                    5504090002504
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName90002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 90002
     },
     {
         "Id": 5504092001,
