@@ -52734,6 +52734,23 @@
         "UnlockQuestId": 0
     },
     {
+        "Id": 11622,
+        "IsIgnore": null,
+        "Memo": "D.D.朗読",
+        "CharacterId": 116,
+        "CharacterVoiceCategory": 10,
+        "Path": {
+            "TimelineId": 1,
+            "VoiceId": 0,
+            "TimelineType": 6
+        },
+        "SortOrder": 200,
+        "SubtitleKey": null,
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText31]",
+        "UnlockQuestId": 0
+    },
+    {
         "Id": 11690,
         "IsIgnore": null,
         "Memo": "D.D.",
@@ -53207,6 +53224,23 @@
         "SubtitleKey": "[CharacterDetailVoiceSubtitle11721]",
         "UnlockCondition": 6,
         "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText20]",
+        "UnlockQuestId": 0
+    },
+    {
+        "Id": 11722,
+        "IsIgnore": null,
+        "Memo": "制服A.A.朗読",
+        "CharacterId": 117,
+        "CharacterVoiceCategory": 10,
+        "Path": {
+            "TimelineId": 1,
+            "VoiceId": 0,
+            "TimelineType": 6
+        },
+        "SortOrder": 200,
+        "SubtitleKey": null,
+        "UnlockCondition": 0,
+        "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText31]",
         "UnlockQuestId": 0
     },
     {
