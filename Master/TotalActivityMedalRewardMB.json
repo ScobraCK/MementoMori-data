@@ -22,14 +22,6 @@
                     "ItemType": 18
                 },
                 "RarityFlags": 0
-            },
-            {
-                "Item": {
-                    "ItemCount": 20,
-                    "ItemId": 4,
-                    "ItemType": 28
-                },
-                "RarityFlags": 0
             }
         ],
         "StartTime": "2020-01-01 00:00:00",
@@ -59,14 +51,6 @@
                     "ItemCount": 1,
                     "ItemId": 2,
                     "ItemType": 18
-                },
-                "RarityFlags": 0
-            },
-            {
-                "Item": {
-                    "ItemCount": 30,
-                    "ItemId": 4,
-                    "ItemType": 28
                 },
                 "RarityFlags": 0
             }
@@ -100,14 +84,6 @@
                     "ItemType": 18
                 },
                 "RarityFlags": 0
-            },
-            {
-                "Item": {
-                    "ItemCount": 40,
-                    "ItemId": 4,
-                    "ItemType": 28
-                },
-                "RarityFlags": 0
             }
         ],
         "StartTime": "2020-01-01 00:00:00",
@@ -131,14 +107,6 @@
                     "ItemType": 1
                 },
                 "RarityFlags": 0
-            },
-            {
-                "Item": {
-                    "ItemCount": 60,
-                    "ItemId": 4,
-                    "ItemType": 28
-                },
-                "RarityFlags": 0
             }
         ],
         "StartTime": "2020-01-01 00:00:00",
@@ -160,14 +128,6 @@
                     "ItemCount": 1,
                     "ItemId": 2,
                     "ItemType": 16
-                },
-                "RarityFlags": 0
-            },
-            {
-                "Item": {
-                    "ItemCount": 100,
-                    "ItemId": 4,
-                    "ItemType": 28
                 },
                 "RarityFlags": 0
             }
@@ -201,14 +161,6 @@
                     "ItemType": 21
                 },
                 "RarityFlags": 0
-            },
-            {
-                "Item": {
-                    "ItemCount": 80,
-                    "ItemId": 4,
-                    "ItemType": 28
-                },
-                "RarityFlags": 0
             }
         ],
         "StartTime": "2020-01-01 00:00:00",
@@ -238,14 +190,6 @@
                     "ItemCount": 60,
                     "ItemId": 27,
                     "ItemType": 17
-                },
-                "RarityFlags": 0
-            },
-            {
-                "Item": {
-                    "ItemCount": 160,
-                    "ItemId": 4,
-                    "ItemType": 28
                 },
                 "RarityFlags": 0
             }
@@ -287,14 +231,6 @@
                     "ItemType": 21
                 },
                 "RarityFlags": 0
-            },
-            {
-                "Item": {
-                    "ItemCount": 240,
-                    "ItemId": 4,
-                    "ItemType": 28
-                },
-                "RarityFlags": 0
             }
         ],
         "StartTime": "2020-01-01 00:00:00",
@@ -324,14 +260,6 @@
                     "ItemCount": 3,
                     "ItemId": 1,
                     "ItemType": 20
-                },
-                "RarityFlags": 0
-            },
-            {
-                "Item": {
-                    "ItemCount": 320,
-                    "ItemId": 4,
-                    "ItemType": 28
                 },
                 "RarityFlags": 0
             }
@@ -371,14 +299,6 @@
                     "ItemCount": 3,
                     "ItemId": 1,
                     "ItemType": 19
-                },
-                "RarityFlags": 0
-            },
-            {
-                "Item": {
-                    "ItemCount": 400,
-                    "ItemId": 4,
-                    "ItemType": 28
                 },
                 "RarityFlags": 0
             }
@@ -1760,6 +1680,75 @@
         "EndTime": "2026-05-07 03:59:59",
         "SortOrder": 0,
         "TimeServerIdList": null,
+        "ImageId": 0
+    },
+    {
+        "Id": 1046,
+        "IsIgnore": null,
+        "Memo": "デイリーミッション1_第4回目魔女の書庫整理",
+        "MissionGroupType": 1000,
+        "Value": 1,
+        "RequiredActivityMedalCount": 20,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 10,
+                    "ItemId": 1,
+                    "ItemType": 43
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2026-06-15 04:00:00",
+        "EndTime": "2026-06-25 03:59:59",
+        "SortOrder": 0,
+        "TimeServerIdList": [],
+        "ImageId": 0
+    },
+    {
+        "Id": 1047,
+        "IsIgnore": null,
+        "Memo": "デイリーミッション3_第4回目魔女の書庫整理",
+        "MissionGroupType": 1000,
+        "Value": 1,
+        "RequiredActivityMedalCount": 60,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 10,
+                    "ItemId": 1,
+                    "ItemType": 43
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2026-06-15 04:00:00",
+        "EndTime": "2026-06-25 03:59:59",
+        "SortOrder": 0,
+        "TimeServerIdList": [],
+        "ImageId": 0
+    },
+    {
+        "Id": 1048,
+        "IsIgnore": null,
+        "Memo": "デイリーミッション5_第4回目魔女の書庫整理",
+        "MissionGroupType": 1000,
+        "Value": 1,
+        "RequiredActivityMedalCount": 100,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 15,
+                    "ItemId": 1,
+                    "ItemType": 43
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2026-06-15 04:00:00",
+        "EndTime": "2026-06-25 03:59:59",
+        "SortOrder": 0,
+        "TimeServerIdList": [],
         "ImageId": 0
     },
     {
