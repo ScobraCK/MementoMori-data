@@ -261,6 +261,15 @@
                     }
                 ],
                 "HelpParameterType": 0
+            },
+            {
+                "HeadLine": "[HelpHeadLine1011]",
+                "MainTextList": [
+                    {
+                        "MainText": "[HelpMainText1011]"
+                    }
+                ],
+                "HelpParameterType": 0
             }
         ],
         "HelpTitle": "[HelpTitleKey]",
@@ -275,13 +284,22 @@
     {
         "Id": 1020,
         "IsIgnore": null,
-        "Memo": "プレミアギフト画面(Steam版のみ表示)",
+        "Memo": "プレミアギフト画面(Steam版_JPのみ表示)",
         "HelpPartInfoList": [
             {
                 "HeadLine": "[HelpHeadLine1020]",
                 "MainTextList": [
                     {
                         "MainText": "[HelpMainText1020]"
+                    }
+                ],
+                "HelpParameterType": 0
+            },
+            {
+                "HeadLine": "[HelpHeadLine1021]",
+                "MainTextList": [
+                    {
+                        "MainText": "[HelpMainText1021]"
                     }
                 ],
                 "HelpParameterType": 0
@@ -293,6 +311,55 @@
         "DialogType": 1,
         "DisplayDeviceTypes": [
             6
+        ]
+    },
+    {
+        "Id": 1021,
+        "IsIgnore": null,
+        "Memo": "プレミアギフト画面(Steam版_海外表示)",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine1022]",
+                "MainTextList": [
+                    {
+                        "MainText": "[HelpMainText1022]"
+                    }
+                ],
+                "HelpParameterType": 0
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0,
+        "DialogType": 1,
+        "DisplayDeviceTypes": [
+            6
+        ]
+    },
+    {
+        "Id": 1030,
+        "IsIgnore": null,
+        "Memo": "プレミアギフト画面（その他_JPのみ）",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine1030]",
+                "MainTextList": [
+                    {
+                        "MainText": "[HelpMainText1030]"
+                    }
+                ],
+                "HelpParameterType": 0
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0,
+        "DialogType": 1,
+        "DisplayDeviceTypes": [
+            1,
+            2,
+            3,
+            5
         ]
     },
     {
@@ -901,6 +968,9 @@
                     },
                     {
                         "MainText": "[HelpMainText_Skill_SilenceImmunity​]"
+                    },
+                    {
+                        "MainText": "[HelpMainText_Skill_FaintedImmunity​]"
                     },
                     {
                         "MainText": "[HelpMainText_Skill_Taunt]"

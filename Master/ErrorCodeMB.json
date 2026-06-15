@@ -366,6 +366,12 @@
         "ErrorMessageType": 2
     },
     {
+        "Id": 80006,
+        "IsIgnore": null,
+        "Memo": "クリスタルが不足しています",
+        "ErrorMessageType": 2
+    },
+    {
         "Id": 82000,
         "IsIgnore": null,
         "Memo": null,
@@ -3351,6 +3357,18 @@
         "Id": 262042,
         "IsIgnore": null,
         "Memo": "リクエストが不正です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 262050,
+        "IsIgnore": null,
+        "Memo": "不正なリクエストです",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 262051,
+        "IsIgnore": null,
+        "Memo": "不正なリクエストです",
         "ErrorMessageType": 2
     },
     {
@@ -6405,6 +6423,78 @@
         "Id": 6000310,
         "IsIgnore": null,
         "Memo": "課金リクエストの回数制限の上限に達しました。しばらく待ってから再度ボタンを押してください。",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 6010000,
+        "IsIgnore": null,
+        "Memo": "注文データが存在しません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 6010001,
+        "IsIgnore": null,
+        "Memo": "アカウントデータが存在しません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 6011000,
+        "IsIgnore": null,
+        "Memo": "処理済みの注文です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 6011001,
+        "IsIgnore": null,
+        "Memo": "プレゼントの付与に失敗しました",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 6011002,
+        "IsIgnore": null,
+        "Memo": "決済結果通知が不正です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 6011003,
+        "IsIgnore": null,
+        "Memo": "決済手段が不正です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 6011004,
+        "IsIgnore": null,
+        "Memo": "決済番号が確認できません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 6011005,
+        "IsIgnore": null,
+        "Memo": "決済状態が確認できません",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 6011006,
+        "IsIgnore": null,
+        "Memo": "認証情報が不正です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 6011007,
+        "IsIgnore": null,
+        "Memo": "認証情報が不正です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 6011008,
+        "IsIgnore": null,
+        "Memo": "利用できない通貨コードです",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 6011009,
+        "IsIgnore": null,
+        "Memo": "決済された値段が不正です",
         "ErrorMessageType": 2
     }
 ]

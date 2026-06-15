@@ -296,6 +296,15 @@
         ]
     },
     {
+        "Id": 33,
+        "IsIgnore": null,
+        "Memo": "『気絶無効』",
+        "TargetTextKey": "[SkillDescriptionLinkText33]",
+        "LinkTextKeys": [
+            "HelpMainText_Skill_FaintedImmunity​"
+        ]
+    },
+    {
         "Id": 1001,
         "IsIgnore": null,
         "Memo": "『焔』",
@@ -561,6 +570,15 @@
         "IsIgnore": null,
         "Memo": "『旺花』",
         "TargetTextKey": "[SkillDescriptionLinkText1030]",
+        "LinkTextKeys": [
+            "HelpMainText_Skill_Character-SpecificBuffs"
+        ]
+    },
+    {
+        "Id": 1031,
+        "IsIgnore": null,
+        "Memo": "『霊痕』",
+        "TargetTextKey": "[SkillDescriptionLinkText1031]",
         "LinkTextKeys": [
             "HelpMainText_Skill_Character-SpecificBuffs"
         ]

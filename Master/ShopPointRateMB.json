@@ -1,0 +1,101 @@
+[
+    {
+        "Id": 1,
+        "IsIgnore": null,
+        "Memo": "GMO_クレジットカード",
+        "SavePointRate": 50,
+        "ShopPayType": 0,
+        "StartTime": "2026-07-16 00:00:00",
+        "EndTime": "2100-01-01 00:00:00"
+    },
+    {
+        "Id": 2,
+        "IsIgnore": null,
+        "Memo": "GMO_auかんたん決済",
+        "SavePointRate": 50,
+        "ShopPayType": 8,
+        "StartTime": "2020-01-01 00:00:00",
+        "EndTime": "2100-01-01 00:00:00"
+    },
+    {
+        "Id": 3,
+        "IsIgnore": null,
+        "Memo": "GMO_d払い",
+        "SavePointRate": 50,
+        "ShopPayType": 9,
+        "StartTime": "2020-01-01 00:00:00",
+        "EndTime": "2100-01-01 00:00:00"
+    },
+    {
+        "Id": 4,
+        "IsIgnore": null,
+        "Memo": "GMO_ソフトバンクまとめて支払い",
+        "SavePointRate": 50,
+        "ShopPayType": 11,
+        "StartTime": "2020-01-01 00:00:00",
+        "EndTime": "2100-01-01 00:00:00"
+    },
+    {
+        "Id": 5,
+        "IsIgnore": null,
+        "Memo": "GMO_ApplePay",
+        "SavePointRate": 50,
+        "ShopPayType": 27,
+        "StartTime": "2020-01-01 00:00:00",
+        "EndTime": "2100-01-01 00:00:00"
+    },
+    {
+        "Id": 6,
+        "IsIgnore": null,
+        "Memo": "GMO_AmazonPay",
+        "SavePointRate": 50,
+        "ShopPayType": 38,
+        "StartTime": "2020-01-01 00:00:00",
+        "EndTime": "2100-01-01 00:00:00"
+    },
+    {
+        "Id": 7,
+        "IsIgnore": null,
+        "Memo": "GMO_PayPay",
+        "SavePointRate": 50,
+        "ShopPayType": 45,
+        "StartTime": "2020-01-01 00:00:00",
+        "EndTime": "2100-01-01 00:00:00"
+    },
+    {
+        "Id": 8,
+        "IsIgnore": null,
+        "Memo": "GMO_GooglePay",
+        "SavePointRate": 50,
+        "ShopPayType": 200,
+        "StartTime": "2020-01-01 00:00:00",
+        "EndTime": "2100-01-01 00:00:00"
+    },
+    {
+        "Id": 9,
+        "IsIgnore": null,
+        "Memo": "Stripe_クレジットカード",
+        "SavePointRate": 50,
+        "ShopPayType": 300,
+        "StartTime": "2026-07-16 00:00:00",
+        "EndTime": "2100-01-01 00:00:00"
+    },
+    {
+        "Id": 10,
+        "IsIgnore": null,
+        "Memo": "（11%キャンペーン）GMO_クレジットカード",
+        "SavePointRate": 110,
+        "ShopPayType": 0,
+        "StartTime": "2020-01-01 00:00:00",
+        "EndTime": "2026-07-15 23:59:59"
+    },
+    {
+        "Id": 11,
+        "IsIgnore": null,
+        "Memo": "（11%キャンペーン）Stripe_クレジットカード",
+        "SavePointRate": 110,
+        "ShopPayType": 300,
+        "StartTime": "2020-01-01 00:00:00",
+        "EndTime": "2026-07-15 23:59:59"
+    }
+]

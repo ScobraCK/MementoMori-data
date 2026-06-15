@@ -904,9 +904,9 @@
         "IsIgnore": null,
         "Memo": "制服A.A.",
         "CharacterId": 117,
-        "IsPickup": true,
-        "EndTimeFixJST": "2026-06-08 14:29:59",
-        "StartTimeFixJST": "2026-05-21 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 102,
@@ -1048,9 +1048,9 @@
         "IsIgnore": null,
         "Memo": "リヴェリア",
         "CharacterId": 128,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2026-06-30 14:29:59",
+        "StartTimeFixJST": "2026-06-15 14:30:30"
     },
     {
         "Id": 118,
@@ -1141,5 +1141,14 @@
         "IsPickup": true,
         "EndTimeFixJST": "2026-06-15 14:29:59",
         "StartTimeFixJST": "2026-05-28 14:30:00"
+    },
+    {
+        "Id": 128,
+        "IsIgnore": null,
+        "Memo": "グィネヴィア",
+        "CharacterId": 148,
+        "IsPickup": true,
+        "EndTimeFixJST": "2026-06-30 14:29:59",
+        "StartTimeFixJST": "2026-06-15 14:30:30"
     }
 ]
