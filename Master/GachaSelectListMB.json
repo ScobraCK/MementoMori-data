@@ -7250,10 +7250,11 @@
     {
         "Id": 191,
         "IsIgnore": null,
-        "Memo": "グィネヴィア+リヴェリア+仮",
+        "Memo": "グィネヴィア+リヴェリア+ルシール",
         "CharacterIdList": [
             148,
             128,
+            89,
             5,
             6,
             7,
@@ -7281,11 +7282,50 @@
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
             148,
-            128
+            128,
+            89
         ],
         "OrderNumber": 191,
         "StartTimeFixJST": "2026-06-23 14:30:00",
         "EndTimeFixJST": "2026-06-30 14:29:59"
+    },
+    {
+        "Id": 192,
+        "IsIgnore": null,
+        "Memo": "ルシール+仮",
+        "CharacterIdList": [
+            89,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            89
+        ],
+        "OrderNumber": 192,
+        "StartTimeFixJST": "2026-06-30 16:30:00",
+        "EndTimeFixJST": "2026-07-07 14:29:59"
     },
     {
         "Id": 10000,
@@ -8088,6 +8128,32 @@
         "OrderNumber": 10390,
         "StartTimeFixJST": "2026-05-28 16:30:00",
         "EndTimeFixJST": "2026-06-23 14:29:59"
+    },
+    {
+        "Id": 10400,
+        "IsIgnore": null,
+        "Memo": "星の導きガチャ エルフリンデ・アームストロング・フェーネ・アーティ・クラウディア・アサヒ",
+        "CharacterIdList": [
+            45,
+            50,
+            68,
+            58,
+            56,
+            78
+        ],
+        "GachaSelectListType": 3,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            45,
+            50,
+            68,
+            58,
+            56,
+            78
+        ],
+        "OrderNumber": 10400,
+        "StartTimeFixJST": "2026-06-23 14:30:00",
+        "EndTimeFixJST": "2026-07-15 14:29:59"
     },
     {
         "Id": 30001,
