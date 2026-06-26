@@ -3199,5 +3199,74 @@
         "SortOrder": 0,
         "TimeServerIdList": null,
         "ImageId": 0
+    },
+    {
+        "Id": 10571,
+        "IsIgnore": null,
+        "Memo": "イベント_デイリーミッション1_エレイン",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 20,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 43,
+                    "ItemType": 50
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2026-06-30 04:00:00",
+        "EndTime": "2026-07-10 03:59:59",
+        "SortOrder": 0,
+        "TimeServerIdList": null,
+        "ImageId": 0
+    },
+    {
+        "Id": 10572,
+        "IsIgnore": null,
+        "Memo": "イベント_デイリーミッション3_エレイン",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 60,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 43,
+                    "ItemType": 50
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2026-06-30 04:00:00",
+        "EndTime": "2026-07-10 03:59:59",
+        "SortOrder": 0,
+        "TimeServerIdList": null,
+        "ImageId": 0
+    },
+    {
+        "Id": 10573,
+        "IsIgnore": null,
+        "Memo": "イベント_デイリーミッション5_エレイン",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 100,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 10,
+                    "ItemId": 43,
+                    "ItemType": 50
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2026-06-30 04:00:00",
+        "EndTime": "2026-07-10 03:59:59",
+        "SortOrder": 0,
+        "TimeServerIdList": null,
+        "ImageId": 0
     }
 ]
