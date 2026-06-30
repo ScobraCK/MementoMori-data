@@ -1021,9 +1021,9 @@
         "IsIgnore": null,
         "Memo": "アイシェ",
         "CharacterId": 130,
-        "IsPickup": true,
-        "EndTimeFixJST": "2026-06-23 14:29:59",
-        "StartTimeFixJST": "2026-06-08 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 115,
@@ -1057,9 +1057,9 @@
         "IsIgnore": null,
         "Memo": "エヴリン",
         "CharacterId": 101,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2026-07-15 14:29:59",
+        "StartTimeFixJST": "2026-06-30 14:30:30"
     },
     {
         "Id": 119,
@@ -1150,5 +1150,14 @@
         "IsPickup": true,
         "EndTimeFixJST": "2026-06-30 14:29:59",
         "StartTimeFixJST": "2026-06-15 14:30:30"
+    },
+    {
+        "Id": 129,
+        "IsIgnore": null,
+        "Memo": "エレイン",
+        "CharacterId": 140,
+        "IsPickup": true,
+        "EndTimeFixJST": "2026-07-15 14:29:59",
+        "StartTimeFixJST": "2026-06-30 14:30:30"
     }
 ]

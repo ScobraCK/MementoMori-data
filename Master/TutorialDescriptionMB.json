@@ -918,5 +918,29 @@
             }
         ],
         "ImageCharacterId": 139
+    },
+    {
+        "Id": 4002,
+        "IsIgnore": null,
+        "Memo": "ギルドレイド_イベント_エレイン",
+        "HelpId": 5010,
+        "ImageItem1": {
+            "ItemCount": 0,
+            "ItemId": 43,
+            "ItemType": 50
+        },
+        "ImageItem2": {
+            "ItemCount": 0,
+            "ItemId": 1400,
+            "ItemType": 16
+        },
+        "ImagePositionFormatType": 3,
+        "PageInfo": [
+            {
+                "ImageId": 39,
+                "MainTextKey": "[TutorialDescriptionMainText39]"
+            }
+        ],
+        "ImageCharacterId": 140
     }
 ]

@@ -7292,8 +7292,10 @@
     {
         "Id": 192,
         "IsIgnore": null,
-        "Memo": "ルシール+仮",
+        "Memo": "エレイン+エヴリン+ルシール",
         "CharacterIdList": [
+            140,
+            101,
             89,
             5,
             6,
@@ -7321,11 +7323,53 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
+            140,
+            101,
             89
         ],
         "OrderNumber": 192,
         "StartTimeFixJST": "2026-06-30 16:30:00",
         "EndTimeFixJST": "2026-07-07 14:29:59"
+    },
+    {
+        "Id": 193,
+        "IsIgnore": null,
+        "Memo": "エレイン+エヴリン+仮",
+        "CharacterIdList": [
+            140,
+            101,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            140,
+            101
+        ],
+        "OrderNumber": 193,
+        "StartTimeFixJST": "2026-07-07 14:30:00",
+        "EndTimeFixJST": "2026-07-15 14:29:59"
     },
     {
         "Id": 10000,

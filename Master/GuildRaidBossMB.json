@@ -4948,5 +4948,372 @@
         "WorldDamageBarRewardCharacterImageX": 0.0,
         "WorldDamageBarRewardCharacterImageY": 0.0,
         "EventTutorialId": 0
+    },
+    {
+        "Id": 16,
+        "IsIgnore": null,
+        "Memo": "202606エレイン",
+        "ActiveSkillIds": [
+            140001,
+            140002
+        ],
+        "BannerText": "[GuildRaidEventRemainingTimeFormat]",
+        "BaseParameter": {
+            "Energy": 314141,
+            "Health": 321045,
+            "Intelligence": 276168,
+            "Muscle": 272716
+        },
+        "BattleParameter": {
+            "AttackPower": 12000,
+            "Avoidance": 157070,
+            "Critical": 157070,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 160522,
+            "DamageEnhance": 8000,
+            "DamageReflect": 0,
+            "DebuffHit": 138084,
+            "DebuffResist": 500000,
+            "Defense": 20,
+            "DefensePenetration": 5000,
+            "Hit": 100000000,
+            "HP": 10000000000000,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": 500000,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 500000,
+            "Speed": 2843
+        },
+        "BattlePower": 2758613,
+        "CharacterRarityFlags": 16,
+        "ElementType": 6,
+        "EnemyRank": 240,
+        "ExclusiveEquipmentRarityFlags": 0,
+        "GuildDamageBar": [
+            {
+                "DamageBarCount": 1,
+                "DamageBarMaxValue": 12500
+            },
+            {
+                "DamageBarCount": 2,
+                "DamageBarMaxValue": 12500
+            },
+            {
+                "DamageBarCount": 3,
+                "DamageBarMaxValue": 25000
+            },
+            {
+                "DamageBarCount": 4,
+                "DamageBarMaxValue": 75000
+            },
+            {
+                "DamageBarCount": 5,
+                "DamageBarMaxValue": 125000
+            },
+            {
+                "DamageBarCount": 6,
+                "DamageBarMaxValue": 250000
+            },
+            {
+                "DamageBarCount": 7,
+                "DamageBarMaxValue": 750000
+            },
+            {
+                "DamageBarCount": 8,
+                "DamageBarMaxValue": 1250000
+            },
+            {
+                "DamageBarCount": 9,
+                "DamageBarMaxValue": 2500000
+            },
+            {
+                "DamageBarCount": 10,
+                "DamageBarMaxValue": 7500000
+            },
+            {
+                "DamageBarCount": 11,
+                "DamageBarMaxValue": 12500000
+            },
+            {
+                "DamageBarCount": 12,
+                "DamageBarMaxValue": 25000000
+            },
+            {
+                "DamageBarCount": 13,
+                "DamageBarMaxValue": 75000000
+            },
+            {
+                "DamageBarCount": 14,
+                "DamageBarMaxValue": 125000000
+            },
+            {
+                "DamageBarCount": 15,
+                "DamageBarMaxValue": 250000000
+            },
+            {
+                "DamageBarCount": 16,
+                "DamageBarMaxValue": 750000000
+            },
+            {
+                "DamageBarCount": 17,
+                "DamageBarMaxValue": 1250000000
+            },
+            {
+                "DamageBarCount": 18,
+                "DamageBarMaxValue": 2500000000
+            },
+            {
+                "DamageBarCount": 19,
+                "DamageBarMaxValue": 7500000000
+            },
+            {
+                "DamageBarCount": 20,
+                "DamageBarMaxValue": 12500000000
+            },
+            {
+                "DamageBarCount": 21,
+                "DamageBarMaxValue": 25000000000
+            },
+            {
+                "DamageBarCount": 22,
+                "DamageBarMaxValue": 75000000000
+            },
+            {
+                "DamageBarCount": 23,
+                "DamageBarMaxValue": 125000000000
+            },
+            {
+                "DamageBarCount": 24,
+                "DamageBarMaxValue": 250000000000
+            },
+            {
+                "DamageBarCount": 25,
+                "DamageBarMaxValue": 750000000000
+            },
+            {
+                "DamageBarCount": 26,
+                "DamageBarMaxValue": 1750000000000
+            },
+            {
+                "DamageBarCount": 27,
+                "DamageBarMaxValue": 3500000000000
+            },
+            {
+                "DamageBarCount": 28,
+                "DamageBarMaxValue": 10500000000000
+            },
+            {
+                "DamageBarCount": 29,
+                "DamageBarMaxValue": 17500000000000
+            },
+            {
+                "DamageBarCount": 30,
+                "DamageBarMaxValue": 35000000000000
+            }
+        ],
+        "GuildRaidBossType": 2,
+        "GuildRaidButtonU": 0.15000000596046448,
+        "GuildRaidButtonV": 0.5099999904632568,
+        "IsActiveMypageIcon": true,
+        "JobFlags": 2,
+        "NameKey": "[GuildRaidBossName16]",
+        "NormalDamageBar": [
+            {
+                "DamageBarCount": 1,
+                "DamageBarMaxValue": 12500
+            },
+            {
+                "DamageBarCount": 2,
+                "DamageBarMaxValue": 12500
+            },
+            {
+                "DamageBarCount": 3,
+                "DamageBarMaxValue": 25000
+            },
+            {
+                "DamageBarCount": 4,
+                "DamageBarMaxValue": 75000
+            },
+            {
+                "DamageBarCount": 5,
+                "DamageBarMaxValue": 125000
+            },
+            {
+                "DamageBarCount": 6,
+                "DamageBarMaxValue": 250000
+            },
+            {
+                "DamageBarCount": 7,
+                "DamageBarMaxValue": 528000
+            },
+            {
+                "DamageBarCount": 8,
+                "DamageBarMaxValue": 912000
+            },
+            {
+                "DamageBarCount": 9,
+                "DamageBarMaxValue": 1680000
+            },
+            {
+                "DamageBarCount": 10,
+                "DamageBarMaxValue": 2890000
+            },
+            {
+                "DamageBarCount": 11,
+                "DamageBarMaxValue": 4950000
+            },
+            {
+                "DamageBarCount": 12,
+                "DamageBarMaxValue": 7900000
+            },
+            {
+                "DamageBarCount": 13,
+                "DamageBarMaxValue": 12600000
+            },
+            {
+                "DamageBarCount": 14,
+                "DamageBarMaxValue": 20100000
+            },
+            {
+                "DamageBarCount": 15,
+                "DamageBarMaxValue": 29800000
+            },
+            {
+                "DamageBarCount": 16,
+                "DamageBarMaxValue": 46500000
+            },
+            {
+                "DamageBarCount": 17,
+                "DamageBarMaxValue": 72600000
+            },
+            {
+                "DamageBarCount": 18,
+                "DamageBarMaxValue": 110000000
+            },
+            {
+                "DamageBarCount": 19,
+                "DamageBarMaxValue": 166000000
+            },
+            {
+                "DamageBarCount": 20,
+                "DamageBarMaxValue": 251000000
+            },
+            {
+                "DamageBarCount": 21,
+                "DamageBarMaxValue": 354000000
+            },
+            {
+                "DamageBarCount": 22,
+                "DamageBarMaxValue": 500000000
+            },
+            {
+                "DamageBarCount": 23,
+                "DamageBarMaxValue": 707000000
+            },
+            {
+                "DamageBarCount": 24,
+                "DamageBarMaxValue": 998000000
+            },
+            {
+                "DamageBarCount": 25,
+                "DamageBarMaxValue": 1410000000
+            },
+            {
+                "DamageBarCount": 26,
+                "DamageBarMaxValue": 1990000000
+            },
+            {
+                "DamageBarCount": 27,
+                "DamageBarMaxValue": 2810000000
+            },
+            {
+                "DamageBarCount": 28,
+                "DamageBarMaxValue": 3970000000
+            },
+            {
+                "DamageBarCount": 29,
+                "DamageBarMaxValue": 5610000000
+            },
+            {
+                "DamageBarCount": 30,
+                "DamageBarMaxValue": 7930000000
+            },
+            {
+                "DamageBarCount": 31,
+                "DamageBarMaxValue": 11200000000
+            },
+            {
+                "DamageBarCount": 32,
+                "DamageBarMaxValue": 15800000000
+            },
+            {
+                "DamageBarCount": 33,
+                "DamageBarMaxValue": 22300000000
+            },
+            {
+                "DamageBarCount": 34,
+                "DamageBarMaxValue": 31500000000
+            },
+            {
+                "DamageBarCount": 35,
+                "DamageBarMaxValue": 44500000000
+            },
+            {
+                "DamageBarCount": 36,
+                "DamageBarMaxValue": 62900000000
+            },
+            {
+                "DamageBarCount": 37,
+                "DamageBarMaxValue": 88900000000
+            },
+            {
+                "DamageBarCount": 38,
+                "DamageBarMaxValue": 126000000000
+            },
+            {
+                "DamageBarCount": 39,
+                "DamageBarMaxValue": 177000000000
+            },
+            {
+                "DamageBarCount": 40,
+                "DamageBarMaxValue": 250000000000
+            },
+            {
+                "DamageBarCount": 41,
+                "DamageBarMaxValue": 354000000000
+            },
+            {
+                "DamageBarCount": 42,
+                "DamageBarMaxValue": 499000000000
+            },
+            {
+                "DamageBarCount": 43,
+                "DamageBarMaxValue": 705000000000
+            },
+            {
+                "DamageBarCount": 44,
+                "DamageBarMaxValue": 996000000000
+            },
+            {
+                "DamageBarCount": 45,
+                "DamageBarMaxValue": 1410000000000
+            }
+        ],
+        "NormalSkillId": 101,
+        "PassiveSkillIds": [
+            5502000005,
+            5502140003,
+            5502140004
+        ],
+        "ReleasableGuildFame": 0,
+        "UnitIconId": 140,
+        "UnitIconType": 0,
+        "StartTime": "2026-06-30 04:00:00",
+        "EndTime": "2026-07-10 03:59:59",
+        "WorldDamageBarRewardCharacterImageSize": 465.0,
+        "WorldDamageBarRewardCharacterImageX": 0.0,
+        "WorldDamageBarRewardCharacterImageY": 0.0,
+        "EventTutorialId": 4002
     }
 ]
