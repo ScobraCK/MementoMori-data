@@ -6703,5 +6703,57 @@
         "RequireFragmentCount": 60,
         "EndTimeFixJST": "2100-12-31 23:59:59",
         "StartTimeFixJST": "2026-06-15 15:00:00"
+    },
+    {
+        "Id": 149,
+        "IsIgnore": null,
+        "Memo": "夏プリマヴェーラ",
+        "ActiveSkillIds": [
+            149001,
+            149002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 102,
+            "Health": 75,
+            "Intelligence": 79,
+            "Muscle": 90
+        },
+        "BaseParameterGrossCoefficient": 346,
+        "CharacterType": 2,
+        "ElementType": 1,
+        "InitialBattleParameter": {
+            "AttackPower": 5,
+            "Avoidance": 0,
+            "Critical": 0,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 0,
+            "DamageReflect": 0,
+            "DebuffHit": 0,
+            "DebuffResist": 0,
+            "Defense": 8,
+            "DefensePenetration": 0,
+            "Hit": 0,
+            "HP": -3,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": 0,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 0,
+            "Speed": 2678
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 2,
+        "Name2Key": "[CharacterSubName149]",
+        "NameKey": "[CharacterName149]",
+        "NormalSkillId": 101,
+        "PassiveSkillIds": [
+            149003,
+            149004
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2026-07-15 15:00:00"
     }
 ]

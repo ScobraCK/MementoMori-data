@@ -305,6 +305,16 @@
         ]
     },
     {
+        "Id": 34,
+        "IsIgnore": null,
+        "Memo": "『金縛り』",
+        "TargetTextKey": "[SkillDescriptionLinkText34]",
+        "LinkTextKeys": [
+            "SkillDescriptionLinkText_ActionHinderingDebuffs",
+            "HelpMainText_Skill_Imprison"
+        ]
+    },
+    {
         "Id": 1001,
         "IsIgnore": null,
         "Memo": "『焔』",
@@ -579,6 +589,15 @@
         "IsIgnore": null,
         "Memo": "『霊痕』",
         "TargetTextKey": "[SkillDescriptionLinkText1031]",
+        "LinkTextKeys": [
+            "HelpMainText_Skill_Character-SpecificBuffs"
+        ]
+    },
+    {
+        "Id": 1032,
+        "IsIgnore": null,
+        "Memo": "『至高の旋律』",
+        "TargetTextKey": "[SkillDescriptionLinkText1032]",
         "LinkTextKeys": [
             "HelpMainText_Skill_Character-SpecificBuffs"
         ]

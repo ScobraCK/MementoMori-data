@@ -7376,9 +7376,11 @@
     {
         "Id": 194,
         "IsIgnore": null,
-        "Memo": "夏ニーナ+仮",
+        "Memo": "夏プリマヴェーラ+夏ニーナ+夏アムレート",
         "CharacterIdList": [
+            149,
             95,
+            96,
             5,
             6,
             7,
@@ -7405,11 +7407,53 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            95
+            149,
+            95,
+            96
         ],
         "OrderNumber": 194,
-        "StartTimeFixJST": "2026-07-15 16:30:00",
+        "StartTimeFixJST": "2026-07-15 15:00:00",
         "EndTimeFixJST": "2026-07-23 14:29:59"
+    },
+    {
+        "Id": 195,
+        "IsIgnore": null,
+        "Memo": "夏プリマヴェーラ+夏アムレート+仮",
+        "CharacterIdList": [
+            149,
+            96,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            149,
+            96
+        ],
+        "OrderNumber": 195,
+        "StartTimeFixJST": "2026-07-23 14:30:00",
+        "EndTimeFixJST": "2026-07-28 14:29:59"
     },
     {
         "Id": 10000,
@@ -8238,6 +8282,30 @@
         "OrderNumber": 10400,
         "StartTimeFixJST": "2026-06-23 14:30:00",
         "EndTimeFixJST": "2026-07-15 14:29:59"
+    },
+    {
+        "Id": 10410,
+        "IsIgnore": null,
+        "Memo": "星の導きガチャ メリア・セルリア・浴衣コルディ・水着サブリナ・水着モーザ",
+        "CharacterIdList": [
+            86,
+            79,
+            72,
+            70,
+            71
+        ],
+        "GachaSelectListType": 3,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            86,
+            79,
+            72,
+            70,
+            71
+        ],
+        "OrderNumber": 10410,
+        "StartTimeFixJST": "2026-07-15 15:00:00",
+        "EndTimeFixJST": "2026-08-06 14:29:59"
     },
     {
         "Id": 30001,

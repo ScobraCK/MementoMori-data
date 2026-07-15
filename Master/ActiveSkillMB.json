@@ -18023,6 +18023,156 @@
         "RootActiveSkillId": 148002
     },
     {
+        "Id": 149001,
+        "IsIgnore": null,
+        "Memo": "夏プリマヴェーラSR:Lv1 「さあ、わたくしの歌に心を委ねて……」自身と自身以外の攻撃力が最も高い味方に1ターンの間『金縛り』を付与する。この付与は弱体効果命中率と耐性率を無視する。その後ランダムな敵3体に攻撃力×320%の物理攻撃を行う。/ Lv2 物理攻撃のダメージが攻撃力×460%になる。/ Lv3 物理攻撃のダメージが攻撃力×680%になる。/ Ex1 湖畔のメロディを強化する。湖畔のメロディの対象がランダムな敵5体になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription1490011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    149001001,
+                    149001002,
+                    149001003,
+                    149001004
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription1490012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    149001001,
+                    149001002,
+                    149001003,
+                    149001204
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription1490013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    149001001,
+                    149001002,
+                    149001003,
+                    149001304
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription1490014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    149001001,
+                    149001002,
+                    149001003,
+                    149001404
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName149001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 149001
+    },
+    {
+        "Id": 149002,
+        "IsIgnore": null,
+        "Memo": "夏プリマヴェーラSR:Lv1 「練習の成果を見せる時ですわ。さあ、リズムに合わせて……！」合唱しながら小鳥たちが特攻。ランダムな敵に2回攻撃力×480%の物理攻撃を行う。/ Lv2 物理攻撃の回数が3回になる。/ Lv3 さらに最初の物理攻撃の前にバトル中自身と味方がスキルで解除した弱体効果の個数の合計が10以上の場合、物理攻撃の回数が5回になる。/ Lv4 物理攻撃のダメージが攻撃力×850%になる。/ Ex3 コトリ行進曲を強化する。物理攻撃のダメージが攻撃力×940%になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription1490021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    149002001,
+                    149002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription1490022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    149002001,
+                    149002002,
+                    149002002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription1490023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    149002301,
+                    149002302,
+                    149002302,
+                    149002303,
+                    149002304,
+                    149002304,
+                    149002304,
+                    149002304
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription1490024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    149002401,
+                    149002402,
+                    149002402,
+                    149002403,
+                    149002404,
+                    149002404,
+                    149002404,
+                    149002404
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription1490025]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    149002501,
+                    149002502,
+                    149002502,
+                    149002503,
+                    149002504,
+                    149002504,
+                    149002504,
+                    149002504
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName149002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 149002
+    },
+    {
         "Id": 550109001,
         "IsIgnore": null,
         "Memo": "ギルドレイド通常ソーニャSR：ソーニャSR:旋風の如き素早い急襲。HPが最も低い敵に攻撃力×800％の物理攻撃を行う。弱った敵にも容赦しないヴァイキングの本能により、敵のHP割合が40％以下の場合、この攻撃は必ずクリティカルヒットする。／さらに自身の腕力×400％の直接攻撃を行う。／追加攻撃のダメージが腕力×600%になる。／さらにこのスキルで敵を戦闘不能にした場合、このスキルを再発動する。",
@@ -51254,5 +51404,155 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 148002
+    },
+    {
+        "Id": 5504149001,
+        "IsIgnore": null,
+        "Memo": null,
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504149001001,
+                    5504149001002,
+                    5504149001003,
+                    5504149001004
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504149001001,
+                    5504149001002,
+                    5504149001003,
+                    5504149001204
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504149001001,
+                    5504149001002,
+                    5504149001003,
+                    5504149001304
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504149001001,
+                    5504149001002,
+                    5504149001003,
+                    5504149001404
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName149001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 149001
+    },
+    {
+        "Id": 5504149002,
+        "IsIgnore": null,
+        "Memo": null,
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504149002001,
+                    5504149002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504149002001,
+                    5504149002002,
+                    5504149002002
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504149002301,
+                    5504149002302,
+                    5504149002302,
+                    5504149002303,
+                    5504149002304,
+                    5504149002304,
+                    5504149002304,
+                    5504149002304
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504149002401,
+                    5504149002402,
+                    5504149002402,
+                    5504149002403,
+                    5504149002404,
+                    5504149002404,
+                    5504149002404,
+                    5504149002404
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": null,
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504149002501,
+                    5504149002502,
+                    5504149002502,
+                    5504149002503,
+                    5504149002504,
+                    5504149002504,
+                    5504149002504,
+                    5504149002504
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName149002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 149002
     }
 ]
