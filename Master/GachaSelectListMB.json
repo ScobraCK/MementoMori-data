@@ -7418,9 +7418,10 @@
     {
         "Id": 195,
         "IsIgnore": null,
-        "Memo": "夏プリマヴェーラ+夏アムレート+仮",
+        "Memo": "夏プリマヴェーラ+ネブラ+夏アムレート",
         "CharacterIdList": [
             149,
+            87,
             96,
             5,
             6,
@@ -7449,11 +7450,50 @@
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
             149,
+            87,
             96
         ],
         "OrderNumber": 195,
         "StartTimeFixJST": "2026-07-23 14:30:00",
         "EndTimeFixJST": "2026-07-28 14:29:59"
+    },
+    {
+        "Id": 196,
+        "IsIgnore": null,
+        "Memo": "ネブラ+仮",
+        "CharacterIdList": [
+            87,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            87
+        ],
+        "OrderNumber": 196,
+        "StartTimeFixJST": "2026-07-28 16:30:00",
+        "EndTimeFixJST": "2026-08-06 14:29:59"
     },
     {
         "Id": 10000,
