@@ -11966,5 +11966,21 @@
         "ItemId": 1400,
         "ItemType": 16,
         "NeedCount": 1
+    },
+    {
+        "Id": 765,
+        "IsIgnore": null,
+        "Memo": "シロのアイテム",
+        "ChangeItems": [
+            {
+                "ItemCount": 10000,
+                "ItemId": 1,
+                "ItemType": 3
+            }
+        ],
+        "ChangeItemType": 0,
+        "ItemId": 44,
+        "ItemType": 50,
+        "NeedCount": 1
     }
 ]
