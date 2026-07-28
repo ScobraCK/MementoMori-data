@@ -86,5 +86,34 @@
         "CharacterImageSize": 640.0,
         "EndTime": "2024-05-20 03:59:59",
         "StartTime": "2024-04-15 00:00:00"
+    },
+    {
+        "Id": 3,
+        "IsIgnore": null,
+        "Memo": "友達招待キャンペーン（07/28~08/24）",
+        "CodeExpirationPeriod": 14,
+        "CodeStartTime": "2026-07-14 00:00:00",
+        "CodeLimitCount": 1000000,
+        "FriendMissionIdList": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "RewardItemList": [
+            {
+                "ItemCount": 500,
+                "ItemId": 1,
+                "ItemType": 1
+            }
+        ],
+        "Title": "[FriendCampaignKey1]",
+        "CharacterImageId": 34,
+        "CharacterImageX": -17.0,
+        "CharacterImageY": 0.0,
+        "CharacterImageSize": 640.0,
+        "EndTime": "2026-08-24 03:59:59",
+        "StartTime": "2026-07-28 00:00:00"
     }
 ]

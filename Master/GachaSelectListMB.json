@@ -7460,9 +7460,11 @@
     {
         "Id": 196,
         "IsIgnore": null,
-        "Memo": "ネブラ+仮",
+        "Memo": "シロ+ネブラ+フラック",
         "CharacterIdList": [
+            153,
             87,
+            122,
             5,
             6,
             7,
@@ -7489,11 +7491,91 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            87
+            153,
+            87,
+            122
         ],
         "OrderNumber": 196,
-        "StartTimeFixJST": "2026-07-28 16:30:00",
+        "StartTimeFixJST": "2026-07-28 14:30:00",
         "EndTimeFixJST": "2026-08-06 14:29:59"
+    },
+    {
+        "Id": 197,
+        "IsIgnore": null,
+        "Memo": "シロ+フラック+仮",
+        "CharacterIdList": [
+            153,
+            122,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            153,
+            122
+        ],
+        "OrderNumber": 197,
+        "StartTimeFixJST": "2026-08-06 14:30:00",
+        "EndTimeFixJST": "2026-08-13 14:29:59"
+    },
+    {
+        "Id": 198,
+        "IsIgnore": null,
+        "Memo": "シロ+仮",
+        "CharacterIdList": [
+            153,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            153
+        ],
+        "OrderNumber": 198,
+        "StartTimeFixJST": "2026-08-13 16:30:00",
+        "EndTimeFixJST": "2026-08-24 14:29:59"
     },
     {
         "Id": 10000,

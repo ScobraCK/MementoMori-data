@@ -269,5 +269,25 @@
         "EndTime": "2026-05-10 03:59:59",
         "LocalRaidEventTutorialId": 2013,
         "EventBattleCount": 0
+    },
+    {
+        "Id": 15,
+        "IsIgnore": null,
+        "Memo": "20260728シロイベント",
+        "LocalRaidStartEndTimes": [
+            {
+                "StartTime": 123000,
+                "EndTime": 133000
+            },
+            {
+                "StartTime": 193000,
+                "EndTime": 203000
+            }
+        ],
+        "RewardBonusRate": 11000,
+        "StartTime": "2026-07-28 04:00:00",
+        "EndTime": "2026-08-07 03:59:59",
+        "LocalRaidEventTutorialId": 2014,
+        "EventBattleCount": 0
     }
 ]

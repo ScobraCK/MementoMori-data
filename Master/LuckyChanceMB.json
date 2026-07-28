@@ -57,5 +57,24 @@
         "ExcludeSelectionCharacterIdList": [
             141
         ]
+    },
+    {
+        "Id": 4,
+        "IsIgnore": null,
+        "Memo": "にじさんじコラボ_ラッキーチャンス",
+        "StartEndTimeZoneType": 11,
+        "StartTime": "2026-07-28 14:30:00",
+        "EndTime": "2026-08-24 14:29:59",
+        "InputFormEndTime": "2026-08-31 03:59:59",
+        "MypageIconDisplayLocationType": 3,
+        "TitleTextKey": "[LuckyChanceTitle1]",
+        "LimitUserDrawCount": 10,
+        "ConsumeItem": {
+            "ItemCount": 1,
+            "ItemId": 3,
+            "ItemType": 40
+        },
+        "CanDeletePersonalInfoTime": "2027-02-01 03:59:59",
+        "ExcludeSelectionCharacterIdList": null
     }
 ]

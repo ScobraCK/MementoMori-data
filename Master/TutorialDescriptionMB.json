@@ -800,30 +800,6 @@
         "ImageCharacterId": 0
     },
     {
-        "Id": 2012,
-        "IsIgnore": null,
-        "Memo": "神殿_イベント_エヴリン",
-        "HelpId": 4210,
-        "ImageItem1": {
-            "ItemCount": 0,
-            "ItemId": 38,
-            "ItemType": 50
-        },
-        "ImageItem2": {
-            "ItemCount": 0,
-            "ItemId": 28,
-            "ItemType": 17
-        },
-        "ImagePositionFormatType": 2,
-        "PageInfo": [
-            {
-                "ImageId": 37,
-                "MainTextKey": "[TutorialDescriptionMainText37]"
-            }
-        ],
-        "ImageCharacterId": 101
-    },
-    {
         "Id": 2013,
         "IsIgnore": null,
         "Memo": "神殿_イベント_リリー",
@@ -846,6 +822,30 @@
             }
         ],
         "ImageCharacterId": 141
+    },
+    {
+        "Id": 2014,
+        "IsIgnore": null,
+        "Memo": "神殿_イベント_シロ",
+        "HelpId": 4210,
+        "ImageItem1": {
+            "ItemCount": 0,
+            "ItemId": 44,
+            "ItemType": 50
+        },
+        "ImageItem2": {
+            "ItemCount": 0,
+            "ItemId": 28,
+            "ItemType": 17
+        },
+        "ImagePositionFormatType": 2,
+        "PageInfo": [
+            {
+                "ImageId": 37,
+                "MainTextKey": "[TutorialDescriptionMainText37]"
+            }
+        ],
+        "ImageCharacterId": 153
     },
     {
         "Id": 3012,

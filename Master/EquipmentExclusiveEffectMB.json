@@ -14915,5 +14915,138 @@
             }
         ],
         "CharacterId": 149
+    },
+    {
+        "Id": 697,
+        "IsIgnore": null,
+        "Memo": "シロSSR180",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 153
+    },
+    {
+        "Id": 698,
+        "IsIgnore": null,
+        "Memo": "シロSSR200",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1300.0
+            },
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 2,
+                "Value": 300.0
+            }
+        ],
+        "CharacterId": 153
+    },
+    {
+        "Id": 699,
+        "IsIgnore": null,
+        "Memo": "シロSSR220",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 650.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1400.0
+            },
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 2,
+                "Value": 350.0
+            }
+        ],
+        "CharacterId": 153
+    },
+    {
+        "Id": 700,
+        "IsIgnore": null,
+        "Memo": "シロSSR240",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 2,
+                "Value": 400.0
+            }
+        ],
+        "CharacterId": 153
+    },
+    {
+        "Id": 701,
+        "IsIgnore": null,
+        "Memo": "シロUR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 750.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1600.0
+            },
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 2,
+                "Value": 450.0
+            }
+        ],
+        "CharacterId": 153
+    },
+    {
+        "Id": 702,
+        "IsIgnore": null,
+        "Memo": "シロLR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 4,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 13,
+                "ChangeParameterType": 2,
+                "Value": 500.0
+            }
+        ],
+        "CharacterId": 153
     }
 ]

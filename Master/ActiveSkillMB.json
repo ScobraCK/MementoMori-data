@@ -18173,6 +18173,138 @@
         "RootActiveSkillId": 149002
     },
     {
+        "Id": 153001,
+        "IsIgnore": null,
+        "Memo": "シロSR:Lv1 「お手伝いならシロに任せて♪」ランダムな敵3体に攻撃力×240%の物理攻撃を行う。/ Lv2 さらに物理攻撃の前に4ターンの間攻撃力が高い味方2体のクリティカル率とクリダメ強化をそれぞれ15%増加させる。オートバトル・ボスバトルで発動した場合、もしくは9ターン目以降に発動した場合、クリティカル率とクリダメ強化の増加量がそれぞれ30%になる。/ Lv3 物理攻撃のダメージが攻撃力×530%になる。/ Ex1 お手伝いするねっ！を強化する。お手伝いするねっ！の対象がランダムな敵5体になる。/ Ex3 お手伝いするねっ！を強化する。物理攻撃のダメージが攻撃力×580%になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription1530011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    153001001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription1530012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    153001202,
+                    153001001
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription1530013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    153001202,
+                    153001301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription1530014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    153001202,
+                    153001401
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": "[ActiveSkillDescription1530015]",
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    153001202,
+                    153001501
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName153001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 153001
+    },
+    {
+        "Id": 153002,
+        "IsIgnore": null,
+        "Memo": "シロSR:Lv1 「おいで、アン！」お友達のアンを呼んで一緒に、ランダムな敵に3回攻撃力×320%の物理攻撃を行う。/ Lv2 物理攻撃の回数が5回になる。/ Lv3 物理攻撃のダメージが攻撃力×640%になる。/ Lv4 さらにこのスキルを9ターン目以降に発動した場合、付帯しているバフの個数が最も多い味方の付帯しているバフの個数1つにつき、物理攻撃のダメージが攻撃力×30%大きくなる（最大攻撃力×940%まで）。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription1530021]",
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    153002001,
+                    153002002,
+                    153002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription1530022]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    153002201,
+                    153002202,
+                    153002202,
+                    153002202,
+                    153002202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription1530023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    153002301,
+                    153002302,
+                    153002302,
+                    153002302,
+                    153002302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription1530024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    153002401,
+                    153002402,
+                    153002402,
+                    153002402,
+                    153002402
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName153002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 153002
+    },
+    {
         "Id": 550109001,
         "IsIgnore": null,
         "Memo": "ギルドレイド通常ソーニャSR：ソーニャSR:旋風の如き素早い急襲。HPが最も低い敵に攻撃力×800％の物理攻撃を行う。弱った敵にも容赦しないヴァイキングの本能により、敵のHP割合が40％以下の場合、この攻撃は必ずクリティカルヒットする。／さらに自身の腕力×400％の直接攻撃を行う。／追加攻撃のダメージが腕力×600%になる。／さらにこのスキルで敵を戦闘不能にした場合、このスキルを再発動する。",
@@ -51554,5 +51686,137 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 149002
+    },
+    {
+        "Id": 5504153001,
+        "IsIgnore": null,
+        "Memo": null,
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504153001001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504153001202,
+                    5504153001001
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504153001202,
+                    5504153001301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504153001202,
+                    5504153001401
+                ]
+            },
+            {
+                "OrderNumber": 5,
+                "DescriptionKey": null,
+                "CharacterLevel": 240,
+                "EquipmentRarityFlags": 512,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504153001202,
+                    5504153001501
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName153001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 153001
+    },
+    {
+        "Id": 5504153002,
+        "IsIgnore": null,
+        "Memo": null,
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 11,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504153002001,
+                    5504153002002,
+                    5504153002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504153002201,
+                    5504153002202,
+                    5504153002202,
+                    5504153002202,
+                    5504153002202
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504153002301,
+                    5504153002302,
+                    5504153002302,
+                    5504153002302,
+                    5504153002302
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504153002401,
+                    5504153002402,
+                    5504153002402,
+                    5504153002402,
+                    5504153002402
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName153002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 153002
     }
 ]
