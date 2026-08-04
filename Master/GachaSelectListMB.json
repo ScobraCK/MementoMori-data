@@ -7502,10 +7502,11 @@
     {
         "Id": 197,
         "IsIgnore": null,
-        "Memo": "シロ+フラック+仮",
+        "Memo": "シロ+フラック+団長コルディ",
         "CharacterIdList": [
             153,
             122,
+            123,
             5,
             6,
             7,
@@ -7533,7 +7534,8 @@
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
             153,
-            122
+            122,
+            123
         ],
         "OrderNumber": 197,
         "StartTimeFixJST": "2026-08-06 14:30:00",
@@ -7542,9 +7544,10 @@
     {
         "Id": 198,
         "IsIgnore": null,
-        "Memo": "シロ+仮",
+        "Memo": "シロ+団長コルディ+仮",
         "CharacterIdList": [
             153,
+            123,
             5,
             6,
             7,
@@ -7571,7 +7574,8 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            153
+            153,
+            123
         ],
         "OrderNumber": 198,
         "StartTimeFixJST": "2026-08-13 16:30:00",
@@ -8428,6 +8432,32 @@
         "OrderNumber": 10410,
         "StartTimeFixJST": "2026-07-15 16:30:00",
         "EndTimeFixJST": "2026-08-06 14:29:59"
+    },
+    {
+        "Id": 10420,
+        "IsIgnore": null,
+        "Memo": "星の導きガチャ アイリーン・花束ナターシャ・ユリーカ・アルトリア・ティリー・ルスティカ",
+        "CharacterIdList": [
+            109,
+            105,
+            106,
+            93,
+            111,
+            113
+        ],
+        "GachaSelectListType": 3,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            109,
+            105,
+            106,
+            93,
+            111,
+            113
+        ],
+        "OrderNumber": 10420,
+        "StartTimeFixJST": "2026-08-06 14:30:00",
+        "EndTimeFixJST": "2026-08-31 14:29:59"
     },
     {
         "Id": 30001,
