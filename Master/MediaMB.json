@@ -1,0 +1,106 @@
+[
+    {
+        "Id": 1001,
+        "IsIgnore": null,
+        "Memo": "その他_公式サイト_JP",
+        "MediaType": 1,
+        "SortOrder": 0,
+        "MovieId": 100001,
+        "MediaTitleKey": "[MediaTitleWebSite]",
+        "UrlKey": "[WebSiteURL]",
+        "MissionId": 0,
+        "DisplayLanguageTypeList": [
+            1
+        ]
+    },
+    {
+        "Id": 1002,
+        "IsIgnore": null,
+        "Memo": "その他_公式サイト_US",
+        "MediaType": 1,
+        "SortOrder": 0,
+        "MovieId": 100002,
+        "MediaTitleKey": "[MediaTitleWebSite]",
+        "UrlKey": "[WebSiteURL]",
+        "MissionId": 0,
+        "DisplayLanguageTypeList": [
+            2,
+            4,
+            6
+        ]
+    },
+    {
+        "Id": 1003,
+        "IsIgnore": null,
+        "Memo": "その他_公式サイト_KR",
+        "MediaType": 1,
+        "SortOrder": 0,
+        "MovieId": 100003,
+        "MediaTitleKey": "[MediaTitleWebSite]",
+        "UrlKey": "[WebSiteURL]",
+        "MissionId": 0,
+        "DisplayLanguageTypeList": [
+            3
+        ]
+    },
+    {
+        "Id": 1004,
+        "IsIgnore": null,
+        "Memo": "その他_Youtube",
+        "MediaType": 1,
+        "SortOrder": 0,
+        "MovieId": 100004,
+        "MediaTitleKey": "[MediaTitleYoutube]",
+        "UrlKey": "[YoutubeURL]",
+        "MissionId": 18,
+        "DisplayLanguageTypeList": null
+    },
+    {
+        "Id": 1005,
+        "IsIgnore": null,
+        "Memo": "その他_X",
+        "MediaType": 1,
+        "SortOrder": 1,
+        "MovieId": 100005,
+        "MediaTitleKey": "[MediaTitleX]",
+        "UrlKey": "[TwitterURL]",
+        "MissionId": 14,
+        "DisplayLanguageTypeList": null
+    },
+    {
+        "Id": 1006,
+        "IsIgnore": null,
+        "Memo": "その他_FaceBook",
+        "MediaType": 1,
+        "SortOrder": 5,
+        "MovieId": 100006,
+        "MediaTitleKey": "[MediaTitleFaceBook]",
+        "UrlKey": "[FacebookURL]",
+        "MissionId": 0,
+        "DisplayLanguageTypeList": null
+    },
+    {
+        "Id": 1007,
+        "IsIgnore": null,
+        "Memo": "その他_LINE",
+        "MediaType": 1,
+        "SortOrder": 2,
+        "MovieId": 100007,
+        "MediaTitleKey": "[MediaTitleLine]",
+        "UrlKey": "[LineURL]",
+        "MissionId": 0,
+        "DisplayLanguageTypeList": null
+    },
+    {
+        "Id": 2001,
+        "IsIgnore": null,
+        "Memo": "動画",
+        "MediaType": 2,
+        "SortOrder": 1,
+        "MovieId": 200001,
+        "MediaTitleKey": "[MediaTitleMovie2001]",
+        "UrlKey": "[MediaURLMovie2001]",
+        "MissionId": 0,
+        "DisplayLanguageTypeList": null
+    }
+]
