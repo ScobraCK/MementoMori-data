@@ -15048,5 +15048,138 @@
             }
         ],
         "CharacterId": 153
+    },
+    {
+        "Id": 703,
+        "IsIgnore": null,
+        "Memo": "黄昏フローレンスSSR180",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 150
+    },
+    {
+        "Id": 704,
+        "IsIgnore": null,
+        "Memo": "黄昏フローレンスSSR200",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1300.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 600.0
+            }
+        ],
+        "CharacterId": 150
+    },
+    {
+        "Id": 705,
+        "IsIgnore": null,
+        "Memo": "黄昏フローレンスSSR220",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 650.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1400.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "CharacterId": 150
+    },
+    {
+        "Id": 706,
+        "IsIgnore": null,
+        "Memo": "黄昏フローレンスSSR240",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 700.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "CharacterId": 150
+    },
+    {
+        "Id": 707,
+        "IsIgnore": null,
+        "Memo": "黄昏フローレンスUR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 750.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1600.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 900.0
+            }
+        ],
+        "CharacterId": 150
+    },
+    {
+        "Id": 708,
+        "IsIgnore": null,
+        "Memo": "黄昏フローレンスLR",
+        "BaseParameterChangeInfoList": [
+            {
+                "BaseParameterType": 1,
+                "ChangeParameterType": 2,
+                "Value": 800.0
+            }
+        ],
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 7,
+                "ChangeParameterType": 2,
+                "Value": 1000.0
+            }
+        ],
+        "CharacterId": 150
     }
 ]

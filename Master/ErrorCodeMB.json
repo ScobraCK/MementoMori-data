@@ -3534,6 +3534,30 @@
         "ErrorMessageType": 2
     },
     {
+        "Id": 272023,
+        "IsIgnore": null,
+        "Memo": "全体チャットへの送信は１時間に１回までです",
+        "ErrorMessageType": 3
+    },
+    {
+        "Id": 272024,
+        "IsIgnore": null,
+        "Memo": "リクエストが不正です",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 272025,
+        "IsIgnore": null,
+        "Memo": "ギルドメンバーの募集期間が終了しました",
+        "ErrorMessageType": 2
+    },
+    {
+        "Id": 272026,
+        "IsIgnore": null,
+        "Memo": "募集していたギルドが解散しました",
+        "ErrorMessageType": 2
+    },
+    {
         "Id": 282001,
         "IsIgnore": null,
         "Memo": null,
