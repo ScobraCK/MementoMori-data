@@ -7496,16 +7496,17 @@
             122
         ],
         "OrderNumber": 196,
-        "StartTimeFixJST": "2026-07-28 14:30:00",
+        "StartTimeFixJST": "2026-07-28 16:30:00",
         "EndTimeFixJST": "2026-08-06 14:29:59"
     },
     {
         "Id": 197,
         "IsIgnore": null,
-        "Memo": "シロ+フラック+仮",
+        "Memo": "シロ+フラック+団長コルディ",
         "CharacterIdList": [
             153,
             122,
+            123,
             5,
             6,
             7,
@@ -7533,7 +7534,8 @@
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
             153,
-            122
+            122,
+            123
         ],
         "OrderNumber": 197,
         "StartTimeFixJST": "2026-08-06 14:30:00",
@@ -7542,9 +7544,12 @@
     {
         "Id": 198,
         "IsIgnore": null,
-        "Memo": "シロ+仮",
+        "Memo": "黄昏フローレンス+シロ+団長コルディ+メルラン",
         "CharacterIdList": [
+            150,
             153,
+            123,
+            135,
             5,
             6,
             7,
@@ -7571,11 +7576,92 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            153
+            150,
+            153,
+            123,
+            135
         ],
         "OrderNumber": 198,
-        "StartTimeFixJST": "2026-08-13 16:30:00",
+        "StartTimeFixJST": "2026-08-13 15:00:00",
         "EndTimeFixJST": "2026-08-24 14:29:59"
+    },
+    {
+        "Id": 199,
+        "IsIgnore": null,
+        "Memo": "黄昏フローレンス+メルラン+仮",
+        "CharacterIdList": [
+            150,
+            135,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            150,
+            135
+        ],
+        "OrderNumber": 199,
+        "StartTimeFixJST": "2026-08-24 14:30:00",
+        "EndTimeFixJST": "2026-08-31 14:29:59"
+    },
+    {
+        "Id": 200,
+        "IsIgnore": null,
+        "Memo": "黄昏フローレンス+仮",
+        "CharacterIdList": [
+            150,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            150
+        ],
+        "OrderNumber": 200,
+        "StartTimeFixJST": "2026-08-31 16:30:00",
+        "EndTimeFixJST": "2026-09-08 14:29:59"
     },
     {
         "Id": 10000,
@@ -8428,6 +8514,32 @@
         "OrderNumber": 10410,
         "StartTimeFixJST": "2026-07-15 16:30:00",
         "EndTimeFixJST": "2026-08-06 14:29:59"
+    },
+    {
+        "Id": 10420,
+        "IsIgnore": null,
+        "Memo": "星の導きガチャ アイリーン・花束ナターシャ・ユリーカ・アルトリア・ティリー・ルスティカ",
+        "CharacterIdList": [
+            109,
+            105,
+            106,
+            93,
+            111,
+            113
+        ],
+        "GachaSelectListType": 3,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            109,
+            105,
+            106,
+            93,
+            111,
+            113
+        ],
+        "OrderNumber": 10420,
+        "StartTimeFixJST": "2026-08-06 14:30:00",
+        "EndTimeFixJST": "2026-08-31 14:29:59"
     },
     {
         "Id": 30001,

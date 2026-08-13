@@ -1198,11 +1198,11 @@
     {
         "Id": 92,
         "IsIgnore": null,
-        "Memo": "タルルガルルの奇術​(トリクシー,？)",
+        "Memo": "タルルガルルの奇術​(トリクシー,ユリーカ)",
         "NameKey": "[CharacterCollectionName92]",
         "RequiredCharacterIds": [
             139,
-            0
+            106
         ],
         "RequiredPartyLv": 0,
         "EndTimeFixJST": "2100-01-01 00:00:00",
@@ -1286,5 +1286,18 @@
         "RequiredPartyLv": 0,
         "EndTimeFixJST": "2100-01-01 00:00:00",
         "StartTimeFixJST": "2026-07-28 00:00:00"
+    },
+    {
+        "Id": 99,
+        "IsIgnore": null,
+        "Memo": "クルクスの天誓(黄昏フローレンス,?)",
+        "NameKey": "[CharacterCollectionName99]",
+        "RequiredCharacterIds": [
+            150,
+            0
+        ],
+        "RequiredPartyLv": 0,
+        "EndTimeFixJST": "2100-01-01 00:00:00",
+        "StartTimeFixJST": "2026-08-13 00:00:00"
     }
 ]
