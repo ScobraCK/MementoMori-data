@@ -7588,10 +7588,11 @@
     {
         "Id": 199,
         "IsIgnore": null,
-        "Memo": "黄昏フローレンス+メルラン+仮",
+        "Memo": "黄昏フローレンス+メルラン+モワノー",
         "CharacterIdList": [
             150,
             135,
+            100,
             5,
             6,
             7,
@@ -7619,7 +7620,8 @@
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
             150,
-            135
+            135,
+            100
         ],
         "OrderNumber": 199,
         "StartTimeFixJST": "2026-08-24 14:30:00",
@@ -7628,9 +7630,10 @@
     {
         "Id": 200,
         "IsIgnore": null,
-        "Memo": "黄昏フローレンス+仮",
+        "Memo": "黄昏フローレンス+モワノー+仮",
         "CharacterIdList": [
             150,
+            100,
             5,
             6,
             7,
@@ -7657,7 +7660,8 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            150
+            150,
+            100
         ],
         "OrderNumber": 200,
         "StartTimeFixJST": "2026-08-31 16:30:00",
