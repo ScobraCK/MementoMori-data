@@ -12110,5 +12110,37 @@
         "ItemId": 3,
         "ItemType": 40,
         "NeedCount": 1
+    },
+    {
+        "Id": 774,
+        "IsIgnore": null,
+        "Memo": "黄昏フォルティナのアイテム",
+        "ChangeItems": [
+            {
+                "ItemCount": 10000,
+                "ItemId": 1,
+                "ItemType": 3
+            }
+        ],
+        "ChangeItemType": 0,
+        "ItemId": 45,
+        "ItemType": 50,
+        "NeedCount": 1
+    },
+    {
+        "Id": 775,
+        "IsIgnore": null,
+        "Memo": "黄昏フォルティナガチャチケット",
+        "ChangeItems": [
+            {
+                "ItemCount": 1,
+                "ItemId": 2,
+                "ItemType": 16
+            }
+        ],
+        "ChangeItemType": 0,
+        "ItemId": 1510,
+        "ItemType": 16,
+        "NeedCount": 1
     }
 ]
