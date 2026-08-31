@@ -922,18 +922,18 @@
         "IsIgnore": null,
         "Memo": "モワノー",
         "CharacterId": 100,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2026-09-08 14:29:59",
+        "StartTimeFixJST": "2026-08-24 14:30:00"
     },
     {
         "Id": 104,
         "IsIgnore": null,
         "Memo": "フラック",
         "CharacterId": 122,
-        "IsPickup": true,
-        "EndTimeFixJST": "2026-08-13 14:29:59",
-        "StartTimeFixJST": "2026-07-28 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 105,
@@ -958,18 +958,18 @@
         "IsIgnore": null,
         "Memo": "団長コルディ",
         "CharacterId": 123,
-        "IsPickup": true,
-        "EndTimeFixJST": "2026-08-24 14:29:59",
-        "StartTimeFixJST": "2026-08-06 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 108,
         "IsIgnore": null,
         "Memo": "ユルディズ",
         "CharacterId": 124,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2026-09-15 14:29:59",
+        "StartTimeFixJST": "2026-08-31 14:30:00"
     },
     {
         "Id": 109,
@@ -1174,9 +1174,9 @@
         "IsIgnore": null,
         "Memo": "シロ",
         "CharacterId": 153,
-        "IsPickup": true,
-        "EndTimeFixJST": "2026-08-24 14:29:59",
-        "StartTimeFixJST": "2026-07-28 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 132,
@@ -1186,5 +1186,14 @@
         "IsPickup": true,
         "EndTimeFixJST": "2026-09-08 14:29:59",
         "StartTimeFixJST": "2026-08-13 14:30:00"
+    },
+    {
+        "Id": 133,
+        "IsIgnore": null,
+        "Memo": "黄昏フォルティナ",
+        "CharacterId": 151,
+        "IsPickup": true,
+        "EndTimeFixJST": "2026-09-24 14:29:59",
+        "StartTimeFixJST": "2026-08-31 14:30:00"
     }
 ]

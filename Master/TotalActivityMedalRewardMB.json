@@ -3841,5 +3841,74 @@
         "SortOrder": 0,
         "TimeServerIdList": null,
         "ImageId": 0
+    },
+    {
+        "Id": 10591,
+        "IsIgnore": null,
+        "Memo": "イベント_デイリーミッション1_黄昏フォルティナ",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 20,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 45,
+                    "ItemType": 50
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2026-08-31 04:00:00",
+        "EndTime": "2026-09-10 03:59:59",
+        "SortOrder": 0,
+        "TimeServerIdList": null,
+        "ImageId": 0
+    },
+    {
+        "Id": 10592,
+        "IsIgnore": null,
+        "Memo": "イベント_デイリーミッション3_黄昏フォルティナ",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 60,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 45,
+                    "ItemType": 50
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2026-08-31 04:00:00",
+        "EndTime": "2026-09-10 03:59:59",
+        "SortOrder": 0,
+        "TimeServerIdList": null,
+        "ImageId": 0
+    },
+    {
+        "Id": 10593,
+        "IsIgnore": null,
+        "Memo": "イベント_デイリーミッション5_黄昏フォルティナ",
+        "MissionGroupType": 1000,
+        "Value": 0,
+        "RequiredActivityMedalCount": 100,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 10,
+                    "ItemId": 45,
+                    "ItemType": 50
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "StartTime": "2026-08-31 04:00:00",
+        "EndTime": "2026-09-10 03:59:59",
+        "SortOrder": 0,
+        "TimeServerIdList": null,
+        "ImageId": 0
     }
 ]

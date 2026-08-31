@@ -7582,16 +7582,17 @@
             135
         ],
         "OrderNumber": 198,
-        "StartTimeFixJST": "2026-08-13 15:00:00",
+        "StartTimeFixJST": "2026-08-13 16:30:00",
         "EndTimeFixJST": "2026-08-24 14:29:59"
     },
     {
         "Id": 199,
         "IsIgnore": null,
-        "Memo": "黄昏フローレンス+メルラン+仮",
+        "Memo": "黄昏フローレンス+メルラン+モワノー",
         "CharacterIdList": [
             150,
             135,
+            100,
             5,
             6,
             7,
@@ -7619,7 +7620,8 @@
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
             150,
-            135
+            135,
+            100
         ],
         "OrderNumber": 199,
         "StartTimeFixJST": "2026-08-24 14:30:00",
@@ -7628,9 +7630,12 @@
     {
         "Id": 200,
         "IsIgnore": null,
-        "Memo": "黄昏フローレンス+仮",
+        "Memo": "黄昏フォルティナ+黄昏フローレンス+ユルディズ+モワノー",
         "CharacterIdList": [
+            151,
             150,
+            124,
+            100,
             5,
             6,
             7,
@@ -7657,11 +7662,92 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            150
+            151,
+            150,
+            124,
+            100
         ],
         "OrderNumber": 200,
-        "StartTimeFixJST": "2026-08-31 16:30:00",
+        "StartTimeFixJST": "2026-08-31 15:00:00",
         "EndTimeFixJST": "2026-09-08 14:29:59"
+    },
+    {
+        "Id": 201,
+        "IsIgnore": null,
+        "Memo": "黄昏フォルティナ+ユルディズ+仮",
+        "CharacterIdList": [
+            151,
+            124,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            151,
+            124
+        ],
+        "OrderNumber": 201,
+        "StartTimeFixJST": "2026-09-08 14:30:00",
+        "EndTimeFixJST": "2026-09-15 14:29:59"
+    },
+    {
+        "Id": 202,
+        "IsIgnore": null,
+        "Memo": "黄昏フォルティナ+仮",
+        "CharacterIdList": [
+            151,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            151
+        ],
+        "OrderNumber": 202,
+        "StartTimeFixJST": "2026-09-15 16:30:00",
+        "EndTimeFixJST": "2026-09-24 14:29:59"
     },
     {
         "Id": 10000,
@@ -8540,6 +8626,32 @@
         "OrderNumber": 10420,
         "StartTimeFixJST": "2026-08-06 14:30:00",
         "EndTimeFixJST": "2026-08-31 14:29:59"
+    },
+    {
+        "Id": 10430,
+        "IsIgnore": null,
+        "Memo": "星の導きガチャ 使徒ロザリー・神呪イリア・ギルウィアル・プリシラ・ユニ・黒鎧アイリス",
+        "CharacterIdList": [
+            88,
+            61,
+            64,
+            62,
+            76,
+            66
+        ],
+        "GachaSelectListType": 3,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            88,
+            61,
+            64,
+            62,
+            76,
+            66
+        ],
+        "OrderNumber": 10430,
+        "StartTimeFixJST": "2026-08-31 15:00:00",
+        "EndTimeFixJST": "2026-09-24 14:29:59"
     },
     {
         "Id": 30001,
