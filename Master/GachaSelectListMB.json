@@ -7760,9 +7760,10 @@
     {
         "Id": 203,
         "IsIgnore": null,
-        "Memo": "クーシー+コベル+仮",
+        "Memo": "クーシー+レジーナ+コベル",
         "CharacterIdList": [
             97,
+            137,
             103,
             5,
             6,
@@ -7791,11 +7792,50 @@
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
             97,
+            137,
             103
         ],
         "OrderNumber": 203,
         "StartTimeFixJST": "2026-09-24 14:30:00",
         "EndTimeFixJST": "2026-09-30 14:29:59"
+    },
+    {
+        "Id": 204,
+        "IsIgnore": null,
+        "Memo": "レジーナ+仮",
+        "CharacterIdList": [
+            137,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            137
+        ],
+        "OrderNumber": 204,
+        "StartTimeFixJST": "2026-09-30 16:30:00",
+        "EndTimeFixJST": "2026-10-08 14:29:59"
     },
     {
         "Id": 10000,
@@ -8700,6 +8740,32 @@
         "OrderNumber": 10430,
         "StartTimeFixJST": "2026-08-31 16:30:00",
         "EndTimeFixJST": "2026-09-24 14:29:59"
+    },
+    {
+        "Id": 10440,
+        "IsIgnore": null,
+        "Memo": "星の導きガチャ ルサールカ・オフィーリア・ステラ・シフォン・フィアー・リシェス",
+        "CharacterIdList": [
+            44,
+            49,
+            57,
+            54,
+            60,
+            67
+        ],
+        "GachaSelectListType": 3,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            44,
+            49,
+            57,
+            54,
+            60,
+            67
+        ],
+        "OrderNumber": 10440,
+        "StartTimeFixJST": "2026-09-24 14:30:00",
+        "EndTimeFixJST": "2026-10-15 14:29:59"
     },
     {
         "Id": 30001,
