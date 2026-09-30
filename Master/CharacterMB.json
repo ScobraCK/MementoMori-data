@@ -4927,7 +4927,7 @@
         "RarityFlags": 8,
         "RequireFragmentCount": 60,
         "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-01-01 15:00:00"
+        "StartTimeFixJST": "2026-09-15 15:00:00"
     },
     {
         "Id": 99,
@@ -6964,5 +6964,58 @@
         "RequireFragmentCount": 60,
         "EndTimeFixJST": "2100-12-31 23:59:59",
         "StartTimeFixJST": "2026-07-28 15:00:00"
+    },
+    {
+        "Id": 154,
+        "IsIgnore": null,
+        "Memo": "聖剣アルトリア",
+        "ActiveSkillIds": [
+            154001,
+            154002
+        ],
+        "BaseParameterCoefficient": {
+            "Energy": 78,
+            "Health": 82,
+            "Intelligence": 79,
+            "Muscle": 91
+        },
+        "BaseParameterGrossCoefficient": 330,
+        "CharacterType": 2,
+        "ElementType": 3,
+        "InitialBattleParameter": {
+            "AttackPower": 0,
+            "Avoidance": -5,
+            "Critical": 0,
+            "CriticalDamageEnhance": 0,
+            "CriticalResist": 0,
+            "DamageEnhance": 0,
+            "DamageReflect": 0,
+            "DebuffHit": 0,
+            "DebuffResist": 0,
+            "Defense": 11,
+            "DefensePenetration": 0,
+            "Hit": 0,
+            "HP": 5,
+            "HpDrain": 0,
+            "MagicCriticalDamageRelax": 0,
+            "MagicDamageRelax": -1,
+            "PhysicalCriticalDamageRelax": 0,
+            "PhysicalDamageRelax": 0,
+            "Speed": 3272
+        },
+        "ItemRarityFlags": 64,
+        "JobFlags": 1,
+        "Name2Key": "[CharacterSubName154]",
+        "NameKey": "[CharacterName154]",
+        "NormalSkillId": 101,
+        "PassiveSkillIds": [
+            154003,
+            154004,
+            154005
+        ],
+        "RarityFlags": 8,
+        "RequireFragmentCount": 60,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2026-09-30 15:00:00"
     }
 ]

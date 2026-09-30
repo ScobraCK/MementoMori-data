@@ -7668,15 +7668,16 @@
             100
         ],
         "OrderNumber": 200,
-        "StartTimeFixJST": "2026-08-31 15:00:00",
+        "StartTimeFixJST": "2026-08-31 16:30:00",
         "EndTimeFixJST": "2026-09-08 14:29:59"
     },
     {
         "Id": 201,
         "IsIgnore": null,
-        "Memo": "黄昏フォルティナ+ユルディズ+仮",
+        "Memo": "黄昏フォルティナ+ルミカ+ユルディズ",
         "CharacterIdList": [
             151,
+            121,
             124,
             5,
             6,
@@ -7705,6 +7706,7 @@
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
             151,
+            121,
             124
         ],
         "OrderNumber": 201,
@@ -7714,9 +7716,12 @@
     {
         "Id": 202,
         "IsIgnore": null,
-        "Memo": "黄昏フォルティナ+仮",
+        "Memo": "クーシー+黄昏フォルティナ+ルミカ+コベル",
         "CharacterIdList": [
+            97,
             151,
+            121,
+            103,
             5,
             6,
             7,
@@ -7743,11 +7748,138 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            151
+            97,
+            151,
+            121,
+            103
         ],
         "OrderNumber": 202,
         "StartTimeFixJST": "2026-09-15 16:30:00",
         "EndTimeFixJST": "2026-09-24 14:29:59"
+    },
+    {
+        "Id": 203,
+        "IsIgnore": null,
+        "Memo": "クーシー+レジーナ+コベル",
+        "CharacterIdList": [
+            97,
+            137,
+            103,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            97,
+            137,
+            103
+        ],
+        "OrderNumber": 203,
+        "StartTimeFixJST": "2026-09-24 14:30:00",
+        "EndTimeFixJST": "2026-09-30 14:29:59"
+    },
+    {
+        "Id": 204,
+        "IsIgnore": null,
+        "Memo": "聖剣アルトリア+レジーナ+ミフリ",
+        "CharacterIdList": [
+            154,
+            137,
+            126,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            154,
+            137,
+            126
+        ],
+        "OrderNumber": 204,
+        "StartTimeFixJST": "2026-09-30 16:30:00",
+        "EndTimeFixJST": "2026-10-08 14:29:59"
+    },
+    {
+        "Id": 205,
+        "IsIgnore": null,
+        "Memo": "聖剣アルトリア+ミフリ+仮",
+        "CharacterIdList": [
+            154,
+            126,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            154,
+            126
+        ],
+        "OrderNumber": 205,
+        "StartTimeFixJST": "2026-10-08 14:30:00",
+        "EndTimeFixJST": "2026-10-15 14:29:59"
     },
     {
         "Id": 10000,
@@ -8650,8 +8782,34 @@
             66
         ],
         "OrderNumber": 10430,
-        "StartTimeFixJST": "2026-08-31 15:00:00",
+        "StartTimeFixJST": "2026-08-31 16:30:00",
         "EndTimeFixJST": "2026-09-24 14:29:59"
+    },
+    {
+        "Id": 10440,
+        "IsIgnore": null,
+        "Memo": "星の導きガチャ ルサールカ・オフィーリア・ステラ・シフォン・フィアー・リシェス",
+        "CharacterIdList": [
+            44,
+            49,
+            57,
+            54,
+            60,
+            67
+        ],
+        "GachaSelectListType": 3,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            44,
+            49,
+            57,
+            54,
+            60,
+            67
+        ],
+        "OrderNumber": 10440,
+        "StartTimeFixJST": "2026-09-24 14:30:00",
+        "EndTimeFixJST": "2026-10-15 14:29:59"
     },
     {
         "Id": 30001,
