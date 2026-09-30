@@ -920,30 +920,6 @@
         "ImageCharacterId": 0
     },
     {
-        "Id": 4001,
-        "IsIgnore": null,
-        "Memo": "ギルドレイド_イベント",
-        "HelpId": 5010,
-        "ImageItem1": {
-            "ItemCount": 0,
-            "ItemId": 40,
-            "ItemType": 50
-        },
-        "ImageItem2": {
-            "ItemCount": 0,
-            "ItemId": 28,
-            "ItemType": 17
-        },
-        "ImagePositionFormatType": 3,
-        "PageInfo": [
-            {
-                "ImageId": 39,
-                "MainTextKey": "[TutorialDescriptionMainText39]"
-            }
-        ],
-        "ImageCharacterId": 139
-    },
-    {
         "Id": 4002,
         "IsIgnore": null,
         "Memo": "ギルドレイド_イベント_エレイン",
@@ -966,5 +942,29 @@
             }
         ],
         "ImageCharacterId": 140
+    },
+    {
+        "Id": 4003,
+        "IsIgnore": null,
+        "Memo": "ギルドレイド_イベント_聖剣アルトリア",
+        "HelpId": 5010,
+        "ImageItem1": {
+            "ItemCount": 0,
+            "ItemId": 46,
+            "ItemType": 50
+        },
+        "ImageItem2": {
+            "ItemCount": 0,
+            "ItemId": 28,
+            "ItemType": 17
+        },
+        "ImagePositionFormatType": 3,
+        "PageInfo": [
+            {
+                "ImageId": 39,
+                "MainTextKey": "[TutorialDescriptionMainText39]"
+            }
+        ],
+        "ImageCharacterId": 154
     }
 ]
