@@ -7844,9 +7844,10 @@
     {
         "Id": 205,
         "IsIgnore": null,
-        "Memo": "聖剣アルトリア+ミフリ+仮",
+        "Memo": "聖剣アルトリア+リリコット+ミフリ",
         "CharacterIdList": [
             154,
+            99,
             126,
             5,
             6,
@@ -7875,11 +7876,50 @@
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
             154,
+            99,
             126
         ],
         "OrderNumber": 205,
         "StartTimeFixJST": "2026-10-08 14:30:00",
         "EndTimeFixJST": "2026-10-15 14:29:59"
+    },
+    {
+        "Id": 206,
+        "IsIgnore": null,
+        "Memo": "リリコット+仮",
+        "CharacterIdList": [
+            99,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            99
+        ],
+        "OrderNumber": 206,
+        "StartTimeFixJST": "2026-10-15 16:30:00",
+        "EndTimeFixJST": "2026-10-22 14:29:59"
     },
     {
         "Id": 10000,
