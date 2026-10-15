@@ -14039,7 +14039,7 @@
     {
         "Id": 6500340101,
         "IsIgnore": null,
-        "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の腕力×300%分のダメージを代わりに受ける（解除不可）。『悪魔の誘い』のスタック減少数1につき、『シールド』の大きさが付帯者の腕力×20％大きくなる（合計で最大500%まで）。",
+        "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の腕力×600%分のダメージを代わりに受ける（解除不可）。『悪魔の誘い』のスタック減少数1につき、『シールド』の大きさが付帯者の腕力×20％大きくなる（合計で最大800%まで）。",
         "CasterIconId": 65,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription6500340101]",
@@ -14070,7 +14070,7 @@
     {
         "Id": 6500340102,
         "IsIgnore": null,
-        "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の技力×300%分のダメージを代わりに受ける（解除不可）。『悪魔の誘い』のスタック減少数1につき、『シールド』の大きさが付帯者の技力×20％大きくなる（合計で最大500%まで）。",
+        "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の技力×600%分のダメージを代わりに受ける（解除不可）。『悪魔の誘い』のスタック減少数1につき、『シールド』の大きさが付帯者の技力×20％大きくなる（合計で最大800%まで）。",
         "CasterIconId": 65,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription6500340102]",
@@ -14105,7 +14105,7 @@
     {
         "Id": 6500340103,
         "IsIgnore": null,
-        "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の魔力×300%分のダメージを代わりに受ける（解除不可）。『悪魔の誘い』のスタック減少数1につき、『シールド』の大きさが付帯者の魔力×20％大きくなる（合計で最大500%まで）。",
+        "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の魔力×600%分のダメージを代わりに受ける（解除不可）。『悪魔の誘い』のスタック減少数1につき、『シールド』の大きさが付帯者の魔力×20％大きくなる（合計で最大800%まで）。",
         "CasterIconId": 65,
         "CasterIconType": 1,
         "DescriptionKey": "[EffectGroupDescription6500340103]",
@@ -34450,6 +34450,443 @@
         "IconId": 154005,
         "IconType": 1,
         "NameKey": "[EffectGroupName15400500101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 15500120201,
+        "IsIgnore": null,
+        "Memo": "被ダメージが40%増加する。",
+        "CasterIconId": 155,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15500120201]",
+        "IconId": 155001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15500120201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 15500130201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 15500120201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 15500130201,
+        "IsIgnore": null,
+        "Memo": "被ダメージが40%増加する。",
+        "CasterIconId": 155,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15500130201]",
+        "IconId": 155001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15500130201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 15500130201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 15500120201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 15500300101,
+        "IsIgnore": null,
+        "Memo": "攻撃力が1ターン目に自身と味方が受けた自傷ダメージによる総被ダメージ×30%分増加する（攻撃力の増加量は最大でステータス増減前の自身の攻撃力×50%まで）（解除不可）。",
+        "CasterIconId": 155,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15500300101]",
+        "IconId": 155003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15500300101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 15500320201,
+        "IsIgnore": null,
+        "Memo": "*スピードが15%増加する（解除不可）。",
+        "CasterIconId": 155,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15500320201]",
+        "IconId": 155003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15500320201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 15500330201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 15500320201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 15500330201,
+        "IsIgnore": null,
+        "Memo": "*スピードが30%増加する（解除不可）。",
+        "CasterIconId": 155,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15500330201]",
+        "IconId": 155003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15500330201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 15500330201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 15500320201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 15500400201,
+        "IsIgnore": null,
+        "Memo": "[結界] ダメージを5%遮断する（解除不可）。",
+        "CasterIconId": 155,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15500400201]",
+        "IconId": 155004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15500400201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 15500430201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 15500420201,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 15500400201,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 15500400401,
+        "IsIgnore": null,
+        "Memo": "*結界を解除する",
+        "CasterIconId": 155,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15500400401]",
+        "IconId": 155004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15500400401]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 15500400402,
+        "IsIgnore": null,
+        "Memo": "*結界を解除する",
+        "CasterIconId": 155,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15500400402]",
+        "IconId": 155004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15500400402]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 15500400403,
+        "IsIgnore": null,
+        "Memo": "*結界を解除する",
+        "CasterIconId": 155,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15500400403]",
+        "IconId": 155004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15500400403]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 15500420101,
+        "IsIgnore": null,
+        "Memo": "*被ダメージ時印をスタックする",
+        "CasterIconId": 155,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15500420101]",
+        "IconId": 155004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15500420101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 15500420201,
+        "IsIgnore": null,
+        "Memo": "[結界] ダメージを5%遮断する（解除不可）。自身か味方が攻撃もしくは自傷ダメージを受けた回数1回につきダメージの遮断量が3%増加する（合計で最大50%まで）。",
+        "CasterIconId": 155,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15500420201]",
+        "IconId": 155004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15500420201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 15500430201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 15500420201,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 15500400201,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 15500430201,
+        "IsIgnore": null,
+        "Memo": "[結界] ダメージを5%遮断する（解除不可）。自身か味方が攻撃もしくは自傷ダメージを受けた回数1回につきダメージの遮断量が3%増加する（合計で最大50%まで）。",
+        "CasterIconId": 155,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15500430201]",
+        "IconId": 155004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15500430201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 15500430201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 15500420201,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 15500400201,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 15700100102,
+        "IsIgnore": null,
+        "Memo": "弱体効果命中率が30%減少する。",
+        "CasterIconId": 157,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15700100102]",
+        "IconId": 157001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15700100102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 15700120103,
+        "IsIgnore": null,
+        "Memo": "魔法防御力が20%減少する。",
+        "CasterIconId": 157,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15700120103]",
+        "IconId": 157001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15700120103]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 15700300101,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付与者の攻撃力×100%分のダメージを代わりに受ける。",
+        "CasterIconId": 157,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15700300101]",
+        "IconId": 157003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15700300101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 15700330102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 15700320102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 15700320101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 15700300101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 15700320101,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付与者の攻撃力×100%分のダメージを代わりに受ける。",
+        "CasterIconId": 157,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15700320101]",
+        "IconId": 157003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15700320101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 15700330102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 15700320102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 15700320101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 15700300101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 15700320102,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付与者の攻撃力×200%分のダメージを代わりに受ける。",
+        "CasterIconId": 157,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15700320102]",
+        "IconId": 157003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15700320102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 15700330102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 15700320102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 15700320101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 15700300101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 15700330102,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付与者の攻撃力×600%分のダメージを代わりに受ける。",
+        "CasterIconId": 157,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15700330102]",
+        "IconId": 157003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15700330102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 15700330102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 15700320102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 15700320101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 15700300101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 15700400101,
+        "IsIgnore": null,
+        "Memo": "[聖なる導き] 攻撃力と命中率が5%増加する（最大12スタックまで）（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 157,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15700400101]",
+        "IconId": 157004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15700400101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 15700420102,
+        "IsIgnore": null,
+        "Memo": "*『聖なる導き』のスタック数を1増加させる。",
+        "CasterIconId": 157,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15700420102]",
+        "IconId": 157004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15700420102]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 15700430401,
+        "IsIgnore": null,
+        "Memo": "*被ダメージが75%減少する（解除不可）。",
+        "CasterIconId": 157,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15700430401]",
+        "IconId": 157004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15700430401]",
         "IsHide": true,
         "IsTurnHide": true,
         "EffectGroupInfoList": null
@@ -73934,7 +74371,7 @@
         "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の腕力×300%分のダメージを代わりに受ける（解除不可）。『悪魔の誘い』のスタック減少数1につき、『シールド』の大きさが付帯者の腕力×20％大きくなる（合計で最大500%まで）。",
         "CasterIconId": 65,
         "CasterIconType": 1,
-        "DescriptionKey": "[EffectGroupDescription6500340101]",
+        "DescriptionKey": "[EffectGroupDescription550406500340101]",
         "IconId": 65003,
         "IconType": 1,
         "NameKey": "[EffectGroupName6500340101]",
@@ -73965,7 +74402,7 @@
         "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の技力×300%分のダメージを代わりに受ける（解除不可）。『悪魔の誘い』のスタック減少数1につき、『シールド』の大きさが付帯者の技力×20％大きくなる（合計で最大500%まで）。",
         "CasterIconId": 65,
         "CasterIconType": 1,
-        "DescriptionKey": "[EffectGroupDescription6500340102]",
+        "DescriptionKey": "[EffectGroupDescription550406500340102]",
         "IconId": 65003,
         "IconType": 1,
         "NameKey": "[EffectGroupName6500340102]",
@@ -74000,7 +74437,7 @@
         "Memo": "[シールド]クリティカル耐性率が60%増加し、付帯者の魔力×300%分のダメージを代わりに受ける（解除不可）。『悪魔の誘い』のスタック減少数1につき、『シールド』の大きさが付帯者の魔力×20％大きくなる（合計で最大500%まで）。",
         "CasterIconId": 65,
         "CasterIconType": 1,
-        "DescriptionKey": "[EffectGroupDescription6500340103]",
+        "DescriptionKey": "[EffectGroupDescription550406500340103]",
         "IconId": 65003,
         "IconType": 1,
         "NameKey": "[EffectGroupName6500340103]",
@@ -94322,6 +94759,443 @@
         "IconId": 154005,
         "IconType": 1,
         "NameKey": "[EffectGroupName15400500101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550415500120201,
+        "IsIgnore": null,
+        "Memo": "被ダメージが40%増加する。",
+        "CasterIconId": 155,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15500120201]",
+        "IconId": 155001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15500120201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550415500130201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550415500120201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550415500130201,
+        "IsIgnore": null,
+        "Memo": "被ダメージが40%増加する。",
+        "CasterIconId": 155,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15500130201]",
+        "IconId": 155001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15500130201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550415500130201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550415500120201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550415500300101,
+        "IsIgnore": null,
+        "Memo": "攻撃力が1ターン目に自身と味方が受けた自傷ダメージによる総被ダメージ×30%分増加する（攻撃力の増加量は最大でステータス増減前の自身の攻撃力×50%まで）（解除不可）。",
+        "CasterIconId": 155,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15500300101]",
+        "IconId": 155003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15500300101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550415500320201,
+        "IsIgnore": null,
+        "Memo": "*スピードが15%増加する（解除不可）。",
+        "CasterIconId": 155,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15500320201]",
+        "IconId": 155003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15500320201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550415500330201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550415500320201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550415500330201,
+        "IsIgnore": null,
+        "Memo": "*スピードが30%増加する（解除不可）。",
+        "CasterIconId": 155,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15500330201]",
+        "IconId": 155003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15500330201]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550415500330201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550415500320201,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550415500400201,
+        "IsIgnore": null,
+        "Memo": "[結界] ダメージを5%遮断する（解除不可）。",
+        "CasterIconId": 155,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15500400201]",
+        "IconId": 155004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15500400201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550415500430201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550415500420201,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550415500400201,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 550415500400401,
+        "IsIgnore": null,
+        "Memo": "*結界を解除する",
+        "CasterIconId": 155,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15500400401]",
+        "IconId": 155004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15500400401]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550415500400402,
+        "IsIgnore": null,
+        "Memo": "*結界を解除する",
+        "CasterIconId": 155,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15500400402]",
+        "IconId": 155004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15500400402]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550415500400403,
+        "IsIgnore": null,
+        "Memo": "*結界を解除する",
+        "CasterIconId": 155,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15500400403]",
+        "IconId": 155004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15500400403]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550415500420101,
+        "IsIgnore": null,
+        "Memo": "*被ダメージ時印をスタックする",
+        "CasterIconId": 155,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15500420101]",
+        "IconId": 155004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15500420101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550415500420201,
+        "IsIgnore": null,
+        "Memo": "[結界] ダメージを5%遮断する（解除不可）。自身か味方が攻撃もしくは自傷ダメージを受けた回数1回につきダメージの遮断量が3%増加する（合計で最大50%まで）。",
+        "CasterIconId": 155,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15500420201]",
+        "IconId": 155004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15500420201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550415500430201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550415500420201,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550415500400201,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 550415500430201,
+        "IsIgnore": null,
+        "Memo": "[結界] ダメージを5%遮断する（解除不可）。自身か味方が攻撃もしくは自傷ダメージを受けた回数1回につきダメージの遮断量が3%増加する（合計で最大50%まで）。",
+        "CasterIconId": 155,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15500430201]",
+        "IconId": 155004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15500430201]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550415500430201,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550415500420201,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550415500400201,
+                "OrderNumber": 3
+            }
+        ]
+    },
+    {
+        "Id": 550415700100102,
+        "IsIgnore": null,
+        "Memo": "弱体効果命中率が30%減少する。",
+        "CasterIconId": 157,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15700100102]",
+        "IconId": 157001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15700100102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550415700120103,
+        "IsIgnore": null,
+        "Memo": "魔法防御力が20%減少する。",
+        "CasterIconId": 157,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15700120103]",
+        "IconId": 157001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15700120103]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550415700300101,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付与者の攻撃力×100%分のダメージを代わりに受ける。",
+        "CasterIconId": 157,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15700300101]",
+        "IconId": 157003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15700300101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550415700330102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550415700320102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550415700320101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550415700300101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 550415700320101,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付与者の攻撃力×100%分のダメージを代わりに受ける。",
+        "CasterIconId": 157,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15700320101]",
+        "IconId": 157003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15700320101]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550415700330102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550415700320102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550415700320101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550415700300101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 550415700320102,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付与者の攻撃力×200%分のダメージを代わりに受ける。",
+        "CasterIconId": 157,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15700320102]",
+        "IconId": 157003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15700320102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550415700330102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550415700320102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550415700320101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550415700300101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 550415700330102,
+        "IsIgnore": null,
+        "Memo": "[シールド] 付与者の攻撃力×600%分のダメージを代わりに受ける。",
+        "CasterIconId": 157,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15700330102]",
+        "IconId": 157003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15700330102]",
+        "IsHide": false,
+        "IsTurnHide": false,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550415700330102,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550415700320102,
+                "OrderNumber": 2
+            },
+            {
+                "EffectGroupId": 550415700320101,
+                "OrderNumber": 3
+            },
+            {
+                "EffectGroupId": 550415700300101,
+                "OrderNumber": 4
+            }
+        ]
+    },
+    {
+        "Id": 550415700400101,
+        "IsIgnore": null,
+        "Memo": "[聖なる導き] 攻撃力と命中率が5%増加する（最大12スタックまで）（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 157,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15700400101]",
+        "IconId": 157004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15700400101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550415700420102,
+        "IsIgnore": null,
+        "Memo": "*『聖なる導き』のスタック数を1増加させる。",
+        "CasterIconId": 157,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15700420102]",
+        "IconId": 157004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15700420102]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550415700430401,
+        "IsIgnore": null,
+        "Memo": "*被ダメージが75%減少する（解除不可）。",
+        "CasterIconId": 157,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15700430401]",
+        "IconId": 157004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15700430401]",
         "IsHide": true,
         "IsTurnHide": true,
         "EffectGroupInfoList": null

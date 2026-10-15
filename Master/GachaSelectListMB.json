@@ -7886,9 +7886,11 @@
     {
         "Id": 206,
         "IsIgnore": null,
-        "Memo": "リリコット+仮",
+        "Memo": "守護アレクサンドラ+リリコット+宝物フェンリル",
         "CharacterIdList": [
+            155,
             99,
+            83,
             5,
             6,
             7,
@@ -7915,11 +7917,129 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            99
+            155,
+            99,
+            83
         ],
         "OrderNumber": 206,
-        "StartTimeFixJST": "2026-10-15 16:30:00",
+        "StartTimeFixJST": "2026-10-15 15:00:00",
         "EndTimeFixJST": "2026-10-22 14:29:59"
+    },
+    {
+        "Id": 207,
+        "IsIgnore": null,
+        "Memo": "守護アレクサンドラ+宝物フェンリル+仮",
+        "CharacterIdList": [
+            155,
+            83,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            155,
+            83
+        ],
+        "OrderNumber": 207,
+        "StartTimeFixJST": "2026-10-22 14:30:00",
+        "EndTimeFixJST": "2026-10-29 14:29:59"
+    },
+    {
+        "Id": 208,
+        "IsIgnore": null,
+        "Memo": "守護アレクサンドラ+仮",
+        "CharacterIdList": [
+            155,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            155
+        ],
+        "OrderNumber": 208,
+        "StartTimeFixJST": "2026-10-29 16:30:00",
+        "EndTimeFixJST": "2026-11-09 14:29:59"
+    },
+    {
+        "Id": 209,
+        "IsIgnore": null,
+        "Memo": "守護アレクサンドラ+仮",
+        "CharacterIdList": [
+            155,
+            5,
+            6,
+            7,
+            8,
+            10,
+            15,
+            16,
+            17,
+            18,
+            20,
+            25,
+            26,
+            27,
+            28,
+            29,
+            35,
+            36,
+            37,
+            38,
+            39,
+            41,
+            46
+        ],
+        "GachaSelectListType": 2,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            155
+        ],
+        "OrderNumber": 209,
+        "StartTimeFixJST": "2026-11-09 14:30:00",
+        "EndTimeFixJST": "2026-11-16 14:29:59"
     },
     {
         "Id": 10000,
@@ -8850,6 +8970,32 @@
         "OrderNumber": 10440,
         "StartTimeFixJST": "2026-09-24 14:30:00",
         "EndTimeFixJST": "2026-10-15 14:29:59"
+    },
+    {
+        "Id": 10450,
+        "IsIgnore": null,
+        "Memo": "星の導きガチャ アイネ・パラデア・エイル・モルガナ・アレクサンドラ・タマ",
+        "CharacterIdList": [
+            65,
+            63,
+            59,
+            75,
+            82,
+            81
+        ],
+        "GachaSelectListType": 3,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            65,
+            63,
+            59,
+            75,
+            82,
+            81
+        ],
+        "OrderNumber": 10450,
+        "StartTimeFixJST": "2026-10-15 15:00:00",
+        "EndTimeFixJST": "2026-11-09 14:29:59"
     },
     {
         "Id": 30001,

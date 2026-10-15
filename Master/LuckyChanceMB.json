@@ -76,5 +76,24 @@
         },
         "CanDeletePersonalInfoTime": "2027-02-01 03:59:59",
         "ExcludeSelectionCharacterIdList": null
+    },
+    {
+        "Id": 5,
+        "IsIgnore": null,
+        "Memo": "4周年_ラッキーチャンス",
+        "StartEndTimeZoneType": 10,
+        "StartTime": "2026-10-15 14:30:00",
+        "EndTime": "2026-11-04 03:59:59",
+        "InputFormEndTime": "2026-11-09 03:59:59",
+        "MypageIconDisplayLocationType": 1,
+        "TitleTextKey": "[LuckyChanceTitle1]",
+        "LimitUserDrawCount": 10,
+        "ConsumeItem": {
+            "ItemCount": 1,
+            "ItemId": 4,
+            "ItemType": 40
+        },
+        "CanDeletePersonalInfoTime": "2027-05-01 00:00:00",
+        "ExcludeSelectionCharacterIdList": null
     }
 ]
