@@ -3614,6 +3614,29 @@
         "StartTime": null
     },
     {
+        "Id": 159,
+        "IsIgnore": null,
+        "Memo": "団結の箱",
+        "BulkUseEnabled": false,
+        "ChestKeyItemId": 0,
+        "DescriptionKey": "[TreasureChestDescription159]",
+        "DisplayNameKey": "[TreasureChestDisplayName159]",
+        "IconId": 279,
+        "ItemRarityFlags": 64,
+        "MaxItemCount": 0,
+        "MinOpenCount": 1,
+        "NameKey": "[TreasureChestName159]",
+        "SecondaryFrameNum": 0,
+        "SecondaryFrameType": 0,
+        "SortOrder": 0,
+        "TreasureChestItemIdList": [
+            162
+        ],
+        "TreasureChestLotteryType": 3,
+        "EndTime": null,
+        "StartTime": null
+    },
+    {
         "Id": 999,
         "IsIgnore": null,
         "Memo": "運命ガチャ毎回報酬（潜在宝珠50＋精錬水50）、本番データ（削除禁止）",

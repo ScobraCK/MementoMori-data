@@ -4425,6 +4425,56 @@
         "TreasureChestItemListType": 3
     },
     {
+        "Id": 162,
+        "IsIgnore": null,
+        "Memo": "団結の箱",
+        "FixItemList": null,
+        "LotteryRewardId": 0,
+        "SelectItemList": [
+            {
+                "SelectItem": {
+                    "ItemCount": 20,
+                    "ItemId": 6,
+                    "ItemType": 17
+                },
+                "SacredTreasureType": 0
+            },
+            {
+                "SelectItem": {
+                    "ItemCount": 1300,
+                    "ItemId": 3,
+                    "ItemType": 13
+                },
+                "SacredTreasureType": 0
+            },
+            {
+                "SelectItem": {
+                    "ItemCount": 8,
+                    "ItemId": 1,
+                    "ItemType": 19
+                },
+                "SacredTreasureType": 0
+            },
+            {
+                "SelectItem": {
+                    "ItemCount": 8,
+                    "ItemId": 1,
+                    "ItemType": 20
+                },
+                "SacredTreasureType": 0
+            },
+            {
+                "SelectItem": {
+                    "ItemCount": 10,
+                    "ItemId": 3,
+                    "ItemType": 18
+                },
+                "SacredTreasureType": 0
+            }
+        ],
+        "TreasureChestItemListType": 3
+    },
+    {
         "Id": 999,
         "IsIgnore": null,
         "Memo": "運命ガチャ毎回報酬（潜在宝珠50＋精錬水50）、本番データ（削除禁止）",

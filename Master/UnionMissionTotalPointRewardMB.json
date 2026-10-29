@@ -1,0 +1,2450 @@
+[
+    {
+        "Id": 1,
+        "IsIgnore": null,
+        "Memo": "レギュラー_1段階",
+        "ClassType": 1,
+        "RequireGuildPoint": 600,
+        "RequirePersonalPoint": 20,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 6,
+                    "ItemType": 10
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1000,
+                    "ItemId": 12,
+                    "ItemType": 13
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 10
+                }
+            }
+        ]
+    },
+    {
+        "Id": 2,
+        "IsIgnore": null,
+        "Memo": "レギュラー_2段階",
+        "ClassType": 1,
+        "RequireGuildPoint": 1200,
+        "RequirePersonalPoint": 40,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 11,
+                    "ItemType": 10
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 100,
+                    "ItemId": 3,
+                    "ItemType": 13
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1000,
+                    "ItemId": 2,
+                    "ItemType": 13
+                }
+            }
+        ]
+    },
+    {
+        "Id": 3,
+        "IsIgnore": null,
+        "Memo": "レギュラー_3段階",
+        "ClassType": 1,
+        "RequireGuildPoint": 2000,
+        "RequirePersonalPoint": 60,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 1,
+                    "ItemType": 18
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 10,
+                    "ItemId": 1,
+                    "ItemType": 1
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 6,
+                    "ItemType": 10
+                }
+            }
+        ]
+    },
+    {
+        "Id": 4,
+        "IsIgnore": null,
+        "Memo": "レギュラー_4段階",
+        "ClassType": 1,
+        "RequireGuildPoint": 3000,
+        "RequirePersonalPoint": 80,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 20,
+                    "ItemId": 1,
+                    "ItemType": 12
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 20,
+                    "ItemId": 1,
+                    "ItemType": 12
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1000,
+                    "ItemId": 12,
+                    "ItemType": 13
+                }
+            }
+        ]
+    },
+    {
+        "Id": 5,
+        "IsIgnore": null,
+        "Memo": "レギュラー_5段階",
+        "ClassType": 1,
+        "RequireGuildPoint": 4000,
+        "RequirePersonalPoint": 100,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 3,
+                    "ItemId": 4,
+                    "ItemType": 17
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 3,
+                    "ItemId": 4,
+                    "ItemType": 17
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 11,
+                    "ItemType": 10
+                }
+            }
+        ]
+    },
+    {
+        "Id": 6,
+        "IsIgnore": null,
+        "Memo": "レギュラー_6段階",
+        "ClassType": 1,
+        "RequireGuildPoint": 5000,
+        "RequirePersonalPoint": 120,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 2,
+                    "ItemType": 12
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 10,
+                    "ItemId": 1,
+                    "ItemType": 1
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 2,
+                    "ItemType": 12
+                }
+            }
+        ]
+    },
+    {
+        "Id": 7,
+        "IsIgnore": null,
+        "Memo": "レギュラー_7段階",
+        "ClassType": 1,
+        "RequireGuildPoint": 6000,
+        "RequirePersonalPoint": 180,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 19
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 10
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 4,
+                    "ItemType": 13
+                }
+            }
+        ]
+    },
+    {
+        "Id": 8,
+        "IsIgnore": null,
+        "Memo": "レギュラー_8段階",
+        "ClassType": 1,
+        "RequireGuildPoint": 7000,
+        "RequirePersonalPoint": 200,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 20
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 20,
+                    "ItemId": 1,
+                    "ItemType": 12
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 10,
+                    "ItemId": 1,
+                    "ItemType": 1
+                }
+            }
+        ]
+    },
+    {
+        "Id": 9,
+        "IsIgnore": null,
+        "Memo": "レギュラー_9段階",
+        "ClassType": 1,
+        "RequireGuildPoint": 8000,
+        "RequirePersonalPoint": 220,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 6,
+                    "ItemType": 10
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 19
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 100,
+                    "ItemId": 3,
+                    "ItemType": 13
+                }
+            }
+        ]
+    },
+    {
+        "Id": 10,
+        "IsIgnore": null,
+        "Memo": "レギュラー_10段階",
+        "ClassType": 1,
+        "RequireGuildPoint": 9000,
+        "RequirePersonalPoint": 240,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 13
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 20
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1000,
+                    "ItemId": 2,
+                    "ItemType": 13
+                }
+            }
+        ]
+    },
+    {
+        "Id": 11,
+        "IsIgnore": null,
+        "Memo": "レギュラー_11段階",
+        "ClassType": 1,
+        "RequireGuildPoint": 10000,
+        "RequirePersonalPoint": 250,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 4,
+                    "ItemType": 13
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 3,
+                    "ItemId": 4,
+                    "ItemType": 17
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1000,
+                    "ItemId": 12,
+                    "ItemType": 13
+                }
+            }
+        ]
+    },
+    {
+        "Id": 12,
+        "IsIgnore": null,
+        "Memo": "レギュラー_12段階",
+        "ClassType": 1,
+        "RequireGuildPoint": 12000,
+        "RequirePersonalPoint": 260,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 20,
+                    "ItemId": 1,
+                    "ItemType": 12
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 6,
+                    "ItemType": 10
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 10
+                }
+            }
+        ]
+    },
+    {
+        "Id": 13,
+        "IsIgnore": null,
+        "Memo": "レギュラー_13段階",
+        "ClassType": 1,
+        "RequireGuildPoint": 14000,
+        "RequirePersonalPoint": 270,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 10,
+                    "ItemId": 1,
+                    "ItemType": 1
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 100,
+                    "ItemId": 3,
+                    "ItemType": 13
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 11,
+                    "ItemType": 10
+                }
+            }
+        ]
+    },
+    {
+        "Id": 14,
+        "IsIgnore": null,
+        "Memo": "レギュラー_14段階",
+        "ClassType": 1,
+        "RequireGuildPoint": 16000,
+        "RequirePersonalPoint": 280,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 3,
+                    "ItemId": 4,
+                    "ItemType": 17
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 1,
+                    "ItemType": 18
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 2,
+                    "ItemType": 12
+                }
+            }
+        ]
+    },
+    {
+        "Id": 15,
+        "IsIgnore": null,
+        "Memo": "レギュラー_15段階",
+        "ClassType": 1,
+        "RequireGuildPoint": 20000,
+        "RequirePersonalPoint": 300,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 13
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 20
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 4,
+                    "ItemType": 13
+                }
+            }
+        ]
+    },
+    {
+        "Id": 16,
+        "IsIgnore": null,
+        "Memo": "レギュラー_16段階",
+        "ClassType": 1,
+        "RequireGuildPoint": 25000,
+        "RequirePersonalPoint": 350,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 11,
+                    "ItemType": 10
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 20,
+                    "ItemId": 1,
+                    "ItemType": 12
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 3,
+                    "ItemId": 4,
+                    "ItemType": 17
+                }
+            }
+        ]
+    },
+    {
+        "Id": 17,
+        "IsIgnore": null,
+        "Memo": "レギュラー_17段階",
+        "ClassType": 1,
+        "RequireGuildPoint": 30000,
+        "RequirePersonalPoint": 400,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 2,
+                    "ItemType": 12
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 10,
+                    "ItemId": 1,
+                    "ItemType": 1
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 6,
+                    "ItemType": 10
+                }
+            }
+        ]
+    },
+    {
+        "Id": 18,
+        "IsIgnore": null,
+        "Memo": "レギュラー_18段階",
+        "ClassType": 1,
+        "RequireGuildPoint": 35000,
+        "RequirePersonalPoint": 600,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 20,
+                    "ItemId": 1,
+                    "ItemType": 1
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 19
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 2,
+                    "ItemType": 12
+                }
+            }
+        ]
+    },
+    {
+        "Id": 19,
+        "IsIgnore": null,
+        "Memo": "エリート_1段階",
+        "ClassType": 2,
+        "RequireGuildPoint": 600,
+        "RequirePersonalPoint": 20,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 2,
+                    "ItemId": 6,
+                    "ItemType": 10
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1000,
+                    "ItemId": 12,
+                    "ItemType": 13
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 10
+                }
+            }
+        ]
+    },
+    {
+        "Id": 20,
+        "IsIgnore": null,
+        "Memo": "エリート_2段階",
+        "ClassType": 2,
+        "RequireGuildPoint": 1200,
+        "RequirePersonalPoint": 40,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 11,
+                    "ItemType": 10
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 100,
+                    "ItemId": 3,
+                    "ItemType": 13
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1000,
+                    "ItemId": 2,
+                    "ItemType": 13
+                }
+            }
+        ]
+    },
+    {
+        "Id": 21,
+        "IsIgnore": null,
+        "Memo": "エリート_3段階",
+        "ClassType": 2,
+        "RequireGuildPoint": 2000,
+        "RequirePersonalPoint": 60,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 1,
+                    "ItemType": 18
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 10,
+                    "ItemId": 1,
+                    "ItemType": 1
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 2,
+                    "ItemId": 6,
+                    "ItemType": 10
+                }
+            }
+        ]
+    },
+    {
+        "Id": 22,
+        "IsIgnore": null,
+        "Memo": "エリート_4段階",
+        "ClassType": 2,
+        "RequireGuildPoint": 3000,
+        "RequirePersonalPoint": 80,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 30,
+                    "ItemId": 1,
+                    "ItemType": 12
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 30,
+                    "ItemId": 1,
+                    "ItemType": 12
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1000,
+                    "ItemId": 12,
+                    "ItemType": 13
+                }
+            }
+        ]
+    },
+    {
+        "Id": 23,
+        "IsIgnore": null,
+        "Memo": "エリート_5段階",
+        "ClassType": 2,
+        "RequireGuildPoint": 4000,
+        "RequirePersonalPoint": 100,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 4,
+                    "ItemType": 17
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 4,
+                    "ItemType": 17
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 10
+                }
+            }
+        ]
+    },
+    {
+        "Id": 24,
+        "IsIgnore": null,
+        "Memo": "エリート_6段階",
+        "ClassType": 2,
+        "RequireGuildPoint": 5000,
+        "RequirePersonalPoint": 120,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 2,
+                    "ItemId": 2,
+                    "ItemType": 12
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 10,
+                    "ItemId": 1,
+                    "ItemType": 1
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 57
+                }
+            }
+        ]
+    },
+    {
+        "Id": 25,
+        "IsIgnore": null,
+        "Memo": "エリート_7段階",
+        "ClassType": 2,
+        "RequireGuildPoint": 6000,
+        "RequirePersonalPoint": 180,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 19
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 100,
+                    "ItemId": 3,
+                    "ItemType": 13
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 11,
+                    "ItemType": 10
+                }
+            }
+        ]
+    },
+    {
+        "Id": 26,
+        "IsIgnore": null,
+        "Memo": "エリート_8段階",
+        "ClassType": 2,
+        "RequireGuildPoint": 7000,
+        "RequirePersonalPoint": 200,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 20
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 2,
+                    "ItemId": 2,
+                    "ItemType": 12
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 10,
+                    "ItemId": 1,
+                    "ItemType": 1
+                }
+            }
+        ]
+    },
+    {
+        "Id": 27,
+        "IsIgnore": null,
+        "Memo": "エリート_9段階",
+        "ClassType": 2,
+        "RequireGuildPoint": 8000,
+        "RequirePersonalPoint": 220,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 2,
+                    "ItemId": 6,
+                    "ItemType": 10
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 1,
+                    "ItemType": 18
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1000,
+                    "ItemId": 2,
+                    "ItemType": 13
+                }
+            }
+        ]
+    },
+    {
+        "Id": 28,
+        "IsIgnore": null,
+        "Memo": "エリート_10段階",
+        "ClassType": 2,
+        "RequireGuildPoint": 9000,
+        "RequirePersonalPoint": 240,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 13
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 19
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1000,
+                    "ItemId": 12,
+                    "ItemType": 13
+                }
+            }
+        ]
+    },
+    {
+        "Id": 29,
+        "IsIgnore": null,
+        "Memo": "エリート_11段階",
+        "ClassType": 2,
+        "RequireGuildPoint": 10000,
+        "RequirePersonalPoint": 250,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 10,
+                    "ItemId": 1,
+                    "ItemType": 1
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 20
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 10
+                }
+            }
+        ]
+    },
+    {
+        "Id": 30,
+        "IsIgnore": null,
+        "Memo": "エリート_12段階",
+        "ClassType": 2,
+        "RequireGuildPoint": 12000,
+        "RequirePersonalPoint": 260,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 30,
+                    "ItemId": 1,
+                    "ItemType": 12
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 2,
+                    "ItemId": 6,
+                    "ItemType": 10
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 100,
+                    "ItemId": 3,
+                    "ItemType": 13
+                }
+            }
+        ]
+    },
+    {
+        "Id": 31,
+        "IsIgnore": null,
+        "Memo": "エリート_13段階",
+        "ClassType": 2,
+        "RequireGuildPoint": 14000,
+        "RequirePersonalPoint": 270,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 10,
+                    "ItemId": 1,
+                    "ItemType": 1
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1000,
+                    "ItemId": 2,
+                    "ItemType": 13
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 57
+                }
+            }
+        ]
+    },
+    {
+        "Id": 32,
+        "IsIgnore": null,
+        "Memo": "エリート_14段階",
+        "ClassType": 2,
+        "RequireGuildPoint": 16000,
+        "RequirePersonalPoint": 280,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 4,
+                    "ItemType": 17
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 11,
+                    "ItemType": 10
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 4,
+                    "ItemType": 13
+                }
+            }
+        ]
+    },
+    {
+        "Id": 33,
+        "IsIgnore": null,
+        "Memo": "エリート_15段階",
+        "ClassType": 2,
+        "RequireGuildPoint": 20000,
+        "RequirePersonalPoint": 300,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 13
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 3,
+                    "ItemId": 2,
+                    "ItemType": 18
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 30,
+                    "ItemId": 1,
+                    "ItemType": 12
+                }
+            }
+        ]
+    },
+    {
+        "Id": 34,
+        "IsIgnore": null,
+        "Memo": "エリート_16段階",
+        "ClassType": 2,
+        "RequireGuildPoint": 25000,
+        "RequirePersonalPoint": 350,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 11,
+                    "ItemType": 10
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 4,
+                    "ItemType": 17
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 19
+                }
+            }
+        ]
+    },
+    {
+        "Id": 35,
+        "IsIgnore": null,
+        "Memo": "エリート_17段階",
+        "ClassType": 2,
+        "RequireGuildPoint": 30000,
+        "RequirePersonalPoint": 400,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 2,
+                    "ItemId": 2,
+                    "ItemType": 12
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 10,
+                    "ItemId": 1,
+                    "ItemType": 1
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 20
+                }
+            }
+        ]
+    },
+    {
+        "Id": 36,
+        "IsIgnore": null,
+        "Memo": "エリート_18段階",
+        "ClassType": 2,
+        "RequireGuildPoint": 35000,
+        "RequirePersonalPoint": 500,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 3,
+                    "ItemId": 2,
+                    "ItemType": 18
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 2,
+                    "ItemId": 6,
+                    "ItemType": 10
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 2,
+                    "ItemId": 2,
+                    "ItemType": 12
+                }
+            }
+        ]
+    },
+    {
+        "Id": 37,
+        "IsIgnore": null,
+        "Memo": "エリート_19段階",
+        "ClassType": 2,
+        "RequireGuildPoint": 42000,
+        "RequirePersonalPoint": 600,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 10,
+                    "ItemId": 1,
+                    "ItemType": 1
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 4,
+                    "ItemType": 13
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 11,
+                    "ItemType": 10
+                }
+            }
+        ]
+    },
+    {
+        "Id": 38,
+        "IsIgnore": null,
+        "Memo": "エリート_20段階",
+        "ClassType": 2,
+        "RequireGuildPoint": 49000,
+        "RequirePersonalPoint": 800,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 13
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 3,
+                    "ItemType": 18
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 13
+                }
+            }
+        ]
+    },
+    {
+        "Id": 39,
+        "IsIgnore": null,
+        "Memo": "エリート_21段階",
+        "ClassType": 2,
+        "RequireGuildPoint": 56000,
+        "RequirePersonalPoint": 1000,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 4,
+                    "ItemType": 13
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 19
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 20
+                }
+            }
+        ]
+    },
+    {
+        "Id": 40,
+        "IsIgnore": null,
+        "Memo": "エリート_22段階",
+        "ClassType": 2,
+        "RequireGuildPoint": 63000,
+        "RequirePersonalPoint": 1100,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 20,
+                    "ItemId": 1,
+                    "ItemType": 1
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 13
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 2,
+                    "ItemId": 6,
+                    "ItemType": 10
+                }
+            }
+        ]
+    },
+    {
+        "Id": 41,
+        "IsIgnore": null,
+        "Memo": "エリート_23段階",
+        "ClassType": 2,
+        "RequireGuildPoint": 70000,
+        "RequirePersonalPoint": 1200,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 4,
+                    "ItemType": 13
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 11,
+                    "ItemType": 10
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1000,
+                    "ItemId": 12,
+                    "ItemType": 13
+                }
+            }
+        ]
+    },
+    {
+        "Id": 42,
+        "IsIgnore": null,
+        "Memo": "エキスパート_1段階",
+        "ClassType": 3,
+        "RequireGuildPoint": 600,
+        "RequirePersonalPoint": 20,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 2,
+                    "ItemId": 6,
+                    "ItemType": 10
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1500,
+                    "ItemId": 12,
+                    "ItemType": 13
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 10
+                }
+            }
+        ]
+    },
+    {
+        "Id": 43,
+        "IsIgnore": null,
+        "Memo": "エキスパート_2段階",
+        "ClassType": 3,
+        "RequireGuildPoint": 1200,
+        "RequirePersonalPoint": 40,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 2,
+                    "ItemId": 11,
+                    "ItemType": 10
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 100,
+                    "ItemId": 3,
+                    "ItemType": 13
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1000,
+                    "ItemId": 2,
+                    "ItemType": 13
+                }
+            }
+        ]
+    },
+    {
+        "Id": 44,
+        "IsIgnore": null,
+        "Memo": "エキスパート_3段階",
+        "ClassType": 3,
+        "RequireGuildPoint": 2000,
+        "RequirePersonalPoint": 60,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 1,
+                    "ItemType": 18
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 10,
+                    "ItemId": 1,
+                    "ItemType": 1
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 2,
+                    "ItemId": 6,
+                    "ItemType": 10
+                }
+            }
+        ]
+    },
+    {
+        "Id": 45,
+        "IsIgnore": null,
+        "Memo": "エキスパート_4段階",
+        "ClassType": 3,
+        "RequireGuildPoint": 3000,
+        "RequirePersonalPoint": 80,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 30,
+                    "ItemId": 1,
+                    "ItemType": 12
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 30,
+                    "ItemId": 1,
+                    "ItemType": 12
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1500,
+                    "ItemId": 12,
+                    "ItemType": 13
+                }
+            }
+        ]
+    },
+    {
+        "Id": 46,
+        "IsIgnore": null,
+        "Memo": "エキスパート_5段階",
+        "ClassType": 3,
+        "RequireGuildPoint": 4000,
+        "RequirePersonalPoint": 100,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 7,
+                    "ItemId": 4,
+                    "ItemType": 17
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 7,
+                    "ItemId": 4,
+                    "ItemType": 17
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 57
+                }
+            }
+        ]
+    },
+    {
+        "Id": 47,
+        "IsIgnore": null,
+        "Memo": "エキスパート_6段階",
+        "ClassType": 3,
+        "RequireGuildPoint": 5000,
+        "RequirePersonalPoint": 120,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 2,
+                    "ItemId": 2,
+                    "ItemType": 12
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 10,
+                    "ItemId": 1,
+                    "ItemType": 1
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 2,
+                    "ItemId": 11,
+                    "ItemType": 10
+                }
+            }
+        ]
+    },
+    {
+        "Id": 48,
+        "IsIgnore": null,
+        "Memo": "エキスパート_7段階",
+        "ClassType": 3,
+        "RequireGuildPoint": 6000,
+        "RequirePersonalPoint": 180,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 19
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 10
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 1,
+                    "ItemType": 18
+                }
+            }
+        ]
+    },
+    {
+        "Id": 49,
+        "IsIgnore": null,
+        "Memo": "エキスパート_8段階",
+        "ClassType": 3,
+        "RequireGuildPoint": 7000,
+        "RequirePersonalPoint": 200,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 4,
+                    "ItemType": 13
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 2,
+                    "ItemId": 2,
+                    "ItemType": 12
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 20,
+                    "ItemId": 1,
+                    "ItemType": 1
+                }
+            }
+        ]
+    },
+    {
+        "Id": 50,
+        "IsIgnore": null,
+        "Memo": "エキスパート_9段階",
+        "ClassType": 3,
+        "RequireGuildPoint": 8000,
+        "RequirePersonalPoint": 220,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 20
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 19
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 100,
+                    "ItemId": 3,
+                    "ItemType": 13
+                }
+            }
+        ]
+    },
+    {
+        "Id": 51,
+        "IsIgnore": null,
+        "Memo": "エキスパート_10段階",
+        "ClassType": 3,
+        "RequireGuildPoint": 9000,
+        "RequirePersonalPoint": 240,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 30,
+                    "ItemId": 1,
+                    "ItemType": 12
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 20
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1000,
+                    "ItemId": 2,
+                    "ItemType": 13
+                }
+            }
+        ]
+    },
+    {
+        "Id": 52,
+        "IsIgnore": null,
+        "Memo": "エキスパート_11段階",
+        "ClassType": 3,
+        "RequireGuildPoint": 10000,
+        "RequirePersonalPoint": 250,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 2,
+                    "ItemId": 6,
+                    "ItemType": 10
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 4,
+                    "ItemType": 13
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1500,
+                    "ItemId": 12,
+                    "ItemType": 13
+                }
+            }
+        ]
+    },
+    {
+        "Id": 53,
+        "IsIgnore": null,
+        "Memo": "エキスパート_12段階",
+        "ClassType": 3,
+        "RequireGuildPoint": 12000,
+        "RequirePersonalPoint": 260,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 7,
+                    "ItemId": 4,
+                    "ItemType": 17
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 2,
+                    "ItemId": 6,
+                    "ItemType": 10
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 10
+                }
+            }
+        ]
+    },
+    {
+        "Id": 54,
+        "IsIgnore": null,
+        "Memo": "エキスパート_13段階",
+        "ClassType": 3,
+        "RequireGuildPoint": 14000,
+        "RequirePersonalPoint": 270,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 10,
+                    "ItemId": 1,
+                    "ItemType": 1
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 100,
+                    "ItemId": 3,
+                    "ItemType": 13
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 2,
+                    "ItemId": 11,
+                    "ItemType": 10
+                }
+            }
+        ]
+    },
+    {
+        "Id": 55,
+        "IsIgnore": null,
+        "Memo": "エキスパート_14段階",
+        "ClassType": 3,
+        "RequireGuildPoint": 16000,
+        "RequirePersonalPoint": 280,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 2,
+                    "ItemId": 2,
+                    "ItemType": 12
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 1,
+                    "ItemType": 18
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 19
+                }
+            }
+        ]
+    },
+    {
+        "Id": 56,
+        "IsIgnore": null,
+        "Memo": "エキスパート_15段階",
+        "ClassType": 3,
+        "RequireGuildPoint": 20000,
+        "RequirePersonalPoint": 300,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 13
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 20
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 2,
+                    "ItemId": 6,
+                    "ItemType": 10
+                }
+            }
+        ]
+    },
+    {
+        "Id": 57,
+        "IsIgnore": null,
+        "Memo": "エキスパート_16段階",
+        "ClassType": 3,
+        "RequireGuildPoint": 25000,
+        "RequirePersonalPoint": 350,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 2,
+                    "ItemId": 11,
+                    "ItemType": 10
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 2,
+                    "ItemId": 11,
+                    "ItemType": 10
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 3,
+                    "ItemId": 2,
+                    "ItemType": 18
+                }
+            }
+        ]
+    },
+    {
+        "Id": 58,
+        "IsIgnore": null,
+        "Memo": "エキスパート_17段階",
+        "ClassType": 3,
+        "RequireGuildPoint": 30000,
+        "RequirePersonalPoint": 400,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 3,
+                    "ItemId": 2,
+                    "ItemType": 18
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 30,
+                    "ItemId": 1,
+                    "ItemType": 12
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 57
+                }
+            }
+        ]
+    },
+    {
+        "Id": 59,
+        "IsIgnore": null,
+        "Memo": "エキスパート_18段階",
+        "ClassType": 3,
+        "RequireGuildPoint": 35000,
+        "RequirePersonalPoint": 500,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 19
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 19
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 7,
+                    "ItemId": 4,
+                    "ItemType": 17
+                }
+            }
+        ]
+    },
+    {
+        "Id": 60,
+        "IsIgnore": null,
+        "Memo": "エキスパート_19段階",
+        "ClassType": 3,
+        "RequireGuildPoint": 42000,
+        "RequirePersonalPoint": 600,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 10,
+                    "ItemId": 1,
+                    "ItemType": 1
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 2,
+                    "ItemId": 2,
+                    "ItemType": 12
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 20
+                }
+            }
+        ]
+    },
+    {
+        "Id": 61,
+        "IsIgnore": null,
+        "Memo": "エキスパート_20段階",
+        "ClassType": 3,
+        "RequireGuildPoint": 49000,
+        "RequirePersonalPoint": 800,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 2,
+                    "ItemId": 1,
+                    "ItemType": 13
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 2,
+                    "ItemId": 6,
+                    "ItemType": 10
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 13
+                }
+            }
+        ]
+    },
+    {
+        "Id": 62,
+        "IsIgnore": null,
+        "Memo": "エキスパート_21段階",
+        "ClassType": 3,
+        "RequireGuildPoint": 56000,
+        "RequirePersonalPoint": 1000,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 4,
+                    "ItemType": 13
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 2,
+                    "ItemId": 11,
+                    "ItemType": 10
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 3,
+                    "ItemType": 18
+                }
+            }
+        ]
+    },
+    {
+        "Id": 63,
+        "IsIgnore": null,
+        "Memo": "エキスパート_22段階",
+        "ClassType": 3,
+        "RequireGuildPoint": 63000,
+        "RequirePersonalPoint": 1100,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 10,
+                    "ItemId": 1,
+                    "ItemType": 1
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 13
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 19
+                }
+            }
+        ]
+    },
+    {
+        "Id": 64,
+        "IsIgnore": null,
+        "Memo": "エキスパート_23段階",
+        "ClassType": 3,
+        "RequireGuildPoint": 70000,
+        "RequirePersonalPoint": 1200,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 20
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 20
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1000,
+                    "ItemId": 2,
+                    "ItemType": 13
+                }
+            }
+        ]
+    },
+    {
+        "Id": 65,
+        "IsIgnore": null,
+        "Memo": "エキスパート_24段階",
+        "ClassType": 3,
+        "RequireGuildPoint": 80000,
+        "RequirePersonalPoint": 1400,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 10,
+                    "ItemId": 1,
+                    "ItemType": 1
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 4,
+                    "ItemType": 13
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 2,
+                    "ItemId": 6,
+                    "ItemType": 10
+                }
+            }
+        ]
+    },
+    {
+        "Id": 66,
+        "IsIgnore": null,
+        "Memo": "エキスパート_25段階",
+        "ClassType": 3,
+        "RequireGuildPoint": 90000,
+        "RequirePersonalPoint": 1800,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 4,
+                    "ItemType": 13
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 2,
+                    "ItemId": 11,
+                    "ItemType": 10
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 13
+                }
+            }
+        ]
+    },
+    {
+        "Id": 67,
+        "IsIgnore": null,
+        "Memo": "エキスパート_26段階",
+        "ClassType": 3,
+        "RequireGuildPoint": 100000,
+        "RequirePersonalPoint": 2000,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 20,
+                    "ItemId": 1,
+                    "ItemType": 1
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 2,
+                    "ItemId": 2,
+                    "ItemType": 12
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 3,
+                    "ItemType": 18
+                }
+            }
+        ]
+    },
+    {
+        "Id": 68,
+        "IsIgnore": null,
+        "Memo": "エキスパート_27段階",
+        "ClassType": 3,
+        "RequireGuildPoint": 120000,
+        "RequirePersonalPoint": 2500,
+        "GuildPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 5,
+                    "ItemId": 4,
+                    "ItemType": 13
+                }
+            }
+        ],
+        "PersonalPointRewardItemList": [
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 2,
+                    "ItemId": 11,
+                    "ItemType": 10
+                }
+            },
+            {
+                "RarityFlags": 0,
+                "Item": {
+                    "ItemCount": 1,
+                    "ItemId": 1,
+                    "ItemType": 13
+                }
+            }
+        ]
+    }
+]

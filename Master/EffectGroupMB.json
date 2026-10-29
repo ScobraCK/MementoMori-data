@@ -34698,6 +34698,154 @@
         ]
     },
     {
+        "Id": 15600140101,
+        "IsIgnore": null,
+        "Memo": "*印付与",
+        "CasterIconId": 156,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15600140101]",
+        "IconId": 156001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15600140101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 15600300101,
+        "IsIgnore": null,
+        "Memo": "[傲慢の悪魔] 与ダメージが2%増加する（最大10スタックまで）（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 156,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15600300101]",
+        "IconId": 156003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15600300101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 15600340101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 15600300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 15600320102,
+        "IsIgnore": null,
+        "Memo": "*自身のHPが50%以上ならスタックをさらに1追加。",
+        "CasterIconId": 156,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15600320102]",
+        "IconId": 156003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15600320102]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 15600330401,
+        "IsIgnore": null,
+        "Memo": "*バトル開始時、自身の命中率が40%増加する。被ダメージ50%減少。",
+        "CasterIconId": 156,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15600330401]",
+        "IconId": 156003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15600330401]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 15600350401,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 15600330401,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 15600340101,
+        "IsIgnore": null,
+        "Memo": "[傲慢の悪魔] 与ダメージが5%増加する（最大10スタックまで）（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 156,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15600340101]",
+        "IconId": 156003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15600340101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 15600340101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 15600300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 15600340102,
+        "IsIgnore": null,
+        "Memo": "*自身のHPが50%以上ならスタックをさらに1追加。",
+        "CasterIconId": 156,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15600340102]",
+        "IconId": 156003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15600340102]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 15600350401,
+        "IsIgnore": null,
+        "Memo": "*バトル開始時、自身の命中率が50%増加する。被ダメージ50%減少。",
+        "CasterIconId": 156,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15600350401]",
+        "IconId": 156003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15600350401]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 15600350401,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 15600330401,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 15600400101,
+        "IsIgnore": null,
+        "Memo": "[贖罪の天使] 防御貫通が5%減少する（最大5スタックまで）。現在のスタック数：{stack}",
+        "CasterIconId": 156,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15600400101]",
+        "IconId": 156004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15600400101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
         "Id": 15700100102,
         "IsIgnore": null,
         "Memo": "弱体効果命中率が30%減少する。",
@@ -95005,6 +95153,154 @@
                 "OrderNumber": 3
             }
         ]
+    },
+    {
+        "Id": 550415600140101,
+        "IsIgnore": null,
+        "Memo": "*印付与",
+        "CasterIconId": 156,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15600140101]",
+        "IconId": 156001,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15600140101]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550415600300101,
+        "IsIgnore": null,
+        "Memo": "[傲慢の悪魔] 与ダメージが2%増加する（最大10スタックまで）（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 156,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15600300101]",
+        "IconId": 156003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15600300101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550415600340101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550415600300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550415600320102,
+        "IsIgnore": null,
+        "Memo": "*自身のHPが50%以上ならスタックをさらに1追加。",
+        "CasterIconId": 156,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15600320102]",
+        "IconId": 156003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15600320102]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550415600330401,
+        "IsIgnore": null,
+        "Memo": "*バトル開始時、自身の命中率が40%増加する。被ダメージ50%減少。",
+        "CasterIconId": 156,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15600330401]",
+        "IconId": 156003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15600330401]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550415600350401,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550415600330401,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550415600340101,
+        "IsIgnore": null,
+        "Memo": "[傲慢の悪魔] 与ダメージが5%増加する（最大10スタックまで）（解除不可）。現在のスタック数：{stack}",
+        "CasterIconId": 156,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15600340101]",
+        "IconId": 156003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15600340101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550415600340101,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550415600300101,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550415600340102,
+        "IsIgnore": null,
+        "Memo": "*自身のHPが50%以上ならスタックをさらに1追加。",
+        "CasterIconId": 156,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15600340102]",
+        "IconId": 156003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15600340102]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
+    },
+    {
+        "Id": 550415600350401,
+        "IsIgnore": null,
+        "Memo": "*バトル開始時、自身の命中率が50%増加する。被ダメージ50%減少。",
+        "CasterIconId": 156,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15600350401]",
+        "IconId": 156003,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15600350401]",
+        "IsHide": true,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": [
+            {
+                "EffectGroupId": 550415600350401,
+                "OrderNumber": 1
+            },
+            {
+                "EffectGroupId": 550415600330401,
+                "OrderNumber": 2
+            }
+        ]
+    },
+    {
+        "Id": 550415600400101,
+        "IsIgnore": null,
+        "Memo": "[贖罪の天使] 防御貫通が5%減少する（最大5スタックまで）。現在のスタック数：{stack}",
+        "CasterIconId": 156,
+        "CasterIconType": 1,
+        "DescriptionKey": "[EffectGroupDescription15600400101]",
+        "IconId": 156004,
+        "IconType": 1,
+        "NameKey": "[EffectGroupName15600400101]",
+        "IsHide": false,
+        "IsTurnHide": true,
+        "EffectGroupInfoList": null
     },
     {
         "Id": 550415700100102,
