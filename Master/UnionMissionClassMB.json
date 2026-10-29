@@ -1,0 +1,38 @@
+[
+    {
+        "Id": 1,
+        "IsIgnore": null,
+        "Memo": null,
+        "ClassType": 1,
+        "ClassNameKey": "[UnionMissionClassBronze]",
+        "ClassDescriptionKey": null,
+        "GuildCountPerBlock": 6,
+        "NpcCountPerBlock": 3,
+        "PromotionRank": 2,
+        "RelegationRank": 0
+    },
+    {
+        "Id": 2,
+        "IsIgnore": null,
+        "Memo": null,
+        "ClassType": 2,
+        "ClassNameKey": "[UnionMissionClassSilver]",
+        "ClassDescriptionKey": "[UnionMissionClassDescriptionSilver]",
+        "GuildCountPerBlock": 6,
+        "NpcCountPerBlock": 3,
+        "PromotionRank": 2,
+        "RelegationRank": 2
+    },
+    {
+        "Id": 3,
+        "IsIgnore": null,
+        "Memo": null,
+        "ClassType": 3,
+        "ClassNameKey": "[UnionMissionClassGold]",
+        "ClassDescriptionKey": "[UnionMissionClassDescriptionGold]",
+        "GuildCountPerBlock": 6,
+        "NpcCountPerBlock": 1,
+        "PromotionRank": 0,
+        "RelegationRank": 2
+    }
+]

@@ -2844,5 +2844,47 @@
         "TutorialDescriptionId": 0,
         "DialogType": 1,
         "DisplayDeviceTypes": null
+    },
+    {
+        "Id": 7800,
+        "IsIgnore": null,
+        "Memo": "団結ミッション_メイン",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine7800]",
+                "MainTextList": [
+                    {
+                        "MainText": "[HelpMainText7800]"
+                    }
+                ],
+                "HelpParameterType": 0
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 43,
+        "DialogType": 1,
+        "DisplayDeviceTypes": null
+    },
+    {
+        "Id": 7810,
+        "IsIgnore": null,
+        "Memo": "団結ミッション_ランキング",
+        "HelpPartInfoList": [
+            {
+                "HeadLine": "[HelpHeadLine7810]",
+                "MainTextList": [
+                    {
+                        "MainText": "[HelpMainText7810]"
+                    }
+                ],
+                "HelpParameterType": 0
+            }
+        ],
+        "HelpTitle": "[HelpTitleKey]",
+        "IsDisplayed": true,
+        "TutorialDescriptionId": 0,
+        "DialogType": 1,
+        "DisplayDeviceTypes": null
     }
 ]

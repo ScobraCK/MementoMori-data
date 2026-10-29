@@ -5508,6 +5508,180 @@
         "ErrorMessageType": 2
     },
     {
+        "Id": 581000,
+        "IsIgnore": null,
+        "Memo": "ギルドストックが足りません",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 581001,
+        "IsIgnore": null,
+        "Memo": "団結ミッションに既にエントリーしています",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 581002,
+        "IsIgnore": null,
+        "Memo": "団結ミッションのエントリー期間外です",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 581003,
+        "IsIgnore": null,
+        "Memo": "プレイヤーがギルドに所属していません",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 581004,
+        "IsIgnore": null,
+        "Memo": "イベントの開催期間が終了しました",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 581005,
+        "IsIgnore": null,
+        "Memo": "存在しないミッションです",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 581006,
+        "IsIgnore": null,
+        "Memo": "既に他のミッションを受注中です",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 581007,
+        "IsIgnore": null,
+        "Memo": "このミッションは受注できません",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 581008,
+        "IsIgnore": null,
+        "Memo": "残り受注回数がありません",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 581009,
+        "IsIgnore": null,
+        "Memo": "他のプレイヤーが受注しているミッションです",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 581010,
+        "IsIgnore": null,
+        "Memo": "権限が不足しています",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 581011,
+        "IsIgnore": null,
+        "Memo": "クールタイム中です",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 581012,
+        "IsIgnore": null,
+        "Memo": "ミッションが達成状態ではありません",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 581013,
+        "IsIgnore": null,
+        "Memo": "チケットで選択できないミッションです",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 581014,
+        "IsIgnore": null,
+        "Memo": "受注回数購入数が不正です",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 581015,
+        "IsIgnore": null,
+        "Memo": "受取可能な累計メダル報酬がありません",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 581016,
+        "IsIgnore": null,
+        "Memo": "累計メダル報酬の達成条件を満たしていません",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 581017,
+        "IsIgnore": null,
+        "Memo": "累計メダル報酬は既に受取済みです",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 581018,
+        "IsIgnore": null,
+        "Memo": "１日に購入できる受注回数の上限を超えました",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 581019,
+        "IsIgnore": null,
+        "Memo": "既に他のプレイヤーがミッション受注済みのため、受注できません",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 581020,
+        "IsIgnore": null,
+        "Memo": "既に他のプレイヤーがミッション更新済みのため、受注できません",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 581021,
+        "IsIgnore": null,
+        "Memo": "既に他のプレイヤーがミッション受注済みのため、更新できません",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 581022,
+        "IsIgnore": null,
+        "Memo": "既に他のプレイヤーがミッション更新済みのため、更新できません",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 581023,
+        "IsIgnore": null,
+        "Memo": "期限切れのミッションです",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 581024,
+        "IsIgnore": null,
+        "Memo": "既にクールタイムが完了しています",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 581025,
+        "IsIgnore": null,
+        "Memo": "集計・マッチング処理時間中は利用できません",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 581026,
+        "IsIgnore": null,
+        "Memo": "所属ギルドがマッチング済みではありません",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 581027,
+        "IsIgnore": null,
+        "Memo": "団結ミッションのマッチング情報が取得できません",
+        "ErrorMessageType": 1
+    },
+    {
+        "Id": 581028,
+        "IsIgnore": null,
+        "Memo": "団結ミッションの対象ワールドではありません",
+        "ErrorMessageType": 1
+    },
+    {
         "Id": 602004,
         "IsIgnore": null,
         "Memo": null,

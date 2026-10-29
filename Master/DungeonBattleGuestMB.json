@@ -985,9 +985,9 @@
         "IsIgnore": null,
         "Memo": "ミフリ",
         "CharacterId": 126,
-        "IsPickup": true,
-        "EndTimeFixJST": "2026-10-15 14:29:59",
-        "StartTimeFixJST": "2026-09-30 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 111,
@@ -1012,9 +1012,9 @@
         "IsIgnore": null,
         "Memo": "宝物ケルベロス",
         "CharacterId": 129,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2026-11-09 14:29:59",
+        "StartTimeFixJST": "2026-10-22 14:30:00"
     },
     {
         "Id": 114,
@@ -1093,9 +1093,9 @@
         "IsIgnore": null,
         "Memo": "リリコット",
         "CharacterId": 99,
-        "IsPickup": true,
-        "EndTimeFixJST": "2026-10-22 14:29:59",
-        "StartTimeFixJST": "2026-10-08 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 123,
@@ -1111,9 +1111,9 @@
         "IsIgnore": null,
         "Memo": "面影フィアー",
         "CharacterId": 134,
-        "IsPickup": false,
-        "EndTimeFixJST": "2100-12-31 23:59:59",
-        "StartTimeFixJST": "2100-12-31 23:59:59"
+        "IsPickup": true,
+        "EndTimeFixJST": "2026-11-16 14:29:59",
+        "StartTimeFixJST": "2026-10-29 14:30:00"
     },
     {
         "Id": 125,
@@ -1210,9 +1210,9 @@
         "IsIgnore": null,
         "Memo": "聖剣アルトリア",
         "CharacterId": 154,
-        "IsPickup": true,
-        "EndTimeFixJST": "2026-10-15 14:29:59",
-        "StartTimeFixJST": "2026-09-30 14:30:00"
+        "IsPickup": false,
+        "EndTimeFixJST": "2100-12-31 23:59:59",
+        "StartTimeFixJST": "2100-12-31 23:59:59"
     },
     {
         "Id": 136,
@@ -1222,5 +1222,14 @@
         "IsPickup": true,
         "EndTimeFixJST": "2026-11-16 14:29:59",
         "StartTimeFixJST": "2026-10-15 14:30:00"
+    },
+    {
+        "Id": 137,
+        "IsIgnore": null,
+        "Memo": "眷属エルフリンデ",
+        "CharacterId": 156,
+        "IsPickup": true,
+        "EndTimeFixJST": "2026-11-30 14:29:59",
+        "StartTimeFixJST": "2026-10-29 14:30:00"
     }
 ]

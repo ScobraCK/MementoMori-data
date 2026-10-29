@@ -19082,6 +19082,129 @@
         "RootActiveSkillId": 155002
     },
     {
+        "Id": 156001,
+        "IsIgnore": null,
+        "Memo": "眷属エルフリンデSR:Lv1 罪に塗れていても、その光は救世のために──。攻撃力が高い敵2体に攻撃力×480%の物理攻撃を行う。/ Lv2 物理攻撃のダメージが攻撃力×680%になる。/ Lv3 さらに物理攻撃の前に自身の『傲慢の悪魔』のスタック数が10の場合、物理攻撃のダメージが攻撃力×1020%になる。/ Ex1 救世の魔光を強化する。救世の魔光の対象が攻撃力が高い敵3体になる。さらに物理攻撃の前に敵の生存数が2体の場合、物理攻撃のダメージが1.5倍になる。物理攻撃の前に敵の生存数が1体の場合、物理攻撃のダメージが3倍になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription1560011]",
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    156001001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription1560012]",
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    156001201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription1560013]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    156001301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription1560014]",
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    156001401
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName156001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 156001
+    },
+    {
+        "Id": 156002,
+        "IsIgnore": null,
+        "Memo": "眷属エルフリンデSR:Lv1 悪魔を宿した神の槍が、万象を刺し貫く。ランダムな敵に3回攻撃力×580%の物理攻撃を行う。最初の物理攻撃の前に自身の『傲慢の悪魔』のスタック数が10の場合、物理攻撃のダメージが攻撃力×870%になる。/ Lv2 さらに最初の物理攻撃の前に自身の『傲慢の悪魔』のスタック数が10の場合、最後の物理攻撃の後に攻撃力が最も高い敵に3回自身の腕力×1500%の直接攻撃を行う。/ Lv3 さらに直接攻撃が必ずクリティカルヒットし、対象の『ダメージ無効』『多重バリア』を無視するようになる。/ Lv4 物理攻撃の回数が5回になる。",
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": "[ActiveSkillDescription1560021]",
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    156002001,
+                    156002002,
+                    156002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": "[ActiveSkillDescription1560022]",
+                "CharacterLevel": 41,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    156002001,
+                    156002002,
+                    156002002,
+                    156002203,
+                    156002203,
+                    156002203
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": "[ActiveSkillDescription1560023]",
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    156002001,
+                    156002002,
+                    156002002,
+                    156002303,
+                    156002303,
+                    156002303
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": "[ActiveSkillDescription1560024]",
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    156002201,
+                    156002202,
+                    156002202,
+                    156002202,
+                    156002202,
+                    156002303,
+                    156002303,
+                    156002303
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName156002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 156002
+    },
+    {
         "Id": 157001,
         "IsIgnore": null,
         "Memo": "ラミスSR:Lv1 光の風が吹き荒れ、ランダムな敵3体に攻撃力×310%の魔法攻撃を行う。その後4ターンの間対象の弱体効果命中率を30%減少させる。/ Lv2 さらに魔法攻撃の前に4ターンの間対象の魔法防御力を20%減少させる。/ Lv3 魔法攻撃のダメージが攻撃力×590%になる。/ Ex1 シャルヌールを強化する。魔法攻撃の対象がランダムな敵5体になる。/ Ex3 シャルヌールを強化する。魔法攻撃のダメージが攻撃力×640%になる。",
@@ -53631,6 +53754,129 @@
         "SkillInitCoolTime": 0,
         "SkillMaxCoolTime": 4,
         "RootActiveSkillId": 155002
+    },
+    {
+        "Id": 5504156001,
+        "IsIgnore": null,
+        "Memo": null,
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 1,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504156001001
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 81,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504156001201
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504156001301
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 161,
+                "EquipmentRarityFlags": 128,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504156001401
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName156001]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 156001
+    },
+    {
+        "Id": 5504156002,
+        "IsIgnore": null,
+        "Memo": null,
+        "ActiveSkillConditions": "True",
+        "ActiveSkillInfos": [
+            {
+                "OrderNumber": 1,
+                "DescriptionKey": null,
+                "CharacterLevel": 21,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504156002001,
+                    5504156002002,
+                    5504156002002
+                ]
+            },
+            {
+                "OrderNumber": 2,
+                "DescriptionKey": null,
+                "CharacterLevel": 41,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504156002001,
+                    5504156002002,
+                    5504156002002,
+                    5504156002203,
+                    5504156002203,
+                    5504156002203
+                ]
+            },
+            {
+                "OrderNumber": 3,
+                "DescriptionKey": null,
+                "CharacterLevel": 101,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504156002001,
+                    5504156002002,
+                    5504156002002,
+                    5504156002303,
+                    5504156002303,
+                    5504156002303
+                ]
+            },
+            {
+                "OrderNumber": 4,
+                "DescriptionKey": null,
+                "CharacterLevel": 181,
+                "EquipmentRarityFlags": 0,
+                "BlessingItemId": 0,
+                "SubSetSkillIds": [
+                    5504156002201,
+                    5504156002202,
+                    5504156002202,
+                    5504156002202,
+                    5504156002202,
+                    5504156002303,
+                    5504156002303,
+                    5504156002303
+                ]
+            }
+        ],
+        "NameKey": "[ActiveSkillName156002]",
+        "SkillInitCoolTime": 0,
+        "SkillMaxCoolTime": 4,
+        "RootActiveSkillId": 156002
     },
     {
         "Id": 5504157001,

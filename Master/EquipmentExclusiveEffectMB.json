@@ -15701,5 +15701,134 @@
             }
         ],
         "CharacterId": 155
+    },
+    {
+        "Id": 739,
+        "IsIgnore": null,
+        "Memo": "眷属エルフリンデSSR180",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1200.0
+            }
+        ],
+        "CharacterId": 156
+    },
+    {
+        "Id": 740,
+        "IsIgnore": null,
+        "Memo": "眷属エルフリンデSSR200",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1300.0
+            },
+            {
+                "BattleParameterType": 12,
+                "ChangeParameterType": 1,
+                "Value": 5000.0
+            }
+        ],
+        "CharacterId": 156
+    },
+    {
+        "Id": 741,
+        "IsIgnore": null,
+        "Memo": "眷属エルフリンデSSR220",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1400.0
+            },
+            {
+                "BattleParameterType": 12,
+                "ChangeParameterType": 1,
+                "Value": 5500.0
+            },
+            {
+                "BattleParameterType": 14,
+                "ChangeParameterType": 1,
+                "Value": 5500.0
+            }
+        ],
+        "CharacterId": 156
+    },
+    {
+        "Id": 742,
+        "IsIgnore": null,
+        "Memo": "眷属エルフリンデSSR240",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1500.0
+            },
+            {
+                "BattleParameterType": 12,
+                "ChangeParameterType": 1,
+                "Value": 6000.0
+            },
+            {
+                "BattleParameterType": 14,
+                "ChangeParameterType": 1,
+                "Value": 6000.0
+            }
+        ],
+        "CharacterId": 156
+    },
+    {
+        "Id": 743,
+        "IsIgnore": null,
+        "Memo": "眷属エルフリンデUR",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1600.0
+            },
+            {
+                "BattleParameterType": 12,
+                "ChangeParameterType": 1,
+                "Value": 6500.0
+            },
+            {
+                "BattleParameterType": 14,
+                "ChangeParameterType": 1,
+                "Value": 6500.0
+            }
+        ],
+        "CharacterId": 156
+    },
+    {
+        "Id": 744,
+        "IsIgnore": null,
+        "Memo": "眷属エルフリンデLR",
+        "BaseParameterChangeInfoList": null,
+        "BattleParameterChangeInfoList": [
+            {
+                "BattleParameterType": 2,
+                "ChangeParameterType": 2,
+                "Value": 1800.0
+            },
+            {
+                "BattleParameterType": 12,
+                "ChangeParameterType": 1,
+                "Value": 7000.0
+            },
+            {
+                "BattleParameterType": 14,
+                "ChangeParameterType": 1,
+                "Value": 7000.0
+            }
+        ],
+        "CharacterId": 156
     }
 ]
