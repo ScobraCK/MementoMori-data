@@ -8014,10 +8014,11 @@
     {
         "Id": 209,
         "IsIgnore": null,
-        "Memo": "眷属エルフリンデ+守護アレクサンドラ+面影フィアー+仮",
+        "Memo": "眷属エルフリンデ+守護アレクサンドラ+リリー+面影フィアー",
         "CharacterIdList": [
             156,
             155,
+            141,
             134,
             5,
             6,
@@ -8047,6 +8048,7 @@
         "NewCharacterIdList": [
             156,
             155,
+            141,
             134
         ],
         "OrderNumber": 209,
@@ -8056,9 +8058,10 @@
     {
         "Id": 210,
         "IsIgnore": null,
-        "Memo": "眷属エルフリンデ+仮",
+        "Memo": "眷属エルフリンデ+リリー+仮",
         "CharacterIdList": [
             156,
+            141,
             5,
             6,
             7,
@@ -8085,7 +8088,8 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            156
+            156,
+            141
         ],
         "OrderNumber": 210,
         "StartTimeFixJST": "2026-11-16 16:30:00",
@@ -9084,6 +9088,32 @@
         "OrderNumber": 10450,
         "StartTimeFixJST": "2026-10-15 16:30:00",
         "EndTimeFixJST": "2026-11-09 14:29:59"
+    },
+    {
+        "Id": 10460,
+        "IsIgnore": null,
+        "Memo": "星の導きガチャ フォルティナ・ヴァルリーデ・ソーニャ・ベル・ルーク・カロル",
+        "CharacterIdList": [
+            42,
+            47,
+            9,
+            19,
+            30,
+            40
+        ],
+        "GachaSelectListType": 3,
+        "IsResetSelectedCharacter": false,
+        "NewCharacterIdList": [
+            42,
+            47,
+            9,
+            19,
+            30,
+            40
+        ],
+        "OrderNumber": 10460,
+        "StartTimeFixJST": "2026-11-09 14:30:00",
+        "EndTimeFixJST": "2026-11-30 14:29:59"
     },
     {
         "Id": 30001,
