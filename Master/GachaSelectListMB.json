@@ -8058,10 +8058,12 @@
     {
         "Id": 210,
         "IsIgnore": null,
-        "Memo": "眷属エルフリンデ+リリー+仮",
+        "Memo": "ラミス+眷属エルフリンデ+リリー+トリクシー",
         "CharacterIdList": [
+            157,
             156,
             141,
+            139,
             5,
             6,
             7,
@@ -8088,19 +8090,23 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
+            157,
             156,
-            141
+            141,
+            139
         ],
         "OrderNumber": 210,
-        "StartTimeFixJST": "2026-11-16 16:30:00",
+        "StartTimeFixJST": "2026-11-16 15:00:00",
         "EndTimeFixJST": "2026-11-24 14:29:59"
     },
     {
         "Id": 211,
         "IsIgnore": null,
-        "Memo": "眷属エルフリンデ+仮",
+        "Memo": "ラミス+眷属エルフリンデ+トリクシー+仮",
         "CharacterIdList": [
+            157,
             156,
+            139,
             5,
             6,
             7,
@@ -8127,7 +8133,9 @@
         "GachaSelectListType": 2,
         "IsResetSelectedCharacter": false,
         "NewCharacterIdList": [
-            156
+            157,
+            156,
+            139
         ],
         "OrderNumber": 211,
         "StartTimeFixJST": "2026-11-24 14:30:00",

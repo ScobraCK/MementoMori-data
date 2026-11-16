@@ -70332,5 +70332,31 @@
         "TransitionDestination": 404,
         "EndTime": "2100-01-01 00:00:00",
         "StartTime": "2020-01-01 00:00:00"
+    },
+    {
+        "Id": 2434,
+        "IsIgnore": null,
+        "Memo": "復帰_3000個クリスタルを獲得する",
+        "AchievementType": 6040100,
+        "DescriptionKey": null,
+        "MissionType": 403,
+        "NameKey": "[MissionName2434]",
+        "OpeningPeriod": 0,
+        "RequireValue": 3000,
+        "RewardList": [
+            {
+                "Item": {
+                    "ItemCount": 300,
+                    "ItemId": 1,
+                    "ItemType": 1
+                },
+                "RarityFlags": 0
+            }
+        ],
+        "SortOrderA": 1,
+        "SortOrderB": 1,
+        "TransitionDestination": 604,
+        "EndTime": "2100-01-01 00:00:00",
+        "StartTime": "2020-01-01 00:00:00"
     }
 ]
